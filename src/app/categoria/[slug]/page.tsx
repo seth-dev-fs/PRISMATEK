@@ -30,9 +30,14 @@ export default async function CategoriaPage({ params }: { params: { slug: string
   const allArticlesData = await getSortedArticlesData();
   const categorySlug = params.slug;
 
-  const categoryArticles = allArticlesData.filter(article => 
-    article.category.toLowerCase().replace(/\s+/g, '-') === categorySlug
-  );
+  const categoryArticles = allArticlesData.filter(article => {
+    // Safely check if article.category exists before trying to call methods on it
+    if (!article.category) {
+      return false;
+    }
+    const articleCategorySlug = article.category.toLowerCase().replace(/ & /g, '-').replace(/\s+/g, '-');
+    return articleCategorySlug === categorySlug;
+  });
 
   const categoryName = categorySlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 

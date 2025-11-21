@@ -3,7 +3,7 @@ import { getSortedArticlesData } from '@/lib/markdown'; // Import the utility fu
 
 export default async function ReviewsPage() {
   const allArticlesData = await getSortedArticlesData();
-  const reviewArticles = allArticlesData.filter(article => article.category === 'Reviews');
+  const reviewArticles = allArticlesData.filter(article => article.category && article.category === 'Reviews');
 
   if (reviewArticles.length === 0) {
     return (

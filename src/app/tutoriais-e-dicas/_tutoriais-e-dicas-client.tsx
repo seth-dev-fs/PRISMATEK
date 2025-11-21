@@ -5,8 +5,8 @@ import ArticleCard from '@/components/ArticleCard'; // Use ArticleCard instead o
 import { ArticleData } from '@/lib/markdown'; // Import ArticleData type
 
 export default function TutoriaisEDicasClientPage({ allArticlesData }: { allArticlesData: ArticleData[] }) {
-  const tutoriais = allArticlesData.filter(article => article.category === 'Tutoriais');
-  const dicas = allArticlesData.filter(article => article.category === 'Dicas');
+  const tutoriais = allArticlesData.filter(article => article.category && article.category === 'Tutoriais');
+  const dicas = allArticlesData.filter(article => article.category && article.category === 'Dicas');
 
   const [activeTab, setActiveTab] = useState<'tutoriais' | 'dicas'>('tutoriais');
 
