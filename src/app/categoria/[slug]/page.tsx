@@ -1,17 +1,20 @@
 import ArticleCard from '@/components/ArticleCard';
-import { getArticlesByCategory, getSortedArticlesData } from '@/lib/markdown';
+import { getSortedArticlesData, getArticlesByCategory } from '@/lib/markdown';
 
 // Generate static pages for all known categories to improve performance
 export async function generateStaticParams() {
-  // Get all posts and extract unique categories
   const allPosts = getSortedArticlesData();
   const allCategories = new Set<string>();
+  
+  // CORRECTED: Use 'post.category' (string) instead of 'post.categories' (array)
   allPosts.forEach(post => {
-    post.categories.forEach(cat => allCategories.add(cat.toLowerCase()));
+    if (post.category) {
+      allCategories.add(post.category.toLowerCase().replace(/ & /g, '-').replace(/\s+/g, '-'));
+    }
   });
 
-  return Array.from(allCategories).map(category => ({
-    slug: category,
+  return Array.from(allCategories).map(slug => ({
+    slug: slug,
   }));
 }
 
@@ -42,14 +45,13 @@ export default async function CategoriaPage({ params }: { params: { slug: string
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {articles.map((article) => (
-            // Ensure ArticleCard can handle the ArticleMeta props
             <ArticleCard 
               key={article.slug} 
               slug={article.slug}
               imageUrl={article.featured_image}
               title={article.title}
-              description={article.meta_description}
-              category={article.categories[0] || ''}
+              description={article.description}
+              category={article.category}
               date={article.date}
             />
           ))}
