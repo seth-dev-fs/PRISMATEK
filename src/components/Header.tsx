@@ -8,12 +8,15 @@ export default function Header() {
 
   const navLinks = [
     { name: 'Home', href: '/' },
-    { name: 'Notícias', href: '/noticias' },
-    { name: 'Tutoriais & Dicas', href: '/tutoriais-e-dicas' },
-    { name: 'Reviews', href: '/reviews' },
-    { name: 'Opinião', href: '/opiniao' },
-    { name: 'Vídeo', href: '/video' },
-    { name: 'Sobre Nós', href: '/sobre-nos' },
+    { name: 'Smartphones', href: '/categoria/smartphones' },
+    { name: 'Wearables', href: '/categoria/wearables' },
+    { name: 'Audio', href: '/categoria/audio' },
+    { name: 'Computadores', href: '/categoria/computadores' },
+    { name: 'Internet & Apps', href: '/categoria/internet-apps' },
+    { name: 'Mobilidade', href: '/categoria/mobilidade' },
+    { name: 'Ciência', href: '/categoria/ciencia' },
+    { name: 'Entretenimento / Gaming', href: '/categoria/entretenimento-gaming' },
+    { name: 'AI / Futuro', href: '/categoria/ai-futuro' },
   ];
 
   return (
