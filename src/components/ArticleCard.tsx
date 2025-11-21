@@ -2,24 +2,22 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ArticleMeta } from '@/lib/markdown';
 
-// FINAL CORRECTED VERSION: Accepts a single 'article' prop
 export default function ArticleCard({ article }: { article: ArticleMeta }) {
   if (!article) return null;
 
   return (
     <Link href={`/noticias/${article.slug}`} className="block bg-card rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden group">
-      <div className="relative w-full h-48">
-        {article.featured_image ? (
+      <div className="relative w-full h-48 bg-gray-200">
+        {/* CORRECTED: Use 'image' instead of 'featured_image' */}
+        {article.image && (
           <Image
-            src={article.featured_image}
+            src={article.image}
             alt={article.title}
             fill
             style={{ objectFit: 'cover' }}
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             className="transition-transform duration-300 group-hover:scale-105"
           />
-        ) : (
-          <div className="w-full h-full bg-gray-300"></div>
         )}
       </div>
       <div className="p-4">
