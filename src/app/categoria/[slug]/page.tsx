@@ -31,8 +31,8 @@ export default async function CategoriaPage({ params }: { params: { slug: string
   const categorySlug = params.slug;
 
   const categoryArticles = allArticlesData.filter(article => {
-    // Safely check if article.category exists before trying to call methods on it
-    if (!article.category) {
+    // This safety check is critical.
+    if (!article || !article.category) {
       return false;
     }
     const articleCategorySlug = article.category.toLowerCase().replace(/ & /g, '-').replace(/\s+/g, '-');
