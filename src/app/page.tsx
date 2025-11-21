@@ -23,9 +23,10 @@ export default async function Home() {
     <div className="container mx-auto px-4 py-8">
       {/* Hero Section */}
       <section className="relative w-full h-[500px] md:h-[600px] rounded-lg overflow-hidden mb-12 shadow-lg">
-        {heroArticle.featured_image && (
+        {/* CORRECTED: Use 'image' instead of 'featured_image' */}
+        {heroArticle.image && (
             <Image
-                src={heroArticle.featured_image}
+                src={heroArticle.image}
                 alt={heroArticle.title}
                 fill
                 style={{ objectFit: 'cover' }}
@@ -53,7 +54,6 @@ export default async function Home() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-foreground mb-6">Últimas Notícias</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* FINAL CORRECTED VERSION: Pass the whole 'article' object as a single prop */}
             {recentArticles.map((article) => (
               <ArticleCard key={article.slug} article={article} />
             ))}
