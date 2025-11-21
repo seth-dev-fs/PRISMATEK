@@ -4,15 +4,15 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 
-const postsDirectory = path.join(process.cwd(), 'content', 'posts');
+const postsDirectory = path.join(process.cwd(), 'content/posts');
 
 export interface ArticleMeta {
   slug: string;
   title: string;
   date: string;
   category: string;
-  featured_image: string;
   description: string;
+  image: string | null;
   contentHtml: string;
 }
 
@@ -46,9 +46,9 @@ function fetchAllPosts(): ArticleMeta[] {
         contentHtml,
         title: data.title || 'No Title',
         date: data.date || new Date().toISOString(),
-        category: data.category || 'Uncategorized',
-        featured_image: data.featured_image || '/placeholder.jpg',
+        category: data.category || 'home',
         description: data.description || '',
+        image: data.image || null,
       };
     });
 
@@ -67,9 +67,8 @@ export function getArticleBySlug(slug: string): ArticleMeta | null {
 }
 
 export function getArticlesByCategory(categorySlug: string): ArticleMeta[] {
-  return fetchAllPosts().filter(post => {
-    if (!post.category) return false;
-    const postCategorySlug = post.category.toLowerCase().replace(/ & /g, '-').replace(/\s+/g, '-');
-    return postCategorySlug === categorySlug;
-  });
+  if (categorySlug === 'home') {
+    return [];
+  }
+  return fetchAllPosts().filter(post => post.category.toLowerCase() === categorySlug.toLowerCase());
 }
