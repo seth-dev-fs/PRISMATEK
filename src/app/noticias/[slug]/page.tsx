@@ -46,9 +46,10 @@ export default async function ArticlePage({ params }: { params: { slug: string }
           )}
         </div>
 
-        {article.featured_image && (
+        {/* CORRECTED: Use 'image' instead of 'featured_image' */}
+        {article.image && (
           <Image
-            src={article.featured_image}
+            src={article.image}
             alt={article.title}
             width={900}
             height={500}
