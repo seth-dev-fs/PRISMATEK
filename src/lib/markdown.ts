@@ -1,95 +1,114 @@
-import fs from "fs";
-import path from "path";
-import matter from "front-matter";
-import { remark } from "remark";
-import html from "remark-html";
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
 
-export interface ArticleData {
+const postsDirectory = path.join(process.cwd(), 'content', 'posts');
+
+// Define the structure of the article metadata
+export interface ArticleMeta {
   slug: string;
   title: string;
-  description?: string;
-  categories?: string[];
-  tags?: string[];
   date: string;
-  featured_image?: string;
-  pontos_chave?: string[];
-  meta_description?: string;
-  source_url?: string;
+  categories: string[];
+  tags: string[];
+  featured_image: string;
+  meta_description: string;
+  pontos_chave: string[];
+  source_url: string;
   contentHtml: string;
 }
 
-const postsDirectory = path.join(process.cwd(), "content", "posts");
-
-/**
- * Get all .md filenames
- */
-export function getPostSlugs(): string[] {
-  return fs
-    .readdirSync(postsDirectory)
-    .filter((file) => file.endsWith(".md"));
+// Helper function to safely process raw frontmatter data
+function processFrontmatter(slug: string, data: { [key: string]: any }): Omit<ArticleMeta, 'contentHtml'> {
+  return {
+    slug: slug,
+    title: data.title || 'Sem Título',
+    date: data.date || new Date().toISOString(),
+    categories: data.categories || [],
+    tags: data.tags || [],
+    featured_image: data.featured_image || '/placeholder.jpg', // Provide a default placeholder
+    meta_description: data.meta_description || '',
+    pontos_chave: data.pontos_chave || [],
+    source_url: data.source_url || '',
+  };
 }
 
-/**
- * Load a single post by slug
- */
-export async function getPostBySlug(slug: string): Promise<ArticleData | null> {
-  const realSlug = slug.replace(/\.md$/, "");
-  const fullPath = path.join(postsDirectory, `${realSlug}.md`);
+// Internal function to get all posts, reducing redundant file reads
+let allPostsCache: ArticleMeta[] | null = null;
 
-  if (!fs.existsSync(fullPath)) {
-    console.error("File not found:", fullPath);
-    return null;
+function fetchAllPosts(): ArticleMeta[] {
+  if (allPostsCache) {
+    return allPostsCache;
   }
 
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-
-  try {
-    const { attributes, body } = matter(fileContents);
-
-    const processed = await remark().use(html).process(body);
-    const contentHtml = processed.toString();
-
-    return {
-      slug: realSlug,
-      contentHtml,
-      ...(attributes as any),
-    };
-  } catch (e) {
-    console.error("Error processing markdown:", e);
-    return null;
+  if (!fs.existsSync(postsDirectory)) {
+    return [];
   }
+
+  const fileNames = fs.readdirSync(postsDirectory);
+
+  const allPostsData = fileNames
+    .filter(fileName => fileName.endsWith('.md'))
+    .map(fileName => {
+      const slug = fileName.replace(/\.md$/, '');
+      const fullPath = path.join(postsDirectory, fileName);
+      const fileContents = fs.readFileSync(fullPath, 'utf8');
+
+      const { data, content } = matter(fileContents);
+      const processedFrontmatter = processFrontmatter(slug, data);
+
+      const processedContent = remark().use(html).process(content);
+      const contentHtml = processedContent.toString();
+
+      return {
+        ...processedFrontmatter,
+        contentHtml,
+      };
+    });
+
+  const sortedPosts = allPostsData.sort((a, b) => {
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
+  
+  allPostsCache = sortedPosts;
+  return sortedPosts;
+}
+
+
+// --- EXPORTED FUNCTIONS ---
+
+/**
+ * Returns metadata for all articles, sorted by date descending.
+ */
+export function getSortedArticlesData(): ArticleMeta[] {
+  return fetchAllPosts();
 }
 
 /**
- * Load ALL posts, sorted by date DESC
+ * Finds and returns the metadata for a single article by its slug.
+ * Returns null if not found.
  */
-export async function getAllPosts(): Promise<ArticleData[]> {
-  const slugs = getPostSlugs();
-
-  const posts = await Promise.all(
-    slugs.map(async (slug) => await getPostBySlug(slug))
-  );
-
-  const valid = posts.filter((p): p is ArticleData => p !== null);
-
-  return valid.sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
+export function getArticleBySlug(slug: string): ArticleMeta | null {
+  const allPosts = fetchAllPosts();
+  const article = allPosts.find(p => p.slug === slug);
+  return article || null;
 }
 
 /**
- * Load posts filtered by category slug
+ * Returns all articles that belong to a specific category.
  */
-export async function getPostsByCategory(
-  categorySlug: string
-): Promise<ArticleData[]> {
-  const posts = await getAllPosts();
-
-  return posts.filter((post) => {
-    if (!post.categories || !Array.isArray(post.categories)) return false;
-
-    return post.categories
-      .map((c) => c.toLowerCase().replace(/\s+/g, "-"))
-      .includes(categorySlug);
+export function getArticlesByCategory(category: string): ArticleMeta[] {
+  const allPosts = fetchAllPosts();
+  const categorySlug = category.toLowerCase();
+  
+  return allPosts.filter(post => {
+    // Safely check categories array
+    if (!post.categories || !Array.isArray(post.categories)) {
+      return false;
+    }
+    // Check if any of the post's categories match the requested category slug
+    return post.categories.some(cat => cat.toLowerCase() === categorySlug);
   });
 }
