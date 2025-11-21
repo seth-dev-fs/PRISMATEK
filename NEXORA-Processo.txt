@@ -1,97 +1,54 @@
-Resumo do Processo de Desenvolvimento - NEXORA News
+## Project Changes Log
 
-Este documento resume as principais etapas, desafios e iterações no processo de criação do website NEXORA News e do seu tema WordPress correspondente.
+This document outlines the modifications and new features implemented in the NEXORA News project.
 
-================================
-Parte 1: Website em Next.js
-================================
+### 1. Implement Dynamic Content
+- **`scripts/generate-articles.js`:**
+    - Added `fs`, `path`, and `axios` imports.
+    - Configured `GEMINI_API_KEY` to use an environment variable.
+    - Implemented `logError` for consistent error logging.
+    - Added `slugify` function for creating URL-friendly slugs.
+    - Created `saveArticleMarkdown` function to write article content with front matter to `.md` files in `content/posts`.
+    - Developed `generateArticle` function to prompt the Gemini API, parse responses, and save generated articles.
+- **`scripts/helpers/markdown.ts` (New File):**
+    - Created a utility to read `.md` files from `content/posts`.
+    - Parses front matter and converts markdown content to HTML using `remark` and `remark-html`.
+    - Provides `getSortedArticlesData` (to retrieve all articles) and `getArticleData` (to retrieve a single article by slug).
+    - Installed `remark` and `remark-html` packages.
+- **`src/app/page.tsx`:**
+    - Modified to fetch and display articles dynamically using `getSortedArticlesData`, replacing hardcoded data.
+    - Implemented a check for when no articles are found.
+- **`src/app/noticias/[slug]/page.tsx`:**
+    - Modified to fetch and display individual article content dynamically using `getArticleData`.
+    - `generateStaticParams` now uses `getSortedArticlesData` to generate slugs.
 
-Fase 1: Setup Inicial e Estrutura Base
-- Proposta inicial de usar Next.js e Tailwind CSS para criar um site moderno e performante.
-- Devido a dificuldades com a ferramenta automática `create-next-app`, optou-se por uma configuração manual, passo a passo, do projeto.
+### 2. Improve Article Rendering
+- **`@tailwindcss/typography`:**
+    - Installed the `@tailwindcss/typography` plugin.
+    - Configured the plugin in `tailwind.config.ts`.
+    - Removed `prose-invert` from `src/app/noticias/[slug]/page.tsx` to ensure correct styling with a white background.
 
-Fase 2: Debugging e Resolução de Erros de Compilação
-- O processo manual levou a uma série de erros de compilação que foram resolvidos iterativamente, incluindo conflitos de versão do Tailwind, problemas com módulos ESM/CommonJS, e erros de configuração de imagem.
+### 3. Newsletter Functionality
+- **`src/app/api/newsletter/route.ts` (New File):**
+    - Created a new API route to handle POST requests for newsletter subscriptions.
+    - Logs the submitted email to the console (placeholder for actual email marketing service integration).
+- **`src/components/NewsletterSignup.tsx`:**
+    - Modified to send email data to the new `/api/newsletter` endpoint instead of simulating an API call.
 
-Fase 3: Implementação do Design Inicial e Conteúdo
-- Criação de todas as secções pedidas (Home, Notícias, etc.) e componentes reutilizáveis (`Header`, `Footer`, `ArticleCard`).
+### 4. Complete Other Sections
+- **`src/app/noticias/page.tsx`:**
+    - Modified to be a server component, fetching and displaying all articles dynamically. Removed hardcoded data and client-side category filtering logic.
+- **`src/app/opiniao/page.tsx`:**
+    - Modified to be a server component, fetching all articles and filtering them by `category === 'Opinião'`. Displays filtered articles dynamically.
+- **`src/app/reviews/page.tsx`:**
+    - Modified to be a server component, fetching all articles and filtering them by `category === 'Reviews'`. Displays filtered articles dynamically.
+- **`src/app/tutoriais-e-dicas/`:**
+    - Refactored into a server component (`page.tsx`) and a client component (`_tutoriais-e-dicas-client.tsx`).
+    - The server component fetches all articles and passes them as props to the client component.
+    - The client component filters articles into "Tutoriais" and "Dicas" categories and displays them using tab functionality.
+- **`src/app/sobre-nos/page.tsx`:**
+    - Reviewed and confirmed existing content is appropriate for an "About Us" page. No changes were required.
+- **`src/app/video/page.tsx`:**
+    - Reviewed and confirmed existing hardcoded video content and display structure are appropriate for a video section. No changes were required for dynamic content at this stage.
 
-Fase 4: Iterações de Design Baseadas no Feedback do Utilizador
-
-1. Refinamento do Estilo: Transição de um tema escuro e vibrante para um tema monocromático mais sóbrio, com um único destaque em azul.
-2. Ajustes de Branding: Consolidação da fonte `Inter` para todo o site e da marca `NEXORA` sempre em maiúsculas.
-3. Mudança para Tema Claro: Inversão da paleta de cores para um tema claro (fundo branco, texto escuro) para uma estética mais "Apple".
-4. Funcionalidade e Acessibilidade: Implementação de um menu "hamburger" funcional para mobile e melhoria do contraste do texto para cumprir normas WCAG.
-5. Unificação da Estrutura: Fusão das secções "Tutoriais" e "Dicas" numa única página com abas para simplificar a navegação.
-6. Consistência Visual: Aplicação do efeito de "zoom" nas imagens em todas as secções do site para uma experiência uniforme.
-
-Estado Final (Next.js):
-- Um protótipo de website completamente funcional em Next.js, com um design minimalista de tema claro, responsivo e alinhado com a identidade da marca NEXORA.
-
-======================================
-Parte 2: Tema WordPress "NEXORA"
-======================================
-
-Fase 5: Desenvolvimento do Tema WordPress
-- Objetivo: Criar um tema WordPress instalável (.zip) que replicasse visual e funcionalmente o site Next.js, para servir como backend de gestão de conteúdo e, potencialmente, como frontend.
-
-1. Estrutura e Build Process:
-   - Criada uma pasta dedicada para o tema (`nexora-wp-theme`) com o seu próprio `package.json`.
-   - Configurado um ambiente de desenvolvimento com Tailwind CSS, incluindo scripts `build` e `watch` para compilar o CSS a partir de um ficheiro `src/input.css` para `dist/output.css`.
-
-2. Ficheiros Base do Tema:
-   - Criados os ficheiros essenciais: `style.css` (com o cabeçalho de informações do tema), `index.php`, `archive.php` (para categorias), e `single.php` (para artigos individuais).
-   - O ficheiro `functions.php` foi criado para gerir as funcionalidades centrais do tema:
-     - Enfileirar o CSS compilado e a fonte "Inter" do Google Fonts.
-     - Adicionar suporte a funcionalidades do WordPress como `post-thumbnails`, `title-tag`, e menus de navegação (`header-menu`).
-     - Adicionar o estilo do tema ao editor Gutenberg para uma experiência de edição consistente (WYSIWYG).
-
-3. Templates e Componentes PHP:
-   - Criados os ficheiros `header.php` e `footer.php`, replicando a estrutura e o estilo do site Next.js e usando as funções `wp_head()`, `wp_footer()` e `wp_nav_menu()`.
-   - Desenvolvidos "template parts" modulares, como `template-parts/content-card.php` e `template-parts/content-newsletter.php`, para reutilização de código.
-
-4. Homepage Personalizada e Interatividade:
-   - Criado o ficheiro `front-page.php` com `WP_Query`s personalizadas para construir as diferentes secções da homepage (Hero, Últimas Notícias, etc.), replicando o layout modular.
-   - Adicionado um ficheiro `assets/js/main.js` com JavaScript para a funcionalidade do menu hamburger em mobile.
-
-5. Estilização e Documentação:
-   - Adicionados estilos base para os blocos do Gutenberg no ficheiro `src/input.css` para garantir que o conteúdo no backend reflete o design do frontend.
-   - Criados os ficheiros `Instrucoes.txt` e `Documentacao.txt` com explicações detalhadas sobre a instalação, configuração e gestão de conteúdo do tema.
-
-Estado Final (WordPress):
-- Uma estrutura de tema WordPress completa, profissional e bem organizada, com um processo de build de CSS funcional e todos os templates PHP necessários para refletir fielmente o design do site NEXORA News. O tema está pronto para ser compactado e instalado numa plataforma WordPress.
-=========================================================
-Parte 3: Sistema de Geração Automática de Conteúdo (NEXORA Automation)
-=========================================================
-
-Fase 6: Arquitetura e Implementação do Sistema de Automação
-- Objetivo: Construir um sistema totalmente automatizado para gerar notícias, desde a leitura de feeds RSS até à criação de Pull Requests no GitHub, minimizando a intervenção manual.
-
-1. Estrutura de Ficheiros e Módulos:
-   - Criada a arquitetura de pastas `/scripts`, `/content/posts`, e `/content/logs`.
-   - Implementado um script principal `scripts/generate-articles.js` para orquestrar todo o processo.
-   - Adicionado um helper `scripts/helpers/slugify.js` para criar slugs de URL a partir dos títulos dos artigos.
-
-2. Módulo de Leitura de RSS (RSS Reader):
-   - O script utiliza a biblioteca `rss-parser` para fazer a leitura de uma lista predefinida de feeds RSS de notícias de tecnologia.
-   - Implementado um mecanismo para extrair o título, link e resumo de cada artigo, e para remover duplicados, garantindo que apenas artigos novos são processados.
-
-3. Motor de Reescrita com Gemini API (Rewriting Engine):
-   - Integrado o SDK `@google/generative-ai` para conectar com a API do Gemini.
-   - Desenvolvido um "prompt" de alta qualidade, focado em reescrever os artigos em Português de Portugal (pt-PT), com regras estritas de originalidade, tom, e dimensão (400-600 palavras).
-   - O prompt instrui a IA a devolver um objeto JSON estruturado contendo: título, descrição para SEO, corpo do artigo, 3 "key takeaways", e uma sugestão para a imagem de capa.
-   - Implementado um sistema de fallback para lidar com falhas na chamada à API, garantindo que o script não falha se um artigo não puder ser reescrito.
-
-4. Gerador de Markdown (Markdown Generator):
-   - O conteúdo reescrito é formatado num ficheiro `.md` com frontmatter YAML.
-   - O frontmatter inclui metadados essenciais como `title`, `date`, `description`, `image_suggestion`, e um toggle `needs_review: true` para sinalizar a necessidade de revisão manual.
-   - Cada operação bem-sucedida é registada no ficheiro `content/logs/successful_runs.log`.
-
-5. Automação com GitHub Actions:
-   - Criado um workflow em `.github/workflows/generate-articles.yml`.
-   - O workflow corre num horário pré-definido (CRON a cada 6 horas) ou pode ser acionado manualmente.
-   - O processo automático inclui: instalar dependências, executar o script de geração de artigos (usando um `GEMINI_API_KEY` guardado nos GitHub Secrets), e criar um Pull Request para a branch `main`.
-   - O Pull Request contém todos os artigos novos e um checklist no corpo da descrição para guiar o processo de revisão manual.
-
-Estado Final (Automação):
-- Um pipeline de CI/CD completo e autónomo que transforma feeds RSS em artigos de notícias prontos para publicação. O processo manual foi reduzido a uma etapa de revisão e aprovação (merge do Pull Request), aumentando drasticamente a eficiência da produção de conteúdo para o NEXORA News.
+All planned enhancements have been implemented, making the website more dynamic and functional.

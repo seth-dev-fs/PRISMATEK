@@ -14,14 +14,24 @@ export default function NewsletterSignup() {
 
     // Simulate API call
     try {
-      await new Promise(resolve => setTimeout(resolve, 1500)); // Simulate network delay
-      if (email.includes('@') && email.includes('.')) {
-        setMessage('Obrigado por subscrever a nossa newsletter!');
+      const response = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email }),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        setMessage(data.message || 'Obrigado por subscrever a nossa newsletter!');
         setEmail('');
       } else {
-        setMessage('Por favor, insira um endereço de email válido.');
+        setMessage(data.message || 'Ocorreu um erro ao subscrever. Por favor, tente novamente.');
       }
     } catch (error) {
+      console.error('Newsletter signup fetch error:', error);
       setMessage('Ocorreu um erro ao subscrever. Por favor, tente novamente.');
     } finally {
       setIsSubmitting(false);
