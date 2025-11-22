@@ -4,7 +4,8 @@ import { getArticleBySlug, getArticlesSortedByDate } from '@/lib/markdown';
 import { notFound } from 'next/navigation';
 
 export async function generateStaticParams() {
-  const articles = getSortedArticlesData();
+  // Use getArticlesSortedByDate which returns published articles
+  const articles = getArticlesSortedByDate(); 
   return articles.map((article) => ({
     slug: article.slug,
   }));
