@@ -5,7 +5,7 @@ category: "ciencia"
 description: "Cientistas criaram a eVON, um modelo 3D vascularizado da medula óssea humana que 'respira', revolucionando o estudo de doenças como a leucemia e abrindo caminho para novas curas."
 image: "https://i.blogs.es/5c3de5/sangre-leucemia/840_560.jpeg"
 source_url: "https://www.xataka.com/medicina-y-salud/han-creado-fabrica-sangre-artificial-que-respira-fundamental-para-darnos-clave-leucemia"
-draft: true
+draft: false
 ---
 
 A medula óssea, um dos tecidos mais intrincados e vitais do corpo humano, é a verdadeira "fábrica de sangue" do nosso organismo. É ali que nascem as células estaminais responsáveis por manter a vida, produzir as nossas defesas e os glóbulos vermelhos essenciais. No entanto, o seu estudo sempre foi um pesadelo para a comunidade científica, dada a sua localização encapsulada dentro dos ossos, como o fémur.

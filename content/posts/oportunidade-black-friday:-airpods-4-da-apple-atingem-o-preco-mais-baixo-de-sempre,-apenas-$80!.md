@@ -5,7 +5,7 @@ category: "audio"
 description: "Descubra a promoção imperdível da Black Friday na Amazon, onde os AirPods 4 da Apple sem Cancelamento Ativo de Ruído estão disponíveis por apenas $80, o seu preço mais baixo de sempre, com 34% de desconto."
 image: "https://s.yimg.com/ny/api/res/1.2/bNlzauMHOxjEv7kCsNrSZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/fee6d0f0-c2ee-11f0-afff-428a668f9721"
 source_url: "https://www.engadget.com/deals/black-friday-apple-deals-include-the-airpods-4-on-sale-for-their-lowest-price-ever-162917254.html?src=rss"
-draft: true
+draft: false
 ---
 
 A temporada de promoções da Black Friday está a todo o vapor, e a NEXORA News traz-lhe uma das ofertas mais quentes do momento para os fãs da Apple. Os muito procurados AirPods 4 da gigante de Cupertino acabam de atingir o seu preço mais baixo de sempre na Amazon, tornando-se uma oportunidade imperdível para quem procura qualidade de áudio premium a um custo surpreendentemente acessível. Se esteve à espera da altura certa para adquirir uns novos auriculares sem fios, a sua espera pode ter chegado ao fim.

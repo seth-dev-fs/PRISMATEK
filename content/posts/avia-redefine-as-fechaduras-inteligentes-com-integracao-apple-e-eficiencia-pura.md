@@ -5,7 +5,7 @@ category: "home"
 description: "A Avia apresenta a sua nova linha de fechaduras inteligentes, prometendo resolver as frustrações comuns do mercado com um foco exclusivo na compatibilidade e integração Apple, eficiência de bateria e facilidade de uso."
 image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Screenshot-2025-09-10-at-3.12.48-PM-e1757531617762.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
 source_url: "https://9to5mac.com/2025/11/22/smarter-security-made-easy-hands-on-with-avias-new-smart-lock-lineup-sponsored/"
-draft: true
+draft: false
 ---
 
 # Avia Redefine as Fechaduras Inteligentes com Integração Apple e Eficiência Pura

@@ -5,7 +5,7 @@ category: "audio"
 description: "A Black Friday é a altura perfeita para atualizar o seu sistema de som doméstico. Descubra as ofertas Sonos, incluindo a Era 300 com áudio espacial e descontos em colunas, auscultadores e soluções de cinema em casa."
 image: "https://s.yimg.com/ny/api/res/1.2/LY87GDZrEHkTaQTlF85CPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/45218990-c7b1-11f0-b7f9-7c7bb95f082f"
 source_url: "https://www.engadget.com/deals/sonos-black-friday-deals-get-up-to-23-percent-off-speakers-right-now-120048092.html?src=rss"
-draft: true
+draft: false
 ---
 
 A Black Friday chegou, e com ela, uma oportunidade dourada para elevar a experiência sonora da sua casa. Se sonhava em modernizar o seu sistema de áudio, a NEXORA News traz-lhe excelentes notícias: a Sonos, conhecida pela sua qualidade sonora premium e design inovador, está a oferecer descontos imperdíveis nos seus produtos mais cobiçados, com poupanças que chegam aos **30%**.

@@ -5,7 +5,7 @@ category: "smartphones"
 description: "Descubra porque o Google Pixel 9a é um smartphone de grande valor. Hoje, esta já acessível opção torna-se ainda mais tentadora com um desconto de $100, provando ser uma surpresa no mercado e um investimento inteligente."
 image: "https://www.androidauthority.com/wp-content/uploads/2025/07/google-pixel-9a-home-screen-hero-feature-scaled.jpg"
 source_url: "https://www.androidauthority.com/google-pixel-9a-deal-8-3618288/"
-draft: true
+draft: false
 ---
 
 No mundo em constante evolução dos smartphones, onde os preços frequentemente atingem patamares estratosféricos, encontrar um dispositivo que combine qualidade, desempenho e, acima de tudo, um preço acessível, é um verdadeiro desafio. No entanto, a Google tem vindo a demonstrar, com a sua série Pixel 'a', que é possível democratizar a tecnologia de ponta. E a notícia de hoje é ainda mais entusiasmante: o Google Pixel 9a, um equipamento que já se destaca pela sua excelente relação qualidade-preço, está agora disponível com um desconto imperdível de $100.

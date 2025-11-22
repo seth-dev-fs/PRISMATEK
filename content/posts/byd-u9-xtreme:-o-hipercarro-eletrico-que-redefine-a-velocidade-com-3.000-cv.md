@@ -5,7 +5,7 @@ category: "mobilidade"
 description: "A BYD revelou o U9 Xtreme, o hipercarro elétrico de produção mais rápido do mundo, com 3.000 cavalos de potência e bateria Blade de 30C. Com uma produção limitada a 30 unidades, este modelo coloca a China no topo do ranking dos veículos elétricos mais velozes."
 image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/byd-ynagwang-u9-extreme.jpg"
 source_url: "https://www.notebookcheck.net/BYD-unveils-the-fastest-production-car-with-30C-Blade-Battery-and-tires-rated-for-310-MPH-top-speed.1168822.0.html"
-draft: true
+draft: false
 ---
 
 A indústria automóvel elétrica continua a acelerar a um ritmo vertiginoso, e o mais recente capítulo desta revolução vem da China, com a BYD a assumir o centro do palco. A gigante chinesa revelou oficialmente o seu hipercarro U9 Xtreme, um feito de engenharia que não só reivindica o título de carro de produção mais rápido do mundo no segmento elétrico, como também consolida a posição da China como líder incontestável na corrida pela velocidade a bateria.

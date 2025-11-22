@@ -5,7 +5,7 @@ category: "ciencia"
 description: "A sociedade anseia por viver mais, mas qual é o limite real? A ciência desvenda a diferença entre esperança de vida e longevidade máxima, apontando para um teto biológico e a importância da 'healthspan', inspirada pelas 'Zonas Azuis'."
 image: "https://i.blogs.es/59d7ef/ravi-patel-vmgabeejtko-unsplash/840_560.jpeg"
 source_url: "https://www.xataka.com/medicina-y-salud/ciencia-ha-puesto-techo-a-nuestra-vida-ninguna-promesa-inmortalidad-parece-romperlo"
-draft: true
+draft: false
 ---
 
 A busca incessante por uma vida mais longa e uma aparência jovem tem-se tornado uma obsessão crescente na sociedade moderna. Projetos ambiciosos que visam, na prática, a imortalidade, proliferam, levando-nos a questionar: terá o corpo humano um limite intransponível? É precisamente esta a questão que a ciência se esforça por desvendar.

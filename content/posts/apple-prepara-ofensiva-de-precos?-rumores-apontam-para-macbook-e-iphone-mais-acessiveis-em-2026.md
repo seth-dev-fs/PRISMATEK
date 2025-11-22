@@ -5,7 +5,7 @@ category: "computadores"
 description: "Rumores recentes sugerem que a Apple poderá lançar um MacBook e um iPhone mais acessíveis no início de 2026. Esta estratégia poderá marcar uma mudança significativa na abordagem da gigante tecnológica para com o mercado, visando uma base de consumidores mais ampla."
 image: "https://cdn.mos.cms.futurecdn.net/EPFHRJjptaSipFrPsSqLcg-1280-80.jpg"
 source_url: "https://www.techradar.com/computing/macbooks/apple-rumored-to-be-releasing-its-affordable-macbook-and-another-cut-price-iphone-early-in-2026"
-draft: true
+draft: false
 ---
 
 Marquem nos vossos calendários: o início de 2026 poderá trazer uma onda de novidades da Apple, mas não as que a maioria esperaria no segmento de topo. Fontes próximas da indústria e analistas de mercado, cujos relatórios começam a circular com insistência, sugerem que a gigante de Cupertino estará a preparar um lançamento estratégico focado na acessibilidade, com a introdução de um MacBook e um iPhone com preços mais competitivos. Esta potencial mudança de paradigma poderá abrir as portas do ecossistema Apple a um público mais vasto, agitando consideravelmente o mercado de tecnologia.

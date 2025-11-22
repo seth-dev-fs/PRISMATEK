@@ -5,7 +5,7 @@ category: "home"
 description: "Cansado de ver as suas roupas favoritas cheias de borbotos? Descubra o Philips Fabric Shaver, um gadget surpreendente que os elimina facilmente, agora com um desconto imperdível na Black Friday por apenas $13."
 image: "https://s.yimg.com/ny/api/res/1.2/6uZLCH226YSRkFcupxIVLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTY-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/2ca35080-c16a-11f0-b86b-6494782aac16"
 source_url: "https://www.engadget.com/deals/you-need-a-fabric-shaver-and-my-favorite-is-on-sale-for-only-13-for-black-friday-163402191.html?src=rss"
-draft: true
+draft: false
 ---
 
 # Tecnologia Essencial para o Lar: O Removedor de Borbotos Philips Que Eu Adoro Está a Apenas $13 na Black Friday

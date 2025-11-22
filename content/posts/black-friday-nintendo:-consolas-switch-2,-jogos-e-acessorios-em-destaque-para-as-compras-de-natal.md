@@ -5,7 +5,7 @@ category: "gaming"
 description: "A Black Friday da Nintendo chegou, mas as grandes poupanças na Switch 2 podem ser escassas. Descubra as melhores formas de maximizar o valor nos bundles de consola e os descontos em jogos e acessórios para o Natal, com a NEXORA News a ajudá-lo a navegar pelas ofertas."
 image: "https://s.yimg.com/ny/api/res/1.2/K91j60nLAxyZXY6JTn3vpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/d3e91dc0-b4d1-11f0-b843-51526c74b496"
 source_url: "https://www.engadget.com/deals/nintendo-black-friday-deals-switch-2-bundles-plus-switch-games-and-accessories-on-sale-for-holiday-shopping-right-now-155223152.html?src=rss"
-draft: true
+draft: false
 ---
 
 # Black Friday Nintendo: Consolas Switch 2, Jogos e Acessórios em Destaque para as Compras de Natal

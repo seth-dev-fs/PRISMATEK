@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "No cenário dinâmico da TI empresarial, a estratégia da Apple foca-se na integração e resolução de problemas, destacando que o futuro reside na cooperação entre empresas, mesmo rivais, para o benefício do cliente."
 image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/Apple-at-Work-Liquid-Glass-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
 source_url: "https://9to5mac.com/2025/11/22/even-in-enterprise-competition-the-smartest-companies-know-when-to-partner/"
-draft: true
+draft: false
 ---
 
 No mundo cada vez mais complexo da tecnologia empresarial, a antiga máxima da competição feroz está a dar lugar a uma nova filosofia: a colaboração. As empresas mais inteligentes estão a perceber que, para servir melhor os seus clientes e otimizar os seus ecossistemas de TI, é crucial saber quando competir e, mais importante ainda, quando estabelecer parcerias. Esta é uma lição que a Apple tem vindo a demonstrar consistentemente e que se reflete nas mais recentes tendências do setor.

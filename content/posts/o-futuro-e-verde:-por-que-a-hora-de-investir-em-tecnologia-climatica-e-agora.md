@@ -5,7 +5,7 @@ category: "ciencia"
 description: "A perceção global sobre as alterações climáticas transformou-se radicalmente na última década, pavimentando o caminho para mudanças significativas. Descubra porque esta viragem de paradigma torna o investimento em tecnologia climática uma oportunidade estratégica e urgente."
 image: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1328659820.jpg?resize=1200,675"
 source_url: "https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/"
-draft: true
+draft: false
 ---
 
 A última década testemunhou uma metamorfose profunda e irreversível na forma como o mundo encara as alterações climáticas. De um tópico frequentemente relegado a nichos científicos ou ativistas, a questão climática ascendeu ao palco central das preocupações globais, dominando agendas políticas, decisões empresariais e conversas quotidianas. Esta mudança dramática nas expectativas globais não é apenas um sinal de alerta, mas um indicativo claro de que transformações igualmente significativas estão iminentes, criando um cenário sem precedentes para o investimento em tecnologia climática.

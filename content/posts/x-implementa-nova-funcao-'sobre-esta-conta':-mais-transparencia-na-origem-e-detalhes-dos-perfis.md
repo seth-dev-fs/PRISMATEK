@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "A plataforma X (antigo Twitter) está a lançar a funcionalidade 'Sobre esta conta', que permite aos utilizadores ver informações detalhadas como o país de origem e a localização atual de um perfil, promovendo maior transparência e autenticidade. Esta novidade surge para dar mais contexto e combater a desinformação na rede social, seguindo passos de outras plataformas."
 image: "https://s.yimg.com/ny/api/res/1.2/A8Ps9IolT7DbRVHYM_bDcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b3ee55e0-c7b3-11f0-baef-8d6f14c93629"
 source_url: "https://www.engadget.com/social-media/x-rolls-out-about-this-account-feature-that-displays-a-profiles-country-of-origin-and-more-160617187.html?src=rss"
-draft: true
+draft: false
 ---
 
 A plataforma X, anteriormente conhecida como Twitter, está a dar um passo significativo em direção a uma maior transparência com o lançamento gradual da sua nova funcionalidade: 'Sobre esta conta'. Esta ferramenta inovadora, que já está a ser implementada para utilizadores em todo o mundo, visa fornecer um contexto mais rico sobre a origem e a atividade das contas, um esforço crucial para fortalecer a autenticidade e combater a desinformação na rede social.

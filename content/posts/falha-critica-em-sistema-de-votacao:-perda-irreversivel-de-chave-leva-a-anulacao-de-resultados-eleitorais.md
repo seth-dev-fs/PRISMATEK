@@ -5,7 +5,7 @@ category: "ciencia"
 description: "Uma falha sem precedentes abalou um sistema de votação digital, levando à anulação de resultados eleitorais. A perda irrecuperável de uma das três chaves criptográficas essenciais tornou impossível a validação dos votos, levantando sérias questões sobre a segurança de futuros processos eleitorais."
 image: "https://cdn.arstechnica.net/wp-content/uploads/2022/03/crypto-key.jpeg"
 source_url: "https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/"
-draft: true
+draft: false
 ---
 
 # Falha Crítica em Sistema de Votação: Perda Irreversível de Chave Leva à Anulação de Resultados Eleitorais

@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "Prepare-se para uma Black Friday imperdível no universo da aprendizagem online. A MasterClass está a oferecer até 50% de desconto em todos os seus planos anuais, uma oportunidade única para explorar novos talentos com especialistas de renome."
 image: "https://s.yimg.com/ny/api/res/1.2/kCit8W91f5u6YiR9gLi1Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/02bcf680-7ea4-11f0-af46-2e93dd79ddb0"
 source_url: "https://www.engadget.com/deals/black-friday-streaming-deals-get-up-to-50-percent-off-masterclass-subscriptions-right-now-154509110.html?src=rss"
-draft: true
+draft: false
 ---
 
 ## Black Friday na MasterClass: A Sua Oportunidade de Aprender com os Melhores Chegou!

@@ -5,7 +5,7 @@ category: "home"
 description: "Prepare-se para a Black Friday! Descubra as 10 melhores ofertas em TVs de 65 polegadas, selecionadas pelos nossos especialistas para todos os bolsos, desde modelos acessíveis a OLEDs premium."
 image: "https://cdn.mos.cms.futurecdn.net/dVCkH2eHFrd3nedLscmrU9-1280-80.png"
 source_url: "https://www.techradar.com/televisions/the-10-best-black-friday-65-inch-tv-deals-all-chosen-by-our-expert-reviews-for-any-budget"
-draft: true
+draft: false
 ---
 
 A Black Friday está ao virar da esquina e, como já é tradição, promete trazer consigo uma avalanche de oportunidades para quem procura fazer um upgrade tecnológico em casa. Entre os desejos mais cobiçados, as televisões de grande formato ocupam um lugar de destaque. E se há um tamanho que se tornou o "sweet spot" para muitos consumidores, esse é o de 65 polegadas, oferecendo uma imersão cinematográfica sem dominar excessivamente a sala de estar.

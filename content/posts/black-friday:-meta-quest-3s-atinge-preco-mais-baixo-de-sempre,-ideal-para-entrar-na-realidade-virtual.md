@@ -5,7 +5,7 @@ category: "gaming"
 description: "O Meta Quest 3S, elogiado pela sua relação qualidade-preço, está com descontos históricos na Black Friday. Adquira o popular headset VR a partir de 250 dólares, com ofertas exclusivas e performance robusta para mergulhar no mundo virtual."
 image: "https://s.yimg.com/ny/api/res/1.2/PK2U9P6zTFaxKg8jb1CEUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/04248bc0-c47f-11f0-bebb-12c1e1aa6fa1"
 source_url: "https://www.engadget.com/deals/pick-up-the-meta-quest-3s-vr-headset-for-an-all-time-low-price-in-this-black-friday-deal-180911409.html?src=rss"
-draft: true
+draft: false
 ---
 
 A Black Friday chegou, e com ela, a oportunidade perfeita para mergulhar no mundo da realidade virtual (RV) sem esvaziar a carteira. O Meta Quest 3S, um dos headsets de RV mais elogiados pela sua acessibilidade e performance, atingiu o seu preço mais baixo de sempre, tornando-se uma proposta irresistível para entusiastas e novatos. Este popular dispositivo, considerado uma das melhores opções de entrada no mercado, está agora disponível com descontos significativos, tornando a experiência imersiva mais acessível do que nunca.

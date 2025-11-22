@@ -5,7 +5,7 @@ category: "home"
 description: "Os saldos de Black Friday trazem oportunidades únicas, e o aspirador robot Shark AI Ultra destaca-se com um desconto de 58%, atingindo o seu preço mais baixo de sempre de 250 dólares. Descubra as suas características inovadoras e por que é a melhor compra para a maioria dos consumidores neste período de promoções."
 image: "https://s.yimg.com/ny/api/res/1.2/f.aYAYiAK_..s9ZhO.7YLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3d1974f0-c7b2-11f0-bfaf-7d7e08f61a46"
 source_url: "https://www.engadget.com/deals/this-is-the-shark-black-friday-robot-vacuum-deal-to-beat-for-2025-100013824.html?src=rss"
-draft: true
+draft: false
 ---
 
 ## Black Friday 2025: A Oportunidade Imperdível no Aspirador Robot Shark AI Ultra

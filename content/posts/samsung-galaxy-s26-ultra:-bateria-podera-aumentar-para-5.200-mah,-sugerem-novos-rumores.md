@@ -5,7 +5,7 @@ category: "smartphones"
 description: "Uma nova fuga de informação oriunda da China sugere que o Samsung Galaxy S26 Ultra poderá ser lançado com uma bateria de 5.200 mAh, um ligeiro incremento face aos 5.000 mAh dos modelos Ultra anteriores e do Galaxy S25 Ultra."
 image: "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s26-ultra-new-renders/-952x498w6/gsmarena_000.jpg"
 source_url: "https://www.gsmarena.com/samsung_galaxy_s26_ultra_battery_size-news-70414.php"
-draft: true
+draft: false
 ---
 
 ### A Bateria do Galaxy S26 Ultra no Centro das Atenções: Um Passo Tímido na Direção Certa?

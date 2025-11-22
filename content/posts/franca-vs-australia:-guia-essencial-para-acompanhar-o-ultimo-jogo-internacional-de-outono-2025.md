@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "Prepare-se para o emocionante embate entre França e Austrália no Stade de France. Descubra todas as formas de assistir ao vivo ao derradeiro jogo da temporada Internacional de Outono de 2025, desde transmissões online a canais de TV."
 image: "https://cdn.mos.cms.futurecdn.net/yrZ3xswEgrLiM6xxNT7Ri-1280-80.jpg"
 source_url: "https://www.techradar.com/how-to-watch/rugby/france-vs-australia-autumn-international-2025-free"
-draft: true
+draft: false
 ---
 
 # França vs Austrália: Guia Essencial para Acompanhar o Último Jogo Internacional de Outono 2025

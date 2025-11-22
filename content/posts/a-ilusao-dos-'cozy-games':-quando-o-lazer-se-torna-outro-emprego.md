@@ -5,7 +5,7 @@ category: "gaming"
 description: "Originalmente desenhados para aliviar o stress e oferecer um refúgio digital, os 'cozy games' parecem agora replicar a rotina de trabalho. Descubra como estes jogos, de 'Tiny Bookshop' a 'Stardew Valley', nos prendem numa busca constante por produtividade, mesmo no nosso tempo livre."
 image: "https://i.blogs.es/00359e/tiny/840_560.jpeg"
 source_url: "https://www.xataka.com/videojuegos/cozy-games-nos-iban-a-salvar-estres-productividad-han-terminado-siendo-autenticos-esclavistas-ocio"
-draft: true
+draft: false
 ---
 
 Quem nunca sonhou em escapar à rotina diária para um mundo onde a única preocupação é cuidar de uma quinta idílica, plantar flores ou decorar uma casa de sonho? Os chamados 'cozy games' surgiram com essa promessa sedutora: envolver-nos em universos com animaizinhos fofos, acalmar-nos com paletas visuais reconfortantes e propor tarefas repetitivas e amigáveis que nos afastariam do stress. A imagem é bucólica e a promessa clara: fugir por umas horas à rotina diária.

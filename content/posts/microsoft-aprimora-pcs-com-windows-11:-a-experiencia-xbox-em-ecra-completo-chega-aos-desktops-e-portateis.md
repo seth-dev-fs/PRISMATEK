@@ -5,7 +5,7 @@ category: "gaming"
 description: "A Microsoft está a expandir a experiência Xbox de ecrã completo para PCs com Windows 11. Esta nova interface, desenhada para utilização com comando, transforma computadores portáteis e de secretária numa autêntica consola."
 image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xbox-Full-Screen-PC.jpg"
 source_url: "https://www.notebookcheck.net/Microsoft-expands-Xbox-Full-Screen-experience-to-PC.1168886.0.html"
-draft: true
+draft: false
 ---
 
 A Microsoft continua a aposta na convergência entre os seus ecossistemas, e a mais recente novidade é um claro passo nessa direção. Os utilizadores de PCs com Windows 11 já podem desfrutar da "Experiência Xbox em Ecrã Completo", uma inovação que promete transformar a forma como interagimos com os jogos nos nossos computadores. Esta atualização visa, essencialmente, trazer a familiaridade e a simplicidade de uma consola Xbox diretamente para o ambiente de trabalho ou portátil.

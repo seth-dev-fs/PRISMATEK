@@ -5,7 +5,7 @@ category: "ciencia"
 description: "Em 2013, o promissor arranha-céus Walkie Talkie de Londres revelou um defeito de design insólito: os seus vidros curvos agiam como uma lente gigante, concentrando a luz solar a ponto de derreter plástico e metal nas ruas circundantes, um perigo real que a cidade jamais esquecerá."
 image: "https://i.blogs.es/5c7ffc/the_sky_garden/840_560.jpeg"
 source_url: "https://www.xataka.com/magnet/2013-londres-anuncio-su-rascacielos-impactante-entonces-nadie-sabia-que-eran-capaces-hacer-sus-cristales"
-draft: true
+draft: false
 ---
 
 Em 2013, a paisagem urbana de Londres foi palco de um episódio peculiar que misturava inovação arquitetónica com um surpreendente — e perigoso — erro de design. O edifício em questão, conhecido popularmente como Walkie Talkie (oficialmente 20 Fenchurch Street), prometia ser um marco de modernidade, mas rapidamente se transformou num símbolo de uma falha de engenharia tão insólita quanto memorável.

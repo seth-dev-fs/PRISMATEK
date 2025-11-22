@@ -5,7 +5,7 @@ category: "audio"
 description: "Descubra o altifalante Bluetooth portátil mais acessível da JBL, agora a um preço tão baixo que nem alguns sabonetes conseguem competir. Uma oportunidade imperdível para a Black Friday, ideal para levar a sua música para todo o lado."
 image: "https://cdn.mos.cms.futurecdn.net/29ByNHCgsJjq9Nit3v2H5T-1280-80.jpg"
 source_url: "https://www.techradar.com/audio/wireless-bluetooth-speakers/jbls-cheapest-bluetooth-speaker-just-dropped-to-silly-money-so-im-buying-three-for-black-friday"
-draft: true
+draft: false
 ---
 
 A Black Friday já está no ar, e com ela, a corrida às melhores pechinchas e ofertas imperdíveis. Mas há uma notícia que está a fazer as delícias dos amantes de música e de tecnologia: a JBL, um nome incontornável no mundo do áudio, acaba de lançar o seu altifalante Bluetooth portátil mais acessível de sempre a um preço simplesmente 'ridículo'. Tão inacreditável que, aqui na NEXORA News, já estamos a pensar em comprar três! Prepare-se para conhecer o seu próximo companheiro musical.

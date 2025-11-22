@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "O WhatsApp está a lançar uma funcionalidade inovadora na Europa que permitirá aos utilizadores comunicar com contactos de outras aplicações de mensagens diretamente da sua app, impulsionada pelas regulamentações da União Europeia. Saiba como esta mudança funciona, os requisitos e como a ativar para simplificar a sua comunicação digital."
 image: "https://i.blogs.es/b1439a/whatsapp/840_560.jpeg"
 source_url: "https://www.xataka.com/basics/hablar-whatsapp-otras-apps-mensajeria-que-esta-funcion-como-funciona-requisitos-como-activarla"
-draft: true
+draft: false
 ---
 
 # WhatsApp Abre Portas à Interoperabilidade: Uma Nova Era para a Mensageria na Europa

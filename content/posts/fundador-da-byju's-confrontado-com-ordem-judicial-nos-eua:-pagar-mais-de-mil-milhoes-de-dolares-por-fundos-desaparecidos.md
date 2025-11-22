@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "Byju Raveendran, fundador da gigante ed-tech Byju's, foi ordenado por um tribunal de falências dos EUA a pagar mais de 1,07 mil milhões de dólares devido a fundos desaparecidos da empresa. Raveendran planeia recorrer desta decisão, prolongando a batalha legal."
 image: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1257740205.jpg?resize=1200,800"
 source_url: "https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/"
-draft: true
+draft: false
 ---
 
 # Fundador da Byju's Enfrenta Ordem Judicial Massiva nos EUA: Mais de Mil Milhões de Dólares por Fundos Desaparecidos

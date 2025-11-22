@@ -133,3 +133,19 @@ export function getArticlesByCategory(categorySlug: string, limit?: number): Art
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   return limit ? articlesInCategory.slice(0, limit) : articlesInCategory;
 }
+
+/**
+ * Returns all unique category slugs from published articles.
+ */
+export function getAllCategories(): string[] {
+  const allArticles = getAllArticles().filter(article => !article.draft);
+  const categorySet = new Set<string>();
+
+  allArticles.forEach(article => {
+    if (article.category) {
+      categorySet.add(article.category);
+    }
+  });
+
+  return Array.from(categorySet).sort();
+}

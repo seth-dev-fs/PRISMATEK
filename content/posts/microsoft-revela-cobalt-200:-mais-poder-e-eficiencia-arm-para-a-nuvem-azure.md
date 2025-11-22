@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "A Microsoft anunciou o Cobalt 200, o seu novo processador baseado em arquitetura ARM, desenhado para otimizar o desempenho e a eficiência da infraestrutura cloud Azure. Este silício personalizado promete uma nova era de capacidade e sustentabilidade para a nuvem da empresa."
 image: "https://cdn.mos.cms.futurecdn.net/TQBG9ceKHjHM5qpQFdykQf-1280-80.png"
 source_url: "https://www.techradar.com/pro/microsoft-unveils-its-next-generation-arm-based-cpu-cobalt-200-looks-to-unlock-even-more-azure-power"
-draft: true
+draft: false
 ---
 
 # Microsoft Apresenta Cobalt 200: Um Salto ARM para a Eficiência da Azure

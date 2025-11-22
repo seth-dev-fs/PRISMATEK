@@ -5,7 +5,7 @@ category: "smartphones"
 description: "Prepare-se para uma oportunidade única: o poderoso Samsung Galaxy S25 Ultra, na sua variante de 512GB, está agora com um desconto de 400 dólares na Amazon, uma oferta imperdível de Black Friday."
 image: "https://m-cdn.phonearena.com/images/article/175984-two/The-superior-Galaxy-S25-Ultra-just-got-cheaper-with-Amazons-improved-Black-Friday-deal.jpg"
 source_url: "https://www.phonearena.com/news/galaxy-s25-ultra-just-got-cheaper_id175984"
-draft: true
+draft: false
 ---
 
 # O Samsung Galaxy S25 Ultra Torna-se Irresistível com Desconto de 400 Dólares na Black Friday da Amazon

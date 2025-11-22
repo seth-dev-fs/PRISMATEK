@@ -5,7 +5,7 @@ category: "internet-apps"
 description: "Um novo relatório do Pew Research Center revela que o X (antigo Twitter) mantém uma notável resiliência nos EUA, sendo ainda utilizado por 21% dos adultos, apesar da intensa concorrência de plataformas como Meta e alternativas descentralizadas."
 image: "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter-1.jpg?resize=1200,800"
 source_url: "https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/"
-draft: true
+draft: false
 ---
 
 No mundo digital em constante mutação, onde a longevidade das plataformas é muitas vezes efémera e a lealdade dos utilizadores é posta à prova a cada inovação, o X (antigo Twitter) demonstra uma resiliência notável. Um novo relatório do prestigiado Pew Research Center, focado na utilização de redes sociais nos Estados Unidos, trouxe à luz dados que sublinham a capacidade da plataforma de manter uma posição forte, mesmo perante um cenário de concorrência cada vez mais feroz.
