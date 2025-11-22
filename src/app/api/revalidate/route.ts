@@ -72,12 +72,12 @@ export async function GET(request: NextRequest) {
 
       });
 
-    } catch (err) {
-    return new NextResponse(JSON.stringify({ message: 'Error revalidating', error: err.message }), {
-      status: 500,
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    });
-  }
-}
+        } catch (err: unknown) {
+            const errorMessage = err instanceof Error ? err.message : 'An unknown error occurred';
+            return new NextResponse(JSON.stringify({ message: 'Error revalidating', error: errorMessage }), {
+                status: 500,
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+            });
+        }}

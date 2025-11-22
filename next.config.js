@@ -131,9 +131,7 @@ const nextConfig = {
     ],
     unoptimized: false,
   },
-  experimental: {
-    allowFutureImageOptimization: true, // If applicable to your Next.js version
-  },
+  // Removed experimental.allowFutureImageOptimization due to Next.js build warning.
 };
 
 module.exports = nextConfig;
