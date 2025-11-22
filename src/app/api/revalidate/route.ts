@@ -14,30 +14,65 @@ export async function GET(request: NextRequest) {
     });
   }
 
-  try {
-    // Revalidate homepage
-    revalidatePath('/');
+    try {
 
-    // Revalidate all category pages
-    const allArticles = getAllArticles();
-    const categories = new Set(allArticles.map(article => article.category.toLowerCase()));
-    
-    categories.forEach(category => {
-      revalidatePath(`/categoria/${category}`);
-    });
+      const path = request.nextUrl.searchParams.get('path');
 
-    // Revalidate all article pages that might have been updated/added
-    // Revalidating individual article pages would require knowing their slugs here.
-    // For simplicity, we assume new articles will be discovered via homepage/category revalidation.
-    // If specific article slugs need revalidation, they would need to be passed here.
+      let revalidatedPaths = [];
 
-    return new NextResponse(JSON.stringify({ revalidated: true, now: Date.now() }), {
-      status: 200,
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    });
-  } catch (err) {
+  
+
+      if (path) {
+
+        revalidatePath(path);
+
+        revalidatedPaths.push(path);
+
+      } else {
+
+        // Revalidate homepage
+
+        revalidatePath('/');
+
+        revalidatedPaths.push('/');
+
+  
+
+        // Revalidate all category pages
+
+        const allArticles = getAllArticles();
+
+        const categories = new Set(allArticles.map(article => article.category.toLowerCase()));
+
+        
+
+        categories.forEach(category => {
+
+          const categoryPath = `/categoria/${category}`;
+
+          revalidatePath(categoryPath);
+
+          revalidatedPaths.push(categoryPath);
+
+        });
+
+      }
+
+  
+
+      return new NextResponse(JSON.stringify({ revalidated: true, now: Date.now(), paths: revalidatedPaths }), {
+
+        status: 200,
+
+        headers: {
+
+          'Content-Type': 'application/json',
+
+        },
+
+      });
+
+    } catch (err) {
     return new NextResponse(JSON.stringify({ message: 'Error revalidating', error: err.message }), {
       status: 500,
       headers: {

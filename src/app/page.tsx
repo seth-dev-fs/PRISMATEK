@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';
 import NewsletterSignup from '@/components/NewsletterSignup';
-import { getSortedArticlesData } from '@/lib/markdown';
+import { getArticlesSortedByDate } from '@/lib/markdown';
 
 export default async function Home() {
     const allArticles = await getArticlesSortedByDate(10); // Limit to 10 for homepage

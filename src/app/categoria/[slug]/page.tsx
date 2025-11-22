@@ -1,22 +1,21 @@
 export const revalidate = 60;
 import ArticleCard from '@/components/ArticleCard';
-import { getArticlesByCategory, getSortedArticlesData } from '@/lib/markdown';
+import { getArticlesByCategory, getArticlesSortedByDate, getAllArticles } from '@/lib/markdown';
 
 export async function generateStaticParams() {
-  const allPosts = getSortedArticlesData();
+  const allPosts = getAllArticles(); // Use getAllArticles to get all posts including drafts for category generation
   const allCategories = new Set<string>();
-  
-  allPosts.forEach(post => {
-    if (post.category) {
-      allCategories.add(post.category.toLowerCase().replace(/ & /g, '-').replace(/\s+/g, '-'));
-    }
-  });
-
-  return Array.from(allCategories).map(slug => ({
-    slug: slug,
-  }));
+                                                                                                                         
+  allPosts.forEach(post => {                                                                                             
+    if (post.category) {                                                                                                 
+      allCategories.add(post.category.toLowerCase()); // Simplify slug generation, relying on clean categories from generator
+    }                                                                                                                    
+  });                                                                                                                    
+                                                                                                                         
+  return Array.from(allCategories).map(slug => ({                                                                        
+    slug: slug,                                                                                                          
+  }));                                                                                                                   
 }
-
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const categorySlug = params.slug;
   const categoryName = categorySlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
