@@ -6,17 +6,31 @@ import NewsletterSignup from '@/components/NewsletterSignup';
 import { getSortedArticlesData } from '@/lib/markdown';
 
 export default async function Home() {
-  const allArticles = await getSortedArticlesData();
-
-  if (allArticles.length === 0) {
-    return (
-      <div className="container mx-auto px-4 py-8 text-center text-foreground">
-        <h1 className="text-3xl font-bold mb-4">Bem-vindo à NEXORA News</h1>
-        <p className="text-muted">Ainda não há artigos publicados. Volte em breve!</p>
-      </div>
-    );
-  }
-
+    const allArticles = await getArticlesSortedByDate(10); // Limit to 10 for homepage
+  
+    if (allArticles.length === 0) {
+      const suggestedArticles = await getArticlesSortedByDate(5); // Get 5 suggestions
+  
+      return (
+        <div className="container mx-auto px-4 py-8 text-center text-foreground">
+          <h1 className="text-3xl font-bold mb-4">Bem-vindo à NEXORA News</h1>
+          <p className="text-muted mb-8">Ainda não há artigos publicados.</p>
+          {suggestedArticles.length > 0 && (
+            <>
+              <h2 className="text-2xl font-bold text-foreground mb-4">Talvez você se interesse por:</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                {suggestedArticles.map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </>
+          )}
+          {!suggestedArticles.length && (
+              <p className="text-muted">Volte em breve para novas notícias!</p>
+          )}
+        </div>
+      );
+    }
   const heroArticle = allArticles[0];
   const recentArticles = allArticles.slice(1, 7);
 

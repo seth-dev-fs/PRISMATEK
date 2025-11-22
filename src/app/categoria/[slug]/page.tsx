@@ -35,18 +35,22 @@ export default async function CategoriaPage({ params }: { params: { slug: string
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-bold text-foreground mb-8">{categoryName}</h1>
 
-      {articles.length === 0 ? (
-        <div className="text-center text-muted col-span-full py-12">
-          <p>De momento não existem artigos nesta categoria.</p>
-        </div>
-      ) : (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {/* FINAL CORRECTED VERSION: Pass the whole 'article' object as a single prop */}
-          {articles.map((article) => (
-            <ArticleCard key={article.slug} article={article} />
-          ))}
-        </div>
-      )}
-    </div>
+            {articles.length === 0 ? (
+              <div className="text-center text-muted col-span-full py-12">
+                <p className="text-lg mb-4">De momento não existem artigos nesta categoria.</p>
+                <h2 className="text-2xl font-bold text-foreground mb-4">Talvez você se interesse por:</h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-4xl mx-auto">
+                  {(await getArticlesSortedByDate(5)).map((article) => (
+                    <ArticleCard key={article.slug} article={article} />
+                  ))}
+                </div>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {articles.map((article) => (
+                  <ArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            )}    </div>
   );
 }
