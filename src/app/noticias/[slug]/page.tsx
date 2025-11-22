@@ -1,3 +1,4 @@
+export const revalidate = 60;
 import Image from 'next/image';
 import { getArticleBySlug, getSortedArticlesData } from '@/lib/markdown';
 import { notFound } from 'next/navigation';

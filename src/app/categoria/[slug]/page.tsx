@@ -1,3 +1,4 @@
+export const revalidate = 60;
 import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByCategory, getSortedArticlesData } from '@/lib/markdown';
 
