@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T13:05:02.035Z -->
 ---
 title: "NEXORA News: Como Resumir Vídeos com Inteligência Artificial e Poupar Tempo Precioso"
 date: "2024-07-29T10:00:00.000Z"
@@ -15,7 +14,7 @@ image: "https://i.blogs.es/4973e5/video-ia/840_560.jpeg"
 image_source: "https://i.blogs.es/4973e5/video-ia/840_560.jpeg"
 description: "Descubra como a inteligência artificial Gemini pode ajudá-lo a resumir vídeos de plataformas online ou ficheiros locais, permitindo-lhe obter a informação essencial sem ter de os ver na íntegra. Uma ferramenta poderosa para otimizar o seu tempo e a sua produtividade."
 source_url: "https://www.xataka.com/basics/como-resumir-videos-inteligencia-artificial-para-saber-que-dicen-tener-que-verlos"
-draft: true
+draft: false
 needs_review: false
 ---
 

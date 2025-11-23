@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T13:06:06.111Z -->
 ---
 title: "A Aplicação Misteriosa que Promete Revolucionar o Seu PC Windows Instantaneamente"
 date: "2023-11-20T12:00:00.000Z"
@@ -15,7 +14,7 @@ image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Install
 image_source: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Installer-106.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200"
 description: "Descubra a promessa de uma aplicação que está a gerar burburinho por melhorar instantaneamente o seu PC Windows. Acompanhe a semana de um jornalista de tecnologia em busca das melhores novidades."
 source_url: "https://www.theverge.com/tldr/2023/11/20/23969019/the-app-that-will-instantly-improve-your-windows-pc"
-draft: true
+draft: false
 needs_review: true
 ---
 

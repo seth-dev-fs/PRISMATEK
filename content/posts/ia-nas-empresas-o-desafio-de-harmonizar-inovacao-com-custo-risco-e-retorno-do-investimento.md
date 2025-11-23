@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T13:06:20.448Z -->
 ---
 title: "IA nas Empresas: O Desafio de Harmonizar Inovação com Custo, Risco e Retorno do Investimento"
 date: "2024-07-29T10:30:00.000Z"
@@ -16,7 +15,7 @@ image: "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-1280-80.png"
 image_source: "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-1280-80.png"
 description: "As empresas estão a investir cada vez mais em Inteligência Artificial, mas o verdadeiro desafio reside em demonstrar o valor tangível e o retorno sobre o investimento (ROI) destas tecnologias. Compreender como equilibrar a inovação com os custos e riscos associados é crucial para o sucesso a longo prazo."
 source_url: "https://www.nexoranews.pt/ai-roi-challenge"
-draft: true
+draft: false
 needs_review: false
 ---
 

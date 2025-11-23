@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T09:59:26.426Z -->
 ---
 title: "Rogbid Lança o Rowatch D3: Um Smartwatch com Monitorização de Saúde Avançada e Ecrã AMOLED a Preço Competitivo"
 date: "2024-07-30T10:30:00.000Z"
@@ -17,7 +16,7 @@ image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-Smart
 image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-Smartwatch-Rowatch-D3.png"
 description: "A Rogbid apresenta o seu novo smartwatch, o Rowatch D3, que se destaca pela monitorização de saúde avançada, incluindo um sistema de medição de pressão arterial baseado em pressão e um chip ECG da Texas Instruments, tudo num ecrã AMOLED vibrante e a um preço acessível."
 source_url: "https://example.com/rogbid-rowatch-d3-launch"
-draft: true
+draft: false
 needs_review: false
 ---
 

@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:33:44.549Z -->
 ---
 title: "Black Friday 2025: As Melhores Promoções de Tecnologia Já Disponíveis na NEXORA News"
 date: "2024-11-20T10:30:00.000Z"
@@ -18,7 +17,7 @@ image: "https://s.yimg.com/ny/api/res/1.2/ztuLz5wj_cKdNLCAUiBf1Q--/YXBwaWQ9aGlna
 image_source: "https://s.yimg.com/ny/api/res/1.2/ztuLz5wj_cKdNLCAUiBf1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/477d4690-c4c1-11f0-aeaf-8a24a60b371d"
 description: "A Black Friday 2025 já começou, e as promoções de tecnologia mais desejadas estão a chegar mais cedo do que nunca. Descubra os melhores descontos em gadgets Apple, consolas de jogos, dispositivos de casa inteligente e muito mais, disponíveis agora em diversas lojas."
 source_url: "https://www.engadget.com/deals/black-friday-2025-deals-the-best-tech-sales-from-amazon-apple-lego-ninja-dyson-and-others-you-can-shop-now-ahead-of-the-holiday-season-100052707.html?src=rss"
-draft: true
+draft: false
 needs_review: true
 ---
 

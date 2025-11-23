@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:35:03.196Z -->
 ---
 title: "Qualcomm Confirma Partilha Rápida de Ficheiros entre Android e iPhone para Dispositivos Snapdragon"
 date: "2024-05-15T10:00:00.000Z"
@@ -17,7 +16,7 @@ image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qualcomm_Sna
 image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/qualcomm_Snapdragon_chip_4.jpeg"
 description: "A Qualcomm anunciou que o popular recurso Quick Share, que permite a transferência de ficheiros para iPhones, chegará a uma vasta gama de dispositivos Android equipados com processadores Snapdragon, prometendo uma maior interoperabilidade. Contudo, a data exata de lançamento permanece um mistério."
 source_url: "https://example.com/qualcomm-quick-share-announcement"
-draft: true
+draft: false
 needs_review: false
 ---
 

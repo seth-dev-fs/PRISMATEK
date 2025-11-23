@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:40:46.323Z -->
 ---
 title: "A Era da Aprovação: Como a IA nos Transforma em Editores da Nossa Própria Comunicação"
 date: "2024-05-15T10:00:00.000Z"
@@ -15,7 +14,7 @@ image: "https://i.blogs.es/f2d6ba/en/840_560.jpeg"
 image_source: "Xataka"
 description: "A Inteligência Artificial está a redefinir a forma como comunicamos, transformando-nos de criadores ativos em meros aprovadores de textos gerados. Descubra as implicações subtis desta mudança na nossa capacidade de pensar e articular ideias."
 source_url: "https://www.xataka.com/"
-draft: true
+draft: false
 needs_review: false
 ---
 

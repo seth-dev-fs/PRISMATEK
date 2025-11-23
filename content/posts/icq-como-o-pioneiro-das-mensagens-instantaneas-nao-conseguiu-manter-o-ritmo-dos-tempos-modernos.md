@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:39:51.410Z -->
 ---
 title: "ICQ: Como o Pioneiro das Mensagens Instantâneas Não Conseguiu Manter o Ritmo dos Tempos Modernos"
 date: "2024-07-29T10:30:00.000Z"
@@ -13,7 +12,7 @@ image: "https://cdn.mos.cms.futurecdn.net/bKhdkXGZsz9CWaMdJcHuN5-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/bKhdkXGZsz9CWaMdJcHuN5-1280-80.jpg"
 description: "ICQ foi uma plataforma revolucionária nas mensagens instantâneas, pavimentando o caminho para a comunicação online. Este artigo explora o seu impacto inicial e as razões por detrás do seu eventual declínio, apesar das tentativas de adaptação."
 source_url: "https://example.com/original-source"
-draft: true
+draft: false
 needs_review: false
 ---
 

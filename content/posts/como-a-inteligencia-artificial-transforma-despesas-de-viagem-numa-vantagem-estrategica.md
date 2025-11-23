@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:41:10.653Z -->
 ---
 title: "Como a Inteligência Artificial Transforma Despesas de Viagem numa Vantagem Estratégica"
 date: "2024-07-28T10:30:00.000Z"
@@ -14,7 +13,7 @@ image: "https://cdn.mos.cms.futurecdn.net/PrAGqoqhdxHr8vbU4gwnmV-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/PrAGqoqhdxHr8vbU4gwnmV-1280-80.jpg"
 description: "A Inteligência Artificial está a revolucionar a forma como as empresas encaram as despesas de viagem, transformando uma função de compliance morosa num motor estratégico de crescimento e eficiência. Descubra como a IA pode otimizar processos e gerar insights valiosos."
 source_url: "https://www.example.com/original-article-link"
-draft: true
+draft: false
 needs_review: false
 ---
 

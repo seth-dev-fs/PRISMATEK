@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:34:26.710Z -->
 ---
 title: "Samsung Galaxy S26 Ultra: Rumores Apontam para Bateria Melhorada de 5.200 mAh"
 date: "2024-07-28T10:30:00.000Z"
@@ -13,7 +12,7 @@ image: "https://cdn.mos.cms.futurecdn.net/C98KqY8JWF82qZf2wWGCWE-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/C98KqY8JWF82qZf2wWGCWE-1280-80.jpg"
 description: "Novos rumores sugerem que o próximo Samsung Galaxy S26 Ultra poderá vir equipado com uma bateria de 5.200 mAh, prometendo uma autonomia superior para o telemóvel topo de gama. Esta potencial atualização visa responder às crescentes exigências dos utilizadores de smartphones premium."
 source_url: "https://www.nexoranews.pt/noticias/samsung-galaxy-s26-ultra-bateria-rumor"
-draft: true
+draft: false
 needs_review: false
 ---
 

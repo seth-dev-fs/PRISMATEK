@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:36:38.950Z -->
 ---
 title: "Black Friday: O Guia Completo da NEXORA News para a Pen USB Perfeita, do Mais Barato ao Mais Rápido"
 date: "2023-11-19T10:30:00.000Z"
@@ -16,7 +15,7 @@ image: "https://cdn.mos.cms.futurecdn.net/u5QFia2ThADNHyfnSFobJT-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/u5QFia2ThADNHyfnSFobJT-1280-80.jpg"
 description: "Com a Black Friday a chegar, a NEXORA News preparou um guia essencial para o ajudar a escolher a pen USB ideal. Descubra as melhores ofertas em armazenamento removível, seja para preço, capacidade, velocidade ou portabilidade."
 source_url: "https://www.nexoranews.com/artigos/black-friday-guia-pen-usb-2023"
-draft: true
+draft: false
 needs_review: false
 ---
 

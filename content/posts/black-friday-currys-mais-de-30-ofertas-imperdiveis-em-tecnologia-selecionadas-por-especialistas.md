@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:35:58.000Z -->
 ---
 title: "Black Friday Currys: Mais de 30 Ofertas Imperdíveis em Tecnologia, Selecionadas por Especialistas"
 date: "2023-11-19T10:00:00.000Z"
@@ -17,7 +16,7 @@ image: "https://cdn.mos.cms.futurecdn.net/nDo64CAFV8kAxPCVAgrGrU-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/nDo64CAFV8kAxPCVAgrGrU-1280-80.jpg"
 description: "Descubra as mais de 30 melhores ofertas tecnológicas da Black Friday da Currys, cuidadosamente selecionadas por um especialista em caça a pechinchas. Desde TVs a portáteis e eletrodomésticos, não perca estas oportunidades de poupança."
 source_url: "https://example.com/original-currys-deals"
-draft: true
+draft: false
 needs_review: true
 ---
 

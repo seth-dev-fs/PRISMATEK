@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:34:10.478Z -->
 ---
 title: "A Ilusão dos 10.000 Passos: Por Que o Treino de Força é Essencial para a Velhice Ativa"
 date: "2024-05-24T10:30:00.000Z"
@@ -21,7 +20,7 @@ image: "https://i.blogs.es/a3494a/ejercicio-mayores/840_560.jpeg"
 image_source: "Yishen Ji / Centre for Ageing Better"
 description: "Caminhar é bom, mas não suficiente. Descubra porque o treino de força com pesas e bandas elásticas é crucial para combater o envelhecimento e garantir uma vida longa e saudável, segundo especialistas."
 source_url: "https://www.xataka.com/otros/caminar-nos-ha-dado-ilusion-estar-forma-cuerpo-necesita-otra-cosa-pesas-bandas"
-draft: true
+draft: false
 needs_review: false
 ---
 

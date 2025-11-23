@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:00:09.612Z -->
 ---
 title: "A Estratégia Infallível para Superar Desafios: O Poder Transformador da Autoimagem e do Diálogo Interno"
 date: "2024-07-29T10:30:00.000Z"
@@ -17,7 +16,7 @@ image: "https://i.blogs.es/f9fd0c/elisa-photography-tvemwar9xqi-unsplash/840_560
 image_source: "Unsplash"
 description: "Descubra como a sua autoimagem e a forma como fala consigo mesmo podem ser a chave para enfrentar e superar qualquer desafio, com base em conselhos de especialistas e estudos científicos."
 source_url: "https://www.xataka.com/otros/hay-forma-infalible-para-afrontar-retos-problemas-fingir-que-eres-otra-persona"
-draft: true
+draft: false
 needs_review: false
 ---
 

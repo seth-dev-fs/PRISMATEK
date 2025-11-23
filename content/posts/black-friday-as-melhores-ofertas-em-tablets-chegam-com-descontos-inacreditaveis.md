@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:01:26.715Z -->
 ---
 title: "Black Friday: As Melhores Ofertas em Tablets Chegam com Descontos Inacreditáveis"
 date: "2024-05-15T10:00:00.000Z"
@@ -18,7 +17,7 @@ image: "https://m-cdn.phonearena.com/images/article/128068-two/Black-Friday-tabl
 image_source: "https://m-cdn.phonearena.com/images/article/128068-two/Black-Friday-tablet-deals-35-cant-miss-offers-on-iPads-Galaxy-Tabs-and-more.jpg"
 description: "Prepare-se para a Black Friday, a época de eleição para conseguir grandes poupanças em tablets. Desde os cobiçados iPads até aos versáteis Galaxy Tabs, descubra as melhores ofertas e faça um upgrade ao seu equipamento."
 source_url: "https://example.com/original-source-not-provided"
-draft: true
+draft: false
 needs_review: true
 ---
 

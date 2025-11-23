@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T14:36:21.329Z -->
 ---
 title: "Black Friday: Cartões microSD Express Essenciais para a Nintendo Switch 2 a Preços Recorde"
 date: "2023-11-20T10:30:00.000Z"
@@ -19,7 +18,7 @@ image: "https://s.yimg.com/ny/api/res/1.2/V_F1qvlhloPob.F33Yqacw--/YXBwaWQ9aGlna
 image_source: "https://s.yimg.com/ny/api/res/1.2/V_F1qvlhloPob.F33Yqacw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/2f37ad30-c6df-11f0-bb5c-635e3b7e2bf3"
 description: "Com a Black Friday em pleno andamento, os cartões microSD Express compatíveis com a futura Nintendo Switch 2 estão a registar preços mínimos históricos. Oportunidade imperdível para os jogadores garantirem armazenamento de alta velocidade."
 source_url: "https://www.engadget.com/deals/these-switch-2-compatible-microsd-express-cards-are-cheaper-than-ever-for-black-friday-151331884.html?src=rss"
-draft: true
+draft: false
 needs_review: false
 ---
 

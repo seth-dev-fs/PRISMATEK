@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T10:01:46.799Z -->
 ---
 title: "Black Friday Antecipada: Cronógrafo Solar Seiko Prospex Speedtimer (Mostrador Bege) com Desconto de 21% na Amazon"
 date: "2023-11-20T10:00:00.000Z"
@@ -17,7 +16,7 @@ image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Seiko-Prospe
 image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Seiko-Prospex-Speeedtimer-Amazon.png"
 description: "Aproveite a Black Friday antecipada e adquira o cronógrafo solar Seiko Prospex Speedtimer SSC817P1, com mostrador bege e construção em aço inoxidável, agora com um desconto de 21% na Amazon US."
 source_url: "https://example.com/seiko-deal-source-url"
-draft: true
+draft: false
 needs_review: false
 ---
 

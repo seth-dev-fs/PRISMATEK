@@ -1,4 +1,3 @@
-<!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-23T13:07:00.050Z -->
 ---
 title: "Black Friday 2025 na T-Mobile: Descontos Inacreditáveis em iPhone 17, Galaxy S25 e Pixel 10!"
 date: "2024-05-15T10:30:00.000Z"
@@ -18,7 +17,7 @@ image: "https://cdn.mos.cms.futurecdn.net/pLTdQ29P88qz3wAUy3z2hW-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/pLTdQ29P88qz3wAUy3z2hW-1280-80.jpg"
 description: "Prepare-se para a Black Friday de 2025! A T-Mobile anuncia ofertas sem precedentes, incluindo até 1000 dólares de desconto em smartphones de ponta como o iPhone 17, Galaxy S25 e Pixel 10, com a possibilidade de obter até quatro iPhone 17 gratuitamente com um plano. A NEXORA News traz-lhe todos os detalhes e o que esperar desta época de poupança."
 source_url: "https://example.com/t-mobile-black-friday-deals-2025-original"
-draft: true
+draft: false
 needs_review: false
 ---
 
