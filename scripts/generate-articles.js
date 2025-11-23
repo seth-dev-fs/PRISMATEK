@@ -317,10 +317,28 @@ async function generateArticleFromItem(item) {
 CRITICAL RULES:
 
 - The language must be Portuguese from Portugal (pt-PT).
-- The article must be between 400 and 900 words.
-- The tone should be simple, informative, and engaging.
+- **The article must be at least 350 words minimum. Aim for 400-800 words for optimal quality.**
+- The tone should be informative, professional, and objective.
 - DO NOT invent facts or information not present in the source material. Stick to the provided title and snippet.
 - Your entire response MUST BE ONLY a valid JSON object. Do not include any other text or markdown formatting.
+
+**MANDATORY ARTICLE STRUCTURE:**
+1. **Introduction** (1-2 paragraphs): Context and main news
+2. **Development** (2-3 sections with ## headings): Detailed analysis, key features, implications
+3. **Conclusion** (1 paragraph): Summary and future outlook
+
+**TITLE REQUIREMENTS:**
+- Create a clear, compelling title in Portuguese
+- Use relevant keywords naturally
+- Length: 50-60 characters for SEO optimization
+- Format: Direct and informative (e.g., "Apple lança novo iPhone 15 com câmara revolucionária")
+
+**DESCRIPTION REQUIREMENTS (CRITICAL FOR SEO):**
+- Create a concise meta description in Portuguese
+- **EXACTLY 150-160 characters** (validate character count!)
+- Include primary keywords
+- Compelling and informative
+- Must accurately summarize the article
 
 **CATEGORY REQUIREMENTS (CRITICAL):**
 - The 'category' MUST be EXACTLY ONE of these normalized slugs: ${NORMALIZED_CATEGORIES.join(', ')}
@@ -329,7 +347,15 @@ CRITICAL RULES:
 - If the topic fits multiple categories, choose the MOST specific one
 - If uncertain, default to 'home'
 
-- The 'tags' MUST be an array of strings, even if empty.
+- The 'tags' MUST be an array of strings (3-5 relevant tags in Portuguese), even if empty.
+
+**CONTENT QUALITY STANDARDS:**
+- Use natural keyword integration throughout the text
+- Write in active voice
+- Use subheadings (##) to organize content
+- Include specific details and facts from the source
+- Maintain journalistic objectivity
+- Format: Valid GFM markdown with proper heading hierarchy
 
 SOURCE MATERIAL:
 - Original Title: "${title}"
@@ -337,16 +363,16 @@ SOURCE MATERIAL:
 
 Generate a JSON object with this exact structure:
 {
-  "title": "A compelling and clear title in Portuguese for the article",
-  "date": "The publication date in ISO 8601 format (e.g., 2025-01-01T12:00:00Z). Use the current date and time if not specified.",
+  "title": "Compelling title in Portuguese (50-60 chars with keywords)",
+  "date": "CURRENT_DATE_PLACEHOLDER",
   "category": "EXACTLY ONE normalized slug from: ${NORMALIZED_CATEGORIES.join(', ')}",
-  "tags": ["tag1", "tag2"],
+  "tags": ["tag1", "tag2", "tag3"],
   "image": "URL of the primary image (will be overridden by system)",
   "image_source": "Source of the image if different from image URL, otherwise empty string",
-  "description": "A concise summary in Portuguese (1-2 sentences) for meta description.",
+  "description": "SEO-optimized meta description in Portuguese (EXACTLY 150-160 characters)",
   "source_url": "The original source URL of the article.",
   "needs_review": "true or false. Set to 'true' if you defaulted the category or are unsure about any information.",
-  "content": "The full, detailed article content in GFM markdown format (at least 400 words)."
+  "content": "The full article content in GFM markdown format with ## subheadings (minimum 350 words, aim for 400-800)."
 }
 `;
 
@@ -436,16 +462,28 @@ Generate a JSON object with this exact structure:
         // Normalize source URL
         const finalSourceUrl = normalizeUrl(articleData.source_url || link);
 
+        // CRITICAL: Validate description length for SEO (150-160 characters)
+        let finalDescription = articleData.description || '';
+        if (finalDescription.length < 150 || finalDescription.length > 160) {
+            log(`[WARN] Description length is ${finalDescription.length} chars (should be 150-160). Truncating or padding...`, 'warn');
+            if (finalDescription.length > 160) {
+                finalDescription = finalDescription.substring(0, 157) + '...';
+            } else if (finalDescription.length < 150 && finalDescription.length > 0) {
+                // Keep as is if it's close enough, otherwise flag for review
+                needsReview = true;
+            }
+        }
+
         const frontmatter = {
             title: articleData.title,
-            date: new Date(articleData.date || isoDate || Date.now()).toISOString(),
+            date: new Date().toISOString(), // CRITICAL: Always use current date for published articles
             category: finalCategory,
             tags: finalTags,
             image: finalImage,
             image_source: finalImageSource,
-            description: articleData.description,
+            description: finalDescription,
             source_url: finalSourceUrl,
-            draft: true, // CRITICAL: Always set draft to true for new articles
+            draft: false, // CRITICAL: Automatic publication - no human review needed
             needs_review: needsReview,
         };
 

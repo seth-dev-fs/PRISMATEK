@@ -1,19 +1,12 @@
 export const revalidate = 60;
 import ArticleCard from '@/components/ArticleCard';
-import { getArticlesByCategory, getArticlesSortedByDate, getAllArticles } from '@/lib/markdown';
+import { getArticlesByCategory, getArticlesSortedByDate, getAllCategories } from '@/lib/markdown';
 import { getCategoryDisplayName } from '@/lib/categories';
 
 export async function generateStaticParams() {
-  const allPosts = getAllArticles(); // Use getAllArticles to get all posts including drafts for category generation
-  const allCategories = new Set<string>();
+  const allCategories = getAllCategories(); // Use getAllCategories to get categories from published articles only
 
-  allPosts.forEach(post => {
-    if (post.category) {
-      allCategories.add(post.category); // Category is already normalized in getAllArticles
-    }
-  });
-
-  return Array.from(allCategories).map(slug => ({
+  return allCategories.map(slug => ({
     slug: slug,
   }));
 }

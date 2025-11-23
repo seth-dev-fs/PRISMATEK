@@ -75,8 +75,45 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     notFound();
   }
 
+  // JSON-LD Structured Data for SEO
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: article.title,
+    description: article.description,
+    image: article.image || 'https://nexora-news.com/og-image.jpg',
+    datePublished: article.date,
+    dateModified: article.date,
+    author: {
+      '@type': 'Organization',
+      name: 'NEXORA News',
+      url: 'https://nexora-news.com',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'NEXORA News',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://nexora-news.com/logo.png',
+      },
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `https://nexora-news.com/noticias/${article.slug}`,
+    },
+    articleSection: getCategoryDisplayName(article.category),
+    keywords: article.tags.join(', '),
+    inLanguage: 'pt-PT',
+  };
+
   return (
     <div className="min-h-screen bg-background">
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       {/* Featured Image Header */}
       {article.image && (
         <div className="relative w-full h-[300px] sm:h-[400px] lg:h-[500px] overflow-hidden mb-8 sm:mb-12">

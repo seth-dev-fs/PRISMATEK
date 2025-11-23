@@ -1,0 +1,7 @@
+# NEXORA News - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://nexoranews.vercel.app/sitemap.xml

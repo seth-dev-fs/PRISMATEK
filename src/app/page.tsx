@@ -5,6 +5,37 @@ import ArticleCard from '@/components/ArticleCard';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import { getArticlesSortedByDate } from '@/lib/markdown';
 import { getCategoryDisplayName } from '@/lib/categories';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'NEXORA News - As Últimas Notícias de Tecnologia em Português',
+  description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais. Conteúdo automatizado de qualidade em português para entusiastas de tech.',
+  keywords: ['tecnologia', 'notícias tech', 'inovação', 'Portugal', 'smartphones', 'IA', 'software'],
+  openGraph: {
+    type: 'website',
+    locale: 'pt_PT',
+    url: 'https://nexora-news.com',
+    siteName: 'NEXORA News',
+    title: 'NEXORA News - As Últimas Notícias de Tecnologia',
+    description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
+    images: [
+      {
+        url: 'https://nexora-news.com/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'NEXORA News',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    site: '@nexoranews',
+    creator: '@nexoranews',
+    title: 'NEXORA News - As Últimas Notícias de Tecnologia',
+    description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
+    images: ['https://nexora-news.com/og-image.jpg'],
+  },
+};
 
 export default async function Home() {
   const allArticles = getArticlesSortedByDate(10); // Limit to 10 for homepage
