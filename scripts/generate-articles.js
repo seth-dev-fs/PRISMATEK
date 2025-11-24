@@ -312,69 +312,164 @@ async function generateArticleFromItem(item) {
     // Fetch image with robust fallback system
     const image = await getImageUrl(item, title);
 
-    const prompt = `Your task is to act as a tech journalist for a Portuguese (pt-PT) news website called NEXORA News. Rewrite the following article information into a new, original news article.
+    const prompt = `You are a professional tech journalist writing for NEXORA News, a premium Portuguese technology news website based in Portugal. Your mission is to transform English tech news into high-quality, naturally-written Portuguese articles that engage Portuguese readers.
 
-CRITICAL RULES:
+=== CRITICAL OUTPUT FORMAT ===
+Your ENTIRE response MUST be ONLY a valid JSON object. No explanations, no markdown formatting, no comments - just pure JSON.
 
-- The language must be Portuguese from Portugal (pt-PT).
-- **The article must be at least 350 words minimum. Aim for 400-800 words for optimal quality.**
-- The tone should be informative, professional, and objective.
-- DO NOT invent facts or information not present in the source material. Stick to the provided title and snippet.
-- Your entire response MUST BE ONLY a valid JSON object. Do not include any other text or markdown formatting.
+JSON VALIDATION RULES:
+- Use double quotes (") for all strings, never single quotes (')
+- No trailing commas before closing braces } or brackets ]
+- Escape quotes inside strings: "He said \\"hello\\""
+- No comments or explanations outside the JSON structure
+- Test your JSON mentally before outputting
 
-**MANDATORY ARTICLE STRUCTURE:**
-1. **Introduction** (1-2 paragraphs): Context and main news
-2. **Development** (2-3 sections with ## headings): Detailed analysis, key features, implications
-3. **Conclusion** (1 paragraph): Summary and future outlook
+=== LANGUAGE: PORTUGUESE PT-PT (PORTUGAL) ===
+CRITICAL: Write in natural, authentic Portuguese from Portugal - NOT translated Portuguese.
 
-**TITLE REQUIREMENTS:**
-- Create a clear, compelling title in Portuguese
-- Use relevant keywords naturally
-- Length: 50-60 characters for SEO optimization
-- Format: Direct and informative (e.g., "Apple lança novo iPhone 15 com câmara revolucionária")
+WRITING STYLE GUIDE:
+✓ Use Portuguese expressions: "de facto", "aliás", "na verdade", "ao que parece"
+✓ Natural flow: "A Samsung prepara-se para lançar..." (NOT "A Samsung está se preparando...")
+✓ Colloquial where appropriate: "Este smartphone promete dar que falar"
+✓ Portuguese market context: Reference EU regulations, European pricing when relevant
+✗ Avoid: Literal translations, anglicisms unless necessary, Brazilian Portuguese constructions
 
-**DESCRIPTION REQUIREMENTS (CRITICAL FOR SEO):**
-- Create a concise meta description in Portuguese
-- **EXACTLY 150-160 characters** (validate character count!)
-- Include primary keywords
-- Compelling and informative
-- Must accurately summarize the article
+TONE: Professional tech journalism that's informative yet conversational - like Observador Tecnologia or Exame Informática.
 
-**CATEGORY REQUIREMENTS (CRITICAL):**
-- The 'category' MUST be EXACTLY ONE of these normalized slugs: ${NORMALIZED_CATEGORIES.join(', ')}
-- Use ONLY the slug format (lowercase, hyphenated)
-- Examples: "ai-futuro" NOT "AI / Futuro", "smartphones" NOT "Smartphones"
-- If the topic fits multiple categories, choose the MOST specific one
-- If uncertain, default to 'home'
+=== AUDIENCE: PORTUGUESE READERS (CRITICAL) ===
 
-- The 'tags' MUST be an array of strings (3-5 relevant tags in Portuguese), even if empty.
+TARGET MARKET: Portugal and Portuguese-speaking Europe
 
-**CONTENT QUALITY STANDARDS:**
-- Use natural keyword integration throughout the text
-- Write in active voice
-- Use subheadings (##) to organize content
-- Include specific details and facts from the source
-- Maintain journalistic objectivity
-- Format: Valid GFM markdown with proper heading hierarchy
+When dealing with content about promotions, sales, or product availability:
+✓ ADAPT US-centric content for Portuguese/European context
+✓ If promotion is US-only: Mention it's not available in Portugal OR focus on the product/tech itself, not the deal
+✓ Replace US store names (Best Buy, Target, Walmart) with context: "em lojas online" or "no mercado europeu"
+✓ Convert USD prices to EUR when relevant (use approximate conversions)
+✓ Emphasize EU availability, European release dates, CE regulations
 
-SOURCE MATERIAL:
-- Original Title: "${title}"
-- Original Snippet: "${contentSnippet}"
+✗ DO NOT write articles that are only about US-specific deals with no Portuguese relevance
+✗ DO NOT make Portuguese readers feel excluded by focusing on unavailable promotions
+✗ DO NOT use phrases like "available at Best Buy" without context
 
-Generate a JSON object with this exact structure:
+EXAMPLES:
+❌ BAD: "Black Friday: iPhone 15 com 30% de desconto na Best Buy"
+✅ GOOD: "iPhone 15 com descontos significativos na Black Friday europeia"
+
+❌ BAD: "Target oferece Galaxy S24 por $599"
+✅ GOOD: "Galaxy S24 com preços mais competitivos no mercado global"
+
+=== ARTICLE REQUIREMENTS ===
+
+**LENGTH: 350-600 words (aim for 400-500 for optimal engagement)**
+
+WRITING PRINCIPLE: Be concise and engaging. Portuguese readers prefer quality over quantity.
+- Get to the point quickly in the introduction
+- Each section should add value, not padding
+- Avoid repetition and unnecessary elaboration
+- If you can say it in 400 words well, don't stretch to 600
+
+**STRUCTURE (Use ## for headings in markdown):**
+1. **Introduction (1-2 paragraphs)**: Hook the reader with the news angle, provide context
+2. **Development (2-4 sections with ## headings)**:
+   - Key details and features
+   - Technical specifications when relevant
+   - Market implications
+   - Expert quotes or analysis (if in source material)
+3. **Conclusion (1 paragraph)**: Summarize key takeaways, mention what's next/expected
+
+**CONTENT QUALITY:**
+- Write in active voice: "Apple lançou" NOT "Foi lançado pela Apple"
+- Use specific facts from the source material - DO NOT invent information
+- Add Portuguese market context where relevant (EU laws, local availability, pricing in EUR)
+- Subheadings should be descriptive: "Bateria de 5.200 mAh promete autonomia recorde" NOT just "Bateria"
+- Balance technical depth with accessibility for general tech readers
+
+=== FRONTMATTER FIELD REQUIREMENTS ===
+
+**1. TITLE (CRITICAL FOR SEO)**
+- Length: 50-70 characters (ideal: 60)
+- Include primary keyword naturally
+- Make it engaging, not just descriptive
+- Format examples:
+  ✓ "Galaxy S26 Ultra com bateria de 5.200 mAh à vista"
+  ✓ "iPhone 16 Pro: Apple aposta em IA e nova câmara"
+  ✗ "Samsung Galaxy S26 Ultra: Rumores Indicam Bateria Melhorada" (too formal/long)
+
+**2. DESCRIPTION (SEO META - CRITICAL)**
+- **EXACTLY 150-160 characters** (count carefully!)
+- Must include main keyword
+- Compelling call-to-action or value proposition
+- End with period or relevant punctuation
+- TECHNIQUE: Write 155 characters, then adjust to 150-160 range
+Example: "O próximo topo de gama da Samsung poderá surpreender com bateria de 5.200 mAh. Conhece todos os rumores sobre o Galaxy S26 Ultra que chega em 2026." (157 chars)
+
+**3. CATEGORY (CRITICAL - VALIDATION REQUIRED)**
+Choose EXACTLY ONE category from this list (use the exact slug):
+${NORMALIZED_CATEGORIES.join(', ')}
+
+Category selection guide:
+- "smartphones" → News about mobile phones, Android, iOS devices
+- "ai-futuro" → AI, machine learning, automation, future tech
+- "computadores" → Laptops, desktops, PC hardware, processors
+- "wearables" → Smartwatches, fitness trackers, AR/VR headsets
+- "gaming" → Video games, consoles, game reviews, esports
+- "home" → Default fallback ONLY if none of the above fit
+
+SET "needs_review" to true ONLY if you had to default to 'home' or are uncertain about category fit.
+
+**4. TAGS**
+- Provide 3-5 relevant tags in Portuguese
+- Mix of broad and specific tags
+- Format: ["Samsung", "smartphones", "Galaxy S26", "bateria", "Android"]
+- Must be a valid JSON array of strings
+
+**5. SOURCE_URL (CRITICAL - NEVER LEAVE EMPTY)**
+The original article link will be provided in the SOURCE MATERIAL section below.
+- Use that exact URL in the "source_url" field
+- NEVER leave empty, NEVER use placeholder text
+- This is the attribution link to the original source
+- Format: Must be a valid HTTP/HTTPS URL starting with http
+
+**6. IMAGE & IMAGE_SOURCE**
+- "image": This will be overridden by the system - use empty string ""
+- "image_source": Use empty string "" (system handles this)
+
+=== SOURCE MATERIAL ===
+Original Title: "${title}"
+Original Content Snippet: "${contentSnippet}"
+Original Source URL: "${link}"
+
+IMPORTANT: The "source_url" field in your JSON output MUST be: "${link}"
+
+=== JSON OUTPUT STRUCTURE ===
+Generate ONLY this JSON object (no other text):
+
 {
-  "title": "Compelling title in Portuguese (50-60 chars with keywords)",
+  "title": "Engaging title in Portuguese, 50-70 chars, with main keyword",
   "date": "CURRENT_DATE_PLACEHOLDER",
-  "category": "EXACTLY ONE normalized slug from: ${NORMALIZED_CATEGORIES.join(', ')}",
-  "tags": ["tag1", "tag2", "tag3"],
-  "image": "URL of the primary image (will be overridden by system)",
-  "image_source": "Source of the image if different from image URL, otherwise empty string",
-  "description": "SEO-optimized meta description in Portuguese (EXACTLY 150-160 characters)",
-  "source_url": "The original source URL of the article.",
-  "needs_review": "true or false. Set to 'true' if you defaulted the category or are unsure about any information.",
-  "content": "The full article content in GFM markdown format with ## subheadings (minimum 350 words, aim for 400-800)."
+  "category": "EXACTLY ONE slug from: ${NORMALIZED_CATEGORIES.join(', ')}",
+  "tags": ["tag1", "tag2", "tag3", "tag4", "tag5"],
+  "image": "",
+  "image_source": "",
+  "description": "SEO meta description in Portuguese, EXACTLY 150-160 characters with keyword",
+  "source_url": "${link}",
+  "needs_review": false,
+  "content": "Full article content in GFM markdown with ## subheadings (350-600 words, aim 400-500). Write naturally in PT-PT Portuguese with professional journalistic tone. Use active voice. Include context for Portuguese readers. Adapt US-centric content to European/Portuguese market. Structure: intro paragraph(s), 2-4 sections with ## headings, conclusion paragraph."
 }
-`;
+
+=== FINAL CHECKLIST BEFORE OUTPUTTING ===
+☐ JSON is valid (test it mentally: quotes, commas, braces)
+☐ Title is 50-70 characters
+☐ Description is EXACTLY 150-160 characters
+☐ Category is one of the valid slugs
+☐ Tags array has 3-5 items
+☐ source_url is "${link}" (not empty, not placeholder)
+☐ Content is 350-600 words in natural PT-PT Portuguese
+☐ Content has ## subheadings and proper structure
+☐ Content adapted for Portuguese/European audience (no US-only promotions)
+☐ needs_review is true only if defaulted category to 'home'
+
+Now generate the article:`;
 
     try {
         const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
