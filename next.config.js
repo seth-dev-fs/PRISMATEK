@@ -157,6 +157,34 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
+      // WordPress CDN (used by 9to5Mac, etc.)
+      {
+        protocol: 'https',
+        hostname: 'i0.wp.com',
+        port: '',
+        pathname: '/**',
+      },
+      // TechCrunch
+      {
+        protocol: 'https',
+        hostname: 'techcrunch.com',
+        port: '',
+        pathname: '/**',
+      },
+      // GSMArena CDN
+      {
+        protocol: 'https',
+        hostname: 'fdn.gsmarena.com',
+        port: '',
+        pathname: '/**',
+      },
+      // 9to5Mac
+      {
+        protocol: 'https',
+        hostname: '9to5mac.com',
+        port: '',
+        pathname: '/**',
+      },
       // Placeholder images
       {
         protocol: 'https',
