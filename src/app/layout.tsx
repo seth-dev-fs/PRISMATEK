@@ -36,14 +36,15 @@ export const metadata: Metadata = {
     siteName: 'NEXORA News',
     title: 'NEXORA News - Portal de Tecnologia em Portugal',
     description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
-    images: [
-      {
-        url: '/og-image.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'NEXORA News - Portal de Tecnologia',
-      },
-    ],
+    // TODO: Add OG image (1200x630px) to public/og-image.jpg
+    // images: [
+    //   {
+    //     url: '/og-image.jpg',
+    //     width: 1200,
+    //     height: 630,
+    //     alt: 'NEXORA News - Portal de Tecnologia',
+    //   },
+    // ],
   },
   twitter: {
     card: 'summary_large_image',
@@ -51,7 +52,8 @@ export const metadata: Metadata = {
     creator: '@nexoranews',
     title: 'NEXORA News - Portal de Tecnologia em Portugal',
     description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
-    images: ['/twitter-image.jpg'],
+    // TODO: Add Twitter image (1200x630px) to public/twitter-image.jpg
+    // images: ['/twitter-image.jpg'],
   },
   robots: {
     index: true,

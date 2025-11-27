@@ -637,17 +637,46 @@ Now generate the article:`;
             articleData.source_url.startsWith('http')) {
             finalSourceUrl = articleData.source_url;
         }
+
+        // CRITICAL: Additional validation to catch placeholder URLs from Gemini
+        if (finalSourceUrl.includes('example.com') ||
+            finalSourceUrl.includes('placeholder') ||
+            finalSourceUrl.includes('source-url-here') ||
+            !finalSourceUrl.startsWith('http')) {
+            finalSourceUrl = link; // Force RSS link
+            log(`[CRITICAL] Invalid source_url detected from Gemini. Forcing RSS link: ${link}`, 'error');
+            needsReview = true;
+        }
+
         finalSourceUrl = normalizeUrl(finalSourceUrl);
 
-        // CRITICAL: Validate description length for SEO (150-160 characters)
+        // CRITICAL: Validate and enforce description length for SEO (150-160 characters)
         let finalDescription = articleData.description || '';
+
         if (finalDescription.length < 150 || finalDescription.length > 160) {
-            log(`[WARN] Description length is ${finalDescription.length} chars (should be 150-160). Truncating or padding...`, 'warn');
+            log(`[WARN] Description length is ${finalDescription.length} chars (should be 150-160). Auto-correcting...`, 'warn');
+
             if (finalDescription.length > 160) {
+                // Truncate to 157 chars + "..." = 160 chars total
                 finalDescription = finalDescription.substring(0, 157) + '...';
+                log(`[INFO] Description truncated to 160 chars.`);
             } else if (finalDescription.length < 150 && finalDescription.length > 0) {
-                // Keep as is if it's close enough, otherwise flag for review
-                needsReview = true;
+                // Try to extend with first sentence from content
+                const contentFirstSentence = articleData.content.split('.')[0] + '.';
+                const extended = `${finalDescription} ${contentFirstSentence}`;
+
+                if (extended.length >= 150 && extended.length <= 160) {
+                    finalDescription = extended;
+                    log(`[INFO] Description extended to ${extended.length} chars using content.`);
+                } else if (extended.length > 160) {
+                    // Truncate extended version
+                    finalDescription = extended.substring(0, 157) + '...';
+                    log(`[INFO] Description extended and truncated to 160 chars.`);
+                } else {
+                    // Still too short even with extension - flag for review
+                    needsReview = true;
+                    log(`[WARN] Description too short (${finalDescription.length}) even after extension. Flagged for review.`, 'warn');
+                }
             }
         }
 

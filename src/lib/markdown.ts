@@ -6,6 +6,30 @@ import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
+// Cache system for articles (critical performance improvement)
+let articlesCache: ArticleMeta[] | null = null;
+let cacheTimestamp: number = 0;
+const CACHE_TTL = process.env.NODE_ENV === 'development' ? 60000 : Infinity; // 1 min in dev, infinite in prod
+
+function isCacheValid(): boolean {
+  if (process.env.NODE_ENV === 'production') {
+    // In production, cache is valid until explicitly invalidated
+    return articlesCache !== null;
+  }
+  // In development, cache expires after TTL
+  return articlesCache !== null && (Date.now() - cacheTimestamp) < CACHE_TTL;
+}
+
+/**
+ * Invalidates the articles cache.
+ * Call this after new articles are added or existing ones are modified.
+ */
+export function invalidateArticlesCache(): void {
+  articlesCache = null;
+  cacheTimestamp = 0;
+  console.log('[Cache] Articles cache invalidated');
+}
+
 /**
  * Calculates estimated reading time in minutes based on word count.
  * Average reading speed: 200 words per minute.
@@ -44,8 +68,17 @@ export function normalizeCategoryToSlug(category: string): string {
 }
 
 export function getAllArticles(): ArticleMeta[] {
+  // Return cached data if valid (CRITICAL: Massive performance improvement)
+  if (isCacheValid() && articlesCache) {
+    return articlesCache;
+  }
+
+  console.log('[Cache] Rebuilding articles cache...');
+
   if (!fs.existsSync(postsDirectory)) {
     console.warn(`Posts directory not found: ${postsDirectory}`);
+    articlesCache = [];
+    cacheTimestamp = Date.now();
     return [];
   }
 
@@ -54,6 +87,8 @@ export function getAllArticles(): ArticleMeta[] {
     fileNames = fs.readdirSync(postsDirectory);
   } catch (error) {
     console.error(`Error reading posts directory: ${error}`);
+    articlesCache = [];
+    cacheTimestamp = Date.now();
     return [];
   }
 
@@ -146,6 +181,11 @@ export function getAllArticles(): ArticleMeta[] {
       }
     })
     .filter((article): article is ArticleMeta => article !== null);
+
+  // Update cache (CRITICAL: Cache for next calls)
+  articlesCache = allArticlesData;
+  cacheTimestamp = Date.now();
+  console.log(`[Cache] Cached ${allArticlesData.length} articles`);
 
   return allArticlesData;
 }
