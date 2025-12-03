@@ -27,8 +27,8 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
           focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background
         "
       >
-        {/* Image Container with Premium Effects */}
-        <div className="relative w-full aspect-[16/9] overflow-hidden bg-gradient-to-br from-primary/5 via-card to-primary/10">
+        {/* Image Container - SIMPLIFIED FOR DEBUGGING */}
+        <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
           {article.image ? (
             <>
               {/* Use regular img tag for local SVGs, Next Image for everything else */}
@@ -37,30 +37,18 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
                 <img
                   src={article.image}
                   alt={article.title}
-                  className="
-                    absolute inset-0 w-full h-full object-cover
-                    transition-all duration-500 ease-smooth
-                    group-hover/card:scale-105
-                    brightness-95 group-hover/card:brightness-100
-                  "
+                  className="w-full h-full object-cover"
                 />
               ) : (
                 <Image
                   src={article.image}
                   alt={article.title}
                   fill
-                  style={{ objectFit: 'cover' }}
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  loading="lazy"
-                  className="
-                    transition-all duration-500 ease-smooth
-                    group-hover/card:scale-105
-                    brightness-95 group-hover/card:brightness-100
-                  "
+                  className="object-cover"
+                  priority={false}
                 />
               )}
-              {/* Gradient Overlay for better text contrast on badge */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-black/10 opacity-60 group-hover/card:opacity-40 transition-opacity duration-300" />
             </>
           ) : (
             <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary/10 via-primary/5 to-transparent">
