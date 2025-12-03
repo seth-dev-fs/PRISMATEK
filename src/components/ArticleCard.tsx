@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 import { ArticleMeta, getArticleFreshness } from '@/lib/markdown';
 import { getCategoryDisplayName } from '@/lib/categories';
@@ -27,29 +26,16 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
           focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background
         "
       >
-        {/* Image Container - SIMPLIFIED FOR DEBUGGING */}
+        {/* Image Container - NATIVE IMG ONLY */}
         <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
           {article.image ? (
-            <>
-              {/* Use regular img tag for local SVGs, Next Image for everything else */}
-              {article.image.startsWith('/') && article.image.endsWith('.svg') ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img
-                  src={article.image}
-                  alt={article.title}
-                  className="w-full h-full object-cover"
-                />
-              ) : (
-                <Image
-                  src={article.image}
-                  alt={article.title}
-                  fill
-                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  className="object-cover"
-                  priority={false}
-                />
-              )}
-            </>
+            // eslint-disable-next-line @next/next/no-img-element
+            <img
+              src={article.image}
+              alt={article.title}
+              className="w-full h-full object-cover"
+              loading="lazy"
+            />
           ) : (
             <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary/10 via-primary/5 to-transparent">
               <svg
