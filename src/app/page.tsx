@@ -1,4 +1,4 @@
-export const revalidate = 60;
+export const revalidate = 3600; // 1 hour - optimized for CPU usage
 import Image from 'next/image';
 import Link from 'next/link';
 import ArticleCard from '@/components/ArticleCard';

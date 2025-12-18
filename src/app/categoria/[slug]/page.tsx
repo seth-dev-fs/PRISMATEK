@@ -1,4 +1,4 @@
-export const revalidate = 60;
+export const revalidate = 3600; // 1 hour - optimized for CPU usage
 import ArticleCard from '@/components/ArticleCard';
 import { getArticlesByCategory, getArticlesSortedByDate, getAllCategories } from '@/lib/markdown';
 import { getCategoryDisplayName } from '@/lib/categories';
