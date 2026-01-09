@@ -124,6 +124,7 @@ export function getAllArticles(): ArticleMeta[] {
 
         let processedContent: string;
         try {
+          // Process markdown to HTML (remark-html v16 doesn't sanitize by default)
           const result = remark().use(html).processSync(content);
           processedContent = result.toString();
         } catch (error) {
