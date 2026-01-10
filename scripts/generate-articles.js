@@ -509,80 +509,55 @@ async function generateArticleFromItem(item) {
     // Fetch image with robust fallback system
     const image = await getImageUrl(item, title);
 
-    const prompt = `És jornalista tech especializado no mercado português/europeu escrevendo para NEXORA News.
+    const prompt = `És jornalista tech para NEXORA News. Escreve artigos CURTOS e DIRETOS para leitura rápida.
 
 FONTE:
 Título: "${title}"
 Conteúdo: "${contentSnippet}"
 URL: "${link}"
 
-TAREFA: Artigo 800-1000 palavras em português europeu (PT-PT).
+TAREFA: Artigo 300-400 palavras MÁXIMO em português PT-PT.
 
-ESTRUTURA OBRIGATÓRIA:
-1. Intro (2 parágrafos: o quê + porquê importa para PT/UE)
-2. Desenvolvimento (3-4 secções com ## headings, cada uma 2-3 parágrafos)
-3. Conclusão (1 parágrafo: impacto para mercado português)
+ESTRUTURA (SIMPLES):
+1. Intro (1 parágrafo: resumo do que aconteceu)
+2. Desenvolvimento (2 secções curtas com ## headings)
+3. Conclusão (1 parágrafo: impacto para PT)
 
-CONTEXTO PT/UE OBRIGATÓRIO EM CADA ARTIGO:
-✓ Disponibilidade em Portugal/Europa (quando lançar, onde comprar)
-✓ Preço em EUR (converter USD se necessário, ~0.92 ratio)
-✓ Alternativas disponíveis em PT (marcas/produtos locais)
-✓ Impacto regulatório UE (GDPR, DSA, DMA se relevante)
-✓ Comparação com mercado português (ex: "Em Portugal, X é mais popular que Y")
+CONTEXTO PT OBRIGATÓRIO:
+✓ Preço em EUR (se aplicável, converter USD com ratio ~0.92)
+✓ Disponibilidade em PT/Europa (quando/onde)
+✓ Impacto local (comparação com mercado PT, regulação UE)
 
-EXEMPLOS CONTEXTO PT:
-✓ "O produto chegará a Portugal em Março por €999, disponível na Worten e Fnac"
-✓ "Comparado com o Galaxy S24 (€849 em Portugal), o preço é competitivo"
-✓ "A regulação GDPR da UE obriga a que..."
-✗ "Available at Best Buy for $799" (SEM contexto PT)
+EXEMPLOS:
+✓ "Chegará a Portugal em Março por €999 (Worten, Fnac)"
+✓ "Vs. Galaxy S24 (€849 PT), é 18% mais caro"
+✓ "GDPR obriga X a fazer Y na UE"
+✗ "Available at Best Buy for $799"
 
 TOM:
-✓ Profissional mas acessível
-✓ Crítico quando necessário (sem hype gratuito)
-✓ Baseado em factos, não especulação
-✓ Natural PT-PT: "prepara-se para", "de facto", "ao que parece"
-✗ Sem tradução literal inglês
-✗ Sem "pode ser interessante" (vago)
-✗ Sem clickbait ou sensacionalismo
+✓ Direto e factual
+✓ Sem fluff ou enchimento
+✓ Crítico quando relevante
+✗ Sem hype ou clickbait
+✗ SEM imagens intercaladas no texto
 
-IMAGENS NO CONTEÚDO (NOVO - CRÍTICO):
-- Adicionar 2-3 imagens relevantes intercaladas no corpo do artigo
-- Usar markdown: ![descrição alt](URL_imagem)
-- Fontes sugeridas:
-  * Unsplash (grátis): https://images.unsplash.com/photo-XXXXXXX?w=1200
-  * Imagens do artigo original (se disponíveis)
-- Colocar imagens APÓS secções para quebrar texto
-- Alt text descritivo em português
-
-EXEMPLO ESTRUTURA COM IMAGENS:
-## Primeira Secção
-Texto aqui... 2-3 parágrafos.
-
-![iPhone 16 Pro em destaque com câmara visível](https://images.unsplash.com/photo-1234567890?w=1200)
-
-## Segunda Secção
-Texto aqui... 2-3 parágrafos.
-
-![Comparação de smartphones lado a lado](https://images.unsplash.com/photo-0987654321?w=1200)
-
-RESPONDE APENAS COM JSON (sem \`\`\`json, sem explicações):
+RESPONDE APENAS COM JSON (sem \`\`\`json):
 {
-  "title": "Título SEO 50-70 chars com keyword",
-  "description": "Meta description 150-160 chars COM keyword e contexto PT",
+  "title": "Título SEO 50-70 chars",
+  "description": "Meta 150-160 chars com contexto PT",
   "category": "uma de: ${NORMALIZED_CATEGORIES.join(', ')}",
   "tags": ["tag1", "tag2", "tag3", "tag4"],
   "source_url": "${link}",
   "needs_review": false,
-  "content": "ARTIGO COMPLETO 800-1000 palavras em markdown com ## headings, imagens ![](URL) intercaladas, e contexto PT/UE obrigatório"
+  "content": "ARTIGO 300-400 palavras em markdown com ## headings e contexto PT"
 }
 
-CHECKLIST ANTES DE RESPONDER:
-☐ Artigo tem 800-1000 palavras
-☐ Tem 2-3 imagens intercaladas no texto
-☐ Contexto PT/UE presente (preços EUR, disponibilidade, regulação)
-☐ JSON válido (quotes, commas corretas)
-☐ Description 150-160 chars
-☐ source_url é "${link}"`;
+CHECKLIST:
+☐ 300-400 palavras (NÃO MAIS)
+☐ 2 secções com ## headings
+☐ Contexto PT presente
+☐ JSON válido
+☐ Description 150-160 chars`;
 
 
     try {
