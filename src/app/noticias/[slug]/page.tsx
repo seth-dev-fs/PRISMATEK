@@ -128,11 +128,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Premium Hero Image Header - Fullscreen with Overlay Title */}
+      {/* Hero Image - Clear and Visible */}
       {article.image && (
         <div className="relative w-full mb-12 sm:mb-16 lg:mb-20">
           {/* Image Container */}
-          <div className="relative w-full h-[400px] sm:h-[500px] lg:h-[600px] overflow-hidden">
+          <div className="relative w-full h-[400px] sm:h-[500px] lg:h-[600px] overflow-hidden rounded-2xl">
             <Image
               src={article.image}
               alt={article.title}
@@ -140,11 +140,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
               style={{ objectFit: 'cover' }}
               sizes="100vw"
               priority
-              className="brightness-[0.85] dark:brightness-75"
+              className=""
             />
-            {/* Premium Multi-layer Gradient */}
-            <div className="absolute inset-0 bg-gradient-to-t from-background via-background/60 to-transparent" />
-            <div className="absolute inset-0 bg-gradient-to-r from-background/40 via-transparent to-transparent" />
           </div>
 
           {/* Unsplash Attribution - Subtle Positioning */}
@@ -176,14 +173,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         </div>
       )}
 
-      {/* Article Content - Premium Reading Experience */}
+      {/* Article Content - Clean Reading Experience */}
       <article className="container mx-auto px-4 sm:px-6 pb-20 sm:pb-24 lg:pb-28">
-        <div className={`max-w-4xl mx-auto ${!article.image ? 'pt-12 sm:pt-16 lg:pt-20' : '-mt-32 sm:-mt-40 lg:-mt-48 relative z-10'}`}>
-          {/* Article Header - Premium Card Design */}
-          <header className={`
-            ${article.image ? 'bg-background/98 dark:bg-background/95 backdrop-blur-xl p-8 sm:p-10 lg:p-12 rounded-3xl shadow-elevation-4 mb-12 sm:mb-16' : 'mb-12 sm:mb-16'}
-            animate-fade-in-up
-          `}>
+        <div className="max-w-4xl mx-auto pt-8 sm:pt-12 lg:pt-16">
+          {/* Article Header - Clean Design */}
+          <header className="mb-12 sm:mb-16 animate-fade-in-up">
             {/* Category Badge */}
             {article.category && (
               <div className="mb-5 sm:mb-6 animate-fade-in">
