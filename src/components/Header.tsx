@@ -62,7 +62,7 @@ export default function Header() {
             {/* Logo */}
             <Link
               href="/"
-              className="text-xl sm:text-2xl font-extrabold text-foreground hover:text-primary transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-sm"
+              className="text-xl sm:text-2xl font-extrabold text-foreground hover:text-primary transition-colors duration-200 focus:outline-none"
               aria-label="NEXORA News - Página Inicial"
             >
               NEXORA News
