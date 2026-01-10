@@ -185,6 +185,37 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
+      // Portuguese Tech News Sites
+      {
+        protocol: 'https',
+        hostname: 'pplware.sapo.pt',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdn.4gnews.pt',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: '4gnews.pt',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'tek.sapo.pt',
+        port: '',
+        pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.zwame.pt',
+        port: '',
+        pathname: '/**',
+      },
       // Placeholder images
       {
         protocol: 'https',
