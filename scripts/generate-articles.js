@@ -247,10 +247,12 @@ function hasLogoInImageUrl(imageUrl) {
 
     const urlLower = imageUrl.toLowerCase();
     const logoPatterns = [
-        'logo', 'watermark', 'brand', 'badge',
+        'logo', 'watermark', 'brand', 'badge', 'icon',
         'techcrunch', 'theverge', 'engadget',
         'arstechnica', 'wired', 'cnet', 'zdnet',
-        'gizmodo', 'verge', 'mashable'
+        'gizmodo', 'verge', 'mashable',
+        'gsmarena', 'phonearena', 'androidauthority',
+        'sammobile', 'notebookcheck', 'header', 'banner'
     ];
 
     for (const pattern of logoPatterns) {

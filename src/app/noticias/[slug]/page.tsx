@@ -128,20 +128,22 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* Hero Image - Clear and Visible */}
+      {/* Hero Image - Optimized and Elegant */}
       {article.image && (
-        <div className="relative w-full mb-12 sm:mb-16 lg:mb-20">
-          {/* Image Container */}
-          <div className="relative w-full h-[400px] sm:h-[500px] lg:h-[600px] overflow-hidden rounded-2xl">
+        <div className="container mx-auto px-4 sm:px-6 mb-8 sm:mb-12">
+          {/* Image Container - Centered with max width */}
+          <div className="relative w-full max-w-4xl mx-auto h-[300px] sm:h-[400px] lg:h-[480px] overflow-hidden rounded-xl shadow-lg">
             <Image
               src={article.image}
               alt={article.title}
               fill
               style={{ objectFit: 'cover' }}
-              sizes="100vw"
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
               priority
-              className=""
+              className="hover:scale-105 transition-transform duration-500"
             />
+            {/* Subtle overlay for better contrast */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent pointer-events-none" />
           </div>
 
           {/* Unsplash Attribution - Subtle Positioning */}
