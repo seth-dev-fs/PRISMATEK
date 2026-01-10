@@ -1,17 +1,21 @@
 ---
-title: "Alexa em Casa: 5 Gadgets Essenciais para um Lar Mais Inteligente"
-date: "2025-12-31T10:20:36.138Z"
-category: "home"
+title: 'Alexa em Casa: 5 Gadgets Essenciais para um Lar Mais Inteligente'
+date: '2025-12-31T10:20:36.138Z'
+category: home
 tags:
   - Alexa
   - Amazon Echo
   - casa inteligente
   - domótica
   - gadgets
-image: "https://i.blogs.es/e4bfa9/dispositivos-amazon-con-alexa/840_560.jpeg"
-image_source: "rss"
-description: "Descubra cinco dispositivos Amazon com Alexa que transformam qualquer casa num lar inteligente. Desde altifalantes Echo a soluções de entretenimento e segura..."
-source_url: "https://www.xataka.com/seleccion/cinco-dispositivos-alexa-que-perfectos-como-regalo-reyes"
+image: 'https://i.blogs.es/e4bfa9/dispositivos-amazon-con-alexa/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra cinco dispositivos Amazon com Alexa que transformam qualquer casa num
+  lar inteligente. Desde altifalantes Echo a soluções de entretenimento e
+  segura.
+source_url: >-
+  https://www.xataka.com/seleccion/cinco-dispositivos-alexa-que-perfectos-como-regalo-reyes
 draft: false
 needs_review: true
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "M5 MacBook Pro vs. M4 Air: Qual o melhor investimento Apple?"
-date: "2025-11-26T20:36:47.779Z"
-category: "computadores"
+title: 'M5 MacBook Pro vs. M4 Air: Qual o melhor investimento Apple?'
+date: '2025-11-26T20:36:47.779Z'
+category: computadores
 tags:
   - Apple
   - MacBook
   - M4
   - M5
   - portáteis
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/macbooks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Com os novos chips M4 e M5 a aproximar-se, a escolha entre MacBook Air e Pro da Apple é crucial. Analisamos qual portátil oferece o melhor valor para o merca..."
-source_url: "https://9to5mac.com/2025/11/26/m5-macbook-pro-vs-m4-macbook-air-black-friday-holiday-comparison"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/macbooks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Com os novos chips M4 e M5 a aproximar-se, a escolha entre MacBook Air e Pro
+  da Apple é crucial. Analisamos qual portátil oferece o melhor valor para o
+  merca.
+source_url: >-
+  https://9to5mac.com/2025/11/26/m5-macbook-pro-vs-m4-macbook-air-black-friday-holiday-comparison
 draft: false
 needs_review: false
 photographer_name: undefined

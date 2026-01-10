@@ -1,17 +1,20 @@
 ---
-title: "Dreame V20 Pro: A revolução na limpeza de bordas sem esforço"
-date: "2025-12-27T08:22:54.369Z"
-category: "home"
+title: 'Dreame V20 Pro: A revolução na limpeza de bordas sem esforço'
+date: '2025-12-27T08:22:54.369Z'
+category: home
 tags:
   - Dreame
   - aspirador
   - limpeza
   - tecnologia
   - casa inteligente
-image: "https://cdn.mos.cms.futurecdn.net/N3FNHXQoqDmdYmFb25pAVY-1280-80.jpg"
-image_source: "rss"
-description: "O Dreame V20 Pro promete transformar a limpeza doméstica com a sua tecnologia inovadora. Descubra como este aspirador sem fios redefine a eficácia, especialm..."
-source_url: "https://www.techradar.com/home/vacuums/dreame-v20-pro-review"
+image: 'https://cdn.mos.cms.futurecdn.net/N3FNHXQoqDmdYmFb25pAVY-1280-80.jpg'
+image_source: rss
+description: >-
+  O Dreame V20 Pro promete transformar a limpeza doméstica com a sua tecnologia
+  inovadora. Descubra como este aspirador sem fios redefine a eficácia,
+  especialm.
+source_url: 'https://www.techradar.com/home/vacuums/dreame-v20-pro-review'
 draft: false
 needs_review: true
 photographer_name: undefined

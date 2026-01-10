@@ -1,17 +1,21 @@
 ---
-title: "Dell: Empresas tardam na adoção do Windows 11 e vendas de PCs estagnam"
-date: "2025-11-30T20:39:57.305Z"
-category: "computadores"
+title: 'Dell: Empresas tardam na adoção do Windows 11 e vendas de PCs estagnam'
+date: '2025-11-30T20:39:57.305Z'
+category: computadores
 tags:
   - Dell
   - Windows 11
   - PCs
   - empresas
   - atualização
-image: "https://cdn.mos.cms.futurecdn.net/wxW4z3HCBFVkrjneNTsRcK-1280-80.jpg"
-image_source: "rss"
-description: "A Dell revela que a adoção do Windows 11 pelas empresas está mais lenta do que o esperado, impactando as vendas de PCs a nível global. Saiba porquê. A gigant..."
-source_url: "https://www.techradar.com/pro/security/dell-says-businesses-still-arent-moving-to-windows-11-fast-enough-pc-maker-says-sales-will-be-flat-as-many-stick-with-windows-10"
+image: 'https://cdn.mos.cms.futurecdn.net/wxW4z3HCBFVkrjneNTsRcK-1280-80.jpg'
+image_source: rss
+description: >-
+  A Dell revela que a adoção do Windows 11 pelas empresas está mais lenta do que
+  o esperado, impactando as vendas de PCs a nível global. Saiba porquê. A
+  gigant.
+source_url: >-
+  https://www.techradar.com/pro/security/dell-says-businesses-still-arent-moving-to-windows-11-fast-enough-pc-maker-says-sales-will-be-flat-as-many-stick-with-windows-10
 draft: false
 needs_review: false
 photographer_name: undefined

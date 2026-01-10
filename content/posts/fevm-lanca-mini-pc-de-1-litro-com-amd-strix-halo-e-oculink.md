@@ -1,17 +1,22 @@
 ---
-title: "FEVM lança mini PC de 1 litro com AMD Strix Halo e OCuLink"
-date: "2025-12-11T08:27:25.145Z"
-category: "computadores"
+title: FEVM lança mini PC de 1 litro com AMD Strix Halo e OCuLink
+date: '2025-12-11T08:27:25.145Z'
+category: computadores
 tags:
   - mini PC
   - FEVM FAEX1
   - AMD Strix Halo
   - Ryzen AI
   - OCuLink
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FEVM-FAEX1-launched-in-CHina.jpg"
-image_source: "rss"
-description: "Descobre o FEVM FAEX1, um mini PC de 1 litro que integra o potente AMD Strix Halo, até 128GB RAM e OCuLink, ideal para alta performance em Portugal. A FEVM, ..."
-source_url: "https://www.notebookcheck.net/FEVM-intros-new-1-liter-mini-PC-with-top-end-AMD-Strix-Halo-APU-and-OCuLink.1183176.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FEVM-FAEX1-launched-in-CHina.jpg
+image_source: rss
+description: >-
+  Descobre o FEVM FAEX1, um mini PC de 1 litro que integra o potente AMD Strix
+  Halo, até 128GB RAM e OCuLink, ideal para alta performance em Portugal. A
+  FEVM,.
+source_url: >-
+  https://www.notebookcheck.net/FEVM-intros-new-1-liter-mini-PC-with-top-end-AMD-Strix-Halo-APU-and-OCuLink.1183176.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

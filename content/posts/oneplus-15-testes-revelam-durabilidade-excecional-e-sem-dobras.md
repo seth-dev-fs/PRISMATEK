@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15: Testes Revelam Durabilidade Excecional e Sem Dobras"
-date: "2025-11-24T08:48:56.784Z"
-category: "smartphones"
+title: 'OnePlus 15: Testes Revelam Durabilidade Excecional e Sem Dobras'
+date: '2025-11-24T08:48:56.784Z'
+category: smartphones
 tags:
   - OnePlus 15
   - durabilidade
   - smartphones
   - JerryRigEverything
   - resistência
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg"
-description: "O OnePlus 15 é o smartphone mais resistente à venda? Testes rigorosos de JerryRigEverything provam que o flagship não dobra, mesmo com uma câmara de vapor. D..."
-source_url: "https://www.nexoranews.pt/tecnologia/oneplus-15-durabilidade-extrema"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg
+description: >-
+  O OnePlus 15 é o smartphone mais resistente à venda? Testes rigorosos de
+  JerryRigEverything provam que o flagship não dobra, mesmo com uma câmara de
+  vapor. D.
+source_url: 'https://www.nexoranews.pt/tecnologia/oneplus-15-durabilidade-extrema'
 draft: false
 needs_review: false
 ---

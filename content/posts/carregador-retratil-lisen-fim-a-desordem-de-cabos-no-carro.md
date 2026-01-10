@@ -1,17 +1,21 @@
 ---
-title: "Carregador Retrátil LISEN: Fim à desordem de cabos no carro"
-date: "2025-12-02T18:59:45.461Z"
-category: "mobilidade"
+title: 'Carregador Retrátil LISEN: Fim à desordem de cabos no carro'
+date: '2025-12-02T18:59:45.461Z'
+category: mobilidade
 tags:
   - carregador automóvel
   - LISEN
   - acessórios automóvel
   - carregamento USB
   - gadgets
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/LISEN-Retractable-Car-Charger.jpg"
-image_source: "rss"
-description: "Cansado de cabos emaranhados no carro? O carregador retrátil LISEN promete conveniência e carregamento rápido para os seus dispositivos em Portugal. Para mui..."
-source_url: "https://www.androidauthority.com/lisen-retractable-car-charger-deal-3621059"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/LISEN-Retractable-Car-Charger.jpg
+image_source: rss
+description: >-
+  Cansado de cabos emaranhados no carro? O carregador retrátil LISEN promete
+  conveniência e carregamento rápido para os seus dispositivos em Portugal. Para
+  mui.
+source_url: 'https://www.androidauthority.com/lisen-retractable-car-charger-deal-3621059'
 draft: false
 needs_review: false
 photographer_name: undefined

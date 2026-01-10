@@ -1,17 +1,21 @@
 ---
-title: "Intel Xeon 6: Plataforma W890 antecipa chips Granite Rapids"
-date: "2025-12-03T22:41:38.216Z"
-category: "computadores"
+title: 'Intel Xeon 6: Plataforma W890 antecipa chips Granite Rapids'
+date: '2025-12-03T22:41:38.216Z'
+category: computadores
 tags:
   - Intel
   - Xeon 6
   - Granite Rapids
   - W890
   - workstations
-image: "https://cdn.mos.cms.futurecdn.net/5nGVLNQmrYZWTa8NPLgGq-1280-80.jpg"
-image_source: "rss"
-description: "Novos detalhes da plataforma Intel Xeon 6 W890 surgem antes do lançamento de Granite Rapids, apontando para um futuro robusto em estações de trabalho. Descob..."
-source_url: "https://www.techradar.com/pro/is-this-our-first-look-at-intels-xeon-6-workstation-hardware-leak-claims-to-show-w890-platform-ahead-of-granite-rapids-launch"
+image: 'https://cdn.mos.cms.futurecdn.net/5nGVLNQmrYZWTa8NPLgGq-1280-80.jpg'
+image_source: rss
+description: >-
+  Novos detalhes da plataforma Intel Xeon 6 W890 surgem antes do lançamento de
+  Granite Rapids, apontando para um futuro robusto em estações de trabalho.
+  Descob.
+source_url: >-
+  https://www.techradar.com/pro/is-this-our-first-look-at-intels-xeon-6-workstation-hardware-leak-claims-to-show-w890-platform-ahead-of-granite-rapids-launch
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "OnePlus Turbo 6: Série chega em 2026 com design revelado"
-date: "2025-12-29T08:28:57.608Z"
-category: "smartphones"
+title: 'OnePlus Turbo 6: Série chega em 2026 com design revelado'
+date: '2025-12-29T08:28:57.608Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - Turbo 6
   - Android
   - lançamento
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Turbo-6-series-phones-officially-showcased-in-vidoe-and-photos.jpg"
-image_source: "rss"
-description: "A OnePlus acaba de revelar oficialmente a série Turbo 6, prometendo alta performance e design inovador. Descobre os primeiros detalhes antes do lançamento gl..."
-source_url: "https://www.notebookcheck.net/OnePlus-officially-showcases-new-Turbo-6-series-phones-ahead-of-January-2026-launch.1193390.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Turbo-6-series-phones-officially-showcased-in-vidoe-and-photos.jpg
+image_source: rss
+description: >-
+  A OnePlus acaba de revelar oficialmente a série Turbo 6, prometendo alta
+  performance e design inovador. Descobre os primeiros detalhes antes do
+  lançamento gl.
+source_url: >-
+  https://www.notebookcheck.net/OnePlus-officially-showcases-new-Turbo-6-series-phones-ahead-of-January-2026-launch.1193390.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

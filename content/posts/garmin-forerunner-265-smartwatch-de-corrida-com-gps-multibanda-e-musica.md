@@ -1,17 +1,22 @@
 ---
-title: "Garmin Forerunner 265: Smartwatch de corrida com GPS multibanda e música"
-date: "2025-11-30T18:50:43.967Z"
-category: "wearables"
+title: 'Garmin Forerunner 265: Smartwatch de corrida com GPS multibanda e música'
+date: '2025-11-30T18:50:43.967Z'
+category: wearables
 tags:
   - Garmin
   - Forerunner 265
   - smartwatch
   - corrida
   - GPS
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/garmin-forerunner-265S.jpg"
-image_source: "rss"
-description: "O Garmin Forerunner 265 destaca-se com ecrã AMOLED, GPS de alta precisão e armazenamento de música. Descobre porque é o smartwatch ideal para atletas em Port..."
-source_url: "https://www.notebookcheck.net/Garmin-Forerunner-265-with-multiband-GPS-and-music-storage-hits-lowest-ever-price-on-Amazon.1174183.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/garmin-forerunner-265S.jpg
+image_source: rss
+description: >-
+  O Garmin Forerunner 265 destaca-se com ecrã AMOLED, GPS de alta precisão e
+  armazenamento de música. Descobre porque é o smartwatch ideal para atletas em
+  Port.
+source_url: >-
+  https://www.notebookcheck.net/Garmin-Forerunner-265-with-multiband-GPS-and-music-storage-hits-lowest-ever-price-on-Amazon.1174183.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

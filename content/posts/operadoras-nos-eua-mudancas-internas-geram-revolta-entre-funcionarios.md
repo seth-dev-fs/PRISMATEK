@@ -1,17 +1,22 @@
 ---
-title: "Operadoras nos EUA: Mudanças internas geram revolta entre funcionários"
-date: "2025-11-24T22:39:47.594Z"
-category: "mobilidade"
+title: 'Operadoras nos EUA: Mudanças internas geram revolta entre funcionários'
+date: '2025-11-24T22:39:47.594Z'
+category: mobilidade
 tags:
   - telecomunicações
   - operadoras
   - EUA
   - trabalho
   - empresas
-image: "https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-3.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-3.jpg"
-description: "Grandes operadoras de telecomunicações nos EUA enfrentam descontentamento dos seus funcionários devido a mudanças estratégicas iminentes. Saiba mais sobre o ..."
-source_url: "https://www.androidauthority.com/t-mobile-verizon-employees-3618619"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-3.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-3.jpg
+description: >-
+  Grandes operadoras de telecomunicações nos EUA enfrentam descontentamento dos
+  seus funcionários devido a mudanças estratégicas iminentes. Saiba mais sobre
+  o.
+source_url: 'https://www.androidauthority.com/t-mobile-verizon-employees-3618619'
 draft: false
 needs_review: false
 ---

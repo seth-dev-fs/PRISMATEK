@@ -1,17 +1,21 @@
 ---
-title: "Toques e Notificações: Compreenda a Diferença Essencial no Seu Smartphone"
-date: "2025-12-26T08:25:22.584Z"
-category: "smartphones"
+title: 'Toques e Notificações: Compreenda a Diferença Essencial no Seu Smartphone'
+date: '2025-12-26T08:25:22.584Z'
+category: smartphones
 tags:
   - smartphones
   - personalização
   - notificações
   - toques
   - produtividade
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Saber distinguir toques de chamadas e sons de notificações é crucial para gerir a sua atenção. Aprenda a otimizar as definições do seu smartphone e a manter ..."
-source_url: "https://www.sammobile.com/news/what-is-the-difference-between-phone-ringtones-and-notification-sounds"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Saber distinguir toques de chamadas e sons de notificações é crucial para
+  gerir a sua atenção. Aprenda a otimizar as definições do seu smartphone e a
+  manter.
+source_url: >-
+  https://www.sammobile.com/news/what-is-the-difference-between-phone-ringtones-and-notification-sounds
 draft: false
 needs_review: false
 photographer_name: undefined

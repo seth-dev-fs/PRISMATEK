@@ -11,7 +11,7 @@ tags:
   - emissões CO2
 image: "https://i.blogs.es/89ac04/engin-akyurt-f4ubpvbjcjw-unsplash/840_560.jpeg"
 image_source: "engin akyurt"
-description: "Combustíveis renováveis, sem petróleo, de resíduos orgânicos, oferecem alternativa neutra em CO2 para carros a combustão na Europa. Custos e regulação são de..."
+description: "Combustíveis renováveis, sem petróleo, de resíduos orgânicos, oferecem alternativa neutra em CO2 para carros a combustão na Europa. Custos e regulação são de."
 source_url: "https://www.xataka.com/automovil/gasolina-diesel-renovables-ultimo-bastion-coches-combustion-para-poder-circular-europa-tienen-dificil"
 draft: false
 needs_review: false

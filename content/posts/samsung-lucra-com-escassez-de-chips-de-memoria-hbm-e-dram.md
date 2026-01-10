@@ -1,7 +1,7 @@
 ---
-title: "Samsung lucra com escassez de chips de memória HBM e DRAM"
-date: "2025-12-30T04:36:41.355Z"
-category: "ai-futuro"
+title: Samsung lucra com escassez de chips de memória HBM e DRAM
+date: '2025-12-30T04:36:41.355Z'
+category: ai-futuro
 tags:
   - Samsung
   - chips de memória
@@ -9,10 +9,14 @@ tags:
   - DRAM
   - Inteligência Artificial
   - preços
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-14-1200x554.jpg"
-image_source: "rss"
-description: "A Samsung está a tirar partido da crescente escassez de chips HBM e DRAM, aumentando os preços. Descubra o impacto desta estratégia no mercado de tecnologia ..."
-source_url: "https://www.sammobile.com/news/samsung-using-dram-hbm-shortage-to-advantage"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-14-1200x554.jpg
+image_source: rss
+description: >-
+  A Samsung está a tirar partido da crescente escassez de chips HBM e DRAM,
+  aumentando os preços. Descubra o impacto desta estratégia no mercado de
+  tecnologia.
+source_url: 'https://www.sammobile.com/news/samsung-using-dram-hbm-shortage-to-advantage'
 draft: false
 needs_review: false
 photographer_name: undefined

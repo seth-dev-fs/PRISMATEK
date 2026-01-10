@@ -1,17 +1,22 @@
 ---
-title: "Líder de IA da Apple, John Giannandrea, reforma-se: Um novo rumo?"
-date: "2025-12-01T22:40:27.253Z"
-category: "ai-futuro"
+title: 'Líder de IA da Apple, John Giannandrea, reforma-se: Um novo rumo?'
+date: '2025-12-01T22:40:27.253Z'
+category: ai-futuro
 tags:
   - Apple
   - inteligência artificial
   - IA
   - John Giannandrea
   - reestruturações
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/siri-dumpster-fire.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "John Giannandrea, figura central na estratégia de IA da Apple, reforma-se após anos de desafios na área. O gigante tecnológico de Cupertino precisa de uma no..."
-source_url: "https://9to5mac.com/2025/12/01/john-giannandrea-leaving-apple-following-ai-strategy-miss"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/siri-dumpster-fire.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  John Giannandrea, figura central na estratégia de IA da Apple, reforma-se após
+  anos de desafios na área. O gigante tecnológico de Cupertino precisa de uma
+  no.
+source_url: >-
+  https://9to5mac.com/2025/12/01/john-giannandrea-leaving-apple-following-ai-strategy-miss
 draft: false
 needs_review: false
 photographer_name: undefined

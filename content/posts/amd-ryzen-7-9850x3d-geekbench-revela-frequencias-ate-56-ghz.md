@@ -1,17 +1,22 @@
 ---
-title: "AMD Ryzen 7 9850X3D: Geekbench revela frequências até 5.6 GHz"
-date: "2025-12-05T14:44:49.087Z"
-category: "computadores"
+title: 'AMD Ryzen 7 9850X3D: Geekbench revela frequências até 5.6 GHz'
+date: '2025-12-05T14:44:49.087Z'
+category: computadores
 tags:
   - AMD
   - Ryzen
   - processadores
   - Geekbench
   - CPUs
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AMD-Ryzen-9-9850X3D-Geekbench.jpg"
-image_source: "rss"
-description: "O tão aguardado processador AMD Ryzen 7 9850X3D foi detetado no Geekbench, revelando velocidades de clock impressionantes até 5.6 GHz. Saiba tudo. A comunida..."
-source_url: "https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-boost-clock-confirmed-by-Geekbench-listings.1178279.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AMD-Ryzen-9-9850X3D-Geekbench.jpg
+image_source: rss
+description: >-
+  O tão aguardado processador AMD Ryzen 7 9850X3D foi detetado no Geekbench,
+  revelando velocidades de clock impressionantes até 5.6 GHz. Saiba tudo. A
+  comunida.
+source_url: >-
+  https://www.notebookcheck.net/AMD-Ryzen-7-9850X3D-boost-clock-confirmed-by-Geekbench-listings.1178279.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

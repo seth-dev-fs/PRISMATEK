@@ -1,17 +1,22 @@
 ---
-title: "Apple prestes a ultrapassar Samsung na liderança de smartphones"
-date: "2025-11-27T20:36:37.823Z"
-category: "smartphones"
+title: Apple prestes a ultrapassar Samsung na liderança de smartphones
+date: '2025-11-27T20:36:37.823Z'
+category: smartphones
 tags:
   - Apple
   - Samsung
   - smartphones
   - mercado global
   - iPhone 17
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/apple-projected-surpass-samsung-as-global-smartphone-leader/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Apple deverá destronar a Samsung como líder global de smartphones em 2025, após 14 anos. Saiba o que o relatório da Counterpoint Research prevê para o merc..."
-source_url: "https://www.gsmarena.com/apple_projected_to_surpass_samsung_as_global_smartphone_shipments_leader_-news-70473.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/apple-projected-surpass-samsung-as-global-smartphone-leader/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Apple deverá destronar a Samsung como líder global de smartphones em 2025,
+  após 14 anos. Saiba o que o relatório da Counterpoint Research prevê para o
+  merc.
+source_url: >-
+  https://www.gsmarena.com/apple_projected_to_surpass_samsung_as_global_smartphone_shipments_leader_-news-70473.php
 draft: false
 needs_review: false
 photographer_name: undefined

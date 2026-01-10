@@ -1,17 +1,21 @@
 ---
-title: "Crise de componentes PC agrava-se com RAM mais escassa e CPUs mais caros"
-date: "2025-12-04T16:59:43.701Z"
-category: "computadores"
+title: Crise de componentes PC agrava-se com RAM mais escassa e CPUs mais caros
+date: '2025-12-04T16:59:43.701Z'
+category: computadores
 tags:
   - computadores
   - hardware
   - RAM
   - CPU
   - preços
-image: "https://cdn.mos.cms.futurecdn.net/gXA9AoGpbmd6V2XRbjW6SF-1280-80.jpg"
-image_source: "rss"
-description: "A crise de componentes PC agrava-se. Um gigante da RAM abandona o mercado de consumo, e rumores de aumento de preços nos CPUs circulam. O futuro dos PCs em P..."
-source_url: "https://www.techradar.com/computing/memory/pc-component-crisis-just-got-worse-as-major-ram-maker-gives-up-on-consumers-and-cpu-price-hikes-are-rumored"
+image: 'https://cdn.mos.cms.futurecdn.net/gXA9AoGpbmd6V2XRbjW6SF-1280-80.jpg'
+image_source: rss
+description: >-
+  A crise de componentes PC agrava-se. Um gigante da RAM abandona o mercado de
+  consumo, e rumores de aumento de preços nos CPUs circulam. O futuro dos PCs em
+  P.
+source_url: >-
+  https://www.techradar.com/computing/memory/pc-component-crisis-just-got-worse-as-major-ram-maker-gives-up-on-consumers-and-cpu-price-hikes-are-rumored
 draft: false
 needs_review: false
 photographer_name: undefined

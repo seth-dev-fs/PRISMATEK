@@ -1,17 +1,21 @@
 ---
-title: "Meta Ray-Ban Smart Glasses: óculos inteligentes ganham tração na Europa"
-date: "2025-12-13T08:22:15.367Z"
-category: "wearables"
+title: 'Meta Ray-Ban Smart Glasses: óculos inteligentes ganham tração na Europa'
+date: '2025-12-13T08:22:15.367Z'
+category: wearables
 tags:
   - Meta
   - Ray-Ban
   - óculos inteligentes
   - wearables
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/nAdzB5kQoEDWLkpEwuiVKf-1280-80.jpg"
-image_source: "rss"
-description: "Os óculos inteligentes Meta Ray-Ban estão a consolidar-se no mercado europeu. Descubra as funcionalidades que os tornam um acessório de futuro e a aposta da ..."
-source_url: "https://www.techradar.com/computing/wi-fi-broadband/virgin-media-offers-meta-ray-ban-smart-glasses-or-gbp125-bill-credit-with-new-broadband-and-tv-packages"
+image: 'https://cdn.mos.cms.futurecdn.net/nAdzB5kQoEDWLkpEwuiVKf-1280-80.jpg'
+image_source: rss
+description: >-
+  Os óculos inteligentes Meta Ray-Ban estão a consolidar-se no mercado europeu.
+  Descubra as funcionalidades que os tornam um acessório de futuro e a aposta
+  da.
+source_url: >-
+  https://www.techradar.com/computing/wi-fi-broadband/virgin-media-offers-meta-ray-ban-smart-glasses-or-gbp125-bill-credit-with-new-broadband-and-tv-packages
 draft: false
 needs_review: false
 photographer_name: undefined

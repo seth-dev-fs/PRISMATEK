@@ -1,17 +1,20 @@
 ---
-title: "NTFSPlus: O driver que promete acabar com os problemas NTFS no Linux"
-date: "2025-12-13T04:23:09.827Z"
-category: "computadores"
+title: 'NTFSPlus: O driver que promete acabar com os problemas NTFS no Linux'
+date: '2025-12-13T04:23:09.827Z'
+category: computadores
 tags:
   - Linux
   - NTFS
   - sistemas de ficheiros
   - drivers
   - software
-image: "https://itsfoss.com/content/images/size/w1200/2025/12/NTFSPLUS.webp"
-image_source: "rss"
-description: "NTFSPlus surge como uma nova implementação do driver NTFS, prometendo resolver os problemas que os utilizadores Linux enfrentam ao lidar com partições Window..."
-source_url: "https://itsfoss.com/ntfsplus"
+image: 'https://itsfoss.com/content/images/size/w1200/2025/12/NTFSPLUS.webp'
+image_source: rss
+description: >-
+  NTFSPlus surge como uma nova implementação do driver NTFS, prometendo resolver
+  os problemas que os utilizadores Linux enfrentam ao lidar com partições
+  Window.
+source_url: 'https://itsfoss.com/ntfsplus'
 draft: false
 needs_review: false
 photographer_name: undefined

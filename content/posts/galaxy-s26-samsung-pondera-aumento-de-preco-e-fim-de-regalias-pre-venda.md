@@ -1,17 +1,21 @@
 ---
-title: "Galaxy S26: Samsung pondera aumento de preço e fim de regalias pré-venda"
-date: "2026-01-05T10:21:55.592Z"
-category: "smartphones"
+title: 'Galaxy S26: Samsung pondera aumento de preço e fim de regalias pré-venda'
+date: '2026-01-05T10:21:55.592Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S26
   - smartphones
   - preços
   - mercado
-image: "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Edge-storage-1200x675.jpg"
-image_source: "rss"
-description: "O futuro Galaxy S26 da Samsung poderá chegar com preços mais altos e sem os habituais bónus de pré-venda. Descubra o que está em causa e as implicações para ..."
-source_url: "https://www.sammobile.com/news/galaxy-s26-may-lose-samsung-best-pre-order-perk"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Edge-storage-1200x675.jpg
+image_source: rss
+description: >-
+  O futuro Galaxy S26 da Samsung poderá chegar com preços mais altos e sem os
+  habituais bónus de pré-venda. Descubra o que está em causa e as implicações
+  para.
+source_url: 'https://www.sammobile.com/news/galaxy-s26-may-lose-samsung-best-pre-order-perk'
 draft: false
 needs_review: false
 photographer_name: undefined

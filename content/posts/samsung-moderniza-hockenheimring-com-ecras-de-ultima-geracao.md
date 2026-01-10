@@ -1,17 +1,22 @@
 ---
-title: "Samsung moderniza Hockenheimring com ecrãs de última geração"
-date: "2025-12-22T08:26:34.444Z"
-category: "home"
+title: Samsung moderniza Hockenheimring com ecrãs de última geração
+date: '2025-12-22T08:26:34.444Z'
+category: home
 tags:
   - Samsung
   - Hockenheimring
   - ecrãs digitais
   - tecnologia
   - circuitos de corrida
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Hockenheimring-Baden-Wurttemberg-Racing-Circuit-Samsung-Signage-Displays-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung completa a modernização do icónico circuito de Hockenheimring, na Alemanha, equipando-o com ecrãs e televisores de última geração. Descubra os deta..."
-source_url: "https://www.sammobile.com/news/samsung-hockenheimring-racing-circuit-brilliant-displays"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Hockenheimring-Baden-Wurttemberg-Racing-Circuit-Samsung-Signage-Displays-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung completa a modernização do icónico circuito de Hockenheimring, na
+  Alemanha, equipando-o com ecrãs e televisores de última geração. Descubra os
+  deta.
+source_url: >-
+  https://www.sammobile.com/news/samsung-hockenheimring-racing-circuit-brilliant-displays
 draft: false
 needs_review: true
 photographer_name: undefined

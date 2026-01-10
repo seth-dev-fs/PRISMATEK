@@ -1,17 +1,22 @@
 ---
-title: "Tablets E Ink: A fusão perfeita entre papel e o universo digital"
-date: "2026-01-08T10:21:27.036Z"
-category: "home"
+title: 'Tablets E Ink: A fusão perfeita entre papel e o universo digital'
+date: '2026-01-08T10:21:27.036Z'
+category: home
 tags:
   - E Ink
   - tablets
   - leitura
   - escrita digital
   - tecnologia
-image: "https://s.yimg.com/ny/api/res/1.2/HJRc.1MuQOuQS9LkGPP.4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/1ccb20d0-d75d-11f0-aeff-61a83ba6683c"
-image_source: "rss"
-description: "Descubra os melhores tablets E Ink, a união ideal entre a experiência de escrita tradicional e as vantagens do mundo digital. Saiba o que procurar! Para muit..."
-source_url: "https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/HJRc.1MuQOuQS9LkGPP.4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/1ccb20d0-d75d-11f0-aeff-61a83ba6683c
+image_source: rss
+description: >-
+  Descubra os melhores tablets E Ink, a união ideal entre a experiência de
+  escrita tradicional e as vantagens do mundo digital. Saiba o que procurar!
+  Para muit.
+source_url: >-
+  https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html?src=rss
 draft: false
 needs_review: true
 photographer_name: undefined

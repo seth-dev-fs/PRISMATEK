@@ -1,17 +1,22 @@
 ---
-title: "Tecnologia Acessível: Gadgets Essenciais para o Dia a Dia em Portugal"
-date: "2025-12-01T20:36:05.277Z"
-category: "mobilidade"
+title: 'Tecnologia Acessível: Gadgets Essenciais para o Dia a Dia em Portugal'
+date: '2025-12-01T20:36:05.277Z'
+category: mobilidade
 tags:
   - tecnologia
   - gadgets
   - acessórios
   - smart home
   - mobilidade
-image: "https://s.yimg.com/ny/api/res/1.2/6SMNckMZD_ICuaANqCrMmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/6c45e480-ce0a-11f0-97fb-2527ecfd9b11"
-image_source: "rss"
-description: "Descubra gadgets e acessórios tecnológicos que combinam inovação e preço competitivo. De carregadores a dispositivos smart, as melhores escolhas para o dia a..."
-source_url: "https://www.engadget.com/deals/cyber-monday-deals-under-50-apple-airtags-legos-ugreen-chargers-blink-cameras-and-more-210050294.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/6SMNckMZD_ICuaANqCrMmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/6c45e480-ce0a-11f0-97fb-2527ecfd9b11
+image_source: rss
+description: >-
+  Descubra gadgets e acessórios tecnológicos que combinam inovação e preço
+  competitivo. De carregadores a dispositivos smart, as melhores escolhas para o
+  dia a.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-deals-under-50-apple-airtags-legos-ugreen-chargers-blink-cameras-and-more-210050294.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

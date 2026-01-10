@@ -1,17 +1,23 @@
 ---
-title: "Huawei Mate 80 e 80 Pro chegam com ecrãs recorde e bateria gigante"
-date: "2025-11-25T10:52:00.396Z"
-category: "smartphones"
+title: Huawei Mate 80 e 80 Pro chegam com ecrãs recorde e bateria gigante
+date: '2025-11-25T10:52:00.396Z'
+category: smartphones
 tags:
   - Huawei
   - Mate 80
   - Mate 80 Pro
   - smartphones
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/huawei-mate-80-80-pro-official/-952x498w6/gsmarena_000.jpg"
-image_source: "https://fdn.gsmarena.com/imgroot/news/25/11/huawei-mate-80-80-pro-official/-952x498w6/gsmarena_000.jpg"
-description: "A Huawei acaba de revelar os seus novos Mate 80 e Mate 80 Pro. Conheça os detalhes do ecrã OLED de 8.000 nits e a impressionante bateria de 5.750 mAh nestes ..."
-source_url: "https://www.gsmarena.com/huaweis_mate_80_and_mate_80_pro_pack_5750mah_batteries_triple_cameras-news-70437.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/huawei-mate-80-80-pro-official/-952x498w6/gsmarena_000.jpg
+image_source: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/huawei-mate-80-80-pro-official/-952x498w6/gsmarena_000.jpg
+description: >-
+  A Huawei acaba de revelar os seus novos Mate 80 e Mate 80 Pro. Conheça os
+  detalhes do ecrã OLED de 8.000 nits e a impressionante bateria de 5.750 mAh
+  nestes.
+source_url: >-
+  https://www.gsmarena.com/huaweis_mate_80_and_mate_80_pro_pack_5750mah_batteries_triple_cameras-news-70437.php
 draft: false
 needs_review: false
 ---

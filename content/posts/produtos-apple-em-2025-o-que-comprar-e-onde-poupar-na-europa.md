@@ -1,17 +1,21 @@
 ---
-title: "Produtos Apple em 2025: O que comprar e onde poupar na Europa"
-date: "2025-11-25T22:41:48.656Z"
-category: "mobilidade"
+title: 'Produtos Apple em 2025: O que comprar e onde poupar na Europa'
+date: '2025-11-25T22:41:48.656Z'
+category: mobilidade
 tags:
   - Apple
   - MacBook Pro
   - AirPods
   - ofertas
   - tecnologia
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-gift-guide-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Com a época festiva a aproximar-se, descubra os produtos Apple em destaque para 2025. Saiba o que considerar antes de comprar e como aproveitar potenciais po..."
-source_url: "https://9to5mac.com/2025/11/25/apple-gift-guide-deals"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-gift-guide-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Com a época festiva a aproximar-se, descubra os produtos Apple em destaque
+  para 2025. Saiba o que considerar antes de comprar e como aproveitar
+  potenciais po.
+source_url: 'https://9to5mac.com/2025/11/25/apple-gift-guide-deals'
 draft: false
 needs_review: false
 photographer_name: undefined

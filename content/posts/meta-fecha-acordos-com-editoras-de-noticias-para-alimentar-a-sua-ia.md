@@ -1,17 +1,22 @@
 ---
-title: "Meta fecha acordos com editoras de notícias para alimentar a sua IA"
-date: "2025-12-05T16:55:37.919Z"
-category: "ai-futuro"
+title: Meta fecha acordos com editoras de notícias para alimentar a sua IA
+date: '2025-12-05T16:55:37.919Z'
+category: ai-futuro
 tags:
   - Meta
   - Inteligência Artificial
   - notícias
   - conteúdo digital
   - publicações
-image: "https://s.yimg.com/ny/api/res/1.2/So1frftpflV.u9Z7CWbMQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/ba1eee20-d1f4-11f0-bb7e-5d1ee6357e06"
-image_source: "rss"
-description: "A Meta assina acordos plurianuais com grandes editoras de notícias para usar o seu conteúdo, impulsionando a Meta AI e o acesso a informação fidedigna. Uma v..."
-source_url: "https://www.engadget.com/big-tech/meta-cuts-deals-with-several-news-publishers-for-ai-use-163404107.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/So1frftpflV.u9Z7CWbMQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/ba1eee20-d1f4-11f0-bb7e-5d1ee6357e06
+image_source: rss
+description: >-
+  A Meta assina acordos plurianuais com grandes editoras de notícias para usar o
+  seu conteúdo, impulsionando a Meta AI e o acesso a informação fidedigna. Uma
+  v.
+source_url: >-
+  https://www.engadget.com/big-tech/meta-cuts-deals-with-several-news-publishers-for-ai-use-163404107.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

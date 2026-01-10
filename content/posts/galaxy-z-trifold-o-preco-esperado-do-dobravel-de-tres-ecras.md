@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Z TriFold: O preço esperado do dobrável de três ecrãs"
-date: "2025-12-02T14:54:29.825Z"
-category: "smartphones"
+title: 'Galaxy Z TriFold: O preço esperado do dobrável de três ecrãs'
+date: '2025-12-02T14:54:29.825Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones dobráveis
   - preço
   - tecnologia móvel
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-trifold-price/-952x498w6/gsmarena_00.jpg"
-image_source: "rss"
-description: "Curioso sobre o preço do Samsung Galaxy Z TriFold? Analisamos o que se espera para o mercado europeu deste inovador smartphone de tripla dobra. Prepare a car..."
-source_url: "https://www.gsmarena.com/want_to_buy_a_galaxy_z_trifold_heres_how_much_it_may_cost_around_the_world-news-70527.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/samsung-trifold-price/-952x498w6/gsmarena_00.jpg
+image_source: rss
+description: >-
+  Curioso sobre o preço do Samsung Galaxy Z TriFold? Analisamos o que se espera
+  para o mercado europeu deste inovador smartphone de tripla dobra. Prepare a
+  car.
+source_url: >-
+  https://www.gsmarena.com/want_to_buy_a_galaxy_z_trifold_heres_how_much_it_may_cost_around_the_world-news-70527.php
 draft: false
 needs_review: false
 photographer_name: undefined

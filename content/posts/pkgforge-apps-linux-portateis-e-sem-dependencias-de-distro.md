@@ -1,17 +1,20 @@
 ---
-title: "PkgForge: Apps Linux portáteis e sem dependências de distro"
-date: "2025-12-21T08:22:26.980Z"
-category: "internet-apps"
+title: 'PkgForge: Apps Linux portáteis e sem dependências de distro'
+date: '2025-12-21T08:22:26.980Z'
+category: internet-apps
 tags:
   - PkgForge
   - Linux
   - aplicações
   - distribuição software
   - open source
-image: "https://itsfoss.com/content/images/2025/12/pkgforge.webp"
-image_source: "rss"
-description: "Descubra o PkgForge, a inovadora alternativa a Snap e Flatpak que promete aplicações Linux verdadeiramente portáteis e independentes da distribuição. O futur..."
-source_url: "https://itsfoss.com/pkgforge"
+image: 'https://itsfoss.com/content/images/2025/12/pkgforge.webp'
+image_source: rss
+description: >-
+  Descubra o PkgForge, a inovadora alternativa a Snap e Flatpak que promete
+  aplicações Linux verdadeiramente portáteis e independentes da distribuição. O
+  futur.
+source_url: 'https://itsfoss.com/pkgforge'
 draft: false
 needs_review: false
 photographer_name: undefined

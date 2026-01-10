@@ -1,17 +1,22 @@
 ---
-title: "Minisforum DEG2: O dock eGPU que une OCuLink e Thunderbolt 5"
-date: "2025-12-27T01:17:05.489Z"
-category: "computadores"
+title: 'Minisforum DEG2: O dock eGPU que une OCuLink e Thunderbolt 5'
+date: '2025-12-27T01:17:05.489Z'
+category: computadores
 tags:
   - Minisforum
   - eGPU
   - Thunderbolt 5
   - OCuLink
   - computadores
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/minisforum-deg1-launch-kv-1.jpg"
-image_source: "rss"
-description: "O Minisforum DEG2 é o novo dock eGPU que promete revolucionar a forma como ligamos placas gráficas externas. Com OCuLink e Thunderbolt 5, já está disponível ..."
-source_url: "https://www.notebookcheck.net/Minisforum-DEG2-reveals-itself-as-OCuLink-and-TB5-eGPU-dock-with-new-global-release.1192580.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/minisforum-deg1-launch-kv-1.jpg
+image_source: rss
+description: >-
+  O Minisforum DEG2 é o novo dock eGPU que promete revolucionar a forma como
+  ligamos placas gráficas externas. Com OCuLink e Thunderbolt 5, já está
+  disponível.
+source_url: >-
+  https://www.notebookcheck.net/Minisforum-DEG2-reveals-itself-as-OCuLink-and-TB5-eGPU-dock-with-new-global-release.1192580.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

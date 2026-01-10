@@ -1,17 +1,21 @@
 ---
-title: "Calibre 8.16: Gestor de e-books abraça a Inteligência Artificial"
-date: "2025-12-05T04:52:36.920Z"
-category: "internet-apps"
+title: 'Calibre 8.16: Gestor de e-books abraça a Inteligência Artificial'
+date: '2025-12-05T04:52:36.920Z'
+category: internet-apps
 tags:
   - Calibre
   - e-books
   - Inteligência Artificial
   - software
   - código aberto
-image: "https://9to5linux.com/wp-content/uploads/2025/12/cal816.webp"
-image_source: "rss"
-description: "A nova versão do popular Calibre 8.16 já está disponível, trazendo mais funcionalidades de Inteligência Artificial e correções. Descubra as novidades deste g..."
-source_url: "https://9to5linux.com/calibre-8-16-open-source-e-book-manager-adds-more-ai-features-bug-fixes"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/cal816.webp'
+image_source: rss
+description: >-
+  A nova versão do popular Calibre 8.16 já está disponível, trazendo mais
+  funcionalidades de Inteligência Artificial e correções. Descubra as novidades
+  deste g.
+source_url: >-
+  https://9to5linux.com/calibre-8-16-open-source-e-book-manager-adds-more-ai-features-bug-fixes
 draft: false
 needs_review: false
 photographer_name: undefined

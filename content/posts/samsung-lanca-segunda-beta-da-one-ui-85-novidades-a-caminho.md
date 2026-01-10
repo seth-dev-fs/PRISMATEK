@@ -1,17 +1,21 @@
 ---
-title: "Samsung lança segunda beta da One UI 8.5: Novidades a caminho"
-date: "2025-12-22T10:20:30.078Z"
-category: "smartphones"
+title: 'Samsung lança segunda beta da One UI 8.5: Novidades a caminho'
+date: '2025-12-22T10:20:30.078Z'
+category: smartphones
 tags:
   - Samsung
   - One UI
   - Android
   - atualização
   - smartphones
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/One-UI-8.5-Splasg-Screen-in-hand.jpg"
-image_source: "rss"
-description: "A Samsung acaba de disponibilizar a segunda versão beta da sua One UI 8.5, trazendo melhorias e correções. Descobre o que esperar desta atualização. A Samsun..."
-source_url: "https://www.androidauthority.com/second-samsung-one-ui-8-5-beta-3627032"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/One-UI-8.5-Splasg-Screen-in-hand.jpg
+image_source: rss
+description: >-
+  A Samsung acaba de disponibilizar a segunda versão beta da sua One UI 8.5,
+  trazendo melhorias e correções. Descobre o que esperar desta atualização. A
+  Samsun.
+source_url: 'https://www.androidauthority.com/second-samsung-one-ui-8-5-beta-3627032'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,20 @@
 ---
-title: "Cinnamon 6.6: A Base Para o Próximo Linux Mint Mais Intuitivo"
-date: "2025-12-12T08:25:38.734Z"
-category: "computadores"
+title: 'Cinnamon 6.6: A Base Para o Próximo Linux Mint Mais Intuitivo'
+date: '2025-12-12T08:25:38.734Z'
+category: computadores
 tags:
   - Cinnamon
   - Linux Mint
   - ambiente de trabalho
   - software livre
   - atualização
-image: "https://itsfoss.com/content/images/2025/12/cinnamon-6-6-release-banner.png"
-image_source: "rss"
-description: "O ambiente de trabalho Cinnamon 6.6 chega com novidades como insígnias de notificação e gestão de temas, preparando o terreno para a próxima versão do Linux ..."
-source_url: "https://itsfoss.com/news/cinnamon-6-6"
+image: 'https://itsfoss.com/content/images/2025/12/cinnamon-6-6-release-banner.png'
+image_source: rss
+description: >-
+  O ambiente de trabalho Cinnamon 6.6 chega com novidades como insígnias de
+  notificação e gestão de temas, preparando o terreno para a próxima versão do
+  Linux.
+source_url: 'https://itsfoss.com/news/cinnamon-6-6'
 draft: false
 needs_review: false
 photographer_name: undefined

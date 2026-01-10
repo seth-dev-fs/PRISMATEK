@@ -1,17 +1,22 @@
 ---
-title: "Meta assegura acordos de licenciamento de notícias para a sua IA"
-date: "2025-12-05T14:43:51.796Z"
-category: "ai-futuro"
+title: Meta assegura acordos de licenciamento de notícias para a sua IA
+date: '2025-12-05T14:43:51.796Z'
+category: ai-futuro
 tags:
   - Meta
   - inteligência artificial
   - notícias
   - licenciamento
   - conteúdo digital
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "A Meta está a licenciar conteúdo de notícias de grandes editoras, como CNN e Le Monde, para a sua IA. Descubra como a Meta AI usará esta informação. A Meta, ..."
-source_url: "https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  A Meta está a licenciar conteúdo de notícias de grandes editoras, como CNN e
+  Le Monde, para a sua IA. Descubra como a Meta AI usará esta informação. A
+  Meta,.
+source_url: >-
+  https://www.theverge.com/news/838927/meta-ai-licensing-deals-cnn-fox-news-usa-today
 draft: false
 needs_review: false
 photographer_name: undefined

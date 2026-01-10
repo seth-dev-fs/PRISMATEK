@@ -1,17 +1,21 @@
 ---
-title: "Bombas de Calor: Europa líder na produção, mas os europeus não as usam"
-date: "2025-12-20T10:19:17.778Z"
-category: "home"
+title: 'Bombas de Calor: Europa líder na produção, mas os europeus não as usam'
+date: '2025-12-20T10:19:17.778Z'
+category: home
 tags:
   - bombas de calor
   - eficiência energética
   - Europa
   - energia
   - descarbonização
-image: "https://i.blogs.es/970ed8/factura/840_560.jpeg"
-image_source: "rss"
-description: "A Europa lidera a fabricação global de bombas de calor, tecnologia crucial para a descarbonização, mas os custos da eletricidade travam a sua adoção nos lare..."
-source_url: "https://www.xataka.com/energia/pese-a-liderar-fabricacion-bombas-calor-europa-tiene-problema-que-no-sabe-solucionar-consumen-luz-que-navidad-vigo"
+image: 'https://i.blogs.es/970ed8/factura/840_560.jpeg'
+image_source: rss
+description: >-
+  A Europa lidera a fabricação global de bombas de calor, tecnologia crucial
+  para a descarbonização, mas os custos da eletricidade travam a sua adoção nos
+  lare.
+source_url: >-
+  https://www.xataka.com/energia/pese-a-liderar-fabricacion-bombas-calor-europa-tiene-problema-que-no-sabe-solucionar-consumen-luz-que-navidad-vigo
 draft: false
 needs_review: true
 photographer_name: undefined

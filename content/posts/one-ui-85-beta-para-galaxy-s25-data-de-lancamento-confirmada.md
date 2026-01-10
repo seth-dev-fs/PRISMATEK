@@ -1,17 +1,22 @@
 ---
-title: "One UI 8.5 Beta para Galaxy S25: Data de Lançamento Confirmada"
-date: "2025-11-26T22:41:06.989Z"
-category: "smartphones"
+title: 'One UI 8.5 Beta para Galaxy S25: Data de Lançamento Confirmada'
+date: '2025-11-26T22:41:06.989Z'
+category: smartphones
 tags:
   - Samsung
   - One UI
   - Galaxy S25
   - Android
   - atualização
-image: "https://m-cdn.phonearena.com/images/article/176116-two/Here-is-when-your-Galaxy-S25-could-get-the-One-UI-8.5-beta.jpg"
-image_source: "rss"
-description: "A versão beta do One UI 8.5 para o Samsung Galaxy S25 tem data confirmada. Descubra as novidades e quando pode experimentar a atualização que promete melhori..."
-source_url: "https://www.phonearena.com/news/here-is-when-your-galaxy-s25-could-get-the-one-ui-8.5-beta_id176116"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176116-two/Here-is-when-your-Galaxy-S25-could-get-the-One-UI-8.5-beta.jpg
+image_source: rss
+description: >-
+  A versão beta do One UI 8.5 para o Samsung Galaxy S25 tem data confirmada.
+  Descubra as novidades e quando pode experimentar a atualização que promete
+  melhori.
+source_url: >-
+  https://www.phonearena.com/news/here-is-when-your-galaxy-s25-could-get-the-one-ui-8.5-beta_id176116
 draft: false
 needs_review: false
 photographer_name: undefined

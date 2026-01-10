@@ -1,17 +1,22 @@
 ---
-title: "Headspace: Acesso a Bem-Estar Mental com Descontos Anuais"
-date: "2025-11-28T07:00:57.143Z"
-category: "internet-apps"
+title: 'Headspace: Acesso a Bem-Estar Mental com Descontos Anuais'
+date: '2025-11-28T07:00:57.143Z'
+category: internet-apps
 tags:
   - Headspace
   - mindfulness
   - meditação
   - bem-estar
   - aplicações
-image: "https://s.yimg.com/ny/api/res/1.2/nMLj7QpnCRn42nuQBhWv9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/d4f45440-46e5-11ec-bfbf-ee0b432e89b8"
-image_source: "rss"
-description: "Descubra como a Headspace, líder em mindfulness digital, oferece um caminho para uma rotina mais calma. Explore os seus programas de meditação e sono guiados..."
-source_url: "https://www.engadget.com/deals/the-headspace-black-friday-deal-gives-you-one-year-of-access-for-35-163051909.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/nMLj7QpnCRn42nuQBhWv9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-11/d4f45440-46e5-11ec-bfbf-ee0b432e89b8
+image_source: rss
+description: >-
+  Descubra como a Headspace, líder em mindfulness digital, oferece um caminho
+  para uma rotina mais calma. Explore os seus programas de meditação e sono
+  guiados.
+source_url: >-
+  https://www.engadget.com/deals/the-headspace-black-friday-deal-gives-you-one-year-of-access-for-35-163051909.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

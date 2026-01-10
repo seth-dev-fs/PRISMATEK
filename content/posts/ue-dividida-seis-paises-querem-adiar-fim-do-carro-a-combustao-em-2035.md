@@ -1,17 +1,21 @@
 ---
-title: "UE dividida: Seis países querem adiar fim do carro a combustão em 2035"
-date: "2025-12-16T10:21:13.626Z"
-category: "mobilidade"
+title: 'UE dividida: Seis países querem adiar fim do carro a combustão em 2035'
+date: '2025-12-16T10:21:13.626Z'
+category: mobilidade
 tags:
   - União Europeia
   - carro elétrico
   - carro a combustão
   - política ambiental
   - indústria automóvel
-image: "https://i.blogs.es/7b5f52/europa-coche-electrico/840_560.jpeg"
-image_source: "rss"
-description: "A UE divide-se sobre o fim dos carros a combustão em 2035. Seis países, liderados por Itália, defendem a sua continuidade. Espanha e França lideram a frente ..."
-source_url: "https://www.xataka.com/movilidad/seis-paises-disidentes-quieren-mantener-vida-coche-combustion-europa-tienen-delante-oposicion-espana"
+image: 'https://i.blogs.es/7b5f52/europa-coche-electrico/840_560.jpeg'
+image_source: rss
+description: >-
+  A UE divide-se sobre o fim dos carros a combustão em 2035. Seis países,
+  liderados por Itália, defendem a sua continuidade. Espanha e França lideram a
+  frente.
+source_url: >-
+  https://www.xataka.com/movilidad/seis-paises-disidentes-quieren-mantener-vida-coche-combustion-europa-tienen-delante-oposicion-espana
 draft: false
 needs_review: false
 photographer_name: undefined

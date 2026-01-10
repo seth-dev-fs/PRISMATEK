@@ -1,17 +1,22 @@
 ---
-title: "Samsung na Índia: Dispositivos Galaxy em 10 Minutos à Porta"
-date: "2025-12-05T06:57:41.485Z"
-category: "smartphones"
+title: 'Samsung na Índia: Dispositivos Galaxy em 10 Minutos à Porta'
+date: '2025-12-05T06:57:41.485Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy
   - entregas rápidas
   - e-commerce
   - Índia
-image: "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Buds-3-and-Pro-3.jpg"
-image_source: "rss"
-description: "A Samsung está a revolucionar as entregas na Índia, levando dispositivos Galaxy em apenas 10 minutos. Será este o futuro do e-commerce global? A Samsung está..."
-source_url: "https://www.sammobile.com/news/samsung-galaxy-devices-10-minute-delivery-india-expand"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Buds-3-and-Pro-3.jpg
+image_source: rss
+description: >-
+  A Samsung está a revolucionar as entregas na Índia, levando dispositivos
+  Galaxy em apenas 10 minutos. Será este o futuro do e-commerce global? A
+  Samsung está.
+source_url: >-
+  https://www.sammobile.com/news/samsung-galaxy-devices-10-minute-delivery-india-expand
 draft: false
 needs_review: false
 photographer_name: undefined

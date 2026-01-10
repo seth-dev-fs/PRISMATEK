@@ -1,7 +1,7 @@
 ---
-title: "Stranger Things no Spotify: O Detalhe Imersivo que Cativa Fãs"
-date: "2026-01-10T12:33:38.969Z"
-category: "entretenimento-gaming"
+title: 'Stranger Things no Spotify: O Detalhe Imersivo que Cativa Fãs'
+date: '2026-01-10T12:33:38.969Z'
+category: entretenimento-gaming
 tags:
   - stranger things
   - spotify
@@ -9,10 +9,15 @@ tags:
   - entretenimento
   - experiencia imersiva
   - streaming
-image: "https://pplware.sapo.pt/wp-content/uploads/2026/01/playlist_oficial_stranger_things-4.png"
-image_source: "rss"
-description: "Descubra como Stranger Things inova no Spotify com visuais imersivos, transformando a música da série. Analisamos o impacto para Portugal e as tendências de ..."
-source_url: "https://pplware.sapo.pt/multimedia-2/cinema/fas-de-stranger-things-ja-repararam-neste-detalhe-no-spotify"
+image: >-
+  https://pplware.sapo.pt/wp-content/uploads/2026/01/playlist_oficial_stranger_things-4.png
+image_source: rss
+description: >-
+  Descubra como Stranger Things inova no Spotify com visuais imersivos,
+  transformando a música da série. Analisamos o impacto para Portugal e as
+  tendências de.
+source_url: >-
+  https://pplware.sapo.pt/multimedia-2/cinema/fas-de-stranger-things-ja-repararam-neste-detalhe-no-spotify
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "NASA prepara braço robótico comercial para órbita terrestre"
-date: "2025-12-08T08:27:02.041Z"
-category: "ciencia"
+title: NASA prepara braço robótico comercial para órbita terrestre
+date: '2025-12-08T08:27:02.041Z'
+category: ciencia
 tags:
   - NASA
   - robótica espacial
   - espaço
   - órbita terrestre baixa
   - exploração espacial
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/An-artists-concept-of-the-robotic-arm.jpg"
-image_source: "rss"
-description: "A NASA e parceiros preparam-se para lançar um braço robótico comercial em órbita terrestre baixa em 2027, crucial para a robótica espacial do futuro. A explo..."
-source_url: "https://www.notebookcheck.net/NASA-to-send-a-robotic-arm-into-low-Earth-orbit.1180292.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/An-artists-concept-of-the-robotic-arm.jpg
+image_source: rss
+description: >-
+  A NASA e parceiros preparam-se para lançar um braço robótico comercial em
+  órbita terrestre baixa em 2027, crucial para a robótica espacial do futuro. A
+  explo.
+source_url: >-
+  https://www.notebookcheck.net/NASA-to-send-a-robotic-arm-into-low-Earth-orbit.1180292.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

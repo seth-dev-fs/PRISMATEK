@@ -1,17 +1,22 @@
 ---
-title: "AMD poderá seguir Apple e Tesla na aposta em chips 2nm da Samsung"
-date: "2025-12-14T10:18:55.661Z"
-category: "computadores"
+title: AMD poderá seguir Apple e Tesla na aposta em chips 2nm da Samsung
+date: '2025-12-14T10:18:55.661Z'
+category: computadores
 tags:
   - AMD
   - Samsung Foundry
   - chips
   - 2nm
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-Logo-Indian-Mobile-Congress-2025-Expo-1200x675.jpg"
-image_source: "rss"
-description: "A AMD poderá em breve juntar-se à Tesla e Apple como cliente da Samsung Foundry, apostando na tecnologia de chips de 2nm. Um impulso vital para a gigante cor..."
-source_url: "https://www.sammobile.com/news/amd-may-follow-tesla-and-apple-into-giving-samsung-billions-of-dollars"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-Logo-Indian-Mobile-Congress-2025-Expo-1200x675.jpg
+image_source: rss
+description: >-
+  A AMD poderá em breve juntar-se à Tesla e Apple como cliente da Samsung
+  Foundry, apostando na tecnologia de chips de 2nm. Um impulso vital para a
+  gigante cor.
+source_url: >-
+  https://www.sammobile.com/news/amd-may-follow-tesla-and-apple-into-giving-samsung-billions-of-dollars
 draft: false
 needs_review: false
 photographer_name: undefined

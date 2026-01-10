@@ -1,17 +1,22 @@
 ---
-title: "Lenovo Legion 7i: Potência RTX 5060 e ecrã OLED para gamers"
-date: "2026-01-04T03:47:31.773Z"
-category: "gaming"
+title: 'Lenovo Legion 7i: Potência RTX 5060 e ecrã OLED para gamers'
+date: '2026-01-04T03:47:31.773Z'
+category: gaming
 tags:
   - Lenovo Legion 7i
   - portátil gaming
   - NVIDIA RTX 5060
   - Intel HX
   - OLED
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovo_legion_7i_rtx_5060_core_ultra_5_deal_best_buy.jpg"
-image_source: "rss"
-description: "O Lenovo Legion 7i é um portátil gaming de gama média com CPU Intel HX, RTX 5060, 32 GB RAM e ecrã OLED 2.5K. Descobre a análise a este equipamento. O mercad..."
-source_url: "https://www.notebookcheck.net/RTX-5060-32-GB-DDR5-RAM-Lenovo-Legion-7i-gaming-laptop-with-2-5K-OLED-display-gets-570-discount.1195591.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lenovo_legion_7i_rtx_5060_core_ultra_5_deal_best_buy.jpg
+image_source: rss
+description: >-
+  O Lenovo Legion 7i é um portátil gaming de gama média com CPU Intel HX, RTX
+  5060, 32 GB RAM e ecrã OLED 2.5K. Descobre a análise a este equipamento. O
+  mercad.
+source_url: >-
+  https://www.notebookcheck.net/RTX-5060-32-GB-DDR5-RAM-Lenovo-Legion-7i-gaming-laptop-with-2-5K-OLED-display-gets-570-discount.1195591.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

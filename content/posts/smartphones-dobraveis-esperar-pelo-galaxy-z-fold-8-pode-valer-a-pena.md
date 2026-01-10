@@ -1,17 +1,21 @@
 ---
-title: "Smartphones dobráveis: esperar pelo Galaxy Z Fold 8 pode valer a pena"
-date: "2025-12-04T14:51:22.994Z"
-category: "smartphones"
+title: 'Smartphones dobráveis: esperar pelo Galaxy Z Fold 8 pode valer a pena'
+date: '2025-12-04T14:51:22.994Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones dobráveis
   - Galaxy Z Fold 8
   - tecnologia móvel
   - bateria
-image: "https://m-cdn.phonearena.com/images/article/176353-two/Dont-you-dare-buy-a-foldable-in-2025-Wait-until-the-Galaxy-Z-Fold-8-is-nigh-for-big-changes-are-underway.jpg"
-image_source: "rss"
-description: "Grandes mudanças nos smartphones dobráveis estão a caminho. O Galaxy Z Fold 8 da Samsung promete inovações cruciais em bateria e carregamento. Será melhor es..."
-source_url: "https://www.phonearena.com/news/dont-buy-a-foldable-in-2025_id176353"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176353-two/Dont-you-dare-buy-a-foldable-in-2025-Wait-until-the-Galaxy-Z-Fold-8-is-nigh-for-big-changes-are-underway.jpg
+image_source: rss
+description: >-
+  Grandes mudanças nos smartphones dobráveis estão a caminho. O Galaxy Z Fold 8
+  da Samsung promete inovações cruciais em bateria e carregamento. Será melhor
+  es.
+source_url: 'https://www.phonearena.com/news/dont-buy-a-foldable-in-2025_id176353'
 draft: false
 needs_review: false
 photographer_name: undefined

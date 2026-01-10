@@ -1,17 +1,22 @@
 ---
-title: "Lenovo ThinkPad E14 Gen 7: CPUs Intel atuais, AMD nem por isso"
-date: "2025-12-05T04:54:36.628Z"
-category: "computadores"
+title: 'Lenovo ThinkPad E14 Gen 7: CPUs Intel atuais, AMD nem por isso'
+date: '2025-12-05T04:54:36.628Z'
+category: computadores
 tags:
   - Lenovo
   - ThinkPad E14 Gen 7
   - laptops
   - Intel
   - AMD
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_Gen_7_21U2002QGE/thinkpad_e14_g7_lunar_lake_case_05.jpg"
-image_source: "rss"
-description: "O novo Lenovo ThinkPad E14 Gen 7 chega com uma diferença notória: CPUs Intel modernas, mas processadores AMD desatualizados. Descobre os detalhes. A Lenovo p..."
-source_url: "https://www.notebookcheck.net/Lenovo-offers-the-ThinkPad-E14-Gen-7-with-modern-Intel-CPUs-but-only-old-AMD-CPUs.1174681.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_Gen_7_21U2002QGE/thinkpad_e14_g7_lunar_lake_case_05.jpg
+image_source: rss
+description: >-
+  O novo Lenovo ThinkPad E14 Gen 7 chega com uma diferença notória: CPUs Intel
+  modernas, mas processadores AMD desatualizados. Descobre os detalhes. A Lenovo
+  p.
+source_url: >-
+  https://www.notebookcheck.net/Lenovo-offers-the-ThinkPad-E14-Gen-7-with-modern-Intel-CPUs-but-only-old-AMD-CPUs.1174681.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

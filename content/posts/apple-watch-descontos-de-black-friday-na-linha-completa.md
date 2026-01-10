@@ -1,17 +1,21 @@
 ---
-title: "Apple Watch: Descontos de Black Friday na linha completa"
-date: "2025-11-28T18:54:51.309Z"
-category: "wearables"
+title: 'Apple Watch: Descontos de Black Friday na linha completa'
+date: '2025-11-28T18:54:51.309Z'
+category: wearables
 tags:
   - Apple Watch
   - wearables
   - Black Friday
   - tecnologia
   - descontos
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-watch-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Aproveite a Black Friday para adquirir um Apple Watch. Descontos em toda a gama, do SE ao Ultra 3, para acompanhar a sua saúde e conectividade. Descubra as m..."
-source_url: "https://9to5mac.com/2025/11/28/apple-watch-black-friday-deals-2025"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-watch-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Aproveite a Black Friday para adquirir um Apple Watch. Descontos em toda a
+  gama, do SE ao Ultra 3, para acompanhar a sua saúde e conectividade. Descubra
+  as m.
+source_url: 'https://9to5mac.com/2025/11/28/apple-watch-black-friday-deals-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

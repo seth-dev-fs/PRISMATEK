@@ -1,17 +1,21 @@
 ---
-title: "Samsung garante metade do fornecimento de DRAM à Nvidia"
-date: "2025-12-03T06:58:19.416Z"
-category: "ai-futuro"
+title: Samsung garante metade do fornecimento de DRAM à Nvidia
+date: '2025-12-03T06:58:19.416Z'
+category: ai-futuro
 tags:
   - Samsung
   - Nvidia
   - DRAM
   - Inteligência Artificial
   - HBM
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-GTC-2025-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung vai fornecer cerca de metade dos chips DRAM de próxima geração necessários para a Nvidia, consolidando a sua posição no mercado de inteligência art..."
-source_url: "https://www.sammobile.com/news/samsung-supply-half-socamm2-dram-chips-nvidia"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Nvidia-Vera-Rubin-NVL144-Tray-AI-Platform-GTC-2025-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung vai fornecer cerca de metade dos chips DRAM de próxima geração
+  necessários para a Nvidia, consolidando a sua posição no mercado de
+  inteligência art.
+source_url: 'https://www.sammobile.com/news/samsung-supply-half-socamm2-dram-chips-nvidia'
 draft: false
 needs_review: false
 photographer_name: undefined

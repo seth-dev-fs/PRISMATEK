@@ -1,17 +1,24 @@
 ---
-title: "Proton VPN e Outros: Descontos de Black Friday para Reforçar a Sua Privacidade Online"
-date: "2025-11-27T06:59:29.207Z"
-category: "internet-apps"
+title: >-
+  Proton VPN e Outros: Descontos de Black Friday para Reforçar a Sua Privacidade
+  Online
+date: '2025-11-27T06:59:29.207Z'
+category: internet-apps
 tags:
   - VPN
   - privacidade
   - segurança online
   - Proton VPN
   - Black Friday
-image: "https://s.yimg.com/os/creatr-uploaded-images/2025-11/10e71690-b8ca-11f0-bb25-fe5ccdf6c3a1"
-image_source: "rss"
-description: "Proteja os seus dados e aceda a mais conteúdos com as ofertas de Black Friday em serviços VPN. Saiba como Proton VPN e outras opções garantem a sua segurança..."
-source_url: "https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-and-more-153737294.html?src=rss"
+image: >-
+  https://s.yimg.com/os/creatr-uploaded-images/2025-11/10e71690-b8ca-11f0-bb25-fe5ccdf6c3a1
+image_source: rss
+description: >-
+  Proteja os seus dados e aceda a mais conteúdos com as ofertas de Black Friday
+  em serviços VPN. Saiba como Proton VPN e outras opções garantem a sua
+  segurança.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-vpn-deals-get-up-to-75-percent-off-proton-vpn-two-year-plans-and-more-153737294.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

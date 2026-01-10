@@ -1,17 +1,22 @@
 ---
-title: "Redmi Note 15 5G revela processador Snapdragon 6 Gen 3 antes da estreia"
-date: "2025-12-16T06:28:12.879Z"
-category: "smartphones"
+title: Redmi Note 15 5G revela processador Snapdragon 6 Gen 3 antes da estreia
+date: '2025-12-16T06:28:12.879Z'
+category: smartphones
 tags:
   - Redmi
   - Xiaomi
   - smartphones
   - Snapdragon
   - Redmi Note 15 5G
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/redmi-note-15-5g-chipset/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Redmi Note 15 5G aproxima-se com o potente Snapdragon 6 Gen 3, câmara de 108MP e bateria de 5520 mAh. Saiba o que esperar deste novo smartphone. A Xiaomi, ..."
-source_url: "https://www.gsmarena.com/redmi_note_15_5gs_chipset_officially_revealed-news-70728.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/redmi-note-15-5g-chipset/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Redmi Note 15 5G aproxima-se com o potente Snapdragon 6 Gen 3, câmara de
+  108MP e bateria de 5520 mAh. Saiba o que esperar deste novo smartphone. A
+  Xiaomi,.
+source_url: >-
+  https://www.gsmarena.com/redmi_note_15_5gs_chipset_officially_revealed-news-70728.php
 draft: false
 needs_review: false
 photographer_name: undefined

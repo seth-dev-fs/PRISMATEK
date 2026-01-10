@@ -1,17 +1,21 @@
 ---
-title: "JBL Live 770NC: Qualidade de Som e ANC ao Alcance de Todos"
-date: "2025-12-03T14:52:18.554Z"
-category: "audio"
+title: 'JBL Live 770NC: Qualidade de Som e ANC ao Alcance de Todos'
+date: '2025-12-03T14:52:18.554Z'
+category: audio
 tags:
   - JBL
   - auscultadores
   - cancelamento de ruído
   - áudio
   - tecnologia
-image: "https://m-cdn.phonearena.com/images/article/176306-two/Grab-the-JBL-Live-770NC-for-a-whopping-40-off-at-Amazon.jpg"
-image_source: "rss"
-description: "Os auscultadores JBL Live 770NC destacam-se pela qualidade de som e cancelamento de ruído adaptativo. Descobre o que os torna uma opção apelativa no mercado ..."
-source_url: "https://www.phonearena.com/news/jbl-live-770nc-40-percent-off_id176306"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176306-two/Grab-the-JBL-Live-770NC-for-a-whopping-40-off-at-Amazon.jpg
+image_source: rss
+description: >-
+  Os auscultadores JBL Live 770NC destacam-se pela qualidade de som e
+  cancelamento de ruído adaptativo. Descobre o que os torna uma opção apelativa
+  no mercado.
+source_url: 'https://www.phonearena.com/news/jbl-live-770nc-40-percent-off_id176306'
 draft: false
 needs_review: false
 photographer_name: undefined

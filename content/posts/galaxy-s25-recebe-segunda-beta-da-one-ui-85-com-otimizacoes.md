@@ -1,17 +1,22 @@
 ---
-title: "Galaxy S25 recebe segunda beta da One UI 8.5 com otimizações"
-date: "2025-12-22T10:19:30.728Z"
-category: "smartphones"
+title: Galaxy S25 recebe segunda beta da One UI 8.5 com otimizações
+date: '2025-12-22T10:19:30.728Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S25
   - One UI 8.5
   - atualização
   - Android
-image: "https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-Galaxy-S25-Ultra-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung acaba de lançar a segunda versão beta da One UI 8.5 para os Galaxy S25, S25+ e S25 Ultra, focada em otimizar a experiência de utilizador. Fique a p..."
-source_url: "https://www.sammobile.com/news/second-galaxy-s25-plus-ultra-one-ui-8-5-beta-update"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-Galaxy-S25-Ultra-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung acaba de lançar a segunda versão beta da One UI 8.5 para os Galaxy
+  S25, S25+ e S25 Ultra, focada em otimizar a experiência de utilizador. Fique a
+  p.
+source_url: >-
+  https://www.sammobile.com/news/second-galaxy-s25-plus-ultra-one-ui-8-5-beta-update
 draft: false
 needs_review: false
 photographer_name: undefined

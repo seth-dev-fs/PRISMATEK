@@ -1,17 +1,21 @@
 ---
-title: "Harbin: O maior parque de gelo do mundo desafia o inverno chinês"
-date: "2025-11-30T20:41:00.459Z"
-category: "entretenimento-gaming"
+title: 'Harbin: O maior parque de gelo do mundo desafia o inverno chinês'
+date: '2025-11-30T20:41:00.459Z'
+category: entretenimento-gaming
 tags:
   - Harbin
   - parque de gelo
   - China
   - turismo
   - engenharia
-image: "https://i.blogs.es/ffd7ad/parque-hielo-china/840_560.jpeg"
-image_source: "rss"
-description: "A China surpreende com o Harbin Ice-Snow World, o maior parque de gelo do mundo, uma maravilha arquitetónica sazonal. Descubra esta atração gigante que movim..."
-source_url: "https://www.xataka.com/ingenieria-y-megaconstrucciones/china-aspira-a-batir-records-mayor-parque-hielo-mundo-ha-comenzado-a-levantarlo-bloque-a-bloque"
+image: 'https://i.blogs.es/ffd7ad/parque-hielo-china/840_560.jpeg'
+image_source: rss
+description: >-
+  A China surpreende com o Harbin Ice-Snow World, o maior parque de gelo do
+  mundo, uma maravilha arquitetónica sazonal. Descubra esta atração gigante que
+  movim.
+source_url: >-
+  https://www.xataka.com/ingenieria-y-megaconstrucciones/china-aspira-a-batir-records-mayor-parque-hielo-mundo-ha-comenzado-a-levantarlo-bloque-a-bloque
 draft: false
 needs_review: false
 photographer_name: undefined

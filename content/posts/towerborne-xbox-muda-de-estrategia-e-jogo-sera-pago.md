@@ -1,17 +1,22 @@
 ---
-title: "Towerborne: Xbox muda de estratégia e jogo será pago"
-date: "2026-01-09T01:21:26.406Z"
-category: "gaming"
+title: 'Towerborne: Xbox muda de estratégia e jogo será pago'
+date: '2026-01-09T01:21:26.406Z'
+category: gaming
 tags:
   - Towerborne
   - Xbox
   - gaming
   - RPG
   - videogames
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/New-Screenshot-13-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-image_source: "rss"
-description: "O RPG de ação da Xbox Game Studios, Towerborne, abandona o modelo 'free-to-play' para ser um jogo pago com modo offline. Descubra as novidades antes do lança..."
-source_url: "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/New-Screenshot-13-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+image_source: rss
+description: >-
+  O RPG de ação da Xbox Game Studios, Towerborne, abandona o modelo
+  'free-to-play' para ser um jogo pago com modo offline. Descubra as novidades
+  antes do lança.
+source_url: >-
+  https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline
 draft: false
 needs_review: false
 photographer_name: undefined

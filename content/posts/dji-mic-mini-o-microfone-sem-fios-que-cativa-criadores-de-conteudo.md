@@ -1,17 +1,23 @@
 ---
-title: "DJI Mic Mini: O Microfone Sem Fios que Cativa Criadores de Conteúdo"
-date: "2025-11-24T10:49:19.112Z"
-category: "audio"
+title: 'DJI Mic Mini: O Microfone Sem Fios que Cativa Criadores de Conteúdo'
+date: '2025-11-24T10:49:19.112Z'
+category: audio
 tags:
   - DJI
   - microfone
   - áudio
   - criadores de conteúdo
   - equipamento
-image: "https://s.yimg.com/ny/api/res/1.2/xzLEfDxi2uCSV4exz5wRbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/78a5db30-c91f-11f0-afea-28ff35fd9a75"
-image_source: "https://s.yimg.com/ny/api/res/1.2/xzLEfDxi2uCSV4exz5wRbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/78a5db30-c91f-11f0-afea-28ff35fd9a75"
-description: "O DJI Mic Mini tem sido um sucesso entre criadores, oferecendo áudio de qualidade profissional e versatilidade. Descubra as características que o tornam indi..."
-source_url: "https://www.engadget.com/audio/djis-mic-mini-bundle-drops-to-just-66-for-black-friday-102735161.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/xzLEfDxi2uCSV4exz5wRbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/78a5db30-c91f-11f0-afea-28ff35fd9a75
+image_source: >-
+  https://s.yimg.com/ny/api/res/1.2/xzLEfDxi2uCSV4exz5wRbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/78a5db30-c91f-11f0-afea-28ff35fd9a75
+description: >-
+  O DJI Mic Mini tem sido um sucesso entre criadores, oferecendo áudio de
+  qualidade profissional e versatilidade. Descubra as características que o
+  tornam indi.
+source_url: >-
+  https://www.engadget.com/audio/djis-mic-mini-bundle-drops-to-just-66-for-black-friday-102735161.html?src=rss
 draft: false
 needs_review: false
 ---

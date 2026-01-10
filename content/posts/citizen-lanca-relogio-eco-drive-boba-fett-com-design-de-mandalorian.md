@@ -1,17 +1,22 @@
 ---
-title: "Citizen lança relógio Eco-Drive Boba Fett com design de Mandalorian"
-date: "2026-01-01T01:27:40.716Z"
-category: "wearables"
+title: Citizen lança relógio Eco-Drive Boba Fett com design de Mandalorian
+date: '2026-01-01T01:27:40.716Z'
+category: wearables
 tags:
   - Citizen
   - Star Wars
   - Boba Fett
   - Eco-Drive
   - relógio
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Boba-Fett-watch.jpg"
-image_source: "rss"
-description: "A Citizen apresenta o novo relógio Eco-Drive inspirado em Boba Fett, com design do Mandaloriano. Resistente à água e com tecnologia Eco-Drive, já disponível ..."
-source_url: "https://www.notebookcheck.net/Citizen-releases-new-Boba-Fett-inspired-Eco-Drive-watch.1194507.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Boba-Fett-watch.jpg
+image_source: rss
+description: >-
+  A Citizen apresenta o novo relógio Eco-Drive inspirado em Boba Fett, com
+  design do Mandaloriano. Resistente à água e com tecnologia Eco-Drive, já
+  disponível.
+source_url: >-
+  https://www.notebookcheck.net/Citizen-releases-new-Boba-Fett-inspired-Eco-Drive-watch.1194507.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

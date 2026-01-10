@@ -1,17 +1,20 @@
 ---
-title: "jdSystemMonitor: Mais que um monitor de sistema no Linux"
-date: "2025-12-21T08:23:23.655Z"
-category: "computadores"
+title: 'jdSystemMonitor: Mais que um monitor de sistema no Linux'
+date: '2025-12-21T08:23:23.655Z'
+category: computadores
 tags:
   - Linux
   - jdSystemMonitor
   - monitor de sistema
   - software
   - ferramentas
-image: "https://itsfoss.com/content/images/2025/12/jdsystemmonitor-review.png"
-image_source: "rss"
-description: "Descubra o jdSystemMonitor, uma ferramenta robusta e leve que agrega todos os detalhes e recursos do seu sistema Linux num só lugar. Essencial para utilizado..."
-source_url: "https://itsfoss.com/jdsystemmonitor"
+image: 'https://itsfoss.com/content/images/2025/12/jdsystemmonitor-review.png'
+image_source: rss
+description: >-
+  Descubra o jdSystemMonitor, uma ferramenta robusta e leve que agrega todos os
+  detalhes e recursos do seu sistema Linux num só lugar. Essencial para
+  utilizado.
+source_url: 'https://itsfoss.com/jdsystemmonitor'
 draft: false
 needs_review: false
 photographer_name: undefined

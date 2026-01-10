@@ -1,17 +1,22 @@
 ---
-title: "Samsung e Meta: Óculos IA com Ecrãs Preparam-se para a Disputa em 2027"
-date: "2025-12-11T08:25:33.147Z"
-category: "wearables"
+title: 'Samsung e Meta: Óculos IA com Ecrãs Preparam-se para a Disputa em 2027'
+date: '2025-12-11T08:25:33.147Z'
+category: wearables
 tags:
   - Meta
   - Samsung
   - Google
   - óculos IA
   - Android XR
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Android-XR-Smart-Glasses-Galaxy-XR-Headset-1200x675.jpg"
-image_source: "rss"
-description: "A corrida pelos óculos inteligentes com IA e ecrãs intensifica-se. Meta, Samsung e Google preparam-se para lançar inovações que prometem revolucionar os wear..."
-source_url: "https://www.sammobile.com/news/meta-samsung-could-launch-ai-display-glasses-2027"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Android-XR-Smart-Glasses-Galaxy-XR-Headset-1200x675.jpg
+image_source: rss
+description: >-
+  A corrida pelos óculos inteligentes com IA e ecrãs intensifica-se. Meta,
+  Samsung e Google preparam-se para lançar inovações que prometem revolucionar
+  os wear.
+source_url: >-
+  https://www.sammobile.com/news/meta-samsung-could-launch-ai-display-glasses-2027
 draft: false
 needs_review: false
 photographer_name: undefined

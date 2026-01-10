@@ -1,17 +1,23 @@
 ---
-title: "Amazon desafia Starlink com internet satélite de 1 Gbps"
-date: "2025-11-25T18:53:55.644Z"
-category: "internet-apps"
+title: Amazon desafia Starlink com internet satélite de 1 Gbps
+date: '2025-11-25T18:53:55.644Z'
+category: internet-apps
 tags:
   - Amazon
   - internet satélite
   - Project Kuiper
   - Starlink
   - conectividade
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Leo-Ultra-antenna.jpg"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Leo-Ultra-antenna.jpg"
-description: "A Amazon lança um novo serviço de internet satélite, Leo Ultra, para clientes empresariais, prometendo velocidades de até 1 Gbps para competir com o Starlink..."
-source_url: "https://www.notebookcheck.net/Amazon-launches-Starlink-rival-capable-of-up-to-1-Gbps-satellite-internet.1170441.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Leo-Ultra-antenna.jpg
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Leo-Ultra-antenna.jpg
+description: >-
+  A Amazon lança um novo serviço de internet satélite, Leo Ultra, para clientes
+  empresariais, prometendo velocidades de até 1 Gbps para competir com o
+  Starlink.
+source_url: >-
+  https://www.notebookcheck.net/Amazon-launches-Starlink-rival-capable-of-up-to-1-Gbps-satellite-internet.1170441.0.html
 draft: false
 needs_review: false
 ---

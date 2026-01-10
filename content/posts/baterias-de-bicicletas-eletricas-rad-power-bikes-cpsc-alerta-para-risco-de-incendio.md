@@ -1,17 +1,24 @@
 ---
-title: "Baterias de Bicicletas Elétricas Rad Power Bikes: CPSC alerta para risco de incêndio"
-date: "2025-11-24T20:39:49.664Z"
-category: "mobilidade"
+title: >-
+  Baterias de Bicicletas Elétricas Rad Power Bikes: CPSC alerta para risco de
+  incêndio
+date: '2025-11-24T20:39:49.664Z'
+category: mobilidade
 tags:
   - Rad Power Bikes
   - bicicletas elétricas
   - baterias
   - segurança
   - CPSC
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562971/547387_Footagepull.00_10_31_16.Still019_476673_original_1721944732.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-image_source: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562971/547387_Footagepull.00_10_31_16.Still019_476673_original_1721944732.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-description: "A Comissão de Proteção do Consumidor dos EUA (CPSC) emitiu um alerta grave sobre baterias de bicicletas elétricas Rad Power Bikes, devido a risco de incêndio..."
-source_url: "https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562971/547387_Footagepull.00_10_31_16.Still019_476673_original_1721944732.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+image_source: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562971/547387_Footagepull.00_10_31_16.Still019_476673_original_1721944732.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+description: >-
+  A Comissão de Proteção do Consumidor dos EUA (CPSC) emitiu um alerta grave
+  sobre baterias de bicicletas elétricas Rad Power Bikes, devido a risco de
+  incêndio.
+source_url: 'https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc'
 draft: false
 needs_review: false
 ---

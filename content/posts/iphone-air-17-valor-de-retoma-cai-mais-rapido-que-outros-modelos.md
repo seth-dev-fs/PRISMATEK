@@ -1,17 +1,22 @@
 ---
-title: "iPhone Air 17: Valor de retoma cai mais rápido que outros modelos"
-date: "2025-12-05T20:43:58.040Z"
-category: "smartphones"
+title: 'iPhone Air 17: Valor de retoma cai mais rápido que outros modelos'
+date: '2025-12-05T20:43:58.040Z'
+category: smartphones
 tags:
   - Apple
   - iPhone
   - iPhone Air
   - desvalorização
   - smartphones
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-float-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um novo relatório revela que o iPhone Air, da linha iPhone 17, está a desvalorizar mais rapidamente. Descobre o que isto significa para o mercado e futuros c..."
-source_url: "https://9to5mac.com/2025/12/05/sellcell-iphone-17-resale-value-drop-report-10-weeks"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-air-float-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um novo relatório revela que o iPhone Air, da linha iPhone 17, está a
+  desvalorizar mais rapidamente. Descobre o que isto significa para o mercado e
+  futuros c.
+source_url: >-
+  https://9to5mac.com/2025/12/05/sellcell-iphone-17-resale-value-drop-report-10-weeks
 draft: false
 needs_review: false
 photographer_name: undefined

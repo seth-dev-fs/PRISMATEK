@@ -1,17 +1,20 @@
 ---
-title: "Armazenamento na Nuvem: O Guia Essencial para o seu Smartphone"
-date: "2025-12-03T06:59:55.878Z"
-category: "smartphones"
+title: 'Armazenamento na Nuvem: O Guia Essencial para o seu Smartphone'
+date: '2025-12-03T06:59:55.878Z'
+category: smartphones
 tags:
   - armazenamento na nuvem
   - backup
   - smartphones
   - segurança de dados
   - Nuvem
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Proteja as suas fotos e dados cruciais com o armazenamento na nuvem. Descubra como funciona, o que guardar, e as melhores práticas de segurança para smartpho..."
-source_url: "https://www.sammobile.com/news/what-are-the-basics-of-phone-cloud-storage"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Proteja as suas fotos e dados cruciais com o armazenamento na nuvem. Descubra
+  como funciona, o que guardar, e as melhores práticas de segurança para
+  smartpho.
+source_url: 'https://www.sammobile.com/news/what-are-the-basics-of-phone-cloud-storage'
 draft: false
 needs_review: false
 photographer_name: undefined

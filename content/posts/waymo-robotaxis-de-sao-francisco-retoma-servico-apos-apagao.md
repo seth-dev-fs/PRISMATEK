@@ -1,17 +1,22 @@
 ---
-title: "Waymo: Robotaxis de São Francisco retoma serviço após apagão"
-date: "2025-12-22T03:29:23.692Z"
-category: "ai-futuro"
+title: 'Waymo: Robotaxis de São Francisco retoma serviço após apagão'
+date: '2025-12-22T03:29:23.692Z'
+category: ai-futuro
 tags:
   - Waymo
   - robotaxis
   - veículos autónomos
   - mobilidade
   - São Francisco
-image: "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572"
-image_source: "rss"
-description: "Após um apagão em São Francisco ter paralisado os seus robotaxis, a Waymo anuncia o regresso à operação. Descobre como a tecnologia autónoma reagiu. A Waymo,..."
-source_url: "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572
+image_source: rss
+description: >-
+  Após um apagão em São Francisco ter paralisado os seus robotaxis, a Waymo
+  anuncia o regresso à operação. Descobre como a tecnologia autónoma reagiu. A
+  Waymo,.
+source_url: >-
+  https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout
 draft: false
 needs_review: false
 photographer_name: undefined

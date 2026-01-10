@@ -1,17 +1,20 @@
 ---
-title: "Campainhas de Vídeo: A Segurança Doméstica Inteligente em 2025"
-date: "2025-11-29T14:36:30.135Z"
-category: "home"
+title: 'Campainhas de Vídeo: A Segurança Doméstica Inteligente em 2025'
+date: '2025-11-29T14:36:30.135Z'
+category: home
 tags:
   - campainha de vídeo
   - segurança doméstica
   - casa inteligente
   - tecnologia
   - smart home
-image: "https://cdn.mos.cms.futurecdn.net/9WoktxCUG9Ekzz6EBEwnmj-1280-80.jpg"
-image_source: "rss"
-description: "Descubra as melhores campainhas de vídeo de 2025 para proteger a sua casa. Analisámos os modelos mais recentes para garantir a segurança da sua família, onde..."
-source_url: "https://www.techradar.com/home/home-security/best-video-doorbell"
+image: 'https://cdn.mos.cms.futurecdn.net/9WoktxCUG9Ekzz6EBEwnmj-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra as melhores campainhas de vídeo de 2025 para proteger a sua casa.
+  Analisámos os modelos mais recentes para garantir a segurança da sua família,
+  onde.
+source_url: 'https://www.techradar.com/home/home-security/best-video-doorbell'
 draft: false
 needs_review: true
 photographer_name: undefined

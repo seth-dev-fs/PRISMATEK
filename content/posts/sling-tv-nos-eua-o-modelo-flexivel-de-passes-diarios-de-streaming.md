@@ -1,17 +1,21 @@
 ---
-title: "Sling TV nos EUA: O Modelo Flexível de Passes Diários de Streaming"
-date: "2025-11-29T18:53:19.574Z"
-category: "internet-apps"
+title: 'Sling TV nos EUA: O Modelo Flexível de Passes Diários de Streaming'
+date: '2025-11-29T18:53:19.574Z'
+category: internet-apps
 tags:
   - streaming
   - Sling TV
   - televisão
   - EUA
   - conteúdos digitais
-image: "https://s.yimg.com/ny/api/res/1.2/JlO7nLCXrAL7C61yWq_.8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/bb200a40-c59a-11f0-b77e-86ebdc131820"
-image_source: "rss"
-description: "Conheça o modelo inovador da Sling TV nos EUA, que oferece passes diários para canais de TV, redefinindo a flexibilidade no consumo de conteúdos. Analisamos ..."
-source_url: "https://www.engadget.com/deals/black-friday-streaming-deals-include-sling-orange-day-passes-for-only-1-each-231208088.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/JlO7nLCXrAL7C61yWq_.8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/bb200a40-c59a-11f0-b77e-86ebdc131820
+image_source: rss
+description: >-
+  Conheça o modelo inovador da Sling TV nos EUA, que oferece passes diários para
+  canais de TV, redefinindo a flexibilidade no consumo de conteúdos. Analisamos.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-streaming-deals-include-sling-orange-day-passes-for-only-1-each-231208088.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

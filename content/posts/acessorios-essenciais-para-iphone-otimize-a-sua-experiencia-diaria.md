@@ -1,17 +1,22 @@
 ---
-title: "Acessórios Essenciais para iPhone: Otimize a Sua Experiência Diária"
-date: "2025-12-29T10:20:52.728Z"
-category: "smartphones"
+title: 'Acessórios Essenciais para iPhone: Otimize a Sua Experiência Diária'
+date: '2025-12-29T10:20:52.728Z'
+category: smartphones
 tags:
   - iPhone
   - acessórios
   - MagSafe
   - autonomia
   - fotografia
-image: "https://s.yimg.com/ny/api/res/1.2/S3slFy777oPeXDe9Bz5zwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/bfac6170-d446-11f0-92eb-ac2d855c75f2"
-image_source: "rss"
-description: "Descubra os acessórios indispensáveis que elevam o seu iPhone, oferecendo proteção, maior autonomia e capacidades fotográficas avançadas. Escolhas práticas p..."
-source_url: "https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/S3slFy777oPeXDe9Bz5zwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/bfac6170-d446-11f0-92eb-ac2d855c75f2
+image_source: rss
+description: >-
+  Descubra os acessórios indispensáveis que elevam o seu iPhone, oferecendo
+  proteção, maior autonomia e capacidades fotográficas avançadas. Escolhas
+  práticas p.
+source_url: >-
+  https://www.engadget.com/computing/accessories/best-iphone-accessories-140022449.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

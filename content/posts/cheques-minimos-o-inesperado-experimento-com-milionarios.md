@@ -1,17 +1,21 @@
 ---
-title: "Cheques Mínimos: O Inesperado Experimento Com Milionários"
-date: "2025-11-29T10:42:05.630Z"
-category: "ciencia"
+title: 'Cheques Mínimos: O Inesperado Experimento Com Milionários'
+date: '2025-11-29T10:42:05.630Z'
+category: ciencia
 tags:
   - milionários
   - experimento social
   - psicologia
   - dinheiro
   - Donald Trump
-image: "https://i.blogs.es/c88419/cheques-para-milloanrios/840_560.jpeg"
-image_source: "rss"
-description: "Nos anos 90, a revista Spy enviou cheques de cêntimos a milionários como Donald Trump. O objetivo? Perceber se o dinheiro é sempre dinheiro, por mais insigni..."
-source_url: "https://www.xataka.com/magnet/broma-convertida-experimento-revelo-algo-incomodo-algunos-millonarios-se-tomaron-molestia-cobrar-cheques-ridiculos"
+image: 'https://i.blogs.es/c88419/cheques-para-milloanrios/840_560.jpeg'
+image_source: rss
+description: >-
+  Nos anos 90, a revista Spy enviou cheques de cêntimos a milionários como
+  Donald Trump. O objetivo? Perceber se o dinheiro é sempre dinheiro, por mais
+  insigni.
+source_url: >-
+  https://www.xataka.com/magnet/broma-convertida-experimento-revelo-algo-incomodo-algunos-millonarios-se-tomaron-molestia-cobrar-cheques-ridiculos
 draft: false
 needs_review: false
 photographer_name: undefined

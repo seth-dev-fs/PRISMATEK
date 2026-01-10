@@ -1,17 +1,22 @@
 ---
-title: "Discord revoluciona compras em jogos: itens, listas e presentes"
-date: "2025-12-02T17:00:33.052Z"
-category: "gaming"
+title: 'Discord revoluciona compras em jogos: itens, listas e presentes'
+date: '2025-12-02T17:00:33.052Z'
+category: gaming
 tags:
   - Discord
   - gaming
   - compras digitais
   - plataformas
   - jogos online
-image: "https://techcrunch.com/wp-content/uploads/2025/12/MarvelRivals-Shop-Discord.png?w=1200"
-image_source: "rss"
-description: "O Discord eleva a experiência de gaming, permitindo comprar itens digitais em jogos, criar wishlists e enviar presentes via DMs. Uma novidade que promete dar..."
-source_url: "https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/12/MarvelRivals-Shop-Discord.png?w=1200
+image_source: rss
+description: >-
+  O Discord eleva a experiência de gaming, permitindo comprar itens digitais em
+  jogos, criar wishlists e enviar presentes via DMs. Uma novidade que promete
+  dar.
+source_url: >-
+  https://techcrunch.com/2025/12/02/discord-users-can-now-buy-in-game-items-without-leaving-the-platform
 draft: false
 needs_review: false
 photographer_name: undefined

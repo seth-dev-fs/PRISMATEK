@@ -1,17 +1,21 @@
 ---
-title: "Bug no Windows 11 prejudica GPUs Nvidia em Assassin's Creed Shadows"
-date: "2025-11-25T22:41:18.557Z"
-category: "gaming"
+title: Bug no Windows 11 prejudica GPUs Nvidia em Assassin's Creed Shadows
+date: '2025-11-25T22:41:18.557Z'
+category: gaming
 tags:
   - Windows 11
   - Nvidia
   - GPUs
   - Assassin's Creed Shadows
   - desempenho jogos
-image: "https://cdn.mos.cms.futurecdn.net/UxPtENLLUJkgTsx2XHugyY-1280-80.jpg"
-image_source: "rss"
-description: "Um erro no Windows 11 parece estar a afetar negativamente o desempenho de GPUs Nvidia, impactando jogos como Assassin's Creed Shadows. Descobre o que se sabe..."
-source_url: "https://www.techradar.com/computing/gpu/possible-windows-11-bug-with-nvidia-gpus-tanks-assassins-creed-shadows-performance-bringing-even-an-rtx-5090-to-its-knees"
+image: 'https://cdn.mos.cms.futurecdn.net/UxPtENLLUJkgTsx2XHugyY-1280-80.jpg'
+image_source: rss
+description: >-
+  Um erro no Windows 11 parece estar a afetar negativamente o desempenho de GPUs
+  Nvidia, impactando jogos como Assassin's Creed Shadows. Descobre o que se
+  sabe.
+source_url: >-
+  https://www.techradar.com/computing/gpu/possible-windows-11-bug-with-nvidia-gpus-tanks-assassins-creed-shadows-performance-bringing-even-an-rtx-5090-to-its-knees
 draft: false
 needs_review: false
 photographer_name: undefined

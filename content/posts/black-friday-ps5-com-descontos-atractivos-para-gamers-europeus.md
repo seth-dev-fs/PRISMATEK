@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: PS5 com descontos atractivos para gamers europeus"
-date: "2025-11-28T10:45:24.657Z"
-category: "gaming"
+title: 'Black Friday: PS5 com descontos atractivos para gamers europeus'
+date: '2025-11-28T10:45:24.657Z'
+category: gaming
 tags:
   - PlayStation 5
   - Black Friday
   - Sony
   - consolas
   - acessórios
-image: "https://s.yimg.com/ny/api/res/1.2/IEIeSzNxy2syU8o.Nw8jmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ada5dfc0-c48c-11f0-bfde-e6a701bf730b"
-image_source: "rss"
-description: "A Sony celebra a Black Friday com reduções de preço significativas nas consolas PlayStation 5 e acessórios. Uma oportunidade imperdível para gamers. A época ..."
-source_url: "https://www.engadget.com/deals/black-friday-ps5-deals-sony-takes-100-off-consoles-plus-discounts-on-playstation-games-accessories-and-more-145622822.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/IEIeSzNxy2syU8o.Nw8jmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ada5dfc0-c48c-11f0-bfde-e6a701bf730b
+image_source: rss
+description: >-
+  A Sony celebra a Black Friday com reduções de preço significativas nas
+  consolas PlayStation 5 e acessórios. Uma oportunidade imperdível para gamers.
+  A época.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-ps5-deals-sony-takes-100-off-consoles-plus-discounts-on-playstation-games-accessories-and-more-145622822.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

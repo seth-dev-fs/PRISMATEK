@@ -1,17 +1,24 @@
 ---
-title: "Europol Desmantela Cryptomixer: Branqueamento de 1,3 Mil Milhões de Euros Travado"
-date: "2025-12-01T19:04:07.964Z"
-category: "internet-apps"
+title: >-
+  Europol Desmantela Cryptomixer: Branqueamento de 1,3 Mil Milhões de Euros
+  Travado
+date: '2025-12-01T19:04:07.964Z'
+category: internet-apps
 tags:
   - Europol
   - criptomoedas
   - branqueamento de capitais
   - cibersegurança
   - Cryptomixer
-image: "https://techcrunch.com/wp-content/uploads/2025/12/cryptomixer-seizure-notice-europol.jpg?resize=1200,693"
-image_source: "rss"
-description: "A Europol anunciou o desmantelamento da Cryptomixer, plataforma que terá branqueado 1,3 mil milhões de euros em criptomoedas. Detalhes da operação. Numa oper..."
-source_url: "https://techcrunch.com/2025/12/01/european-cops-shut-down-crypto-mixing-website-that-helped-launder-1-3-billion-euros"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/12/cryptomixer-seizure-notice-europol.jpg?resize=1200,693
+image_source: rss
+description: >-
+  A Europol anunciou o desmantelamento da Cryptomixer, plataforma que terá
+  branqueado 1,3 mil milhões de euros em criptomoedas. Detalhes da operação.
+  Numa oper.
+source_url: >-
+  https://techcrunch.com/2025/12/01/european-cops-shut-down-crypto-mixing-website-that-helped-launder-1-3-billion-euros
 draft: false
 needs_review: false
 photographer_name: undefined

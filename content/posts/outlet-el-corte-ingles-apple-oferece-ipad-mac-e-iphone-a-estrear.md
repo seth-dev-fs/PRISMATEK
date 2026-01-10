@@ -1,17 +1,21 @@
 ---
-title: "Outlet El Corte Inglés: Apple oferece iPad, Mac e iPhone a estrear"
-date: "2025-12-20T10:19:01.387Z"
-category: "mobilidade"
+title: 'Outlet El Corte Inglés: Apple oferece iPad, Mac e iPhone a estrear'
+date: '2025-12-20T10:19:01.387Z'
+category: mobilidade
 tags:
   - Apple
   - El Corte Inglés
   - smartphones
   - tablets
   - portáteis
-image: "https://i.blogs.es/296b3a/el-corte-ingles/840_560.jpeg"
-image_source: "rss"
-description: "O outlet do El Corte Inglés tem uma seleção de dispositivos Apple novos e selados, desde iPads e MacBooks a iPhones. Descubra os modelos e preços competitivo..."
-source_url: "https://www.xataka.com/seleccion/outlet-corte-ingles-esta-lleno-ipad-macbook-otros-dispositivos-apple-todos-estos-estan-nuevos-a-estrenar"
+image: 'https://i.blogs.es/296b3a/el-corte-ingles/840_560.jpeg'
+image_source: rss
+description: >-
+  O outlet do El Corte Inglés tem uma seleção de dispositivos Apple novos e
+  selados, desde iPads e MacBooks a iPhones. Descubra os modelos e preços
+  competitivo.
+source_url: >-
+  https://www.xataka.com/seleccion/outlet-corte-ingles-esta-lleno-ipad-macbook-otros-dispositivos-apple-todos-estos-estan-nuevos-a-estrenar
 draft: false
 needs_review: false
 photographer_name: undefined

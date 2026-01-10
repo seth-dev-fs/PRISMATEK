@@ -1,7 +1,7 @@
 ---
-title: "Minisforum N5 Max: Mini-PC e NAS de alto desempenho com AMD APU"
-date: "2026-01-10T12:33:20.916Z"
-category: "computadores"
+title: 'Minisforum N5 Max: Mini-PC e NAS de alto desempenho com AMD APU'
+date: '2026-01-10T12:33:20.916Z'
+category: computadores
 tags:
   - Minisforum N5 Max
   - Mini-PC
@@ -10,10 +10,15 @@ tags:
   - Armazenamento
   - Portugal
   - Tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/minisforumn5pro.jpg"
-image_source: "rss"
-description: "O Minisforum N5 Max é um mini-PC e NAS híbrido, prometendo alto desempenho para armazenamento e computação em Portugal. Analisamos o seu impacto no mercado e..."
-source_url: "https://www.notebookcheck.net/Minisforum-N5-Max-Network-storage-and-mini-PC-combo-for-large-storage-systems-comes-with-powerful-AMD-APU.1201112.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/minisforumn5pro.jpg
+image_source: rss
+description: >-
+  O Minisforum N5 Max é um mini-PC e NAS híbrido, prometendo alto desempenho
+  para armazenamento e computação em Portugal. Analisamos o seu impacto no
+  mercado e.
+source_url: >-
+  https://www.notebookcheck.net/Minisforum-N5-Max-Network-storage-and-mini-PC-combo-for-large-storage-systems-comes-with-powerful-AMD-APU.1201112.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Grandes descontos até 60% em auscultadores de topo"
-date: "2025-11-26T04:48:43.013Z"
-category: "audio"
+title: 'Black Friday: Grandes descontos até 60% em auscultadores de topo'
+date: '2025-11-26T04:48:43.013Z'
+category: audio
 tags:
   - auscultadores
   - Black Friday
   - promoções
   - áudio
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/fpxJatqALNMpVMtF364uk9-1280-80.jpg"
-image_source: "rss"
-description: "A Black Friday é a altura ideal para adquirir auscultadores de topo. Descubra as melhores oportunidades e poupe até 60% em modelos de referência no mercado e..."
-source_url: "https://www.techradar.com/audio/headphones/hunting-for-black-friday-headphone-deals-ive-found-the-best-discounts-on-4-of-our-favourite-pairs-save-up-to-60-percent"
+image: 'https://cdn.mos.cms.futurecdn.net/fpxJatqALNMpVMtF364uk9-1280-80.jpg'
+image_source: rss
+description: >-
+  A Black Friday é a altura ideal para adquirir auscultadores de topo. Descubra
+  as melhores oportunidades e poupe até 60% em modelos de referência no mercado
+  e.
+source_url: >-
+  https://www.techradar.com/audio/headphones/hunting-for-black-friday-headphone-deals-ive-found-the-best-discounts-on-4-of-our-favourite-pairs-save-up-to-60-percent
 draft: false
 needs_review: false
 photographer_name: undefined

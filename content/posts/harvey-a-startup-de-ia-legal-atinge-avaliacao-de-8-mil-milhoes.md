@@ -1,17 +1,22 @@
 ---
-title: "Harvey, a startup de IA legal, atinge avaliação de 8 mil milhões"
-date: "2025-12-04T19:00:48.722Z"
-category: "ai-futuro"
+title: 'Harvey, a startup de IA legal, atinge avaliação de 8 mil milhões'
+date: '2025-12-04T19:00:48.722Z'
+category: ai-futuro
 tags:
   - Inteligência Artificial
   - legaltech
   - Harvey
   - investimento
   - startups
-image: "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863"
-image_source: "rss"
-description: "A Harvey, startup líder em IA legal, alcança uma impressionante avaliação de 8 mil milhões de dólares após forte ronda de investimento em 2025. Um marco notá..."
-source_url: "https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863
+image_source: rss
+description: >-
+  A Harvey, startup líder em IA legal, alcança uma impressionante avaliação de 8
+  mil milhões de dólares após forte ronda de investimento em 2025. Um marco
+  notá.
+source_url: >-
+  https://techcrunch.com/2025/12/04/legal-ai-startup-harvey-confirms-8b-valuation
 draft: false
 needs_review: false
 photographer_name: undefined

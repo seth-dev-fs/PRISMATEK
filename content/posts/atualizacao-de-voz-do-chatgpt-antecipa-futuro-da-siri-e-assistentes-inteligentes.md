@@ -1,17 +1,24 @@
 ---
-title: "Atualização de voz do ChatGPT antecipa futuro da Siri e assistentes inteligentes"
-date: "2025-11-26T13:51:12.953Z"
-category: "ai-futuro"
+title: >-
+  Atualização de voz do ChatGPT antecipa futuro da Siri e assistentes
+  inteligentes
+date: '2025-11-26T13:51:12.953Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - Siri
   - assistentes de voz
   - IA
   - inteligência artificial
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A recente atualização de voz do ChatGPT revoluciona a interação com IA, oferecendo uma prévia do que a aguardada 'nova Siri' da Apple pode trazer. Uma experi..."
-source_url: "https://9to5mac.com/2025/11/26/this-chatgpt-voice-update-previews-what-we-can-expect-from-the-new-siri"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/siri-ios19.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A recente atualização de voz do ChatGPT revoluciona a interação com IA,
+  oferecendo uma prévia do que a aguardada 'nova Siri' da Apple pode trazer. Uma
+  experi.
+source_url: >-
+  https://9to5mac.com/2025/11/26/this-chatgpt-voice-update-previews-what-we-can-expect-from-the-new-siri
 draft: false
 needs_review: false
 photographer_name: undefined

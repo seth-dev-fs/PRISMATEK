@@ -1,17 +1,22 @@
 ---
-title: "Honor Magic V6 pode trazer câmara de 200MP para o mundo dos dobráveis"
-date: "2026-01-01T10:21:32.208Z"
-category: "smartphones"
+title: Honor Magic V6 pode trazer câmara de 200MP para o mundo dos dobráveis
+date: '2026-01-01T10:21:32.208Z'
+category: smartphones
 tags:
   - Honor
   - Magic V6
   - smartphones dobráveis
   - câmara 200MP
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/honor-magic-v6-200mp-main-camera-rumored-again/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Honor Magic V6, o próximo smartphone dobrável da marca, poderá integrar uma câmara principal de 200MP. Descobre os mais recentes rumores sobre esta inovaçã..."
-source_url: "https://www.gsmarena.com/honor_once_again_rumored_to_give_the_magic_v6_a_higherres_main_camera-news-70915.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/honor-magic-v6-200mp-main-camera-rumored-again/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Honor Magic V6, o próximo smartphone dobrável da marca, poderá integrar uma
+  câmara principal de 200MP. Descobre os mais recentes rumores sobre esta
+  inovaçã.
+source_url: >-
+  https://www.gsmarena.com/honor_once_again_rumored_to_give_the_magic_v6_a_higherres_main_camera-news-70915.php
 draft: false
 needs_review: false
 photographer_name: undefined

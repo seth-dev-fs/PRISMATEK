@@ -1,17 +1,21 @@
 ---
-title: "Samsung e a bateria de 20.000 mAh: sonho ou pesadelo?"
-date: "2025-12-31T08:25:40.598Z"
-category: "smartphones"
+title: 'Samsung e a bateria de 20.000 mAh: sonho ou pesadelo?'
+date: '2025-12-31T08:25:40.598Z'
+category: smartphones
 tags:
   - Samsung
   - bateria
   - smartphones
   - rumores
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Ultra-S-Pen-and-USB-C-port.jpg"
-image_source: "rss"
-description: "Um rumor impressionante sugere que a Samsung explora uma bateria de 20.000 mAh, mas há um grande 'senão'. Descubra os detalhes desta fuga selvagem e as suas ..."
-source_url: "https://www.androidauthority.com/samsung-20000mah-battery-3628799"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-Galaxy-S25-Ultra-S-Pen-and-USB-C-port.jpg
+image_source: rss
+description: >-
+  Um rumor impressionante sugere que a Samsung explora uma bateria de 20.000
+  mAh, mas há um grande 'senão'. Descubra os detalhes desta fuga selvagem e as
+  suas.
+source_url: 'https://www.androidauthority.com/samsung-20000mah-battery-3628799'
 draft: false
 needs_review: false
 photographer_name: undefined

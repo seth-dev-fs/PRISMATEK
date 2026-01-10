@@ -1,17 +1,21 @@
 ---
-title: "Google Play Livros: 15 Anos a Transformar a Leitura Digital"
-date: "2025-12-05T20:42:56.818Z"
-category: "internet-apps"
+title: 'Google Play Livros: 15 Anos a Transformar a Leitura Digital'
+date: '2025-12-05T20:42:56.818Z'
+category: internet-apps
 tags:
   - Google Play Livros
   - ebooks
   - audiolivros
   - leitura digital
   - Google
-image: "https://www.androidauthority.com/wp-content/uploads/2025/06/Boox-Note-Air-4C-Play-Store-Books-scaled.jpg"
-image_source: "rss"
-description: "O Google Play Livros celebra 15 anos de existência. Descobre como a plataforma revolucionou o acesso a ebooks e audiolivros em Portugal e na Europa. O Google..."
-source_url: "https://www.androidauthority.com/google-play-books-bonus-points-3622866"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/06/Boox-Note-Air-4C-Play-Store-Books-scaled.jpg
+image_source: rss
+description: >-
+  O Google Play Livros celebra 15 anos de existência. Descobre como a plataforma
+  revolucionou o acesso a ebooks e audiolivros em Portugal e na Europa. O
+  Google.
+source_url: 'https://www.androidauthority.com/google-play-books-bonus-points-3622866'
 draft: false
 needs_review: false
 photographer_name: undefined

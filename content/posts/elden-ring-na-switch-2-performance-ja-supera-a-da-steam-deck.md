@@ -1,17 +1,22 @@
 ---
-title: "Elden Ring na Switch 2: Performance já supera a da Steam Deck?"
-date: "2025-12-06T03:32:50.204Z"
-category: "gaming"
+title: 'Elden Ring na Switch 2: Performance já supera a da Steam Deck?'
+date: '2025-12-06T03:32:50.204Z'
+category: gaming
 tags:
   - Elden Ring
   - Nintendo Switch 2
   - gaming
   - performance
   - Steam Deck
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EldenRingTarnishedEditionSwitch2Banner-2.jpg"
-image_source: "rss"
-description: "A versão Tarnished Edition de Elden Ring poderá ter performance superior na próxima Nintendo Switch, superando a Steam Deck. As otimizações surpreendem, prom..."
-source_url: "https://www.notebookcheck.net/YouTuber-claims-Elden-Ring-Tarnished-Edition-performance-on-Switch-2-now-beats-Steam-Deck.1179299.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EldenRingTarnishedEditionSwitch2Banner-2.jpg
+image_source: rss
+description: >-
+  A versão Tarnished Edition de Elden Ring poderá ter performance superior na
+  próxima Nintendo Switch, superando a Steam Deck. As otimizações surpreendem,
+  prom.
+source_url: >-
+  https://www.notebookcheck.net/YouTuber-claims-Elden-Ring-Tarnished-Edition-performance-on-Switch-2-now-beats-Steam-Deck.1179299.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

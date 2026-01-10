@@ -1,17 +1,22 @@
 ---
-title: "Samsung patenteia dobrável flip com dobradiça inovadora de 360º"
-date: "2026-01-07T18:27:02.324Z"
-category: "smartphones"
+title: Samsung patenteia dobrável flip com dobradiça inovadora de 360º
+date: '2026-01-07T18:27:02.324Z'
+category: smartphones
 tags:
   - Samsung
   - dobrável
   - flip phone
   - patente
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/samsung-flip-phone-360-hinge-patent/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Samsung pode revolucionar o mercado dos dobráveis com uma patente para um smartphone flip com dobradiça de 360 graus. Descubra os detalhes desta inovação n..."
-source_url: "https://www.gsmarena.com/samsung_patent_shows_flip_phone_with_a_360degree_hinge_-news-71002.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/samsung-flip-phone-360-hinge-patent/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Samsung pode revolucionar o mercado dos dobráveis com uma patente para um
+  smartphone flip com dobradiça de 360 graus. Descubra os detalhes desta
+  inovação n.
+source_url: >-
+  https://www.gsmarena.com/samsung_patent_shows_flip_phone_with_a_360degree_hinge_-news-71002.php
 draft: false
 needs_review: false
 photographer_name: undefined

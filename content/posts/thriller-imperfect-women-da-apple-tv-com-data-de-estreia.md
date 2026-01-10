@@ -1,17 +1,21 @@
 ---
-title: "Thriller 'Imperfect Women' da Apple TV+ com data de estreia"
-date: "2025-12-18T16:24:20.105Z"
-category: "entretenimento-gaming"
+title: Thriller 'Imperfect Women' da Apple TV+ com data de estreia
+date: '2025-12-18T16:24:20.105Z'
+category: entretenimento-gaming
 tags:
   - Apple TV+
   - streaming
   - séries
   - thriller
   - entretenimento
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Apple TV+ confirmou a data de estreia para 'Imperfect Women', o seu novo thriller psicológico com um elenco de luxo. Saiba tudo sobre a série que promete p..."
-source_url: "https://9to5mac.com/2025/12/18/imperfect-women-premiere-date-2026"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Apple TV+ confirmou a data de estreia para 'Imperfect Women', o seu novo
+  thriller psicológico com um elenco de luxo. Saiba tudo sobre a série que
+  promete p.
+source_url: 'https://9to5mac.com/2025/12/18/imperfect-women-premiere-date-2026'
 draft: false
 needs_review: false
 photographer_name: undefined

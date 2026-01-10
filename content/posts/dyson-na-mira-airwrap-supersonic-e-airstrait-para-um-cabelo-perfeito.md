@@ -1,17 +1,21 @@
 ---
-title: "Dyson na mira: Airwrap, Supersonic e Airstrait para um cabelo perfeito"
-date: "2025-11-27T22:40:38.386Z"
-category: "home"
+title: 'Dyson na mira: Airwrap, Supersonic e Airstrait para um cabelo perfeito'
+date: '2025-11-27T22:40:38.386Z'
+category: home
 tags:
   - Dyson
   - beleza
   - cabelo
   - styling
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/MhmDd2UWfv8kSY2tHnyHrU-1280-80.jpg"
-image_source: "rss"
-description: "Os gadgets de cabelo Dyson, como o Airwrap, Supersonic e Airstrait, são líderes em styling. Descubra a tecnologia que os torna únicos e as suas característic..."
-source_url: "https://www.techradar.com/home/hair-care/im-obsessed-with-these-dyson-hair-gadgets-heres-where-to-buy-an-airwrap-supersonic-or-airstrait-at-its-lowest-price-this-black-friday"
+image: 'https://cdn.mos.cms.futurecdn.net/MhmDd2UWfv8kSY2tHnyHrU-1280-80.jpg'
+image_source: rss
+description: >-
+  Os gadgets de cabelo Dyson, como o Airwrap, Supersonic e Airstrait, são
+  líderes em styling. Descubra a tecnologia que os torna únicos e as suas
+  característic.
+source_url: >-
+  https://www.techradar.com/home/hair-care/im-obsessed-with-these-dyson-hair-gadgets-heres-where-to-buy-an-airwrap-supersonic-or-airstrait-at-its-lowest-price-this-black-friday
 draft: false
 needs_review: false
 photographer_name: undefined

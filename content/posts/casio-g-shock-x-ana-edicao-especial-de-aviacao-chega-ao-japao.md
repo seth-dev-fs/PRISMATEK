@@ -1,17 +1,21 @@
 ---
-title: "Casio G-Shock x ANA: Edição especial de aviação chega ao Japão"
-date: "2025-12-26T10:19:53.617Z"
-category: "wearables"
+title: 'Casio G-Shock x ANA: Edição especial de aviação chega ao Japão'
+date: '2025-12-26T10:19:53.617Z'
+category: wearables
 tags:
   - Casio
   - G-Shock
   - ANA
   - relógio
   - edição especial
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-x-ANA.png"
-image_source: "rss"
-description: "A Casio e a All Nippon Airways unem-se num G-Shock DW-5600 exclusivo para o Japão. Conhece os detalhes desta edição de aviação. A Casio, em mais uma das suas..."
-source_url: "https://www.notebookcheck.net/New-Casio-G-Shock-x-ANA-DW-5600-collab-watch-revealed.1192379.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-x-ANA.png'
+image_source: rss
+description: >-
+  A Casio e a All Nippon Airways unem-se num G-Shock DW-5600 exclusivo para o
+  Japão. Conhece os detalhes desta edição de aviação. A Casio, em mais uma das
+  suas.
+source_url: >-
+  https://www.notebookcheck.net/New-Casio-G-Shock-x-ANA-DW-5600-collab-watch-revealed.1192379.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

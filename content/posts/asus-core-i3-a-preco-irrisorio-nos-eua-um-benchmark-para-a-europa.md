@@ -1,17 +1,21 @@
 ---
-title: "Asus Core i3 a preço irrisório nos EUA: um benchmark para a Europa"
-date: "2025-11-30T16:47:04.352Z"
-category: "computadores"
+title: 'Asus Core i3 a preço irrisório nos EUA: um benchmark para a Europa'
+date: '2025-11-30T16:47:04.352Z'
+category: computadores
 tags:
   - Asus
   - portátil
   - Core i3
   - computadores
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/XjvAoWZs72qPZnoRKqqUQf-1280-80.jpg"
-image_source: "rss"
-description: "Um portátil Asus com Core i3 e 8GB de RAM a um preço irrisório nos EUA, um benchmark para as ofertas a procurar no mercado europeu. Fique atento! A busca por..."
-source_url: "https://www.techradar.com/pro/usd199-99-best-buy-asus-core-i3-laptop-is-an-absolute-megadeal-but-it-wont-last-very-long"
+image: 'https://cdn.mos.cms.futurecdn.net/XjvAoWZs72qPZnoRKqqUQf-1280-80.jpg'
+image_source: rss
+description: >-
+  Um portátil Asus com Core i3 e 8GB de RAM a um preço irrisório nos EUA, um
+  benchmark para as ofertas a procurar no mercado europeu. Fique atento! A busca
+  por.
+source_url: >-
+  https://www.techradar.com/pro/usd199-99-best-buy-asus-core-i3-laptop-is-an-absolute-megadeal-but-it-wont-last-very-long
 draft: false
 needs_review: false
 photographer_name: undefined

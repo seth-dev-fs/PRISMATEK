@@ -1,17 +1,21 @@
 ---
-title: "Durov, CEO da Telegram, revela truque insólito para a produtividade"
-date: "2025-12-05T18:54:10.571Z"
-category: "internet-apps"
+title: 'Durov, CEO da Telegram, revela truque insólito para a produtividade'
+date: '2025-12-05T18:54:10.571Z'
+category: internet-apps
 tags:
   - Telegram
   - Pavel Durov
   - produtividade
   - saúde digital
   - foco
-image: "https://i.blogs.es/971cf8/10536859106_337f44c47e_o/840_560.jpeg"
-image_source: "rss"
-description: "Pavel Durov, líder da Telegram, adota uma rotina invulgar para ser produtivo: dormir 12 horas e evitar o telemóvel. Um contraste no mundo tech. Enquanto o ep..."
-source_url: "https://www.xataka.com/empresas-y-economia/ceo-telegram-tiene-truco-insolito-para-ser-productivo-evitar-uso-movil-dormir-12-horas"
+image: 'https://i.blogs.es/971cf8/10536859106_337f44c47e_o/840_560.jpeg'
+image_source: rss
+description: >-
+  Pavel Durov, líder da Telegram, adota uma rotina invulgar para ser produtivo:
+  dormir 12 horas e evitar o telemóvel. Um contraste no mundo tech. Enquanto o
+  ep.
+source_url: >-
+  https://www.xataka.com/empresas-y-economia/ceo-telegram-tiene-truco-insolito-para-ser-productivo-evitar-uso-movil-dormir-12-horas
 draft: false
 needs_review: false
 photographer_name: undefined

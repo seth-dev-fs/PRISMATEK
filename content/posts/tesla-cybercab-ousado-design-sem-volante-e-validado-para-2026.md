@@ -1,17 +1,22 @@
 ---
-title: "Tesla Cybercab: Ousado design sem volante é validado para 2026"
-date: "2025-11-30T14:38:39.425Z"
-category: "mobilidade"
+title: 'Tesla Cybercab: Ousado design sem volante é validado para 2026'
+date: '2025-11-30T14:38:39.425Z'
+category: mobilidade
 tags:
   - Tesla
   - Cybercab
   - Robotaxi
   - mobilidade
   - veículos autónomos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Tesla-Cybercab30.jpg"
-image_source: "rss"
-description: "O Tesla Cybercab, um robotáxi futurista sem volante, tem o seu design inovador validado por dados de utilização. Chegará às estradas em 2026 na plataforma Ro..."
-source_url: "https://www.notebookcheck.net/Tesla-has-been-right-about-Cybercab-design-all-along.1174205.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Tesla-Cybercab30.jpg
+image_source: rss
+description: >-
+  O Tesla Cybercab, um robotáxi futurista sem volante, tem o seu design inovador
+  validado por dados de utilização. Chegará às estradas em 2026 na plataforma
+  Ro.
+source_url: >-
+  https://www.notebookcheck.net/Tesla-has-been-right-about-Cybercab-design-all-along.1174205.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

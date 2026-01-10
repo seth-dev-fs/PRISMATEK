@@ -1,17 +1,21 @@
 ---
-title: "AMC+: Os melhores filmes e séries de terror a um clique de distância"
-date: "2025-11-24T18:55:50.040Z"
-category: "entretenimento-gaming"
+title: 'AMC+: Os melhores filmes e séries de terror a um clique de distância'
+date: '2025-11-24T18:55:50.040Z'
+category: entretenimento-gaming
 tags:
   - streaming
   - AMC+
   - Prime Video
   - séries
   - filmes
-image: "https://cdn.mos.cms.futurecdn.net/SHjgWCV6CA2KNa5vqqFRcj-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/SHjgWCV6CA2KNa5vqqFRcj-1280-80.jpg"
-description: "Descubra o universo AMC+ com séries de culto e filmes de terror aclamados. Explore as suas produções originais e como aceder em Portugal via Prime Video Chan..."
-source_url: "https://www.techradar.com/seasonal-sales/prime-videos-black-friday-deal-gets-you-amc-for-just-usd1-75-dont-miss-the-heartbreaking-horror-movie-everyones-talking-about"
+image: 'https://cdn.mos.cms.futurecdn.net/SHjgWCV6CA2KNa5vqqFRcj-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/SHjgWCV6CA2KNa5vqqFRcj-1280-80.jpg'
+description: >-
+  Descubra o universo AMC+ com séries de culto e filmes de terror aclamados.
+  Explore as suas produções originais e como aceder em Portugal via Prime Video
+  Chan.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/prime-videos-black-friday-deal-gets-you-amc-for-just-usd1-75-dont-miss-the-heartbreaking-horror-movie-everyones-talking-about
 draft: false
 needs_review: false
 ---

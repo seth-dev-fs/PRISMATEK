@@ -1,17 +1,21 @@
 ---
-title: "Ciberataque de ransomware afeta mais de 70 bancos nos EUA"
-date: "2025-12-04T22:41:06.277Z"
-category: "internet-apps"
+title: Ciberataque de ransomware afeta mais de 70 bancos nos EUA
+date: '2025-12-04T22:41:06.277Z'
+category: internet-apps
 tags:
   - ransomware
   - cibersegurança
   - ataque cibernético
   - bancos
   - Marquis
-image: "https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-1280-80.jpg"
-image_source: "rss"
-description: "Um ataque de ransomware à Marquis, fornecedora de tecnologia, comprometeu dados de mais de 70 instituições financeiras nos EUA, com a empresa a ceder ao resg..."
-source_url: "https://www.techradar.com/pro/security/over-70-us-banks-and-credit-unions-affected-by-marquis-ransomware-breach-heres-what-we-know"
+image: 'https://cdn.mos.cms.futurecdn.net/GJ8T4oA8G7TYJwTEhkwJAF-1280-80.jpg'
+image_source: rss
+description: >-
+  Um ataque de ransomware à Marquis, fornecedora de tecnologia, comprometeu
+  dados de mais de 70 instituições financeiras nos EUA, com a empresa a ceder ao
+  resg.
+source_url: >-
+  https://www.techradar.com/pro/security/over-70-us-banks-and-credit-unions-affected-by-marquis-ransomware-breach-heres-what-we-know
 draft: false
 needs_review: false
 photographer_name: undefined

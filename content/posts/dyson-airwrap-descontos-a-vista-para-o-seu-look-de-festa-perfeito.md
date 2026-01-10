@@ -1,17 +1,21 @@
 ---
-title: "Dyson Airwrap: Descontos à vista para o seu look de festa perfeito"
-date: "2025-11-26T03:41:49.251Z"
-category: "home"
+title: 'Dyson Airwrap: Descontos à vista para o seu look de festa perfeito'
+date: '2025-11-26T03:41:49.251Z'
+category: home
 tags:
   - Dyson
   - Airwrap
   - beleza
   - tecnologia
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/hejcy69Lq9QHSfEtmt6PZP-1280-80.jpg"
-image_source: "rss"
-description: "O Dyson Airwrap, um dos aparelhos de beleza mais desejados, promete transformar o seu cabelo. Descubra como este multieastilizador pode ser seu por um preço ..."
-source_url: "https://www.techradar.com/home/hair-care/want-salon-finish-hair-for-the-party-season-these-black-friday-dyson-airwrap-deals-save-you-up-to-au-usd250-on-the-coveted-multi-styler"
+image: 'https://cdn.mos.cms.futurecdn.net/hejcy69Lq9QHSfEtmt6PZP-1280-80.jpg'
+image_source: rss
+description: >-
+  O Dyson Airwrap, um dos aparelhos de beleza mais desejados, promete
+  transformar o seu cabelo. Descubra como este multieastilizador pode ser seu
+  por um preço.
+source_url: >-
+  https://www.techradar.com/home/hair-care/want-salon-finish-hair-for-the-party-season-these-black-friday-dyson-airwrap-deals-save-you-up-to-au-usd250-on-the-coveted-multi-styler
 draft: false
 needs_review: true
 photographer_name: undefined

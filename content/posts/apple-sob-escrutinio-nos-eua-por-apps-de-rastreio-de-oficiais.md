@@ -1,17 +1,22 @@
 ---
-title: "Apple sob escrutínio nos EUA por apps de rastreio de oficiais"
-date: "2025-12-06T03:33:15.982Z"
-category: "internet-apps"
+title: Apple sob escrutínio nos EUA por apps de rastreio de oficiais
+date: '2025-12-06T03:33:15.982Z'
+category: internet-apps
 tags:
   - Apple
   - App Store
   - EUA
   - privacidade
   - apps de rastreio
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Legisladores norte-americanos questionam a Apple sobre as medidas para evitar o retorno de apps de rastreio como o ICEBlock na App Store, reacendendo a polém..."
-source_url: "https://9to5mac.com/2025/12/05/us-lawmakers-ask-apple-google-about-iceblock-apps"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Former-veteran-Apple-marketing-exec-challenges-Tim-Cook-on-human-rights-over-ICEBlock.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Legisladores norte-americanos questionam a Apple sobre as medidas para evitar
+  o retorno de apps de rastreio como o ICEBlock na App Store, reacendendo a
+  polém.
+source_url: >-
+  https://9to5mac.com/2025/12/05/us-lawmakers-ask-apple-google-about-iceblock-apps
 draft: false
 needs_review: false
 photographer_name: undefined

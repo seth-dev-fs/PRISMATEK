@@ -1,17 +1,21 @@
 ---
-title: "MasterClass com até 50% de desconto: invista no seu desenvolvimento"
-date: "2025-11-30T16:46:02.787Z"
-category: "internet-apps"
+title: 'MasterClass com até 50% de desconto: invista no seu desenvolvimento'
+date: '2025-11-30T16:46:02.787Z'
+category: internet-apps
 tags:
   - MasterClass
   - ensino online
   - streaming
   - promoções
   - desenvolvimento pessoal
-image: "https://s.yimg.com/ny/api/res/1.2/kCit8W91f5u6YiR9gLi1Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/02bcf680-7ea4-11f0-af46-2e93dd79ddb0"
-image_source: "rss"
-description: "Aproveite as promoções de fim de ano para subscrever a MasterClass com até 50% de desconto. Aprenda com os melhores em várias áreas do saber. Com a época de ..."
-source_url: "https://www.engadget.com/deals/cyber-monday-streaming-deals-are-here-and-masterclass-subscriptions-are-50-percent-off-163035591.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/kCit8W91f5u6YiR9gLi1Ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/02bcf680-7ea4-11f0-af46-2e93dd79ddb0
+image_source: rss
+description: >-
+  Aproveite as promoções de fim de ano para subscrever a MasterClass com até 50%
+  de desconto. Aprenda com os melhores em várias áreas do saber. Com a época de.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-streaming-deals-are-here-and-masterclass-subscriptions-are-50-percent-off-163035591.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

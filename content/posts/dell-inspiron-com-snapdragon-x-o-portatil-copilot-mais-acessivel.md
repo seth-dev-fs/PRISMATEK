@@ -1,17 +1,21 @@
 ---
-title: "Dell Inspiron com Snapdragon X: o portátil Copilot+ mais acessível"
-date: "2025-11-24T18:56:03.375Z"
-category: "computadores"
+title: 'Dell Inspiron com Snapdragon X: o portátil Copilot+ mais acessível'
+date: '2025-11-24T18:56:03.375Z'
+category: computadores
 tags:
   - Dell
   - Snapdragon X
   - laptops
   - Copilot+ PC
   - processadores
-image: "https://cdn.mos.cms.futurecdn.net/Qmvpp7apqy4vB7r3Hg9eGm-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/Qmvpp7apqy4vB7r3Hg9eGm-1280-80.jpg"
-description: "O novo Dell Inspiron Copilot+ PC, equipado com processador Snapdragon X, estabelece um novo patamar de preço. Descubra as implicações desta inovação para o m..."
-source_url: "https://www.techradar.com/pro/this-is-the-cheapest-snapdragon-x-laptop-ever-launched-and-i-cant-believe-it's-less-than-usd400-for-black-friday"
+image: 'https://cdn.mos.cms.futurecdn.net/Qmvpp7apqy4vB7r3Hg9eGm-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/Qmvpp7apqy4vB7r3Hg9eGm-1280-80.jpg'
+description: >-
+  O novo Dell Inspiron Copilot+ PC, equipado com processador Snapdragon X,
+  estabelece um novo patamar de preço. Descubra as implicações desta inovação
+  para o m.
+source_url: >-
+  https://www.techradar.com/pro/this-is-the-cheapest-snapdragon-x-laptop-ever-launched-and-i-cant-believe-it's-less-than-usd400-for-black-friday
 draft: false
 needs_review: false
 ---

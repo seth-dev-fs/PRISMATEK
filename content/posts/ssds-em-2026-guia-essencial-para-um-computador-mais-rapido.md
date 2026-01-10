@@ -1,17 +1,22 @@
 ---
-title: "SSDs em 2026: Guia Essencial para um Computador Mais Rápido"
-date: "2025-12-23T10:21:04.828Z"
-category: "computadores"
+title: 'SSDs em 2026: Guia Essencial para um Computador Mais Rápido'
+date: '2025-12-23T10:21:04.828Z'
+category: computadores
 tags:
   - SSDs
   - armazenamento
   - NVMe
   - SATA
   - PC gaming
-image: "https://s.yimg.com/ny/api/res/1.2/_x81Q_TX1vaPbND2zyWG2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/48f38fd0-d44c-11f0-bf1f-a1e65d279710"
-image_source: "rss"
-description: "Guia completo para escolher os melhores SSDs de 2026. Saiba as diferenças entre SATA e NVMe, compatibilidade com PC, consolas e a escolha ideal. Atualizar pa..."
-source_url: "https://www.engadget.com/computing/accessories/best-ssds-140014262.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/_x81Q_TX1vaPbND2zyWG2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/48f38fd0-d44c-11f0-bf1f-a1e65d279710
+image_source: rss
+description: >-
+  Guia completo para escolher os melhores SSDs de 2026. Saiba as diferenças
+  entre SATA e NVMe, compatibilidade com PC, consolas e a escolha ideal.
+  Atualizar pa.
+source_url: >-
+  https://www.engadget.com/computing/accessories/best-ssds-140014262.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

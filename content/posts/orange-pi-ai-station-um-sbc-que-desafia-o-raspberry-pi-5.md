@@ -1,17 +1,22 @@
 ---
-title: "Orange Pi AI Station: um SBC que desafia o Raspberry Pi 5"
-date: "2026-01-01T22:16:54.356Z"
-category: "computadores"
+title: 'Orange Pi AI Station: um SBC que desafia o Raspberry Pi 5'
+date: '2026-01-01T22:16:54.356Z'
+category: computadores
 tags:
   - Orange Pi
   - SBC
   - inteligência artificial
   - mini PC
   - Raspberry Pi
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/orangepiaistation.jpg"
-image_source: "rss"
-description: "A Orange Pi lançou a AI Station, um computador de placa única com até 96GB de RAM e 176 TOPS, que promete revolucionar aplicações de IA. Supera o Raspberry P..."
-source_url: "https://www.notebookcheck.net/Orange-Pi-New-SBC-or-mini-PC-with-up-to-96GB-RAM-runs-circles-around-Raspberry-Pi-5-with-176-TOPS.1194902.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/orangepiaistation.jpg
+image_source: rss
+description: >-
+  A Orange Pi lançou a AI Station, um computador de placa única com até 96GB de
+  RAM e 176 TOPS, que promete revolucionar aplicações de IA. Supera o Raspberry
+  P.
+source_url: >-
+  https://www.notebookcheck.net/Orange-Pi-New-SBC-or-mini-PC-with-up-to-96GB-RAM-runs-circles-around-Raspberry-Pi-5-with-176-TOPS.1194902.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

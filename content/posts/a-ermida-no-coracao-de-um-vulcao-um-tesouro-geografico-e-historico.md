@@ -1,17 +1,20 @@
 ---
-title: "A Ermida no Coração de um Vulcão: Um Tesouro Geográfico e Histórico"
-date: "2025-12-06T16:19:57.391Z"
-category: "home"
+title: 'A Ermida no Coração de um Vulcão: Um Tesouro Geográfico e Histórico'
+date: '2025-12-06T16:19:57.391Z'
+category: home
 tags:
   - Ermida Santa Margarida
   - Garrotxa
   - Vulcão
   - arquitetura românica
   - Catalunha
-image: "https://i.blogs.es/ad780c/ermita-santa-margarida/840_560.jpeg"
-image_source: "rss"
-description: "Descubra a fascinante Ermida de Santa Margarida de Sacot, um edifício românico singular aninhado no centro de um vulcão na Garrotxa. Entre as maravilhas que ..."
-source_url: "https://www.xataka.com/magnet/virgen-se-aparecio-volcan-garrotxa-tuvieron-que-levantar-ermitas-curiosas-mundo"
+image: 'https://i.blogs.es/ad780c/ermita-santa-margarida/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra a fascinante Ermida de Santa Margarida de Sacot, um edifício românico
+  singular aninhado no centro de um vulcão na Garrotxa. Entre as maravilhas que.
+source_url: >-
+  https://www.xataka.com/magnet/virgen-se-aparecio-volcan-garrotxa-tuvieron-que-levantar-ermitas-curiosas-mundo
 draft: false
 needs_review: true
 photographer_name: undefined

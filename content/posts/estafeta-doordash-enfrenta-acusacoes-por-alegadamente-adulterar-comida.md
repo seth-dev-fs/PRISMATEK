@@ -1,17 +1,22 @@
 ---
-title: "Estafeta DoorDash enfrenta acusações por alegadamente adulterar comida"
-date: "2025-12-13T22:15:34.748Z"
-category: "internet-apps"
+title: Estafeta DoorDash enfrenta acusações por alegadamente adulterar comida
+date: '2025-12-13T22:15:34.748Z'
+category: internet-apps
 tags:
   - DoorDash
   - aplicações de entrega
   - crimes
   - segurança alimentar
   - serviços de entrega
-image: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1209050422-1.jpg?w=1024"
-image_source: "rss"
-description: "Uma estafeta da DoorDash nos EUA foi acusada de adulterar a comida de clientes, levando a doença. Um incidente grave com as apps de entrega. Uma notícia insó..."
-source_url: "https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1209050422-1.jpg?w=1024
+image_source: rss
+description: >-
+  Uma estafeta da DoorDash nos EUA foi acusada de adulterar a comida de
+  clientes, levando a doença. Um incidente grave com as apps de entrega. Uma
+  notícia insó.
+source_url: >-
+  https://techcrunch.com/2025/12/13/doordash-driver-faces-felony-charges-after-allegedly-spraying-customers-food
 draft: false
 needs_review: false
 photographer_name: undefined

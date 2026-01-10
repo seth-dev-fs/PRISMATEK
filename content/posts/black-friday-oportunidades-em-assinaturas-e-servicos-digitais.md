@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Oportunidades em Assinaturas e Serviços Digitais"
-date: "2025-11-28T16:50:51.435Z"
-category: "internet-apps"
+title: 'Black Friday: Oportunidades em Assinaturas e Serviços Digitais'
+date: '2025-11-28T16:50:51.435Z'
+category: internet-apps
 tags:
   - Black Friday
   - assinaturas
   - streaming
   - VPN
   - produtividade
-image: "https://s.yimg.com/ny/api/res/1.2/KwihF3Y1rPeD_3mzD0sG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/087dbff0-c580-11f0-a897-fd501f4376c2"
-image_source: "rss"
-description: "A Black Friday traz descontos em serviços digitais essenciais, desde streaming como Apple TV+ e Disney+, a VPNs e apps de produtividade e bem-estar. Descobre..."
-source_url: "https://www.engadget.com/deals/black-friday-subscription-and-streaming-deals-include-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-180000123.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/KwihF3Y1rPeD_3mzD0sG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/087dbff0-c580-11f0-a897-fd501f4376c2
+image_source: rss
+description: >-
+  A Black Friday traz descontos em serviços digitais essenciais, desde streaming
+  como Apple TV+ e Disney+, a VPNs e apps de produtividade e bem-estar.
+  Descobre.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-subscription-and-streaming-deals-include-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-180000123.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

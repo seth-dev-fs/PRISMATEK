@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Sennheiser com Auscultadores a -55% na Europa"
-date: "2025-11-27T10:46:54.273Z"
-category: "audio"
+title: 'Black Friday: Sennheiser com Auscultadores a -55% na Europa'
+date: '2025-11-27T10:46:54.273Z'
+category: audio
 tags:
   - Sennheiser
   - auscultadores
   - Black Friday
   - áudio
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/Pz6j5nyCWeHKCV7ZbtF4bE-1280-80.jpg"
-image_source: "rss"
-description: "Aproveite a Black Friday para adquirir auscultadores Sennheiser com descontos impressionantes de até 55%. Prepare-se para uma experiência de áudio premium se..."
-source_url: "https://www.techradar.com/audio/wireless-headphones/sennheiser-headphones-are-now-up-to-55-percent-off-for-black-friday-sell-out-risk-high"
+image: 'https://cdn.mos.cms.futurecdn.net/Pz6j5nyCWeHKCV7ZbtF4bE-1280-80.jpg'
+image_source: rss
+description: >-
+  Aproveite a Black Friday para adquirir auscultadores Sennheiser com descontos
+  impressionantes de até 55%. Prepare-se para uma experiência de áudio premium
+  se.
+source_url: >-
+  https://www.techradar.com/audio/wireless-headphones/sennheiser-headphones-are-now-up-to-55-percent-off-for-black-friday-sell-out-risk-high
 draft: false
 needs_review: false
 photographer_name: undefined

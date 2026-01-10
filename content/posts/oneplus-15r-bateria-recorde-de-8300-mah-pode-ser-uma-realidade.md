@@ -1,17 +1,21 @@
 ---
-title: "OnePlus 15R: Bateria recorde de 8.300 mAh pode ser uma realidade"
-date: "2025-11-30T16:46:13.235Z"
-category: "smartphones"
+title: 'OnePlus 15R: Bateria recorde de 8.300 mAh pode ser uma realidade'
+date: '2025-11-30T16:46:13.235Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - OnePlus 15R
   - bateria
   - autonomia
-image: "https://cdn.mos.cms.futurecdn.net/645oevZc8PTHa2f9FndCNE-1280-80.jpg"
-image_source: "rss"
-description: "O próximo OnePlus 15R promete redefinir a autonomia no segmento dos smartphones, com rumores a apontar para uma bateria impressionante de 8.300 mAh, a maior ..."
-source_url: "https://www.techradar.com/phones/oneplus-phones/the-next-oneplus-phone-could-have-the-biggest-battery-the-company-has-ever-put-into-a-handset"
+image: 'https://cdn.mos.cms.futurecdn.net/645oevZc8PTHa2f9FndCNE-1280-80.jpg'
+image_source: rss
+description: >-
+  O próximo OnePlus 15R promete redefinir a autonomia no segmento dos
+  smartphones, com rumores a apontar para uma bateria impressionante de 8.300
+  mAh, a maior.
+source_url: >-
+  https://www.techradar.com/phones/oneplus-phones/the-next-oneplus-phone-could-have-the-biggest-battery-the-company-has-ever-put-into-a-handset
 draft: false
 needs_review: false
 photographer_name: undefined

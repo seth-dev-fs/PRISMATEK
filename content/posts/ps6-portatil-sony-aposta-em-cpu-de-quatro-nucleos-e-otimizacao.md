@@ -1,17 +1,22 @@
 ---
-title: "PS6 Portátil: Sony aposta em CPU de quatro núcleos e otimização"
-date: "2025-12-18T10:20:06.740Z"
-category: "gaming"
+title: 'PS6 Portátil: Sony aposta em CPU de quatro núcleos e otimização'
+date: '2025-12-18T10:20:06.740Z'
+category: gaming
 tags:
   - Sony
   - PS6
   - gaming
   - consola portátil
   - CPU
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-PS6-handheld-specs-include-an-8-core-CPU.jpg"
-image_source: "rss"
-description: "Novos rumores indicam que a Sony está a desenvolver uma PS6 portátil com CPU de quatro núcleos. Descubra como a gigante japonesa prepara a próxima geração de..."
-source_url: "https://www.notebookcheck.net/PS6-handheld-CPU-could-only-have-four-cores-for-gaming-as-Sony-reportedly-wants-games-that-can-run-on-eight-threads.1188685.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-PS6-handheld-specs-include-an-8-core-CPU.jpg
+image_source: rss
+description: >-
+  Novos rumores indicam que a Sony está a desenvolver uma PS6 portátil com CPU
+  de quatro núcleos. Descubra como a gigante japonesa prepara a próxima geração
+  de.
+source_url: >-
+  https://www.notebookcheck.net/PS6-handheld-CPU-could-only-have-four-cores-for-gaming-as-Sony-reportedly-wants-games-that-can-run-on-eight-threads.1188685.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

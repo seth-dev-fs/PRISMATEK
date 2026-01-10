@@ -1,17 +1,22 @@
 ---
-title: "Amazon Luna: 14 jogos grátis para membros Prime em dezembro de 2025"
-date: "2025-12-05T16:55:22.927Z"
-category: "gaming"
+title: 'Amazon Luna: 14 jogos grátis para membros Prime em dezembro de 2025'
+date: '2025-12-05T16:55:22.927Z'
+category: gaming
 tags:
   - Amazon Luna
   - Prime Gaming
   - jogos grátis
   - Fallout
   - Deus Ex
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Luna-free-games-lineup-for-December-2025.jpg"
-image_source: "rss"
-description: "Membros Prime podem aceder a 14 jogos sem custo adicional no Amazon Luna em dezembro de 2025, com clássicos como Fallout e Deus Ex em destaque. A Amazon prep..."
-source_url: "https://www.notebookcheck.net/208-in-free-games-with-some-major-hits-scheduled-for-December-2025-on-Amazon-Luna.1178427.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Luna-free-games-lineup-for-December-2025.jpg
+image_source: rss
+description: >-
+  Membros Prime podem aceder a 14 jogos sem custo adicional no Amazon Luna em
+  dezembro de 2025, com clássicos como Fallout e Deus Ex em destaque. A Amazon
+  prep.
+source_url: >-
+  https://www.notebookcheck.net/208-in-free-games-with-some-major-hits-scheduled-for-December-2025-on-Amazon-Luna.1178427.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

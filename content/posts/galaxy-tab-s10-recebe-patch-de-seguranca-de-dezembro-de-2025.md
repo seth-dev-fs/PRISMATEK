@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Tab S10 recebe patch de segurança de dezembro de 2025"
-date: "2025-12-12T08:26:35.186Z"
-category: "mobilidade"
+title: Galaxy Tab S10 recebe patch de segurança de dezembro de 2025
+date: '2025-12-12T08:26:35.186Z'
+category: mobilidade
 tags:
   - Samsung
   - Galaxy Tab S10
   - segurança
   - atualização
   - Android
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-Tab-S10-Ultra-review-20-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung reforça a segurança dos seus tablets. O Galaxy Tab S10 já começou a receber o patch de segurança de dezembro de 2025, corrigindo 57 vulnerabilidade..."
-source_url: "https://www.sammobile.com/news/samsung-updates-galaxy-tab-s10-december-2025-security-patch"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-Tab-S10-Ultra-review-20-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung reforça a segurança dos seus tablets. O Galaxy Tab S10 já começou a
+  receber o patch de segurança de dezembro de 2025, corrigindo 57
+  vulnerabilidade.
+source_url: >-
+  https://www.sammobile.com/news/samsung-updates-galaxy-tab-s10-december-2025-security-patch
 draft: false
 needs_review: false
 photographer_name: undefined

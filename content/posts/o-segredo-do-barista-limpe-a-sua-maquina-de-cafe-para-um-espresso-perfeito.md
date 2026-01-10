@@ -1,17 +1,21 @@
 ---
-title: "O segredo do barista: limpe a sua máquina de café para um espresso perfeito"
-date: "2026-01-03T10:18:54.450Z"
-category: "home"
+title: 'O segredo do barista: limpe a sua máquina de café para um espresso perfeito'
+date: '2026-01-03T10:18:54.450Z'
+category: home
 tags:
   - máquina de café
   - limpeza
   - espresso
   - barista
   - manutenção
-image: "https://cdn.mos.cms.futurecdn.net/w5PLCjMAPVbbMW6jsiCjaL-1280-80.jpg"
-image_source: "rss"
-description: "Quer um espresso com sabor impecável? Um barista partilha os segredos da limpeza profunda da sua máquina de café, garantindo cada chávena como se fosse a pri..."
-source_url: "https://www.techradar.com/home/coffee-machines/how-to-deep-clean-your-coffee-maker"
+image: 'https://cdn.mos.cms.futurecdn.net/w5PLCjMAPVbbMW6jsiCjaL-1280-80.jpg'
+image_source: rss
+description: >-
+  Quer um espresso com sabor impecável? Um barista partilha os segredos da
+  limpeza profunda da sua máquina de café, garantindo cada chávena como se fosse
+  a pri.
+source_url: >-
+  https://www.techradar.com/home/coffee-machines/how-to-deep-clean-your-coffee-maker
 draft: false
 needs_review: true
 photographer_name: undefined

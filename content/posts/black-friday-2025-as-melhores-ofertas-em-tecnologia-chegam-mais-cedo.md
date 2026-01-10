@@ -1,17 +1,22 @@
 ---
-title: "Black Friday 2025: As melhores ofertas em tecnologia chegam mais cedo"
-date: "2025-11-28T03:38:22.516Z"
-category: "entretenimento-gaming"
+title: 'Black Friday 2025: As melhores ofertas em tecnologia chegam mais cedo'
+date: '2025-11-28T03:38:22.516Z'
+category: entretenimento-gaming
 tags:
   - Black Friday
   - ofertas
   - tecnologia
   - consolas
   - Apple
-image: "https://s.yimg.com/ny/api/res/1.2/kqE8AR3GYyxntp1Sm6i3Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f8121460-ca0f-11f0-9ff7-d69fde05688b"
-image_source: "rss"
-description: "A Black Friday 2025 promete trazer descontos imperdíveis em AirPods, consolas PlayStation 5 e muito mais. Prepare-se para as melhores ofertas tech. Ainda a r..."
-source_url: "https://www.engadget.com/deals/the-best-thanksgiving-black-friday-deals-for-2025-save-on-airpods-ps5-consoles-disney-and-more-090905438.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/kqE8AR3GYyxntp1Sm6i3Yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f8121460-ca0f-11f0-9ff7-d69fde05688b
+image_source: rss
+description: >-
+  A Black Friday 2025 promete trazer descontos imperdíveis em AirPods, consolas
+  PlayStation 5 e muito mais. Prepare-se para as melhores ofertas tech. Ainda a
+  r.
+source_url: >-
+  https://www.engadget.com/deals/the-best-thanksgiving-black-friday-deals-for-2025-save-on-airpods-ps5-consoles-disney-and-more-090905438.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

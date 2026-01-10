@@ -1,17 +1,21 @@
 ---
-title: "Maximize a Autonomia: Os Essenciais Modos de Poupança de Bateria"
-date: "2026-01-04T06:26:11.501Z"
-category: "smartphones"
+title: 'Maximize a Autonomia: Os Essenciais Modos de Poupança de Bateria'
+date: '2026-01-04T06:26:11.501Z'
+category: smartphones
 tags:
   - smartphones
   - bateria
   - autonomia
   - poupança de energia
   - dicas
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Descubra como os modos de poupança de bateria do seu smartphone podem estender a autonomia por horas. Aprenda a usá-los estrategicamente para nunca ficar sem..."
-source_url: "https://www.sammobile.com/news/what-are-the-essential-phone-battery-saving-modes"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Descubra como os modos de poupança de bateria do seu smartphone podem estender
+  a autonomia por horas. Aprenda a usá-los estrategicamente para nunca ficar
+  sem.
+source_url: >-
+  https://www.sammobile.com/news/what-are-the-essential-phone-battery-saving-modes
 draft: false
 needs_review: false
 photographer_name: undefined

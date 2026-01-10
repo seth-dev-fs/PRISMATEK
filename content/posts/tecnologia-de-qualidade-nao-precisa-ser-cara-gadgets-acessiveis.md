@@ -1,17 +1,22 @@
 ---
-title: "Tecnologia de Qualidade Não Precisa Ser Cara: Gadgets Acessíveis"
-date: "2025-12-02T03:45:22.116Z"
-category: "mobilidade"
+title: 'Tecnologia de Qualidade Não Precisa Ser Cara: Gadgets Acessíveis'
+date: '2025-12-02T03:45:22.116Z'
+category: mobilidade
 tags:
   - gadgets
   - tecnologia acessível
   - dispositivos
   - eletrónica
   - consumo
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/2024-Kindle-Lifestyle-Image-2.jpg?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602"
-image_source: "rss"
-description: "Descubra uma seleção de gadgets e acessórios tecnológicos que oferecem excelente valor sem esvaziar a carteira. Inovação acessível para o dia a dia. No unive..."
-source_url: "https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/2024-Kindle-Lifestyle-Image-2.jpg?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602
+image_source: rss
+description: >-
+  Descubra uma seleção de gadgets e acessórios tecnológicos que oferecem
+  excelente valor sem esvaziar a carteira. Inovação acessível para o dia a dia.
+  No unive.
+source_url: >-
+  https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025
 draft: false
 needs_review: false
 photographer_name: undefined

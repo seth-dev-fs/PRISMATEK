@@ -1,17 +1,22 @@
 ---
-title: "Vendas fracas do iPhone Air desmotivam fabricantes chineses"
-date: "2025-11-28T03:38:39.906Z"
-category: "smartphones"
+title: Vendas fracas do iPhone Air desmotivam fabricantes chineses
+date: '2025-11-28T03:38:39.906Z'
+category: smartphones
 tags:
   - iPhone Air
   - smartphones
   - Apple
   - fabricantes chineses
   - mercado mobile
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/iphone-air-poor-sales-discourage-chinese-makers/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "As vendas aquém do esperado do iPhone Air estão a fazer com que marcas como Xiaomi e Oppo repensem o lançamento de smartphones ultra finos. Descobre o impact..."
-source_url: "https://www.gsmarena.com/iphone_airs_poor_sales_have_discouraged_chinese_makers_from_slim_phones-news-70476.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/iphone-air-poor-sales-discourage-chinese-makers/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  As vendas aquém do esperado do iPhone Air estão a fazer com que marcas como
+  Xiaomi e Oppo repensem o lançamento de smartphones ultra finos. Descobre o
+  impact.
+source_url: >-
+  https://www.gsmarena.com/iphone_airs_poor_sales_have_discouraged_chinese_makers_from_slim_phones-news-70476.php
 draft: false
 needs_review: false
 photographer_name: undefined

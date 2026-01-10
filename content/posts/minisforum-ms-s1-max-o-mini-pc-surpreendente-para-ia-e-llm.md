@@ -1,17 +1,20 @@
 ---
-title: "Minisforum MS-S1 Max: O mini PC surpreendente para IA e LLM"
-date: "2025-12-16T08:26:16.979Z"
-category: "computadores"
+title: 'Minisforum MS-S1 Max: O mini PC surpreendente para IA e LLM'
+date: '2025-12-16T08:26:16.979Z'
+category: computadores
 tags:
   - Minisforum
   - mini PC
   - IA
   - LLM
   - computadores
-image: "https://cdn.mos.cms.futurecdn.net/BZPVTM6tQiDx5TUVoUm4nM-1280-80.jpg"
-image_source: "rss"
-description: "Descubra o Minisforum MS-S1 Max, um mini PC que promete revolucionar a execução e treino de modelos LLM localmente, com um custo acessível. Potência e expans..."
-source_url: "https://www.techradar.com/computing/minisforum-ms-s1-max-mini-pc-review"
+image: 'https://cdn.mos.cms.futurecdn.net/BZPVTM6tQiDx5TUVoUm4nM-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra o Minisforum MS-S1 Max, um mini PC que promete revolucionar a
+  execução e treino de modelos LLM localmente, com um custo acessível. Potência
+  e expans.
+source_url: 'https://www.techradar.com/computing/minisforum-ms-s1-max-mini-pc-review'
 draft: false
 needs_review: false
 photographer_name: undefined

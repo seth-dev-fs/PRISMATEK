@@ -1,17 +1,22 @@
 ---
-title: "Samsung Galaxy S26: Design dos novos topos de gama desvendado"
-date: "2025-12-05T13:47:36.517Z"
-category: "smartphones"
+title: 'Samsung Galaxy S26: Design dos novos topos de gama desvendado'
+date: '2025-12-05T13:47:36.517Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones
   - Galaxy S26
   - One UI 8.5
   - rumores
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-s26-s26-plus-s26-ultra-renders-in-one-ui-8-5/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Os aguardados Samsung Galaxy S26, S26+ e S26 Ultra foram revelados através de renders encontrados no código do One UI 8.5. Conheça as primeiras imagens dos n..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_s26_s26_and_s26_ultra_get_pictured_in_one_ui_85-news-70585.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-s26-s26-plus-s26-ultra-renders-in-one-ui-8-5/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Os aguardados Samsung Galaxy S26, S26+ e S26 Ultra foram revelados através de
+  renders encontrados no código do One UI 8.5. Conheça as primeiras imagens dos
+  n.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_s26_s26_and_s26_ultra_get_pictured_in_one_ui_85-news-70585.php
 draft: false
 needs_review: false
 photographer_name: undefined

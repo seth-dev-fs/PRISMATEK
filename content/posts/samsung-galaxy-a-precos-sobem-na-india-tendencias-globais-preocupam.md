@@ -1,17 +1,22 @@
 ---
-title: "Samsung Galaxy A: Preços sobem na Índia, tendências globais preocupam"
-date: "2025-12-14T08:22:29.259Z"
-category: "smartphones"
+title: 'Samsung Galaxy A: Preços sobem na Índia, tendências globais preocupam'
+date: '2025-12-14T08:22:29.259Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones
   - Galaxy A
   - preços
   - mercado
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a07-a37-a57-launch-timeline-leak/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Samsung prepara-se para subir os preços da série Galaxy A na Índia. Este aumento, impulsionado pelo custo dos chips de memória, pode sinalizar uma tendênci..."
-source_url: "https://www.gsmarena.com/samsung_expected_to_increase_galaxy_a_series_prices_in_india-news-70707.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a07-a37-a57-launch-timeline-leak/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Samsung prepara-se para subir os preços da série Galaxy A na Índia. Este
+  aumento, impulsionado pelo custo dos chips de memória, pode sinalizar uma
+  tendênci.
+source_url: >-
+  https://www.gsmarena.com/samsung_expected_to_increase_galaxy_a_series_prices_in_india-news-70707.php
 draft: false
 needs_review: false
 photographer_name: undefined

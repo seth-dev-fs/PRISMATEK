@@ -1,17 +1,20 @@
 ---
-title: "Dyson: Oportunidades em Aspiradores, Airwraps e Fãs neste Cyber Monday"
-date: "2025-11-30T13:21:06.921Z"
-category: "home"
+title: 'Dyson: Oportunidades em Aspiradores, Airwraps e Fãs neste Cyber Monday'
+date: '2025-11-30T13:21:06.921Z'
+category: home
 tags:
   - Dyson
   - eletrodomésticos
   - aspiradores
   - Airwrap
   - Cyber Monday
-image: "https://cdn.mos.cms.futurecdn.net/v4GY4JSbhj4Ss7YQSiaYG5-1280-80.png"
-image_source: "rss"
-description: "As promoções de Cyber Monday são uma excelente altura para adquirir tecnologia Dyson. Descubra aspiradores, Airwraps e fãs com preços reduzidos no mercado eu..."
-source_url: "https://www.techradar.com/home/vacuums/dyson-cyber-monday-deals"
+image: 'https://cdn.mos.cms.futurecdn.net/v4GY4JSbhj4Ss7YQSiaYG5-1280-80.png'
+image_source: rss
+description: >-
+  As promoções de Cyber Monday são uma excelente altura para adquirir tecnologia
+  Dyson. Descubra aspiradores, Airwraps e fãs com preços reduzidos no mercado
+  eu.
+source_url: 'https://www.techradar.com/home/vacuums/dyson-cyber-monday-deals'
 draft: false
 needs_review: false
 photographer_name: undefined

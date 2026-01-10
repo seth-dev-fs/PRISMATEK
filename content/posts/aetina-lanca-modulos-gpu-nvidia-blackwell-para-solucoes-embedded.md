@@ -1,17 +1,21 @@
 ---
-title: "Aetina Lança Módulos GPU NVIDIA Blackwell Para Soluções Embedded"
-date: "2025-12-06T04:20:51.643Z"
-category: "computadores"
+title: Aetina Lança Módulos GPU NVIDIA Blackwell Para Soluções Embedded
+date: '2025-12-06T04:20:51.643Z'
+category: computadores
 tags:
   - Aetina
   - NVIDIA Blackwell
   - GPUs
   - Embedded
   - MXM
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lineup.jpg"
-image_source: "rss"
-description: "A Aetina apresenta os seus novos módulos GPU MXM com arquitetura NVIDIA RTX Pro Blackwell, prometendo alta performance para sistemas embedded. Conheça as ver..."
-source_url: "https://www.notebookcheck.net/Aetina-introduces-Nvidia-RTX-Pro-Blackwell-embedded-GPU-MXM-modules.1178951.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/lineup.jpg'
+image_source: rss
+description: >-
+  A Aetina apresenta os seus novos módulos GPU MXM com arquitetura NVIDIA RTX
+  Pro Blackwell, prometendo alta performance para sistemas embedded. Conheça as
+  ver.
+source_url: >-
+  https://www.notebookcheck.net/Aetina-introduces-Nvidia-RTX-Pro-Blackwell-embedded-GPU-MXM-modules.1178951.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

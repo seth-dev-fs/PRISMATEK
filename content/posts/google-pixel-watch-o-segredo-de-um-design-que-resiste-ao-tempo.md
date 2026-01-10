@@ -1,17 +1,22 @@
 ---
-title: "Google Pixel Watch: o segredo de um design que resiste ao tempo"
-date: "2025-11-24T14:46:29.862Z"
-category: "wearables"
+title: 'Google Pixel Watch: o segredo de um design que resiste ao tempo'
+date: '2025-11-24T14:46:29.862Z'
+category: wearables
 tags:
   - Google Pixel Watch
   - smartwatch
   - design
   - wearables
   - sondagem
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-Watch-4-alternatives-scaled.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-Watch-4-alternatives-scaled.jpg"
-description: "Uma sondagem recente revela que, apesar de quatro gerações, o design do Google Pixel Watch continua a ser um sucesso. Descubra porquê este smartwatch agrada ..."
-source_url: "https://www.androidauthority.com/google-pixel-watch-secondary-design-poll-results-3618980"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-Watch-4-alternatives-scaled.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-Watch-4-alternatives-scaled.jpg
+description: >-
+  Uma sondagem recente revela que, apesar de quatro gerações, o design do Google
+  Pixel Watch continua a ser um sucesso. Descubra porquê este smartwatch agrada.
+source_url: >-
+  https://www.androidauthority.com/google-pixel-watch-secondary-design-poll-results-3618980
 draft: false
 needs_review: false
 ---

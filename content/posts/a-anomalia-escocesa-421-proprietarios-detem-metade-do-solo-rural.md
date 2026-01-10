@@ -1,17 +1,21 @@
 ---
-title: "A anomalia escocesa: 421 proprietários detêm metade do solo rural"
-date: "2026-01-03T10:19:39.810Z"
-category: "home"
+title: 'A anomalia escocesa: 421 proprietários detêm metade do solo rural'
+date: '2026-01-03T10:19:39.810Z'
+category: home
 tags:
   - Escócia
   - propriedade rural
   - terras
   - concentração de riqueza
   - história
-image: "https://i.blogs.es/a4d02c/tierras-de-escocia/840_560.jpeg"
-image_source: "rss"
-description: "Na Escócia, a concentração de terras é uma herança medieval: apenas 421 proprietários controlam 50% do solo rural. Uma anomalia única na Europa que molda o f..."
-source_url: "https://www.xataka.com/magnet/escocia-mantiene-anomalia-unica-europa-edad-media-sus-tierras-estan-manos-solo-421-terratenientes"
+image: 'https://i.blogs.es/a4d02c/tierras-de-escocia/840_560.jpeg'
+image_source: rss
+description: >-
+  Na Escócia, a concentração de terras é uma herança medieval: apenas 421
+  proprietários controlam 50% do solo rural. Uma anomalia única na Europa que
+  molda o f.
+source_url: >-
+  https://www.xataka.com/magnet/escocia-mantiene-anomalia-unica-europa-edad-media-sus-tierras-estan-manos-solo-421-terratenientes
 draft: false
 needs_review: true
 photographer_name: undefined

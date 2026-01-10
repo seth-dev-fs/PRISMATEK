@@ -1,17 +1,21 @@
 ---
-title: "Garmin em 2026: Que inovações queremos ver nos smartwatches?"
-date: "2025-12-28T22:16:17.438Z"
-category: "wearables"
+title: 'Garmin em 2026: Que inovações queremos ver nos smartwatches?'
+date: '2025-12-28T22:16:17.438Z'
+category: wearables
 tags:
   - Garmin
   - smartwatches
   - wearables
   - tecnologia
   - futuro
-image: "https://cdn.mos.cms.futurecdn.net/gRM86JyQioPdaVuLWKHWvY-1280-80.jpg"
-image_source: "rss"
-description: "A Garmin tem um histórico de inovação, mas o que reserva o futuro? Exploramos as funcionalidades essenciais que os smartwatches da marca devem integrar para ..."
-source_url: "https://www.techradar.com/health-fitness/smartwatches/3-new-features-i-want-to-see-from-garmin-in-2026"
+image: 'https://cdn.mos.cms.futurecdn.net/gRM86JyQioPdaVuLWKHWvY-1280-80.jpg'
+image_source: rss
+description: >-
+  A Garmin tem um histórico de inovação, mas o que reserva o futuro? Exploramos
+  as funcionalidades essenciais que os smartwatches da marca devem integrar
+  para.
+source_url: >-
+  https://www.techradar.com/health-fitness/smartwatches/3-new-features-i-want-to-see-from-garmin-in-2026
 draft: false
 needs_review: false
 photographer_name: undefined

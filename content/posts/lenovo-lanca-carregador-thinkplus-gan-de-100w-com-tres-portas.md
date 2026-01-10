@@ -1,17 +1,22 @@
 ---
-title: "Lenovo lança carregador ThinkPlus GaN de 100W com três portas"
-date: "2025-11-27T16:50:02.949Z"
-category: "mobilidade"
+title: Lenovo lança carregador ThinkPlus GaN de 100W com três portas
+date: '2025-11-27T16:50:02.949Z'
+category: mobilidade
 tags:
   - Lenovo
   - carregador GaN
   - carregamento rápido
   - acessórios
   - ThinkPlus
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-launches-100W-three-port-ThinkPlus-GaN-charger.jpg"
-image_source: "rss"
-description: "A Lenovo apresenta o novo carregador ThinkPlus GaN de 100W com três portas, ideal para carregamento rápido de vários dispositivos em simultâneo. Descubra as ..."
-source_url: "https://www.notebookcheck.net/Affordable-three-port-Lenovo-ThinkPlus-charger-launches-with-100W-fast-charging-support.1172579.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Lenovo-launches-100W-three-port-ThinkPlus-GaN-charger.jpg
+image_source: rss
+description: >-
+  A Lenovo apresenta o novo carregador ThinkPlus GaN de 100W com três portas,
+  ideal para carregamento rápido de vários dispositivos em simultâneo. Descubra
+  as.
+source_url: >-
+  https://www.notebookcheck.net/Affordable-three-port-Lenovo-ThinkPlus-charger-launches-with-100W-fast-charging-support.1172579.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

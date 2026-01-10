@@ -1,17 +1,22 @@
 ---
-title: "Google Pixel 10: O que esperar da próxima geração Android"
-date: "2025-12-27T16:19:44.542Z"
-category: "smartphones"
+title: 'Google Pixel 10: O que esperar da próxima geração Android'
+date: '2025-12-27T16:19:44.542Z'
+category: smartphones
 tags:
   - Google Pixel 10
   - smartphones
   - Android
   - rumores
   - Tensor G5
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Google-Pixel-10-Lineup.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
-image_source: "rss"
-description: "Rumores sobre a série Google Pixel 10 aquecem o mercado. Descubra as especificações esperadas, câmaras avançadas e aposta em IA da Google. A cada novo ciclo ..."
-source_url: "https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Google-Pixel-10-Lineup.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200
+image_source: rss
+description: >-
+  Rumores sobre a série Google Pixel 10 aquecem o mercado. Descubra as
+  especificações esperadas, câmaras avançadas e aposta em IA da Google. A cada
+  novo ciclo.
+source_url: >-
+  https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale
 draft: false
 needs_review: false
 photographer_name: undefined

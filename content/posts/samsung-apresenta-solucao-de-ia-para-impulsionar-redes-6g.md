@@ -1,17 +1,22 @@
 ---
-title: "Samsung Apresenta Solução de IA Para Impulsionar Redes 6G"
-date: "2025-11-26T13:49:48.029Z"
-category: "ai-futuro"
+title: Samsung Apresenta Solução de IA Para Impulsionar Redes 6G
+date: '2025-11-26T13:49:48.029Z'
+category: ai-futuro
 tags:
   - Samsung
   - 6G
   - Inteligência Artificial
   - redes móveis
   - telecomunicações
-image: "https://www.sammobile.com/wp-content/uploads/2024/05/Samsung-Research-6G-Networks-Logo.jpg"
-image_source: "rss"
-description: "A Samsung, gigante tecnológica, revela uma inovadora solução de Inteligência Artificial para otimizar o desempenho das futuras redes 6G. Um passo crucial par..."
-source_url: "https://www.sammobile.com/news/samsung-6g-network-performance-boost-ai-solution"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/05/Samsung-Research-6G-Networks-Logo.jpg
+image_source: rss
+description: >-
+  A Samsung, gigante tecnológica, revela uma inovadora solução de Inteligência
+  Artificial para otimizar o desempenho das futuras redes 6G. Um passo crucial
+  par.
+source_url: >-
+  https://www.sammobile.com/news/samsung-6g-network-performance-boost-ai-solution
 draft: false
 needs_review: false
 photographer_name: undefined

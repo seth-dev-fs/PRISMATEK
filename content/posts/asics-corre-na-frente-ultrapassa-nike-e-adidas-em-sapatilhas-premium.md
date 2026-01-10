@@ -1,17 +1,21 @@
 ---
-title: "Asics Corre na Frente: Ultrapassa Nike e Adidas em Sapatilhas Premium"
-date: "2025-12-09T08:25:46.679Z"
-category: "mobilidade"
+title: 'Asics Corre na Frente: Ultrapassa Nike e Adidas em Sapatilhas Premium'
+date: '2025-12-09T08:25:46.679Z'
+category: mobilidade
 tags:
   - Asics
   - sapatilhas de corrida
   - Nike
   - Adidas
   - mercado desportivo
-image: "https://i.blogs.es/9a2d84/pexels-dmitry-83910720-8858120/840_560.jpeg"
-image_source: "rss"
-description: "A Asics está a redefinir o mercado de sapatilhas de corrida, superando gigantes como Nike e Adidas no segmento premium na Europa. Descubra como conseguiu est..."
-source_url: "https://www.xataka.com/magnet/pensabamos-que-nike-adidas-eran-imbatibles-asics-les-esta-adelantando-derecha"
+image: 'https://i.blogs.es/9a2d84/pexels-dmitry-83910720-8858120/840_560.jpeg'
+image_source: rss
+description: >-
+  A Asics está a redefinir o mercado de sapatilhas de corrida, superando
+  gigantes como Nike e Adidas no segmento premium na Europa. Descubra como
+  conseguiu est.
+source_url: >-
+  https://www.xataka.com/magnet/pensabamos-que-nike-adidas-eran-imbatibles-asics-les-esta-adelantando-derecha
 draft: false
 needs_review: false
 photographer_name: undefined

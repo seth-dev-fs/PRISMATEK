@@ -1,17 +1,22 @@
 ---
-title: "Samsung aposta na Índia para expandir produção de ecrãs de smartphones"
-date: "2025-12-24T08:25:25.065Z"
-category: "smartphones"
+title: Samsung aposta na Índia para expandir produção de ecrãs de smartphones
+date: '2025-12-24T08:25:25.065Z'
+category: smartphones
 tags:
   - Samsung
   - Índia
   - smartphones
   - produção
   - ecrãs
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-display-1-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung está a reforçar a sua presença na Índia, expandindo a produção de ecrãs para smartphones. Esta estratégia visa otimizar a cadeia de valor global da..."
-source_url: "https://www.sammobile.com/news/samsung-expand-smartphone-display-assembly-india"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-Galaxy-S25-Plus-display-1-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung está a reforçar a sua presença na Índia, expandindo a produção de
+  ecrãs para smartphones. Esta estratégia visa otimizar a cadeia de valor global
+  da.
+source_url: >-
+  https://www.sammobile.com/news/samsung-expand-smartphone-display-assembly-india
 draft: false
 needs_review: false
 photographer_name: undefined

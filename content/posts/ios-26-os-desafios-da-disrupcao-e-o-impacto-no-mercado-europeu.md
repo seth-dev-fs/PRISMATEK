@@ -1,17 +1,21 @@
 ---
-title: "iOS 26: Os Desafios da Disrupção e o Impacto no Mercado Europeu"
-date: "2026-01-10T08:23:26.418Z"
-category: "smartphones"
+title: 'iOS 26: Os Desafios da Disrupção e o Impacto no Mercado Europeu'
+date: '2026-01-10T08:23:26.418Z'
+category: smartphones
 tags:
   - iOS 26
   - Apple
   - design UI/UX
   - smartphones Portugal
   - mercado mobile UE
-image: "https://pplware.sapo.pt/wp-content/uploads/2025/09/liquid_glass_ios_26_1.jpg"
-image_source: "rss"
-description: "O iOS 26, com a sua identidade gráfica disruptiva, está a desiludir as expectativas. Analisamos o impacto destas mudanças no mercado português e europeu, e a..."
-source_url: "https://pplware.sapo.pt/apple/que-se-passa-com-o-ios-26-numeros-mostram-que-esta-longe-do-esperado"
+image: 'https://pplware.sapo.pt/wp-content/uploads/2025/09/liquid_glass_ios_26_1.jpg'
+image_source: rss
+description: >-
+  O iOS 26, com a sua identidade gráfica disruptiva, está a desiludir as
+  expectativas. Analisamos o impacto destas mudanças no mercado português e
+  europeu, e a.
+source_url: >-
+  https://pplware.sapo.pt/apple/que-se-passa-com-o-ios-26-numeros-mostram-que-esta-longe-do-esperado
 draft: false
 needs_review: false
 photographer_name: undefined

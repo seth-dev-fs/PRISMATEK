@@ -1,17 +1,22 @@
 ---
-title: "XploraOne da HMD: O telefone híbrido para crianças com foco na segurança"
-date: "2025-12-01T10:53:59.395Z"
-category: "smartphones"
+title: 'XploraOne da HMD: O telefone híbrido para crianças com foco na segurança'
+date: '2025-12-01T10:53:59.395Z'
+category: smartphones
 tags:
   - HMD
   - Xplora
   - smartphones
   - telefone infantil
   - segurança
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/xploraone-hmd-ofic/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A HMD, em parceria com a Xplora, anuncia o XploraOne, um telefone híbrido desenhado para crianças. Saiba mais sobre este dispositivo com foco na segurança e ..."
-source_url: "https://www.gsmarena.com/xploraone_by_hmd_is_a_hybrid_phone_for_kids_-news-70504.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/xploraone-hmd-ofic/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A HMD, em parceria com a Xplora, anuncia o XploraOne, um telefone híbrido
+  desenhado para crianças. Saiba mais sobre este dispositivo com foco na
+  segurança e.
+source_url: >-
+  https://www.gsmarena.com/xploraone_by_hmd_is_a_hybrid_phone_for_kids_-news-70504.php
 draft: false
 needs_review: false
 photographer_name: undefined

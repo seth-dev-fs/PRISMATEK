@@ -1,17 +1,22 @@
 ---
-title: "Battlefield 6: Atualização Ofensiva de Inverno em meio a críticas"
-date: "2025-12-04T13:50:48.325Z"
-category: "gaming"
+title: 'Battlefield 6: Atualização Ofensiva de Inverno em meio a críticas'
+date: '2025-12-04T13:50:48.325Z'
+category: gaming
 tags:
   - Battlefield 6
   - gaming
   - atualização
   - EA
   - DICE
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Battlefield-6-Winter-Updates.jpg"
-image_source: "rss"
-description: "A nova atualização 'Ofensiva de Inverno' de Battlefield 6 já tem data, mas a comunidade mantém-se cética. Descobre as novidades e os desafios da EA. Os fãs d..."
-source_url: "https://www.notebookcheck.net/Battlefield-6-unveils-Winter-Offensive-update-as-community-criticism-persists.1177480.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Battlefield-6-Winter-Updates.jpg
+image_source: rss
+description: >-
+  A nova atualização 'Ofensiva de Inverno' de Battlefield 6 já tem data, mas a
+  comunidade mantém-se cética. Descobre as novidades e os desafios da EA. Os fãs
+  d.
+source_url: >-
+  https://www.notebookcheck.net/Battlefield-6-unveils-Winter-Offensive-update-as-community-criticism-persists.1177480.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

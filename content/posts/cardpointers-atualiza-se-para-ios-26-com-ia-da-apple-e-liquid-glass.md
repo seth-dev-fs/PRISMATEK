@@ -1,17 +1,22 @@
 ---
-title: "CardPointers atualiza-se para iOS 26 com IA da Apple e Liquid Glass"
-date: "2025-11-30T16:45:20.399Z"
-category: "internet-apps"
+title: CardPointers atualiza-se para iOS 26 com IA da Apple e Liquid Glass
+date: '2025-11-30T16:45:20.399Z'
+category: internet-apps
 tags:
   - CardPointers
   - iOS 26
   - Apple Intelligence
   - aplicações
   - finanças pessoais
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/cardpointers-ios-26.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A app CardPointers recebe uma grande atualização para iOS 26, integrando a Apple Intelligence e um design Liquid Glass, otimizando as recompensas dos seus ca..."
-source_url: "https://9to5mac.com/2025/11/30/cardpointers-updated-for-ios-26-with-liquid-glass-design-apple-intelligence-more"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/cardpointers-ios-26.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A app CardPointers recebe uma grande atualização para iOS 26, integrando a
+  Apple Intelligence e um design Liquid Glass, otimizando as recompensas dos
+  seus ca.
+source_url: >-
+  https://9to5mac.com/2025/11/30/cardpointers-updated-for-ios-26-with-liquid-glass-design-apple-intelligence-more
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,23 @@
 ---
-title: "Dyson Clean+Wash Hygiene: O aspirador 2-em-1 chega à Europa"
-date: "2025-11-25T16:59:22.282Z"
-category: "home"
+title: 'Dyson Clean+Wash Hygiene: O aspirador 2-em-1 chega à Europa'
+date: '2025-11-25T16:59:22.282Z'
+category: home
 tags:
   - Dyson
   - aspirador
   - limpeza
   - casa
   - tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dyson-Clean-Wash.png"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dyson-Clean-Wash.png"
-description: "O novo Dyson Clean+Wash Hygiene, um aspirador 2-em-1 para limpeza húmida e seca, já está disponível na Europa. Descubra como este inovador dispositivo promet..."
-source_url: "https://www.notebookcheck.net/Dyson-2-in-1-wet-and-dry-cleaner-now-available-in-Europe.1170728.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dyson-Clean-Wash.png
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dyson-Clean-Wash.png
+description: >-
+  O novo Dyson Clean+Wash Hygiene, um aspirador 2-em-1 para limpeza húmida e
+  seca, já está disponível na Europa. Descubra como este inovador dispositivo
+  promet.
+source_url: >-
+  https://www.notebookcheck.net/Dyson-2-in-1-wet-and-dry-cleaner-now-available-in-Europe.1170728.0.html
 draft: false
 needs_review: true
 ---

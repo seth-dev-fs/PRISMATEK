@@ -1,17 +1,22 @@
 ---
-title: "Oppo Find N6: Próximo dobrável testa chip Snapdragon 8 Elite Gen 5"
-date: "2025-11-28T03:37:16.843Z"
-category: "smartphones"
+title: 'Oppo Find N6: Próximo dobrável testa chip Snapdragon 8 Elite Gen 5'
+date: '2025-11-28T03:37:16.843Z'
+category: smartphones
 tags:
   - Oppo
   - Find N6
   - dobrável
   - Snapdragon
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/oppo-find-n6-india/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Oppo Find N6, o próximo smartphone dobrável da marca, está em fase de testes e poderá ser o primeiro com o poderoso Snapdragon 8 Elite Gen 5. Fique a par d..."
-source_url: "https://www.gsmarena.com/oppo_find_n6_might_be_launching_in_india-news-70469.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/oppo-find-n6-india/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Oppo Find N6, o próximo smartphone dobrável da marca, está em fase de testes
+  e poderá ser o primeiro com o poderoso Snapdragon 8 Elite Gen 5. Fique a par
+  d.
+source_url: >-
+  https://www.gsmarena.com/oppo_find_n6_might_be_launching_in_india-news-70469.php
 draft: false
 needs_review: false
 photographer_name: undefined

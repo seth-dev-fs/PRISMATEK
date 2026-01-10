@@ -1,17 +1,22 @@
 ---
-title: "Samsung poderá descontinuar chips Exynos para automóveis"
-date: "2025-12-30T10:21:32.938Z"
-category: "smartphones"
+title: Samsung poderá descontinuar chips Exynos para automóveis
+date: '2025-12-30T10:21:32.938Z'
+category: smartphones
 tags:
   - Samsung
   - Exynos
   - chips
   - automóveis
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2025/03/Samsung-Exynos-Auto-UA200-UWB-Chip-Cars-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung poderá ter descontinuado a produção de chips Exynos para o setor automóvel. Conheça os detalhes desta decisão estratégica e o que significa para o ..."
-source_url: "https://www.sammobile.com/news/samsung-may-have-discontinued-these-exynos-chips"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/03/Samsung-Exynos-Auto-UA200-UWB-Chip-Cars-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung poderá ter descontinuado a produção de chips Exynos para o setor
+  automóvel. Conheça os detalhes desta decisão estratégica e o que significa
+  para o.
+source_url: >-
+  https://www.sammobile.com/news/samsung-may-have-discontinued-these-exynos-chips
 draft: false
 needs_review: false
 photographer_name: undefined

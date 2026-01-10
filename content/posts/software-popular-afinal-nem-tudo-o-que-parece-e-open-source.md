@@ -1,17 +1,21 @@
 ---
-title: "Software Popular: Afinal, Nem Tudo o Que Parece É Open Source"
-date: "2025-11-27T10:45:18.001Z"
-category: "internet-apps"
+title: 'Software Popular: Afinal, Nem Tudo o Que Parece É Open Source'
+date: '2025-11-27T10:45:18.001Z'
+category: internet-apps
 tags:
   - software
   - código aberto
   - open source
   - licenciamento
   - aplicações
-image: "https://itsfoss.com/content/images/2025/11/popular-projects-which-are-not-opensource.png"
-image_source: "rss"
-description: "Muitas aplicações populares são frequentemente confundidas com software open source. Descubra a verdade por trás de programas como VS Code e Docker Desktop, ..."
-source_url: "https://itsfoss.com/popular-software-open-source-feel"
+image: >-
+  https://itsfoss.com/content/images/2025/11/popular-projects-which-are-not-opensource.png
+image_source: rss
+description: >-
+  Muitas aplicações populares são frequentemente confundidas com software open
+  source. Descubra a verdade por trás de programas como VS Code e Docker
+  Desktop,.
+source_url: 'https://itsfoss.com/popular-software-open-source-feel'
 draft: false
 needs_review: false
 photographer_name: undefined

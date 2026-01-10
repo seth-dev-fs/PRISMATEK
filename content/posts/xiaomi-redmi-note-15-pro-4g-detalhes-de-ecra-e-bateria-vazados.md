@@ -1,17 +1,21 @@
 ---
-title: "Xiaomi Redmi Note 15 Pro 4G: Detalhes de Ecrã e Bateria Vazados"
-date: "2025-12-04T14:51:48.200Z"
-category: "smartphones"
+title: 'Xiaomi Redmi Note 15 Pro 4G: Detalhes de Ecrã e Bateria Vazados'
+date: '2025-12-04T14:51:48.200Z'
+category: smartphones
 tags:
   - Xiaomi
   - Redmi Note 15
   - smartphones
   - Android
   - lançamento
-image: "https://fdn.gsmarena.com/imgroot//news/25/12/xiaomi-redmi-note-15-pro-4g-leaks-on-store/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Xiaomi Redmi Note 15 Pro 4G revela os seus segredos antes do lançamento. Descobre o ecrã OLED e a grande bateria que prometem marcar a diferença no mercado..."
-source_url: "https://www.gsmarena.com/xiaomi_redmi_note_15_pro_4g_leaks_too-news-70566.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot//news/25/12/xiaomi-redmi-note-15-pro-4g-leaks-on-store/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Xiaomi Redmi Note 15 Pro 4G revela os seus segredos antes do lançamento.
+  Descobre o ecrã OLED e a grande bateria que prometem marcar a diferença no
+  mercado.
+source_url: 'https://www.gsmarena.com/xiaomi_redmi_note_15_pro_4g_leaks_too-news-70566.php'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "ChatGPT poderá em breve exibir publicidade aos utilizadores"
-date: "2025-12-01T16:58:59.184Z"
-category: "ai-futuro"
+title: ChatGPT poderá em breve exibir publicidade aos utilizadores
+date: '2025-12-01T16:58:59.184Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - OpenAI
   - inteligência artificial
   - publicidade
   - monetização
-image: "https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg"
-image_source: "rss"
-description: "O popular chatbot da OpenAI, ChatGPT, poderá em breve começar a apresentar anúncios, mudando a sua experiência de utilização. Saiba mais. O ChatGPT, o chatbo..."
-source_url: "https://www.androidauthority.com/chatgpt-may-start-showing-ads-3620938"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2023/08/ChatGPT-stock-photo-71.jpg
+image_source: rss
+description: >-
+  O popular chatbot da OpenAI, ChatGPT, poderá em breve começar a apresentar
+  anúncios, mudando a sua experiência de utilização. Saiba mais. O ChatGPT, o
+  chatbo.
+source_url: 'https://www.androidauthority.com/chatgpt-may-start-showing-ads-3620938'
 draft: false
 needs_review: false
 photographer_name: undefined

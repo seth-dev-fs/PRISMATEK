@@ -1,17 +1,22 @@
 ---
-title: "Anker DL7400: Estação de ancoragem 14-em-1 para máxima produtividade"
-date: "2025-11-28T22:39:14.747Z"
-category: "computadores"
+title: 'Anker DL7400: Estação de ancoragem 14-em-1 para máxima produtividade'
+date: '2025-11-28T22:39:14.747Z'
+category: computadores
 tags:
   - Anker
   - estação de ancoragem
   - docking station
   - produtividade
   - acessórios
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Anker-dock.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Anker apresenta a sua nova estação de ancoragem DL7400, com 14 portas para otimizar o seu portátil. Conheça as funcionalidades deste hub versátil. A Anker,..."
-source_url: "https://9to5mac.com/2025/11/28/anker-14-in-1-mac-docking-station-with-displaylink-hands-on-black-friday-sale"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/Anker-dock.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Anker apresenta a sua nova estação de ancoragem DL7400, com 14 portas para
+  otimizar o seu portátil. Conheça as funcionalidades deste hub versátil. A
+  Anker,.
+source_url: >-
+  https://9to5mac.com/2025/11/28/anker-14-in-1-mac-docking-station-with-displaylink-hands-on-black-friday-sale
 draft: false
 needs_review: false
 photographer_name: undefined

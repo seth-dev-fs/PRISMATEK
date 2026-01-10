@@ -1,17 +1,20 @@
 ---
-title: "Fritadeira de Ar: Mantenha-a impecável e a cozinhar como nova"
-date: "2026-01-04T10:18:19.383Z"
-category: "home"
+title: 'Fritadeira de Ar: Mantenha-a impecável e a cozinhar como nova'
+date: '2026-01-04T10:18:19.383Z'
+category: home
 tags:
   - fritadeira de ar
   - air fryer
   - limpeza
   - eletrodomésticos
   - manutenção
-image: "https://cdn.mos.cms.futurecdn.net/RrFTRTEJofmjGzrLo4PQ55-1280-80.jpg"
-image_source: "rss"
-description: "Mantenha a sua fritadeira de ar como nova! Descubra os truques essenciais para uma limpeza profunda e para garantir que o seu eletrodoméstico cozinha sempre ..."
-source_url: "https://www.techradar.com/home/air-fryers/how-to-give-your-air-fryer-a-deep-clean"
+image: 'https://cdn.mos.cms.futurecdn.net/RrFTRTEJofmjGzrLo4PQ55-1280-80.jpg'
+image_source: rss
+description: >-
+  Mantenha a sua fritadeira de ar como nova! Descubra os truques essenciais para
+  uma limpeza profunda e para garantir que o seu eletrodoméstico cozinha sempre.
+source_url: >-
+  https://www.techradar.com/home/air-fryers/how-to-give-your-air-fryer-a-deep-clean
 draft: false
 needs_review: true
 photographer_name: undefined

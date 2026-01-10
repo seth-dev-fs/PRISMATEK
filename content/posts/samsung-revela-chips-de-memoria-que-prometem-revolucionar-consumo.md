@@ -1,17 +1,22 @@
 ---
-title: "Samsung revela chips de memória que prometem revolucionar consumo"
-date: "2025-11-27T08:53:59.029Z"
-category: "computadores"
+title: Samsung revela chips de memória que prometem revolucionar consumo
+date: '2025-11-27T08:53:59.029Z'
+category: computadores
 tags:
   - Samsung
   - chips de memória
   - inovação
   - tecnologia
   - consumo energético
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-15-1200x554.jpg"
-image_source: "rss"
-description: "A Samsung anuncia um avanço crucial em chips de memória, prometendo menor consumo energético e maior capacidade. Saiba como esta inovação poderá moldar o fut..."
-source_url: "https://www.sammobile.com/news/samsung-reveals-major-breakthrough-that-may-revolutionize-memory-chips"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-15-1200x554.jpg
+image_source: rss
+description: >-
+  A Samsung anuncia um avanço crucial em chips de memória, prometendo menor
+  consumo energético e maior capacidade. Saiba como esta inovação poderá moldar
+  o fut.
+source_url: >-
+  https://www.sammobile.com/news/samsung-reveals-major-breakthrough-that-may-revolutionize-memory-chips
 draft: false
 needs_review: false
 photographer_name: undefined

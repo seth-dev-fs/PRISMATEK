@@ -1,17 +1,21 @@
 ---
-title: "Banda Larga em Portugal: Como Encontrar os Melhores Preços"
-date: "2025-12-04T04:53:27.630Z"
-category: "internet-apps"
+title: 'Banda Larga em Portugal: Como Encontrar os Melhores Preços'
+date: '2025-12-04T04:53:27.630Z'
+category: internet-apps
 tags:
   - Banda Larga
   - internet
   - telecomunicações
   - poupança
   - consumidor
-image: "https://cdn.mos.cms.futurecdn.net/RyoMLAt6pnXfcrVPsncHU3-1280-80.jpg"
-image_source: "rss"
-description: "Com a constante evolução dos pacotes de telecomunicações, saber onde procurar a melhor oferta de banda larga é crucial para poupar. Conheça as dicas. No atua..."
-source_url: "https://www.techradar.com/computing/wi-fi-broadband/telstras-revised-nbn-plan-pricing-is-a-welcome-change-but-id-still-consider-these-4-better-value-providers-first"
+image: 'https://cdn.mos.cms.futurecdn.net/RyoMLAt6pnXfcrVPsncHU3-1280-80.jpg'
+image_source: rss
+description: >-
+  Com a constante evolução dos pacotes de telecomunicações, saber onde procurar
+  a melhor oferta de banda larga é crucial para poupar. Conheça as dicas. No
+  atua.
+source_url: >-
+  https://www.techradar.com/computing/wi-fi-broadband/telstras-revised-nbn-plan-pricing-is-a-welcome-change-but-id-still-consider-these-4-better-value-providers-first
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Auriculares sem fios, as melhores ofertas na Europa"
-date: "2025-11-28T13:42:11.405Z"
-category: "audio"
+title: 'Black Friday: Auriculares sem fios, as melhores ofertas na Europa'
+date: '2025-11-28T13:42:11.405Z'
+category: audio
 tags:
   - auriculares
   - Black Friday
   - áudio
   - ofertas
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/4SqSDxMdbY9hCZvXgSSSk-1280-80.jpg"
-image_source: "rss"
-description: "A Black Friday é a altura ideal para encontrar auriculares sem fios com grandes descontos. Saiba o que procurar nas promoções europeias para uma compra intel..."
-source_url: "https://www.techradar.com/audio/earbuds-airpods/every-black-friday-earbuds-deal-worth-buying-deals-from-just-usd59-gbp59"
+image: 'https://cdn.mos.cms.futurecdn.net/4SqSDxMdbY9hCZvXgSSSk-1280-80.jpg'
+image_source: rss
+description: >-
+  A Black Friday é a altura ideal para encontrar auriculares sem fios com
+  grandes descontos. Saiba o que procurar nas promoções europeias para uma
+  compra intel.
+source_url: >-
+  https://www.techradar.com/audio/earbuds-airpods/every-black-friday-earbuds-deal-worth-buying-deals-from-just-usd59-gbp59
 draft: false
 needs_review: false
 photographer_name: undefined

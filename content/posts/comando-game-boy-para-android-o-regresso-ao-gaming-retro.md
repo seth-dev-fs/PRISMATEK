@@ -1,17 +1,21 @@
 ---
-title: "Comando Game Boy para Android: O regresso ao gaming retro"
-date: "2025-12-12T22:16:30.943Z"
-category: "gaming"
+title: 'Comando Game Boy para Android: O regresso ao gaming retro'
+date: '2025-12-12T22:16:30.943Z'
+category: gaming
 tags:
   - gaming
   - Android
   - Game Boy
   - comandos
   - retro gaming
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/gamesir-pocket-1.jpg"
-image_source: "rss"
-description: "Um novo comando transforma o teu smartphone Android numa autêntica consola Game Boy. Redescobre a nostalgia dos jogos clássicos, onde quer que estejas, de fo..."
-source_url: "https://www.androidauthority.com/gamesir-pocket-1-3625078"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/gamesir-pocket-1.jpg
+image_source: rss
+description: >-
+  Um novo comando transforma o teu smartphone Android numa autêntica consola
+  Game Boy. Redescobre a nostalgia dos jogos clássicos, onde quer que estejas,
+  de fo.
+source_url: 'https://www.androidauthority.com/gamesir-pocket-1-3625078'
 draft: false
 needs_review: false
 photographer_name: undefined

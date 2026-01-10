@@ -1,17 +1,21 @@
 ---
-title: "Promoções de Início de Ano: Oportunidades Tech na Europa"
-date: "2026-01-01T16:22:00.830Z"
-category: "mobilidade"
+title: 'Promoções de Início de Ano: Oportunidades Tech na Europa'
+date: '2026-01-01T16:22:00.830Z'
+category: mobilidade
 tags:
   - promoções
   - tecnologia
   - smartphones
   - wearables
   - Apple
-image: "https://cdn.mos.cms.futurecdn.net/WAfirkYzu2etZ9u5hj3Vo8-1280-80.png"
-image_source: "rss"
-description: "Descubra as tendências e oportunidades nas promoções de início de ano na Europa. Marcas como Apple e Fitbit oferecem gadgets a preços tentadores. O início de..."
-source_url: "https://www.techradar.com/seasonal-sales/new-years-sales-are-live-here-are-75-deals-id-buy-from-amazon-apple-fitbit-and-more"
+image: 'https://cdn.mos.cms.futurecdn.net/WAfirkYzu2etZ9u5hj3Vo8-1280-80.png'
+image_source: rss
+description: >-
+  Descubra as tendências e oportunidades nas promoções de início de ano na
+  Europa. Marcas como Apple e Fitbit oferecem gadgets a preços tentadores. O
+  início de.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/new-years-sales-are-live-here-are-75-deals-id-buy-from-amazon-apple-fitbit-and-more
 draft: false
 needs_review: false
 photographer_name: undefined

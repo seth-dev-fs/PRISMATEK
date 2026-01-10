@@ -1,17 +1,22 @@
 ---
-title: "Google pode desativar Watch Unlock no Pixel Watch com Android 16"
-date: "2025-12-08T08:26:30.808Z"
-category: "wearables"
+title: Google pode desativar Watch Unlock no Pixel Watch com Android 16
+date: '2025-12-08T08:26:30.808Z'
+category: wearables
 tags:
   - Google Pixel Watch
   - Android 16
   - segurança
   - smartwatches
   - funcionalidades
-image: "https://www.androidauthority.com/wp-content/uploads/2023/12/google-pixel-watch-2-unlock-pixel-8-pro-scaled.jpg"
-image_source: "rss"
-description: "O modo de proteção avançado do Android 16 poderá desativar a funcionalidade Watch Unlock no Pixel Watch, priorizando a segurança. Saiba o que muda. A Google ..."
-source_url: "https://www.androidauthority.com/google-pixel-watch-unlock-android-advanced-protection-mode-apk-teardown-3623051"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2023/12/google-pixel-watch-2-unlock-pixel-8-pro-scaled.jpg
+image_source: rss
+description: >-
+  O modo de proteção avançado do Android 16 poderá desativar a funcionalidade
+  Watch Unlock no Pixel Watch, priorizando a segurança. Saiba o que muda. A
+  Google.
+source_url: >-
+  https://www.androidauthority.com/google-pixel-watch-unlock-android-advanced-protection-mode-apk-teardown-3623051
 draft: false
 needs_review: false
 photographer_name: undefined

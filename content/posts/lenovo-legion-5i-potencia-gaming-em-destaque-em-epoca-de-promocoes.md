@@ -1,17 +1,21 @@
 ---
-title: "Lenovo Legion 5i: Potência Gaming em Destaque em Época de Promoções"
-date: "2025-11-24T16:44:24.489Z"
-category: "computadores"
+title: 'Lenovo Legion 5i: Potência Gaming em Destaque em Época de Promoções'
+date: '2025-11-24T16:44:24.489Z'
+category: computadores
 tags:
   - Lenovo
   - Legion 5i
   - portátil gaming
   - hardware PC
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/zbLJFf3VDxVetNCpBU5o2T-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/zbLJFf3VDxVetNCpBU5o2T-1280-80.jpg"
-description: "Os portáteis gaming Lenovo Legion 5i surgem como excelente opção para quem procura desempenho e preço. Descubra o que estes modelos oferecem aos gamers portu..."
-source_url: "https://www.techradar.com/seasonal-sales/these-lenovo-legion-5i-black-friday-deals-will-wait-for-no-one-dont-miss-up-to-35-percent-on-savings"
+image: 'https://cdn.mos.cms.futurecdn.net/zbLJFf3VDxVetNCpBU5o2T-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/zbLJFf3VDxVetNCpBU5o2T-1280-80.jpg'
+description: >-
+  Os portáteis gaming Lenovo Legion 5i surgem como excelente opção para quem
+  procura desempenho e preço. Descubra o que estes modelos oferecem aos gamers
+  portu.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/these-lenovo-legion-5i-black-friday-deals-will-wait-for-no-one-dont-miss-up-to-35-percent-on-savings
 draft: false
 needs_review: false
 ---

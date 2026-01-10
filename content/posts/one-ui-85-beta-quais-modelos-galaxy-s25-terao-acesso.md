@@ -1,17 +1,21 @@
 ---
-title: "One UI 8.5 beta: Quais modelos Galaxy S25 terão acesso?"
-date: "2025-11-28T13:41:15.804Z"
-category: "smartphones"
+title: 'One UI 8.5 beta: Quais modelos Galaxy S25 terão acesso?'
+date: '2025-11-28T13:41:15.804Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S25
   - One UI
   - Android
   - atualização
-image: "https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-4-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung prepara o lançamento da One UI 8.5 beta para a linha Galaxy S25. Descubra quais os modelos elegíveis para testar as novidades do sistema. A Samsung..."
-source_url: "https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-eligible-galaxy-s25-models"
+image: 'https://www.sammobile.com/wp-content/uploads/2025/09/One-UI-8.5-4-1200x675.jpg'
+image_source: rss
+description: >-
+  A Samsung prepara o lançamento da One UI 8.5 beta para a linha Galaxy S25.
+  Descubra quais os modelos elegíveis para testar as novidades do sistema. A
+  Samsung.
+source_url: >-
+  https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-eligible-galaxy-s25-models
 draft: false
 needs_review: false
 photographer_name: undefined

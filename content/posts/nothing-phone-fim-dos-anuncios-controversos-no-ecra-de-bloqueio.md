@@ -1,7 +1,7 @@
 ---
-title: "Nothing Phone: Fim dos Anúncios Controversos no Ecrã de Bloqueio"
-date: "2026-01-10T10:25:21.893Z"
-category: "smartphones"
+title: 'Nothing Phone: Fim dos Anúncios Controversos no Ecrã de Bloqueio'
+date: '2026-01-10T10:25:21.893Z'
+category: smartphones
 tags:
   - Nothing
   - smartphones
@@ -11,10 +11,15 @@ tags:
   - Android
   - tecnologia
   - Portugal
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/nothing-removes-lock-screen-ads/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Nothing remove os anúncios \"Lock Glimpse\" dos seus smartphones (3a, Pro, Lite) após críticas de bateria. A decisão impacta o mercado europeu, alinhando-se ..."
-source_url: "https://www.gsmarena.com/nothing_removes_controversial_lock_screen_ads_but_theres_a_catch-news-71048.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/nothing-removes-lock-screen-ads/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Nothing remove os anúncios "Lock Glimpse" dos seus smartphones (3a, Pro,
+  Lite) após críticas de bateria. A decisão impacta o mercado europeu,
+  alinhando-se.
+source_url: >-
+  https://www.gsmarena.com/nothing_removes_controversial_lock_screen_ads_but_theres_a_catch-news-71048.php
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "TrimUI Brick Hammer: RockBox eleva a experiência sonora portátil"
-date: "2025-12-03T04:51:26.633Z"
-category: "entretenimento-gaming"
+title: 'TrimUI Brick Hammer: RockBox eleva a experiência sonora portátil'
+date: '2025-12-03T04:51:26.633Z'
+category: entretenimento-gaming
 tags:
   - TrimUI Brick Hammer
   - RockBox
   - leitores MP3
   - áudio portátil
   - consolas retro
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rockbox.png"
-image_source: "rss"
-description: "O TrimUI Brick Hammer, uma consola portátil, ganha nova vida com o port de RockBox, transformando-se num leitor MP3 de alta qualidade. Descubra esta inovação..."
-source_url: "https://www.notebookcheck.net/TrimUI-Brick-Hammer-gets-legendary-RockBox-port-A-full-MP3-player-overhaul.1176053.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/rockbox.png'
+image_source: rss
+description: >-
+  O TrimUI Brick Hammer, uma consola portátil, ganha nova vida com o port de
+  RockBox, transformando-se num leitor MP3 de alta qualidade. Descubra esta
+  inovação.
+source_url: >-
+  https://www.notebookcheck.net/TrimUI-Brick-Hammer-gets-legendary-RockBox-port-A-full-MP3-player-overhaul.1176053.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

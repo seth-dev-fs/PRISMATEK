@@ -676,9 +676,19 @@ CHECKLIST:
             log(`[WARN] Description length is ${finalDescription.length} chars (should be 150-160). Auto-correcting...`, 'warn');
 
             if (finalDescription.length > 160) {
-                // Truncate to 157 chars + "..." = 160 chars total
-                finalDescription = finalDescription.substring(0, 157) + '...';
-                log(`[INFO] Description truncated to 160 chars.`);
+                // Cut at last complete sentence before 160 chars (never use "...")
+                const truncated = finalDescription.substring(0, 160);
+                const lastPeriod = truncated.lastIndexOf('.');
+
+                if (lastPeriod > 100) {
+                    // If we have a good sentence break, use it
+                    finalDescription = truncated.substring(0, lastPeriod + 1);
+                    log(`[INFO] Description cut at sentence (${finalDescription.length} chars).`);
+                } else {
+                    // Force cut at 160 and add period
+                    finalDescription = truncated.substring(0, 159) + '.';
+                    log(`[INFO] Description force-cut to 160 chars with period.`);
+                }
             } else if (finalDescription.length < 150 && finalDescription.length > 0) {
                 // Try to extend with first sentence from content
                 const contentFirstSentence = articleData.content.split('.')[0] + '.';
@@ -688,9 +698,16 @@ CHECKLIST:
                     finalDescription = extended;
                     log(`[INFO] Description extended to ${extended.length} chars using content.`);
                 } else if (extended.length > 160) {
-                    // Truncate extended version
-                    finalDescription = extended.substring(0, 157) + '...';
-                    log(`[INFO] Description extended and truncated to 160 chars.`);
+                    // Cut at last sentence before 160
+                    const truncated = extended.substring(0, 160);
+                    const lastPeriod = truncated.lastIndexOf('.');
+
+                    if (lastPeriod > 100) {
+                        finalDescription = truncated.substring(0, lastPeriod + 1);
+                    } else {
+                        finalDescription = truncated.substring(0, 159) + '.';
+                    }
+                    log(`[INFO] Description extended and cut at sentence (${finalDescription.length} chars).`);
                 } else {
                     // Still too short even with extension - flag for review
                     needsReview = true;

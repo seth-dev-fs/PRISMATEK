@@ -1,17 +1,22 @@
 ---
-title: "Varmilo Foot Keyboard promete revolucionar o gaming com o pé"
-date: "2025-12-02T20:45:42.910Z"
-category: "gaming"
+title: Varmilo Foot Keyboard promete revolucionar o gaming com o pé
+date: '2025-12-02T20:45:42.910Z'
+category: gaming
 tags:
   - Varmilo
   - gaming
   - teclado
   - acessórios PC
   - Cherry MX
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Varmilo_Foot_Keyboard.jpg.jpg"
-image_source: "rss"
-description: "O Varmilo Foot Keyboard chega para transformar a forma como joga. Com teclas programáveis, promete controlo e macros ao alcance do seu pé para uma experiênci..."
-source_url: "https://www.notebookcheck.net/Varmilo-Foot-Keyboard-Control-games-with-your-foot.1175529.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Varmilo_Foot_Keyboard.jpg.jpg
+image_source: rss
+description: >-
+  O Varmilo Foot Keyboard chega para transformar a forma como joga. Com teclas
+  programáveis, promete controlo e macros ao alcance do seu pé para uma
+  experiênci.
+source_url: >-
+  https://www.notebookcheck.net/Varmilo-Foot-Keyboard-Control-games-with-your-foot.1175529.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

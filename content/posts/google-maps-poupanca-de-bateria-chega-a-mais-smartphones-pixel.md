@@ -1,17 +1,21 @@
 ---
-title: "Google Maps: Poupança de bateria chega a mais smartphones Pixel"
-date: "2025-11-27T03:38:15.568Z"
-category: "smartphones"
+title: 'Google Maps: Poupança de bateria chega a mais smartphones Pixel'
+date: '2025-11-27T03:38:15.568Z'
+category: smartphones
 tags:
   - Google Maps
   - smartphones
   - Pixel
   - bateria
   - Android
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg"
-image_source: "rss"
-description: "O modo de poupança de bateria do Google Maps, antes restrito, está agora a ser implementado em mais smartphones Pixel. Descobre como poupar energia na navega..."
-source_url: "https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/Photo-of-Google-Maps-power-saving-mode-on-a-Pixel-phone-scaled.jpg
+image_source: rss
+description: >-
+  O modo de poupança de bateria do Google Maps, antes restrito, está agora a ser
+  implementado em mais smartphones Pixel. Descobre como poupar energia na
+  navega.
+source_url: 'https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065'
 draft: false
 needs_review: false
 photographer_name: undefined

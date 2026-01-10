@@ -1,17 +1,21 @@
 ---
-title: "NEXORA revela o Guia de Presentes Tecnológicos para 2025"
-date: "2025-12-06T04:20:00.430Z"
-category: "home"
+title: NEXORA revela o Guia de Presentes Tecnológicos para 2025
+date: '2025-12-06T04:20:00.430Z'
+category: home
 tags:
   - presentes
   - tecnologia
   - gadgets
   - Natal
   - guias
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_MAIN_Holiday_Gift_Guide_AKrales_6427.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Antecipe a época festiva de 2025 com o guia de presentes tecnológicos da NEXORA. Descubra os gadgets que prometem surpreender e evitarão ser trocados. Prepar..."
-source_url: "https://www.theverge.com/tech/809421/holiday-gift-guide-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_MAIN_Holiday_Gift_Guide_AKrales_6427.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Antecipe a época festiva de 2025 com o guia de presentes tecnológicos da
+  NEXORA. Descubra os gadgets que prometem surpreender e evitarão ser trocados.
+  Prepar.
+source_url: 'https://www.theverge.com/tech/809421/holiday-gift-guide-2025'
 draft: false
 needs_review: true
 photographer_name: undefined

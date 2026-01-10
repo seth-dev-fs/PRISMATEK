@@ -1,17 +1,22 @@
 ---
-title: "iPhone 17: Apple prepara-se para reconquistar a liderança de mercado"
-date: "2025-11-25T22:42:19.524Z"
-category: "smartphones"
+title: 'iPhone 17: Apple prepara-se para reconquistar a liderança de mercado'
+date: '2025-11-25T22:42:19.524Z'
+category: smartphones
 tags:
   - Apple
   - iPhone 17
   - smartphones
   - mercado
   - liderança
-image: "https://m-cdn.phonearena.com/images/article/176078-two/Were-set-to-get-a-new-smartphone-champion-and-you-wont-be-surprised-who-that-is.jpg"
-image_source: "rss"
-description: "O próximo iPhone 17 poderá solidificar a posição da Apple como líder no mercado de smartphones, algo que não acontece há mais de uma década. Descubra as proj..."
-source_url: "https://www.phonearena.com/news/were-set-to-get-a-new-smartphone-champion-and-you-wont-be-surprised-who-that-is_id176078"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176078-two/Were-set-to-get-a-new-smartphone-champion-and-you-wont-be-surprised-who-that-is.jpg
+image_source: rss
+description: >-
+  O próximo iPhone 17 poderá solidificar a posição da Apple como líder no
+  mercado de smartphones, algo que não acontece há mais de uma década. Descubra
+  as proj.
+source_url: >-
+  https://www.phonearena.com/news/were-set-to-get-a-new-smartphone-champion-and-you-wont-be-surprised-who-that-is_id176078
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Watch 8: As expectativas para o smartwatch de 2025"
-date: "2025-12-04T08:57:33.105Z"
-category: "wearables"
+title: 'Galaxy Watch 8: As expectativas para o smartwatch de 2025'
+date: '2025-12-04T08:57:33.105Z'
+category: wearables
 tags:
   - Samsung
   - Galaxy Watch 8
   - smartwatch
   - wearables
   - tecnologia
-image: "https://m-cdn.phonearena.com/images/article/176327-two/Stunning-new-Galaxy-Watch-8-deal-saves-you-a-hefty-160-on-one-of-2025s-best-smartwatches.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy Watch 8 poderá ser um dos destaques de 2025. Descubra as inovações esperadas e o que o tornará num dos melhores do ano. A Samsung continua a..."
-source_url: "https://www.phonearena.com/news/samsung-galaxy-watch-8-woot-deal-huge-discount-one-of-2025-best-smartwatches_id176327"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176327-two/Stunning-new-Galaxy-Watch-8-deal-saves-you-a-hefty-160-on-one-of-2025s-best-smartwatches.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy Watch 8 poderá ser um dos destaques de 2025. Descubra as
+  inovações esperadas e o que o tornará num dos melhores do ano. A Samsung
+  continua a.
+source_url: >-
+  https://www.phonearena.com/news/samsung-galaxy-watch-8-woot-deal-huge-discount-one-of-2025-best-smartwatches_id176327
 draft: false
 needs_review: false
 photographer_name: undefined

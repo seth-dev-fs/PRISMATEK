@@ -1,17 +1,21 @@
 ---
-title: "ChatGPT: Modo de Voz integrado para conversas mais fluidas"
-date: "2025-11-26T04:47:44.358Z"
-category: "ai-futuro"
+title: 'ChatGPT: Modo de Voz integrado para conversas mais fluidas'
+date: '2025-11-26T04:47:44.358Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - OpenAI
   - inteligência artificial
   - reconhecimento de voz
   - interação de voz
-image: "https://www.androidauthority.com/wp-content/uploads/2024/06/chatgpt-voice-conversations-scaled.jpg"
-image_source: "rss"
-description: "O popular assistente de IA ChatGPT agora permite usar o seu modo de voz diretamente nas conversas, tornando a interação mais rápida e natural para os utiliza..."
-source_url: "https://www.androidauthority.com/chatgpt-voice-mode-in-chat-3619633"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2024/06/chatgpt-voice-conversations-scaled.jpg
+image_source: rss
+description: >-
+  O popular assistente de IA ChatGPT agora permite usar o seu modo de voz
+  diretamente nas conversas, tornando a interação mais rápida e natural para os
+  utiliza.
+source_url: 'https://www.androidauthority.com/chatgpt-voice-mode-in-chat-3619633'
 draft: false
 needs_review: false
 photographer_name: undefined

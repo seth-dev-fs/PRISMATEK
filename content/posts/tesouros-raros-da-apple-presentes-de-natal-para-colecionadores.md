@@ -1,17 +1,23 @@
 ---
-title: "Tesouros Raros da Apple: Presentes de Natal para Colecionadores"
-date: "2025-11-24T22:39:15.646Z"
-category: "computadores"
+title: 'Tesouros Raros da Apple: Presentes de Natal para Colecionadores'
+date: '2025-11-24T22:39:15.646Z'
+category: computadores
 tags:
   - Apple
   - Colecionismo
   - Tecnologia Vintage
   - Natal
   - Gadgets Raros
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "Descubra os tesouros mais raros da Apple, ideais para presentes de Natal que farão as delícias de qualquer colecionador. Uma viagem pela história da tecnolog..."
-source_url: "https://9to5mac.com/2025/11/24/seven-rare-apple-finds-that-will-make-an-awesome-christmas-present"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  Descubra os tesouros mais raros da Apple, ideais para presentes de Natal que
+  farão as delícias de qualquer colecionador. Uma viagem pela história da
+  tecnolog.
+source_url: >-
+  https://9to5mac.com/2025/11/24/seven-rare-apple-finds-that-will-make-an-awesome-christmas-present
 draft: false
 needs_review: false
 ---

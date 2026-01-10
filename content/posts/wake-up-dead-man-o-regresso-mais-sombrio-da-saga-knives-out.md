@@ -1,17 +1,22 @@
 ---
-title: "Wake Up Dead Man: O regresso mais sombrio da saga Knives Out"
-date: "2025-12-09T20:17:49.523Z"
-category: "entretenimento-gaming"
+title: 'Wake Up Dead Man: O regresso mais sombrio da saga Knives Out'
+date: '2025-12-09T20:17:49.523Z'
+category: entretenimento-gaming
 tags:
   - cinema
   - filmes
   - Netflix
   - Knives Out
   - mistério
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/WUDM_FF_0001_R.jpg?quality=90&strip=all&crop=0%2C1.5222028311033%2C100%2C96.955594337793&w=1200"
-image_source: "rss"
-description: "O terceiro filme da saga Knives Out, 'Wake Up Dead Man', promete uma reviravolta mais escura e complexa. Descubra o que esperar do novo mistério de Benoit Bl..."
-source_url: "https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/WUDM_FF_0001_R.jpg?quality=90&strip=all&crop=0%2C1.5222028311033%2C100%2C96.955594337793&w=1200
+image_source: rss
+description: >-
+  O terceiro filme da saga Knives Out, 'Wake Up Dead Man', promete uma
+  reviravolta mais escura e complexa. Descubra o que esperar do novo mistério de
+  Benoit Bl.
+source_url: >-
+  https://www.theverge.com/entertainment/840977/wake-up-dead-man-review-netflix-knives-out
 draft: false
 needs_review: false
 photographer_name: undefined

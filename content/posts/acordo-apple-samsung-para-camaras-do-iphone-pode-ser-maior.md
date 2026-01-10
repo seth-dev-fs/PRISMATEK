@@ -1,17 +1,21 @@
 ---
-title: "Acordo Apple-Samsung para câmaras do iPhone pode ser maior"
-date: "2025-12-17T12:37:45.758Z"
-category: "smartphones"
+title: Acordo Apple-Samsung para câmaras do iPhone pode ser maior
+date: '2025-12-17T12:37:45.758Z'
+category: smartphones
 tags:
   - Apple
   - Samsung
   - iPhone
   - câmaras
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-Rear-Cameras-Colors-1200x675.jpg"
-image_source: "rss"
-description: "O acordo entre a Apple e a Samsung para o desenvolvimento de câmaras para futuros iPhones revela-se mais ambicioso. Saiba o que esperar desta parceria tecnol..."
-source_url: "https://www.sammobile.com/news/samsung-apple-camera-deal-bigger-thought"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-Max-Rear-Cameras-Colors-1200x675.jpg
+image_source: rss
+description: >-
+  O acordo entre a Apple e a Samsung para o desenvolvimento de câmaras para
+  futuros iPhones revela-se mais ambicioso. Saiba o que esperar desta parceria
+  tecnol.
+source_url: 'https://www.sammobile.com/news/samsung-apple-camera-deal-bigger-thought'
 draft: false
 needs_review: false
 photographer_name: undefined

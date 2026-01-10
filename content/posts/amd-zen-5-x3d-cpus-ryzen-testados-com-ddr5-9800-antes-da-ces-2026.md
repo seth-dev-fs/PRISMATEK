@@ -1,17 +1,22 @@
 ---
-title: "AMD Zen 5 X3D: CPUs Ryzen testados com DDR5-9800 antes da CES 2026"
-date: "2026-01-03T10:19:09.415Z"
-category: "computadores"
+title: 'AMD Zen 5 X3D: CPUs Ryzen testados com DDR5-9800 antes da CES 2026'
+date: '2026-01-03T10:19:09.415Z'
+category: computadores
 tags:
   - AMD
   - Zen 5 X3D
   - Ryzen
   - CPUs
   - DDR5-9800
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/amd-ryzen-7-x3d-cpu-installed-am5-motherboard.jpg"
-image_source: "rss"
-description: "Novos processadores AMD Zen 5 X3D, incluindo os Ryzen 9950X3D2 e 9850X3D, foram alegadamente demonstrados com memórias DDR5-9800. Uma revolução à vista para ..."
-source_url: "https://www.notebookcheck.net/AMD-Zen-5-X3D-CPUs-reportedly-demonstrated-running-DDR5-9800-Ryzen-9950X3D2-and-9850X3D-names-reportedly-confirmed-ahead-of-CES-2026.1195512.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/amd-ryzen-7-x3d-cpu-installed-am5-motherboard.jpg
+image_source: rss
+description: >-
+  Novos processadores AMD Zen 5 X3D, incluindo os Ryzen 9950X3D2 e 9850X3D,
+  foram alegadamente demonstrados com memórias DDR5-9800. Uma revolução à vista
+  para.
+source_url: >-
+  https://www.notebookcheck.net/AMD-Zen-5-X3D-CPUs-reportedly-demonstrated-running-DDR5-9800-Ryzen-9950X3D2-and-9850X3D-names-reportedly-confirmed-ahead-of-CES-2026.1195512.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

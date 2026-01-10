@@ -1,17 +1,22 @@
 ---
-title: "GMKtec K12: Mini PC Gaming com Ryzen 7 e OCuLink em destaque"
-date: "2025-11-27T08:55:21.009Z"
-category: "computadores"
+title: 'GMKtec K12: Mini PC Gaming com Ryzen 7 e OCuLink em destaque'
+date: '2025-11-27T08:55:21.009Z'
+category: computadores
 tags:
   - GMKtec K12
   - mini PC
   - AMD Ryzen 7
   - gaming
   - OCuLink
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gmktec_k12_mini_pc_amd_deal_black_friday.jpg"
-image_source: "rss"
-description: "O GMKtec K12, um mini PC gaming com APU AMD Ryzen 7 de 8 núcleos e suporte OCuLink, destaca-se pela sua performance e versatilidade no mercado. Uma excelente..."
-source_url: "https://www.notebookcheck.net/Gaming-mini-PC-with-8-core-AMD-Ryzen-7-APU-and-OCuLink-support-gets-31-discount.1172226.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gmktec_k12_mini_pc_amd_deal_black_friday.jpg
+image_source: rss
+description: >-
+  O GMKtec K12, um mini PC gaming com APU AMD Ryzen 7 de 8 núcleos e suporte
+  OCuLink, destaca-se pela sua performance e versatilidade no mercado. Uma
+  excelente.
+source_url: >-
+  https://www.notebookcheck.net/Gaming-mini-PC-with-8-core-AMD-Ryzen-7-APU-and-OCuLink-support-gets-31-discount.1172226.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Antártida: O inseto mais resiliente do mundo ingere microplásticos"
-date: "2025-12-15T10:23:33.287Z"
-category: "ciencia"
+title: 'Antártida: O inseto mais resiliente do mundo ingere microplásticos'
+date: '2025-12-15T10:23:33.287Z'
+category: ciencia
 tags:
   - Antártida
   - microplásticos
   - Belgica antarctica
   - poluição ambiental
   - ciência
-image: "https://i.blogs.es/6b4d24/microplasticos-antartida/840_560.jpeg"
-image_source: "rss"
-description: "Até a Antártida sente o impacto humano. Um estudo recente revela que o inseto mais resistente do continente está a ingerir microplásticos. Descubra as implic..."
-source_url: "https://www.xataka.com/ecologia-y-naturaleza/lugar-aislado-mundo-unico-insecto-antartida-ha-empezado-a-comer-algo-que-no-deberia"
+image: 'https://i.blogs.es/6b4d24/microplasticos-antartida/840_560.jpeg'
+image_source: rss
+description: >-
+  Até a Antártida sente o impacto humano. Um estudo recente revela que o inseto
+  mais resistente do continente está a ingerir microplásticos. Descubra as
+  implic.
+source_url: >-
+  https://www.xataka.com/ecologia-y-naturaleza/lugar-aislado-mundo-unico-insecto-antartida-ha-empezado-a-comer-algo-que-no-deberia
 draft: false
 needs_review: false
 photographer_name: undefined

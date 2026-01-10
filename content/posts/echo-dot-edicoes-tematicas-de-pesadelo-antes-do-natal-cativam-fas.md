@@ -1,17 +1,22 @@
 ---
-title: "Echo Dot: Edições temáticas de 'Pesadelo Antes do Natal' cativam fãs"
-date: "2025-12-03T01:17:50.747Z"
-category: "audio"
+title: 'Echo Dot: Edições temáticas de ''Pesadelo Antes do Natal'' cativam fãs'
+date: '2025-12-03T01:17:50.747Z'
+category: audio
 tags:
   - Amazon
   - Echo Dot
   - smart speakers
   - Alexa
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/Amazon-Echo-Dot-Jack-Skellington-Sally-deals.jpg"
-image_source: "rss"
-description: "Os Echo Dot da Amazon ganham um toque festivo com edições de 'Pesadelo Antes do Natal'. Descobre como estes smart speakers divertidos cativam os fãs. A tecno..."
-source_url: "https://www.androidauthority.com/nightmare-before-chirstmas-echo-dot-bundle-deal-3621570"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/Amazon-Echo-Dot-Jack-Skellington-Sally-deals.jpg
+image_source: rss
+description: >-
+  Os Echo Dot da Amazon ganham um toque festivo com edições de 'Pesadelo Antes
+  do Natal'. Descobre como estes smart speakers divertidos cativam os fãs. A
+  tecno.
+source_url: >-
+  https://www.androidauthority.com/nightmare-before-chirstmas-echo-dot-bundle-deal-3621570
 draft: false
 needs_review: false
 photographer_name: undefined

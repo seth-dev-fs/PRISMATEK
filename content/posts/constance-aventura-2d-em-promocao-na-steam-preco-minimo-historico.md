@@ -1,17 +1,22 @@
 ---
-title: "Constance: Aventura 2D em promoção na Steam, preço mínimo histórico"
-date: "2026-01-01T20:19:39.559Z"
-category: "gaming"
+title: 'Constance: Aventura 2D em promoção na Steam, preço mínimo histórico'
+date: '2026-01-01T20:19:39.559Z'
+category: gaming
 tags:
   - Constance
   - gaming
   - Steam
   - jogos independentes
   - promoção
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/This-2D-action-adventure-game-is-at-its-lowest-price-on-Steam.png"
-image_source: "rss"
-description: "Descubra Constance, o aclamado jogo de aventura 2D, agora disponível com um desconto imperdível na plataforma Steam. Uma oportunidade única para mergulhar ne..."
-source_url: "https://www.notebookcheck.net/This-popular-2D-action-adventure-game-is-at-its-lowest-price-on-Steam.1194901.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/This-2D-action-adventure-game-is-at-its-lowest-price-on-Steam.png
+image_source: rss
+description: >-
+  Descubra Constance, o aclamado jogo de aventura 2D, agora disponível com um
+  desconto imperdível na plataforma Steam. Uma oportunidade única para mergulhar
+  ne.
+source_url: >-
+  https://www.notebookcheck.net/This-popular-2D-action-adventure-game-is-at-its-lowest-price-on-Steam.1194901.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

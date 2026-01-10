@@ -1,17 +1,23 @@
 ---
-title: "iOS 26.2: CarPlay ganha novidades com foco em controlo e segurança"
-date: "2025-11-24T20:38:35.993Z"
-category: "smartphones"
+title: 'iOS 26.2: CarPlay ganha novidades com foco em controlo e segurança'
+date: '2025-11-24T20:38:35.993Z'
+category: smartphones
 tags:
   - Apple
   - CarPlay
   - iOS 26.2
   - automóveis
   - tecnologia
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/carplay-ios-26-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/carplay-ios-26-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "A próxima atualização do iOS 26.2 chega em breve com melhorias para o CarPlay. Descubra as duas principais novidades que transformarão a sua experiência na e..."
-source_url: "https://9to5mac.com/2025/11/24/carplay-in-ios-26-2-here-are-two-new-changes-coming-to-your-car"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/carplay-ios-26-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/carplay-ios-26-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  A próxima atualização do iOS 26.2 chega em breve com melhorias para o CarPlay.
+  Descubra as duas principais novidades que transformarão a sua experiência na
+  e.
+source_url: >-
+  https://9to5mac.com/2025/11/24/carplay-in-ios-26-2-here-are-two-new-changes-coming-to-your-car
 draft: false
 needs_review: false
 ---

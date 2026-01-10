@@ -1,16 +1,21 @@
 ---
-title: "Retroid Pocket 6 Surpreende com Batman: Arkham Asylum a 60fps"
-date: "2026-01-10T10:24:55.551Z"
-category: "gaming"
+title: 'Retroid Pocket 6 Surpreende com Batman: Arkham Asylum a 60fps'
+date: '2026-01-10T10:24:55.551Z'
+category: gaming
 tags:
   - Retroid Pocket 6
   - Emulação
   - Handheld
   - Gaming Portátil
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Retroid-Pocket-6-playing-Batman-Arkham-Asylum.jpg"
-image_source: "rss"
-description: "O novo Retroid Pocket 6 demonstra capacidades de emulação de topo, correndo Batman: Arkham Asylum a 60fps. Analisamos o impacto para Portugal e a sua chegada..."
-source_url: "https://www.notebookcheck.net/Retroid-Pocket-6-shown-running-Batman-Arkham-Asylum-at-60fps.1200498.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Retroid-Pocket-6-playing-Batman-Arkham-Asylum.jpg
+image_source: rss
+description: >-
+  O novo Retroid Pocket 6 demonstra capacidades de emulação de topo, correndo
+  Batman: Arkham Asylum a 60fps. Analisamos o impacto para Portugal e a sua
+  chegada.
+source_url: >-
+  https://www.notebookcheck.net/Retroid-Pocket-6-shown-running-Batman-Arkham-Asylum-at-60fps.1200498.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

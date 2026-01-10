@@ -1,17 +1,22 @@
 ---
-title: "Exynos 2600 da Samsung para Galaxy S26: Primeiros detalhes revelados"
-date: "2025-12-18T06:27:44.605Z"
-category: "smartphones"
+title: 'Exynos 2600 da Samsung para Galaxy S26: Primeiros detalhes revelados'
+date: '2025-12-18T06:27:44.605Z'
+category: smartphones
 tags:
   - Samsung
   - Exynos 2600
   - Galaxy S26
   - smartphones
   - processadores
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-2600-Processor-1200x675.jpg"
-image_source: "rss"
-description: "Detalhes cruciais sobre o Exynos 2600 da Samsung, o futuro chip dos Galaxy S26, começam a surgir. Descubra o que esperar deste potente processador. A Samsung..."
-source_url: "https://www.sammobile.com/news/galaxy-s26-exynos-2600-chip-crucial-specifications-leak"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-2600-Processor-1200x675.jpg
+image_source: rss
+description: >-
+  Detalhes cruciais sobre o Exynos 2600 da Samsung, o futuro chip dos Galaxy
+  S26, começam a surgir. Descubra o que esperar deste potente processador. A
+  Samsung.
+source_url: >-
+  https://www.sammobile.com/news/galaxy-s26-exynos-2600-chip-crucial-specifications-leak
 draft: false
 needs_review: false
 photographer_name: undefined

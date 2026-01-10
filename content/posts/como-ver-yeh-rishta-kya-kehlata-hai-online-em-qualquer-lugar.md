@@ -1,17 +1,21 @@
 ---
-title: "Como Ver Yeh Rishta Kya Kehlata Hai Online em Qualquer Lugar"
-date: "2025-12-15T10:22:44.905Z"
-category: "internet-apps"
+title: Como Ver Yeh Rishta Kya Kehlata Hai Online em Qualquer Lugar
+date: '2025-12-15T10:22:44.905Z'
+category: internet-apps
 tags:
   - streaming
   - VPN
   - conteúdo global
   - entretenimento
   - Yeh Rishta Kya Kehlata Hai
-image: "https://cdn.mos.cms.futurecdn.net/QXREzNS53Pw7Mfmg3TFYiA-1280-80.jpg"
-image_source: "rss"
-description: "Quer acompanhar a popular série indiana Yeh Rishta Kya Kehlata Hai? Descubra as melhores formas de aceder ao conteúdo online a partir de Portugal, sem restri..."
-source_url: "https://www.techradar.com/how-to-watch/watch-yeh-rishta-kya-kelata-hai-online-from-anywhere"
+image: 'https://cdn.mos.cms.futurecdn.net/QXREzNS53Pw7Mfmg3TFYiA-1280-80.jpg'
+image_source: rss
+description: >-
+  Quer acompanhar a popular série indiana Yeh Rishta Kya Kehlata Hai? Descubra
+  as melhores formas de aceder ao conteúdo online a partir de Portugal, sem
+  restri.
+source_url: >-
+  https://www.techradar.com/how-to-watch/watch-yeh-rishta-kya-kelata-hai-online-from-anywhere
 draft: false
 needs_review: false
 photographer_name: undefined

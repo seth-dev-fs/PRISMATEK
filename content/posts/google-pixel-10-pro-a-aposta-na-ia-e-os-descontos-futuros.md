@@ -1,17 +1,22 @@
 ---
-title: "Google Pixel 10 Pro: A aposta na IA e os descontos futuros"
-date: "2025-11-25T22:01:06.999Z"
-category: "smartphones"
+title: 'Google Pixel 10 Pro: A aposta na IA e os descontos futuros'
+date: '2025-11-25T22:01:06.999Z'
+category: smartphones
 tags:
   - Google
   - Pixel 10 Pro
   - smartphones
   - Inteligência Artificial
   - Black Friday
-image: "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-back-moonstone-3.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-back-moonstone-3.jpg"
-description: "O Google Pixel 10 Pro promete revolucionar com IA avançada. Descubra o que esperar deste flagship e o potencial para descontos em eventos futuros como a Blac..."
-source_url: "https://www.androidauthority.com/google-pixel-10-pro-deal-2-3619478"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-back-moonstone-3.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-back-moonstone-3.jpg
+description: >-
+  O Google Pixel 10 Pro promete revolucionar com IA avançada. Descubra o que
+  esperar deste flagship e o potencial para descontos em eventos futuros como a
+  Blac.
+source_url: 'https://www.androidauthority.com/google-pixel-10-pro-deal-2-3619478'
 draft: false
 needs_review: false
 ---

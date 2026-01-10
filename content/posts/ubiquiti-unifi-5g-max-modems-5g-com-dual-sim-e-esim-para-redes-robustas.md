@@ -1,7 +1,7 @@
 ---
-title: "Ubiquiti UniFi 5G Max: Modems 5G com Dual-SIM e eSIM para redes robustas"
-date: "2025-12-04T22:40:01.704Z"
-category: "internet-apps"
+title: 'Ubiquiti UniFi 5G Max: Modems 5G com Dual-SIM e eSIM para redes robustas'
+date: '2025-12-04T22:40:01.704Z'
+category: internet-apps
 tags:
   - Ubiquiti
   - UniFi
@@ -10,10 +10,15 @@ tags:
   - eSIM
   - conectividade
   - redes
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/images.svc.ui.com58.png"
-image_source: "rss"
-description: "Descubra os novos modems Ubiquiti UniFi 5G Max, ideais para redes robustas. Com suporte dual-SIM e eSIM, oferecem redundância e conectividade 5G avançada. Es..."
-source_url: "https://www.notebookcheck.net/Ubiquiti-UniFi-5G-Max-New-cellular-modem-comes-with-dual-SIM-and-eSIM-support.1177926.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/images.svc.ui.com58.png
+image_source: rss
+description: >-
+  Descubra os novos modems Ubiquiti UniFi 5G Max, ideais para redes robustas.
+  Com suporte dual-SIM e eSIM, oferecem redundância e conectividade 5G avançada.
+  Es.
+source_url: >-
+  https://www.notebookcheck.net/Ubiquiti-UniFi-5G-Max-New-cellular-modem-comes-with-dual-SIM-and-eSIM-support.1177926.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

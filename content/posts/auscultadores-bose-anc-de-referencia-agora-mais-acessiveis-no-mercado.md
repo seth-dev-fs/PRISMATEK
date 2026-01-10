@@ -1,17 +1,21 @@
 ---
-title: "Auscultadores Bose: ANC de referência agora mais acessíveis no mercado"
-date: "2025-12-01T10:51:30.186Z"
-category: "audio"
+title: 'Auscultadores Bose: ANC de referência agora mais acessíveis no mercado'
+date: '2025-12-01T10:51:30.186Z'
+category: audio
 tags:
   - Bose
   - auscultadores
   - ANC
   - áudio
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/wLks44hmseEJTdArjiWEAj-1280-80.jpg"
-image_source: "rss"
-description: "A tecnologia de cancelamento de ruído da Bose é líder de mercado e agora os seus auscultadores premium tornam-se mais apelativos com ofertas globais. Descubr..."
-source_url: "https://www.techradar.com/audio/earbuds-airpods/quick-up-to-43-percent-off-bose-headphones-all-still-live-this-cyber-monday"
+image: 'https://cdn.mos.cms.futurecdn.net/wLks44hmseEJTdArjiWEAj-1280-80.jpg'
+image_source: rss
+description: >-
+  A tecnologia de cancelamento de ruído da Bose é líder de mercado e agora os
+  seus auscultadores premium tornam-se mais apelativos com ofertas globais.
+  Descubr.
+source_url: >-
+  https://www.techradar.com/audio/earbuds-airpods/quick-up-to-43-percent-off-bose-headphones-all-still-live-this-cyber-monday
 draft: false
 needs_review: false
 photographer_name: undefined

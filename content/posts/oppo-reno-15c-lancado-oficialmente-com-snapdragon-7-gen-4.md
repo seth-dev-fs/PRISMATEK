@@ -1,17 +1,22 @@
 ---
-title: "Oppo Reno 15c Lançado Oficialmente com Snapdragon 7 Gen 4"
-date: "2025-12-15T08:28:44.061Z"
-category: "smartphones"
+title: Oppo Reno 15c Lançado Oficialmente com Snapdragon 7 Gen 4
+date: '2025-12-15T08:28:44.061Z'
+category: smartphones
 tags:
   - Oppo
   - Reno 15c
   - smartphones
   - Android
   - Snapdragon
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oppo-reno-15c-official/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Oppo Reno 15c foi lançado na China, prometendo alto desempenho com Snapdragon 7 Gen 4 e ecrã AMOLED de 120Hz. Conheça as suas especificações. A Oppo acaba ..."
-source_url: "https://www.gsmarena.com/oppo_reno_15c_goes_official_with_snapdragon_7_gen_4_soc-news-70711.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oppo-reno-15c-official/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Oppo Reno 15c foi lançado na China, prometendo alto desempenho com
+  Snapdragon 7 Gen 4 e ecrã AMOLED de 120Hz. Conheça as suas especificações. A
+  Oppo acaba.
+source_url: >-
+  https://www.gsmarena.com/oppo_reno_15c_goes_official_with_snapdragon_7_gen_4_soc-news-70711.php
 draft: false
 needs_review: false
 photographer_name: undefined

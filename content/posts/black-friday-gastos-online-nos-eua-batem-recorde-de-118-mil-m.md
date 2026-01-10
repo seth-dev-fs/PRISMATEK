@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Gastos online nos EUA batem recorde de 11,8 mil M"
-date: "2025-11-30T04:59:23.717Z"
-category: "internet-apps"
+title: 'Black Friday: Gastos online nos EUA batem recorde de 11,8 mil M'
+date: '2025-11-30T04:59:23.717Z'
+category: internet-apps
 tags:
   - Black Friday
   - compras online
   - e-commerce
   - Estados Unidos
   - Adobe Analytics
-image: "https://techcrunch.com/wp-content/uploads/2019/11/gg19-black-friday-text.png?resize=1200,638"
-image_source: "rss"
-description: "A Black Friday de 2025 estabeleceu um novo recorde nos EUA, com consumidores a gastarem 11,8 mil milhões de dólares online. Conheça as implicações para o e-c..."
-source_url: "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2019/11/gg19-black-friday-text.png?resize=1200,638
+image_source: rss
+description: >-
+  A Black Friday de 2025 estabeleceu um novo recorde nos EUA, com consumidores a
+  gastarem 11,8 mil milhões de dólares online. Conheça as implicações para o
+  e-c.
+source_url: >-
+  https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Robô Ballie da Samsung: O fim de uma promessa para o lar?"
-date: "2026-01-08T12:38:10.452Z"
-category: "ai-futuro"
+title: 'Robô Ballie da Samsung: O fim de uma promessa para o lar?'
+date: '2026-01-08T12:38:10.452Z'
+category: ai-futuro
 tags:
   - Samsung
   - robôs
   - Ballie
   - inteligência artificial
   - tecnologia doméstica
-image: "https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Ballie-Robot-Press-Image-scaled.jpg"
-image_source: "rss"
-description: "A Samsung colocou o projeto do seu robô Ballie em espera indefinidamente. Descubra o que levou a gigante tecnológica a adiar o futuro do assistente doméstico..."
-source_url: "https://www.androidauthority.com/samsung-ballie-robot-shelved-indefinitely-3630980"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/04/Samsung-Ballie-Robot-Press-Image-scaled.jpg
+image_source: rss
+description: >-
+  A Samsung colocou o projeto do seu robô Ballie em espera indefinidamente.
+  Descubra o que levou a gigante tecnológica a adiar o futuro do assistente
+  doméstico.
+source_url: >-
+  https://www.androidauthority.com/samsung-ballie-robot-shelved-indefinitely-3630980
 draft: false
 needs_review: false
 photographer_name: undefined

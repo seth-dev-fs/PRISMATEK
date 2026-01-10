@@ -1,17 +1,21 @@
 ---
-title: "Auscultadores com fios do ano 2025 da TechRadar em foco"
-date: "2025-12-01T16:57:44.671Z"
-category: "audio"
+title: Auscultadores com fios do ano 2025 da TechRadar em foco
+date: '2025-12-01T16:57:44.671Z'
+category: audio
 tags:
   - auscultadores
   - áudio
   - TechRadar
   - ofertas
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/CxVwGRGXqdhmXeKQe4F6AA-1280-80.jpg"
-image_source: "rss"
-description: "Descubra os auscultadores com fios eleitos pela TechRadar como os melhores de 2025. Saiba porque este modelo se destaca no mercado e as oportunidades de o ad..."
-source_url: "https://www.techradar.com/audio/wireless-headphones/techradars-wired-headphones-of-the-year-just-got-a-huge-40-percent-cyber-monday-discount-and-at-this-price-im-tempted"
+image: 'https://cdn.mos.cms.futurecdn.net/CxVwGRGXqdhmXeKQe4F6AA-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra os auscultadores com fios eleitos pela TechRadar como os melhores de
+  2025. Saiba porque este modelo se destaca no mercado e as oportunidades de o
+  ad.
+source_url: >-
+  https://www.techradar.com/audio/wireless-headphones/techradars-wired-headphones-of-the-year-just-got-a-huge-40-percent-cyber-monday-discount-and-at-this-price-im-tempted
 draft: false
 needs_review: false
 photographer_name: undefined

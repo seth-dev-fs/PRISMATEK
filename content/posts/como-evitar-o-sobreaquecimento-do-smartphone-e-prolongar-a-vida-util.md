@@ -1,17 +1,20 @@
 ---
-title: "Como evitar o sobreaquecimento do smartphone e prolongar a vida útil"
-date: "2025-11-27T06:59:46.439Z"
-category: "smartphones"
+title: Como evitar o sobreaquecimento do smartphone e prolongar a vida útil
+date: '2025-11-27T06:59:46.439Z'
+category: smartphones
 tags:
   - smartphones
   - sobreaquecimento
   - bateria
   - manutenção
   - dicas
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "O sobreaquecimento do smartphone pode danificá-lo e reduzir a bateria. Aprenda dicas essenciais para proteger o seu dispositivo e mantê-lo a funcionar de for..."
-source_url: "https://www.sammobile.com/news/how-do-i-protect-my-phone-from-overheating"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  O sobreaquecimento do smartphone pode danificá-lo e reduzir a bateria. Aprenda
+  dicas essenciais para proteger o seu dispositivo e mantê-lo a funcionar de
+  for.
+source_url: 'https://www.sammobile.com/news/how-do-i-protect-my-phone-from-overheating'
 draft: false
 needs_review: false
 photographer_name: undefined

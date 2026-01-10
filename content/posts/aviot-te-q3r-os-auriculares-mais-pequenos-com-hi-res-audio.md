@@ -1,17 +1,22 @@
 ---
-title: "Aviot TE-Q3R: Os auriculares mais pequenos com Hi-Res Audio"
-date: "2025-12-21T08:23:35.755Z"
-category: "audio"
+title: 'Aviot TE-Q3R: Os auriculares mais pequenos com Hi-Res Audio'
+date: '2025-12-21T08:23:35.755Z'
+category: audio
 tags:
   - Aviot
   - auriculares
   - som
   - Hi-Res Audio
   - ANC
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Aviot-TE-Q3R-ANC-earbuds-launch-as-the-companys-smallest-model-with-Hi-Res-Audio-and-360-degree-spatial-audio-support.jpg"
-image_source: "rss"
-description: "Apresentamos os Aviot TE-Q3R, os mais compactos auriculares com certificação Hi-Res Audio, ANC e áudio espacial 360 graus. Descubra a nova aposta da Aviot pa..."
-source_url: "https://www.notebookcheck.net/Aviot-TE-Q3R-ANC-earbuds-debut-as-the-company-s-smallest-model-with-Hi-Res-Audio-and-360-degree-spatial-audio-support.1189983.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Aviot-TE-Q3R-ANC-earbuds-launch-as-the-companys-smallest-model-with-Hi-Res-Audio-and-360-degree-spatial-audio-support.jpg
+image_source: rss
+description: >-
+  Apresentamos os Aviot TE-Q3R, os mais compactos auriculares com certificação
+  Hi-Res Audio, ANC e áudio espacial 360 graus. Descubra a nova aposta da Aviot
+  pa.
+source_url: >-
+  https://www.notebookcheck.net/Aviot-TE-Q3R-ANC-earbuds-debut-as-the-company-s-smallest-model-with-Hi-Res-Audio-and-360-degree-spatial-audio-support.1189983.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

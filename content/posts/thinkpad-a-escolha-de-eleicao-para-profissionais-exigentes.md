@@ -1,17 +1,21 @@
 ---
-title: "ThinkPad: A escolha de eleição para profissionais exigentes"
-date: "2025-12-01T19:02:57.858Z"
-category: "computadores"
+title: 'ThinkPad: A escolha de eleição para profissionais exigentes'
+date: '2025-12-01T19:02:57.858Z'
+category: computadores
 tags:
   - Lenovo
   - ThinkPad
   - portátil
   - negócios
   - produtividade
-image: "https://cdn.mos.cms.futurecdn.net/MT4EEjrLNTBWkHJEQJzjXY-1280-80.png"
-image_source: "rss"
-description: "Descobre porque o Lenovo ThinkPad continua a ser a ferramenta de trabalho preferida por muitos. Fiabilidade, segurança e desempenho para o dia a dia profissi..."
-source_url: "https://www.techradar.com/pro/this-cyber-monday-thinkpad-deal-is-my-go-to-choice-for-business-professionals-i-love-mine-and-it-hasnt-let-me-down-yet"
+image: 'https://cdn.mos.cms.futurecdn.net/MT4EEjrLNTBWkHJEQJzjXY-1280-80.png'
+image_source: rss
+description: >-
+  Descobre porque o Lenovo ThinkPad continua a ser a ferramenta de trabalho
+  preferida por muitos. Fiabilidade, segurança e desempenho para o dia a dia
+  profissi.
+source_url: >-
+  https://www.techradar.com/pro/this-cyber-monday-thinkpad-deal-is-my-go-to-choice-for-business-professionals-i-love-mine-and-it-hasnt-let-me-down-yet
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Honor Magic8 Pro: Expansão global com chegada à Europa iminente"
-date: "2025-11-27T13:47:22.895Z"
-category: "smartphones"
+title: 'Honor Magic8 Pro: Expansão global com chegada à Europa iminente'
+date: '2025-11-27T13:47:22.895Z'
+category: smartphones
 tags:
   - Honor
   - smartphones
   - Magic8 Pro
   - Android
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/honor-magic8-pro-global-debut/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Honor Magic8 Pro faz a sua estreia global fora da China, com chegada à Europa iminente. Conheça o novo smartphone topo de gama da Honor e as suas especific..."
-source_url: "https://www.gsmarena.com/honor_magic8_pro_makes_its_global_debut_in_malaysia-news-70468.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/honor-magic8-pro-global-debut/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Honor Magic8 Pro faz a sua estreia global fora da China, com chegada à
+  Europa iminente. Conheça o novo smartphone topo de gama da Honor e as suas
+  especific.
+source_url: >-
+  https://www.gsmarena.com/honor_magic8_pro_makes_its_global_debut_in_malaysia-news-70468.php
 draft: false
 needs_review: false
 photographer_name: undefined

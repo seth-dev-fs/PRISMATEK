@@ -1,17 +1,23 @@
 ---
-title: "Galaxy S25 Ultra e S25 FE: Descontos de Black Friday na Europa"
-date: "2025-11-24T20:41:06.239Z"
-category: "smartphones"
+title: 'Galaxy S25 Ultra e S25 FE: Descontos de Black Friday na Europa'
+date: '2025-11-24T20:41:06.239Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones
   - Galaxy S25 Ultra
   - Black Friday
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-uk-deals-spotlight/-952x498w6/gsmarena_001.jpg"
-image_source: "https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-uk-deals-spotlight/-952x498w6/gsmarena_001.jpg"
-description: "A Black Friday trouxe promoções imperdíveis aos Samsung Galaxy S25 Ultra e S25 FE. Descubra as características que tornam estes smartphones apelativos no mer..."
-source_url: "https://www.gsmarena.com/black_friday_deal_spotlight_galaxy_s25_ultra_galaxy_s25_and_galaxy_s25_fe_get_discounted-news-70431.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-uk-deals-spotlight/-952x498w6/gsmarena_001.jpg
+image_source: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-uk-deals-spotlight/-952x498w6/gsmarena_001.jpg
+description: >-
+  A Black Friday trouxe promoções imperdíveis aos Samsung Galaxy S25 Ultra e S25
+  FE. Descubra as características que tornam estes smartphones apelativos no
+  mer.
+source_url: >-
+  https://www.gsmarena.com/black_friday_deal_spotlight_galaxy_s25_ultra_galaxy_s25_and_galaxy_s25_fe_get_discounted-news-70431.php
 draft: false
 needs_review: false
 ---

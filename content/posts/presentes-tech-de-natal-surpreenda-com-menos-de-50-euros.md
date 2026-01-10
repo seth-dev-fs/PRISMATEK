@@ -1,17 +1,21 @@
 ---
-title: "Presentes Tech de Natal: Surpreenda com menos de 50 Euros"
-date: "2025-12-05T16:55:58.397Z"
-category: "mobilidade"
+title: 'Presentes Tech de Natal: Surpreenda com menos de 50 Euros'
+date: '2025-12-05T16:55:58.397Z'
+category: mobilidade
 tags:
   - Natal
   - presentes
   - gadgets
   - tecnologia acessível
   - guias de compra
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_UNDER_50_Holiday_Gift_Guide_AKrales_6052.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra os melhores presentes tecnológicos de Natal por menos de 50 euros. Ideias originais e úteis para surpreender quem mais gosta, sem comprometer o orça..."
-source_url: "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257851_2025_UNDER_50_Holiday_Gift_Guide_AKrales_6052.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra os melhores presentes tecnológicos de Natal por menos de 50 euros.
+  Ideias originais e úteis para surpreender quem mais gosta, sem comprometer o
+  orça.
+source_url: 'https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

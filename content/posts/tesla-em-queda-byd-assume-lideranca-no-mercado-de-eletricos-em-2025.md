@@ -1,16 +1,20 @@
 ---
-title: "Tesla em Queda: BYD Assume Liderança no Mercado de Elétricos em 2025"
-date: "2026-01-10T12:33:53.609Z"
-category: "mobilidade"
+title: 'Tesla em Queda: BYD Assume Liderança no Mercado de Elétricos em 2025'
+date: '2026-01-10T12:33:53.609Z'
+category: mobilidade
 tags:
   - Tesla
   - BYD
   - Carros Elétricos
   - Mercado Automóvel
-image: "https://i.blogs.es/71d511/bram-van-oost-4xm5cytsdmo-unsplash/840_560.jpeg"
-image_source: "rss"
-description: "A Tesla regista o segundo ano consecutivo de quebras nas vendas em 2025, perdendo a liderança para a BYD, num mercado europeu em crescimento e com novas alte..."
-source_url: "https://www.xataka.com/movilidad/tesla-queria-fabricar-20-millones-coches-2030-realidad-2025-se-ha-estrellado-byd-lidera"
+image: 'https://i.blogs.es/71d511/bram-van-oost-4xm5cytsdmo-unsplash/840_560.jpeg'
+image_source: rss
+description: >-
+  A Tesla regista o segundo ano consecutivo de quebras nas vendas em 2025,
+  perdendo a liderança para a BYD, num mercado europeu em crescimento e com
+  novas alte.
+source_url: >-
+  https://www.xataka.com/movilidad/tesla-queria-fabricar-20-millones-coches-2030-realidad-2025-se-ha-estrellado-byd-lidera
 draft: false
 needs_review: false
 photographer_name: undefined

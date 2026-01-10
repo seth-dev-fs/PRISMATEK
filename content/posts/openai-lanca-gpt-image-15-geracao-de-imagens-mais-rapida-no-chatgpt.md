@@ -1,17 +1,22 @@
 ---
-title: "OpenAI Lança GPT-Image-1.5: Geração de Imagens Mais Rápida no ChatGPT"
-date: "2025-12-16T18:26:32.887Z"
-category: "ai-futuro"
+title: 'OpenAI Lança GPT-Image-1.5: Geração de Imagens Mais Rápida no ChatGPT'
+date: '2025-12-16T18:26:32.887Z'
+category: ai-futuro
 tags:
   - OpenAI
   - ChatGPT
   - GPT-Image-1.5
   - Inteligência Artificial
   - geração de imagem
-image: "https://techcrunch.com/wp-content/uploads/2025/12/skating-3.png?resize=1200,800"
-image_source: "rss"
-description: "A OpenAI acelera a corrida da IA com o lançamento do GPT-Image-1.5 para o ChatGPT, prometendo imagens 4x mais rápidas e edição precisa. A rivalidade com a Go..."
-source_url: "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/12/skating-3.png?resize=1200,800
+image_source: rss
+description: >-
+  A OpenAI acelera a corrida da IA com o lançamento do GPT-Image-1.5 para o
+  ChatGPT, prometendo imagens 4x mais rápidas e edição precisa. A rivalidade com
+  a Go.
+source_url: >-
+  https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model
 draft: false
 needs_review: false
 photographer_name: undefined

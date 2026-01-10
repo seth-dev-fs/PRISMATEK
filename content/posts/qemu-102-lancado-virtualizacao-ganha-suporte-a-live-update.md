@@ -1,17 +1,21 @@
 ---
-title: "QEMU 10.2 Lançado: Virtualização Ganha Suporte a Live Update"
-date: "2025-12-25T08:25:42.656Z"
-category: "computadores"
+title: 'QEMU 10.2 Lançado: Virtualização Ganha Suporte a Live Update'
+date: '2025-12-25T08:25:42.656Z'
+category: computadores
 tags:
   - QEMU
   - virtualização
   - software open-source
   - Linux
   - atualização em tempo real
-image: "https://9to5linux.com/wp-content/uploads/2023/05/qemu81.webp"
-image_source: "rss"
-description: "QEMU 10.2 já disponível com atualizações em tempo real e melhorias significativas. Fica a conhecer todas as novidades que prometem otimizar a virtualização p..."
-source_url: "https://9to5linux.com/qemu-10-2-officially-released-with-live-update-support-and-improvements"
+image: 'https://9to5linux.com/wp-content/uploads/2023/05/qemu81.webp'
+image_source: rss
+description: >-
+  QEMU 10.2 já disponível com atualizações em tempo real e melhorias
+  significativas. Fica a conhecer todas as novidades que prometem otimizar a
+  virtualização p.
+source_url: >-
+  https://9to5linux.com/qemu-10-2-officially-released-with-live-update-support-and-improvements
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "VPN: Melhores ofertas para proteger a sua privacidade online"
-date: "2026-01-03T08:24:07.388Z"
-category: "internet-apps"
+title: 'VPN: Melhores ofertas para proteger a sua privacidade online'
+date: '2026-01-03T08:24:07.388Z'
+category: internet-apps
 tags:
   - VPN
   - segurança online
   - privacidade
   - serviços online
   - cibersegurança
-image: "https://s.yimg.com/ny/api/res/1.2/7y4kAvRyZIrZ4ptocHBk5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2dd52b0-8365-11f0-b7fd-343d09fff71e"
-image_source: "rss"
-description: "Procura uma VPN de qualidade? Saiba quais os serviços com as melhores promoções para garantir a sua segurança e privacidade na internet em 2024. Ainda que a ..."
-source_url: "https://www.engadget.com/deals/the-best-vpn-deals-up-to-88-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056445.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/7y4kAvRyZIrZ4ptocHBk5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-08/b2dd52b0-8365-11f0-b7fd-343d09fff71e
+image_source: rss
+description: >-
+  Procura uma VPN de qualidade? Saiba quais os serviços com as melhores
+  promoções para garantir a sua segurança e privacidade na internet em 2024.
+  Ainda que a.
+source_url: >-
+  https://www.engadget.com/deals/the-best-vpn-deals-up-to-88-percent-off-protonvpn-surfshark-expressvpn-nordvpn-and-more-120056445.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

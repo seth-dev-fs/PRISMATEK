@@ -1,17 +1,22 @@
 ---
-title: "XGIMI Halo Plus: Projetor portátil com Google TV mais acessível"
-date: "2025-11-25T22:01:42.115Z"
-category: "entretenimento-gaming"
+title: 'XGIMI Halo Plus: Projetor portátil com Google TV mais acessível'
+date: '2025-11-25T22:01:42.115Z'
+category: entretenimento-gaming
 tags:
   - XGIMI
   - projetor
   - Google TV
   - portátil
   - multimédia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/XGIMI-Halo-plus-GTV-bag-scaled.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/11/XGIMI-Halo-plus-GTV-bag-scaled.jpg"
-description: "O projetor portátil XGIMI Halo Plus com Google TV torna-se uma opção mais tentadora. Descubra como este dispositivo promete transformar a sua experiência mul..."
-source_url: "https://www.androidauthority.com/xgimi-halo-plus-gtv-black-friday-3619528"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/XGIMI-Halo-plus-GTV-bag-scaled.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/XGIMI-Halo-plus-GTV-bag-scaled.jpg
+description: >-
+  O projetor portátil XGIMI Halo Plus com Google TV torna-se uma opção mais
+  tentadora. Descubra como este dispositivo promete transformar a sua
+  experiência mul.
+source_url: 'https://www.androidauthority.com/xgimi-halo-plus-gtv-black-friday-3619528'
 draft: false
 needs_review: false
 ---

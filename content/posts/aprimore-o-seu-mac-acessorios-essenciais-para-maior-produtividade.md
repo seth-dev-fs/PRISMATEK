@@ -1,17 +1,21 @@
 ---
-title: "Aprimore o seu Mac: Acessórios essenciais para maior produtividade"
-date: "2025-12-17T01:14:52.635Z"
-category: "computadores"
+title: 'Aprimore o seu Mac: Acessórios essenciais para maior produtividade'
+date: '2025-12-17T01:14:52.635Z'
+category: computadores
 tags:
   - Mac
   - acessórios
   - produtividade
   - Apple
   - setup
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/macbook-pro-space-black0001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Descubra os acessórios indispensáveis para elevar a sua experiência Mac. De hubs a monitores, saiba como otimizar o seu setup para máxima produtividade no di..."
-source_url: "https://9to5mac.com/2025/12/16/best-mac-accessories"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/11/macbook-pro-space-black0001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Descubra os acessórios indispensáveis para elevar a sua experiência Mac. De
+  hubs a monitores, saiba como otimizar o seu setup para máxima produtividade no
+  di.
+source_url: 'https://9to5mac.com/2025/12/16/best-mac-accessories'
 draft: false
 needs_review: false
 photographer_name: undefined

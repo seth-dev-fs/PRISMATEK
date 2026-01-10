@@ -1,17 +1,21 @@
 ---
-title: "Presentes Digitais: Soluções de Última Hora e Genuinamente Pessoais"
-date: "2025-12-22T10:19:15.800Z"
-category: "internet-apps"
+title: 'Presentes Digitais: Soluções de Última Hora e Genuinamente Pessoais'
+date: '2025-12-22T10:19:15.800Z'
+category: internet-apps
 tags:
   - presentes digitais
   - compras online
   - última hora
   - subscrições
   - vales de oferta
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/Amazon-Audible-Logo-scaled.jpg"
-image_source: "rss"
-description: "Precisa de um presente de última hora? Descubra como os presentes digitais podem ser a solução perfeita, convenientes e cheios de personalidade. A corrida ao..."
-source_url: "https://www.androidauthority.com/last-minute-digital-gifts-3625963"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/Amazon-Audible-Logo-scaled.jpg
+image_source: rss
+description: >-
+  Precisa de um presente de última hora? Descubra como os presentes digitais
+  podem ser a solução perfeita, convenientes e cheios de personalidade. A
+  corrida ao.
+source_url: 'https://www.androidauthority.com/last-minute-digital-gifts-3625963'
 draft: false
 needs_review: false
 photographer_name: undefined

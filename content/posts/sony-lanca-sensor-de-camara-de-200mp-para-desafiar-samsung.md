@@ -1,17 +1,22 @@
 ---
-title: "Sony lança sensor de câmara de 200MP para desafiar Samsung"
-date: "2025-11-27T08:55:03.827Z"
-category: "smartphones"
+title: Sony lança sensor de câmara de 200MP para desafiar Samsung
+date: '2025-11-27T08:55:03.827Z'
+category: smartphones
 tags:
   - Sony
   - Samsung
   - sensores de câmara
   - 200MP
   - smartphones
-image: "https://www.sammobile.com/wp-content/uploads/2022/11/Sony-LYTIA-Camera-Sensors.jpg"
-image_source: "rss"
-description: "A Sony acaba de apresentar o seu primeiro sensor de câmara de 200MP, entrando na corrida dos megapíxeis e prometendo agitar o mercado de smartphones. Irá sup..."
-source_url: "https://www.sammobile.com/news/sony-launches-200mp-camera-sensor-challenge-samsung"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2022/11/Sony-LYTIA-Camera-Sensors.jpg
+image_source: rss
+description: >-
+  A Sony acaba de apresentar o seu primeiro sensor de câmara de 200MP, entrando
+  na corrida dos megapíxeis e prometendo agitar o mercado de smartphones. Irá
+  sup.
+source_url: >-
+  https://www.sammobile.com/news/sony-launches-200mp-camera-sensor-challenge-samsung
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,7 +1,7 @@
 ---
-title: "Como assistir ao dérbi Tyne-Wear: Streaming global e VPN"
-date: "2025-12-14T10:18:10.088Z"
-category: "internet-apps"
+title: 'Como assistir ao dérbi Tyne-Wear: Streaming global e VPN'
+date: '2025-12-14T10:18:10.088Z'
+category: internet-apps
 tags:
   - streaming
   - futebol
@@ -9,10 +9,14 @@ tags:
   - VPN
   - tecnologia
   - desporto
-image: "https://cdn.mos.cms.futurecdn.net/7pRGhcGed3ve9Mrf6PMXFJ-1280-80.jpg"
-image_source: "rss"
-description: "O dérbi Tyne-Wear Sunderland vs Newcastle está de volta. Saiba como aceder a transmissões globais da Premier League e outros desportos com VPNs e serviços de..."
-source_url: "https://www.techradar.com/how-to-watch/football/sunderland-vs-newcastle-premier-league-2025-26-tyne-wear-derby"
+image: 'https://cdn.mos.cms.futurecdn.net/7pRGhcGed3ve9Mrf6PMXFJ-1280-80.jpg'
+image_source: rss
+description: >-
+  O dérbi Tyne-Wear Sunderland vs Newcastle está de volta. Saiba como aceder a
+  transmissões globais da Premier League e outros desportos com VPNs e serviços
+  de.
+source_url: >-
+  https://www.techradar.com/how-to-watch/football/sunderland-vs-newcastle-premier-league-2025-26-tyne-wear-derby
 draft: false
 needs_review: false
 photographer_name: undefined

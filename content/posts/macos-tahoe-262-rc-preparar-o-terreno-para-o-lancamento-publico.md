@@ -1,17 +1,21 @@
 ---
-title: "macOS Tahoe 26.2 RC: Preparar o terreno para o lançamento público"
-date: "2025-12-03T18:58:31.811Z"
-category: "computadores"
+title: 'macOS Tahoe 26.2 RC: Preparar o terreno para o lançamento público'
+date: '2025-12-03T18:58:31.811Z'
+category: computadores
 tags:
   - macOS
   - Apple
   - atualização
   - software
   - beta
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macOS-26.2-rc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Apple disponibiliza o macOS Tahoe 26.2 Release Candidate a developers e beta pública. Conheça as últimas novidades antes do lançamento final para todos os ..."
-source_url: "https://9to5mac.com/2025/12/03/macos-tahoe-26-2-developer-beta-release-candidate"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macOS-26.2-rc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Apple disponibiliza o macOS Tahoe 26.2 Release Candidate a developers e beta
+  pública. Conheça as últimas novidades antes do lançamento final para todos os.
+source_url: >-
+  https://9to5mac.com/2025/12/03/macos-tahoe-26-2-developer-beta-release-candidate
 draft: false
 needs_review: false
 photographer_name: undefined

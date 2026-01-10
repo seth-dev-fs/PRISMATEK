@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Oportunidades em Tablets, Portáteis e E-readers na Europa"
-date: "2025-11-29T08:49:39.757Z"
-category: "computadores"
+title: 'Black Friday: Oportunidades em Tablets, Portáteis e E-readers na Europa'
+date: '2025-11-29T08:49:39.757Z'
+category: computadores
 tags:
   - Black Friday
   - tecnologia
   - portáteis
   - tablets
   - e-readers
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-de-deals/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "A Black Friday trouxe descontos expressivos em diversos gadgets. Analisamos o impacto nos tablets, portáteis e e-readers no mercado europeu. A Black Friday, ..."
-source_url: "https://www.gsmarena.com/black_friday_the_best_tablet_laptop_and_ereader_deals_in_germany-news-70492.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/black-friday-de-deals/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  A Black Friday trouxe descontos expressivos em diversos gadgets. Analisamos o
+  impacto nos tablets, portáteis e e-readers no mercado europeu. A Black
+  Friday,.
+source_url: >-
+  https://www.gsmarena.com/black_friday_the_best_tablet_laptop_and_ereader_deals_in_germany-news-70492.php
 draft: false
 needs_review: false
 photographer_name: undefined

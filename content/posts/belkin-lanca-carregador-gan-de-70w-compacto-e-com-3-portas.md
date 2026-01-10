@@ -1,17 +1,22 @@
 ---
-title: "Belkin lança carregador GaN de 70W: compacto e com 3 portas"
-date: "2025-11-28T14:42:25.283Z"
-category: "smartphones"
+title: 'Belkin lança carregador GaN de 70W: compacto e com 3 portas'
+date: '2025-11-28T14:42:25.283Z'
+category: smartphones
 tags:
   - Belkin
   - carregador GaN
   - USB-C
   - viagem
   - acessórios
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Belkin-3-Port-USB-C-Charger-Block-70W.jpg"
-image_source: "rss"
-description: "A Belkin apresenta um novo carregador GaN de 70W, compacto e com três portas USB-C, perfeito para carregar múltiplos dispositivos em viagem. Já disponível na..."
-source_url: "https://www.notebookcheck.net/Belkin-releases-new-compact-fast-charger-with-three-ports-and-foldable-design.1173010.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Belkin-3-Port-USB-C-Charger-Block-70W.jpg
+image_source: rss
+description: >-
+  A Belkin apresenta um novo carregador GaN de 70W, compacto e com três portas
+  USB-C, perfeito para carregar múltiplos dispositivos em viagem. Já disponível
+  na.
+source_url: >-
+  https://www.notebookcheck.net/Belkin-releases-new-compact-fast-charger-with-three-ports-and-foldable-design.1173010.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

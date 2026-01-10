@@ -1,17 +1,22 @@
 ---
-title: "Um Mês com Apple Vision Pro: A Experiência de Becca Farsace"
-date: "2025-11-26T20:36:03.223Z"
-category: "wearables"
+title: 'Um Mês com Apple Vision Pro: A Experiência de Becca Farsace'
+date: '2025-11-26T20:36:03.223Z'
+category: wearables
 tags:
   - Apple
   - Vision Pro
   - realidade mista
   - wearables
   - tecnologia
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/vision-pro-becca-farsace-plane-flight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A YouTuber Becca Farsace documentou a sua vida a substituir ecrãs por um Apple Vision Pro durante um mês. Descubra os desafios e as revelações desta experiên..."
-source_url: "https://9to5mac.com/2025/11/26/becca-farsace-had-apple-vision-pro-replace-her-other-screens-for-a-month"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/vision-pro-becca-farsace-plane-flight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A YouTuber Becca Farsace documentou a sua vida a substituir ecrãs por um Apple
+  Vision Pro durante um mês. Descubra os desafios e as revelações desta
+  experiên.
+source_url: >-
+  https://9to5mac.com/2025/11/26/becca-farsace-had-apple-vision-pro-replace-her-other-screens-for-a-month
 draft: false
 needs_review: false
 photographer_name: undefined

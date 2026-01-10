@@ -1,17 +1,22 @@
 ---
-title: "Relógios em Marte batem mais rápido: impacto na exploração"
-date: "2025-12-05T08:53:38.781Z"
-category: "ciencia"
+title: 'Relógios em Marte batem mais rápido: impacto na exploração'
+date: '2025-12-05T08:53:38.781Z'
+category: ciencia
 tags:
   - Marte
   - ciência
   - exploração espacial
   - tempo
   - relatividade
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Planet-Mars-Image-source-Digital-Vision.jpg"
-image_source: "rss"
-description: "Um estudo revela que os relógios em Marte são 477 microssegundos mais rápidos que na Terra. Entenda as implicações para a futura exploração marciana. A explo..."
-source_url: "https://www.notebookcheck.net/Mars-clocks-run-477-microseconds-faster-than-Earth-s-here-is-why-future-exploration-must-compensate-for-it.1178570.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Planet-Mars-Image-source-Digital-Vision.jpg
+image_source: rss
+description: >-
+  Um estudo revela que os relógios em Marte são 477 microssegundos mais rápidos
+  que na Terra. Entenda as implicações para a futura exploração marciana. A
+  explo.
+source_url: >-
+  https://www.notebookcheck.net/Mars-clocks-run-477-microseconds-faster-than-Earth-s-here-is-why-future-exploration-must-compensate-for-it.1178570.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

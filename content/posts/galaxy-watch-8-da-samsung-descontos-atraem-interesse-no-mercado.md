@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Watch 8 da Samsung: Descontos atraem interesse no mercado"
-date: "2025-11-27T10:43:58.820Z"
-category: "wearables"
+title: 'Galaxy Watch 8 da Samsung: Descontos atraem interesse no mercado'
+date: '2025-11-27T10:43:58.820Z'
+category: wearables
 tags:
   - Samsung
   - Galaxy Watch 8
   - smartwatch
   - wearables
   - promoções
-image: "https://m-cdn.phonearena.com/images/article/176130-two/Amazons-improved-Galaxy-Watch-8-Black-Friday-deal-lets-you-save-100-on-multiple-models.jpg"
-image_source: "rss"
-description: "Os descontos no Samsung Galaxy Watch 8 têm atraído atenção no mercado europeu. Descubra as características que tornam este smartwatch uma escolha popular. Fi..."
-source_url: "https://www.phonearena.com/news/samsung-galaxy-watch-8-amazon-improved-black-friday-deal_id176130"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176130-two/Amazons-improved-Galaxy-Watch-8-Black-Friday-deal-lets-you-save-100-on-multiple-models.jpg
+image_source: rss
+description: >-
+  Os descontos no Samsung Galaxy Watch 8 têm atraído atenção no mercado europeu.
+  Descubra as características que tornam este smartwatch uma escolha popular.
+  Fi.
+source_url: >-
+  https://www.phonearena.com/news/samsung-galaxy-watch-8-amazon-improved-black-friday-deal_id176130
 draft: false
 needs_review: false
 photographer_name: undefined

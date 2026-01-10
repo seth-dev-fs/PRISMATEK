@@ -1,17 +1,21 @@
 ---
-title: "Bruxelas decide aquisição da Wiz pela Google em fevereiro"
-date: "2026-01-08T18:23:12.123Z"
-category: "internet-apps"
+title: Bruxelas decide aquisição da Wiz pela Google em fevereiro
+date: '2026-01-08T18:23:12.123Z'
+category: internet-apps
 tags:
   - Google
   - Wiz
   - Comissão Europeia
   - aquisições
   - concorrência
-image: "https://cdn.mos.cms.futurecdn.net/uBTmt3C5RZ5g9vKXV3x5XK-1280-80.jpg"
-image_source: "rss"
-description: "A Comissão Europeia irá aprovar ou rejeitar a aquisição da Wiz pela Google no próximo mês de fevereiro. Um passo crucial para o futuro da segurança na cloud ..."
-source_url: "https://www.techradar.com/pro/eu-antitrust-regulators-to-decide-on-googles-wiz-acquisition"
+image: 'https://cdn.mos.cms.futurecdn.net/uBTmt3C5RZ5g9vKXV3x5XK-1280-80.jpg'
+image_source: rss
+description: >-
+  A Comissão Europeia irá aprovar ou rejeitar a aquisição da Wiz pela Google no
+  próximo mês de fevereiro. Um passo crucial para o futuro da segurança na
+  cloud.
+source_url: >-
+  https://www.techradar.com/pro/eu-antitrust-regulators-to-decide-on-googles-wiz-acquisition
 draft: false
 needs_review: false
 photographer_name: undefined

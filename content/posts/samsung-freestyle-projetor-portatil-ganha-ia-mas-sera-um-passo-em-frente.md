@@ -1,17 +1,22 @@
 ---
-title: "Samsung Freestyle+: Projetor portátil ganha IA, mas será um passo em frente?"
-date: "2026-01-07T14:20:48.469Z"
-category: "entretenimento-gaming"
+title: 'Samsung Freestyle+: Projetor portátil ganha IA, mas será um passo em frente?'
+date: '2026-01-07T14:20:48.469Z'
+category: entretenimento-gaming
 tags:
   - Samsung
   - Freestyle+
   - projetor portátil
   - CES 2026
   - inteligência artificial
-image: "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Freestyle-Plus-4-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung revela o Freestyle+, a nova geração do seu projetor portátil. Com design renovado e IA, será que mantém a essência do original? A Samsung surpreend..."
-source_url: "https://www.sammobile.com/opinion/new-freestyle-plus-did-samsung-forget-what-made-the-original-great"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Freestyle-Plus-4-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung revela o Freestyle+, a nova geração do seu projetor portátil. Com
+  design renovado e IA, será que mantém a essência do original? A Samsung
+  surpreend.
+source_url: >-
+  https://www.sammobile.com/opinion/new-freestyle-plus-did-samsung-forget-what-made-the-original-great
 draft: false
 needs_review: false
 photographer_name: undefined

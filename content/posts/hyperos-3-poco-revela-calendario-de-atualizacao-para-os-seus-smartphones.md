@@ -1,17 +1,22 @@
 ---
-title: "HyperOS 3: Poco revela calendário de atualização para os seus smartphones"
-date: "2025-11-27T18:51:26.611Z"
-category: "smartphones"
+title: 'HyperOS 3: Poco revela calendário de atualização para os seus smartphones'
+date: '2025-11-27T18:51:26.611Z'
+category: smartphones
 tags:
   - Poco
   - HyperOS 3
   - atualização
   - Android
   - smartphones
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/poco-hyperos-3-update-schedule/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Poco divulgou o plano de rollout do aguardado HyperOS 3 para os seus dispositivos. Descobre quando o teu smartphone Poco receberá esta nova atualização. Fi..."
-source_url: "https://www.gsmarena.com/heres_the_hyperos_3_rollout_timeline_for_eligible_poco_devices-news-70475.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/poco-hyperos-3-update-schedule/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Poco divulgou o plano de rollout do aguardado HyperOS 3 para os seus
+  dispositivos. Descobre quando o teu smartphone Poco receberá esta nova
+  atualização. Fi.
+source_url: >-
+  https://www.gsmarena.com/heres_the_hyperos_3_rollout_timeline_for_eligible_poco_devices-news-70475.php
 draft: false
 needs_review: false
 photographer_name: undefined

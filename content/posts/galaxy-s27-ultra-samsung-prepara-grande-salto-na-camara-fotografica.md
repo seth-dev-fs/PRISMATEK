@@ -1,17 +1,22 @@
 ---
-title: "Galaxy S27 Ultra: Samsung prepara grande salto na câmara fotográfica"
-date: "2026-01-05T08:28:11.461Z"
-category: "smartphones"
+title: 'Galaxy S27 Ultra: Samsung prepara grande salto na câmara fotográfica'
+date: '2026-01-05T08:28:11.461Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S27 Ultra
   - smartphones
   - câmara fotográfica
   - fotografia móvel
-image: "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-7-scaled.jpg"
-image_source: "rss"
-description: "Rumores indicam que o Galaxy S27 Ultra da Samsung trará uma renovação há muito aguardada na sua câmara. Conheça as expectativas para 2026. A Samsung, um peso..."
-source_url: "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-7-scaled.jpg
+image_source: rss
+description: >-
+  Rumores indicam que o Galaxy S27 Ultra da Samsung trará uma renovação há muito
+  aguardada na sua câmara. Conheça as expectativas para 2026. A Samsung, um
+  peso.
+source_url: >-
+  https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330
 draft: false
 needs_review: false
 photographer_name: undefined

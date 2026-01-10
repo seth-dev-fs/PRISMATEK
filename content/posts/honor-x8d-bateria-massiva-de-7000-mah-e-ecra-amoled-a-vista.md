@@ -1,17 +1,22 @@
 ---
-title: "Honor X8d: Bateria massiva de 7.000 mAh e ecrã AMOLED à vista"
-date: "2025-12-12T03:21:14.370Z"
-category: "smartphones"
+title: 'Honor X8d: Bateria massiva de 7.000 mAh e ecrã AMOLED à vista'
+date: '2025-12-12T03:21:14.370Z'
+category: smartphones
 tags:
   - Honor
   - Honor X8d
   - smartphones
   - bateria
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/honor-x8d-official/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Honor X8d foi revelado e promete impressionar com uma bateria de 7.000 mAh e ecrã AMOLED. Conheça as especificações deste novo smartphone 4G que chega ao m..."
-source_url: "https://www.gsmarena.com/honor_x8d_is_official_with_a_big_battery_and_a_4gonly_chipset-news-70672.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/honor-x8d-official/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Honor X8d foi revelado e promete impressionar com uma bateria de 7.000 mAh e
+  ecrã AMOLED. Conheça as especificações deste novo smartphone 4G que chega ao
+  m.
+source_url: >-
+  https://www.gsmarena.com/honor_x8d_is_official_with_a_big_battery_and_a_4gonly_chipset-news-70672.php
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Revolução energética: Europa terá reactor nuclear para a IA"
-date: "2025-12-06T10:19:09.246Z"
-category: "ai-futuro"
+title: 'Revolução energética: Europa terá reactor nuclear para a IA'
+date: '2025-12-06T10:19:09.246Z'
+category: ai-futuro
 tags:
   - energia nuclear
   - inteligência artificial
   - centros de dados
   - sustentabilidade
   - tecnologia
-image: "https://i.blogs.es/4514c8/ps---plantilla-portadas-xtk/840_560.png"
-image_source: "rss"
-description: "A startup francesa Stellaria e a Equinix vão revolucionar a energia da IA na Europa. O primeiro reactor nuclear de neutrões rápidos chega para alimentar cent..."
-source_url: "https://www.xataka.com/energia/primer-reactor-nuclear-neutrones-rapidos-mundo-alimentara-centros-datos-ia-europa"
+image: 'https://i.blogs.es/4514c8/ps---plantilla-portadas-xtk/840_560.png'
+image_source: rss
+description: >-
+  A startup francesa Stellaria e a Equinix vão revolucionar a energia da IA na
+  Europa. O primeiro reactor nuclear de neutrões rápidos chega para alimentar
+  cent.
+source_url: >-
+  https://www.xataka.com/energia/primer-reactor-nuclear-neutrones-rapidos-mundo-alimentara-centros-datos-ia-europa
 draft: false
 needs_review: false
 photographer_name: undefined

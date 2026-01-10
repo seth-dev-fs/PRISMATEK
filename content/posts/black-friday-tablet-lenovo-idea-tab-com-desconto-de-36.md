@@ -10,7 +10,7 @@ tags:
   - Desconto
 image: "https://m-cdn.phonearena.com/images/article/176005-two/At-36-percent-off-this-affordable-Lenovo-tablet-is-a-Black-Friday-must-buy.jpg"
 image_source: "https://m-cdn.phonearena.com/images/article/176005-two/At-36-percent-off-this-affordable-Lenovo-tablet-is-a-Black-Friday-must-buy.jpg"
-description: "Descubra o Lenovo Idea Tab, um tablet Android de gama média agora com 36% de desconto. Uma oportunidade imperdível da Black Friday para um dispositivo versát..."
+description: "Descubra o Lenovo Idea Tab, um tablet Android de gama média agora com 36% de desconto. Uma oportunidade imperdível da Black Friday para um dispositivo versát."
 source_url: "https://www.phonearena.com/news/lenovo-idea-tab-black-friday-2025-deal-must-buy-huge-discount_id176005"
 draft: false
 needs_review: false

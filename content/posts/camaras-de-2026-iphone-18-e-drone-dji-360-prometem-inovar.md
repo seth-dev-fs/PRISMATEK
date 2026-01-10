@@ -1,17 +1,21 @@
 ---
-title: "Câmaras de 2026: iPhone 18 e drone DJI 360 prometem inovar"
-date: "2026-01-01T10:20:25.458Z"
-category: "mobilidade"
+title: 'Câmaras de 2026: iPhone 18 e drone DJI 360 prometem inovar'
+date: '2026-01-01T10:20:25.458Z'
+category: mobilidade
 tags:
   - câmaras
   - tecnologia
   - iPhone 18
   - DJI
   - fotografia móvel
-image: "https://cdn.mos.cms.futurecdn.net/2JX7MFxGxBLcmUsN9uWU9o-1280-80.jpg"
-image_source: "rss"
-description: "As inovações no mundo da fotografia não param. Descobre o que esperar das câmaras de 2026, do iPhone 18 ao drone DJI 360, no mercado europeu. O ano de 2026 p..."
-source_url: "https://www.techradar.com/cameras/the-12-most-exciting-cameras-to-expect-in-2026-from-djis-first-360-drone-to-the-iphone-18"
+image: 'https://cdn.mos.cms.futurecdn.net/2JX7MFxGxBLcmUsN9uWU9o-1280-80.jpg'
+image_source: rss
+description: >-
+  As inovações no mundo da fotografia não param. Descobre o que esperar das
+  câmaras de 2026, do iPhone 18 ao drone DJI 360, no mercado europeu. O ano de
+  2026 p.
+source_url: >-
+  https://www.techradar.com/cameras/the-12-most-exciting-cameras-to-expect-in-2026-from-djis-first-360-drone-to-the-iphone-18
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Comandos Legion Go 2 chegam com melhorias e compatibilidade"
-date: "2025-12-08T01:17:08.844Z"
-category: "gaming"
+title: Comandos Legion Go 2 chegam com melhorias e compatibilidade
+date: '2025-12-08T01:17:08.844Z'
+category: gaming
 tags:
   - Lenovo
   - Legion Go
   - comandos
   - gaming
   - acessórios
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Legion-Go-2-Truestrike-controllers-featured.jpg"
-image_source: "rss"
-description: "Os novos comandos Truestrike do Lenovo Legion Go 2 já estão disponíveis. Compatíveis com o modelo original, trazem ergonomia aprimorada e novas funcionalidad..."
-source_url: "https://www.notebookcheck.net/Lenovo-Legion-Go-2-Controllers-now-available-to-buy-on-Amazon-starting-at-59-99.1180226.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Legion-Go-2-Truestrike-controllers-featured.jpg
+image_source: rss
+description: >-
+  Os novos comandos Truestrike do Lenovo Legion Go 2 já estão disponíveis.
+  Compatíveis com o modelo original, trazem ergonomia aprimorada e novas
+  funcionalidad.
+source_url: >-
+  https://www.notebookcheck.net/Lenovo-Legion-Go-2-Controllers-now-available-to-buy-on-Amazon-starting-at-59-99.1180226.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

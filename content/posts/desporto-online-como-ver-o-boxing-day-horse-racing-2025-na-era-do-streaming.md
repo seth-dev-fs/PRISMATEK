@@ -1,17 +1,21 @@
 ---
-title: "Desporto Online: Como ver o Boxing Day Horse Racing 2025 na era do streaming"
-date: "2025-12-26T08:24:35.232Z"
-category: "entretenimento-gaming"
+title: 'Desporto Online: Como ver o Boxing Day Horse Racing 2025 na era do streaming'
+date: '2025-12-26T08:24:35.232Z'
+category: entretenimento-gaming
 tags:
   - streaming
   - desporto online
   - ITVX
   - Boxing Day
   - televisão digital
-image: "https://cdn.mos.cms.futurecdn.net/dunxJHTUnKLNJ5jb8g7Rr8-1280-80.jpg"
-image_source: "rss"
-description: "Exploramos os desafios de aceder a eventos desportivos internacionais como o Boxing Day Horse Racing 2025 via streaming. Um guia para a realidade da televisã..."
-source_url: "https://www.techradar.com/how-to-watch/horse-racing/boxing-day-horse-racing-2025-king-george-vi-chase-free-itv-racing"
+image: 'https://cdn.mos.cms.futurecdn.net/dunxJHTUnKLNJ5jb8g7Rr8-1280-80.jpg'
+image_source: rss
+description: >-
+  Exploramos os desafios de aceder a eventos desportivos internacionais como o
+  Boxing Day Horse Racing 2025 via streaming. Um guia para a realidade da
+  televisã.
+source_url: >-
+  https://www.techradar.com/how-to-watch/horse-racing/boxing-day-horse-racing-2025-king-george-vi-chase-free-itv-racing
 draft: false
 needs_review: false
 photographer_name: undefined

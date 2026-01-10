@@ -1,17 +1,22 @@
 ---
-title: "Switch 2: Cartões microSD Express Essenciais e Ultra-Rápidos"
-date: "2025-11-27T16:50:47.848Z"
-category: "gaming"
+title: 'Switch 2: Cartões microSD Express Essenciais e Ultra-Rápidos'
+date: '2025-11-27T16:50:47.848Z'
+category: gaming
 tags:
   - Nintendo Switch 2
   - microSD Express
   - gaming
   - armazenamento
   - SanDisk
-image: "https://s.yimg.com/ny/api/res/1.2/V_F1qvlhloPob.F33Yqacw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/2f37ad30-c6df-11f0-bb5c-635e3b7e2bf3"
-image_source: "rss"
-description: "Com a iminente chegada da Nintendo Switch 2, os cartões microSD Express tornam-se cruciais para a velocidade de carregamento e transferência. Saiba tudo sobr..."
-source_url: "https://www.engadget.com/deals/black-friday-deals-include-switch-2-compatible-microsd-express-cards-for-record-low-prices-151331548.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/V_F1qvlhloPob.F33Yqacw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/2f37ad30-c6df-11f0-bb5c-635e3b7e2bf3
+image_source: rss
+description: >-
+  Com a iminente chegada da Nintendo Switch 2, os cartões microSD Express
+  tornam-se cruciais para a velocidade de carregamento e transferência. Saiba
+  tudo sobr.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-deals-include-switch-2-compatible-microsd-express-cards-for-record-low-prices-151331548.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

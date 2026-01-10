@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Books Snapdragon: Melhor Desempenho Gaming na Samsung"
-date: "2025-11-24T08:50:51.822Z"
-category: "computadores"
+title: 'Galaxy Books Snapdragon: Melhor Desempenho Gaming na Samsung'
+date: '2025-11-24T08:50:51.822Z'
+category: computadores
 tags:
   - Samsung
   - Galaxy Book
   - Snapdragon X
   - Qualcomm
   - Gaming
-image: "https://www.sammobile.com/wp-content/uploads/2024/06/Samsung-Galaxy-Book-4-Edge-Pro-With-Galaxy-S24-Ultra.jpg"
-image_source: "https://www.sammobile.com/wp-content/uploads/2024/06/Samsung-Galaxy-Book-4-Edge-Pro-With-Galaxy-S24-Ultra.jpg"
-description: "A Samsung aposta nos processadores Snapdragon X da Qualcomm para os seus Galaxy Books, prometendo melhorias significativas no desempenho de gaming para os se..."
-source_url: "https://www.sammobile.com/news/galaxy-books-snapdragon-chips-better-gaming"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/06/Samsung-Galaxy-Book-4-Edge-Pro-With-Galaxy-S24-Ultra.jpg
+image_source: >-
+  https://www.sammobile.com/wp-content/uploads/2024/06/Samsung-Galaxy-Book-4-Edge-Pro-With-Galaxy-S24-Ultra.jpg
+description: >-
+  A Samsung aposta nos processadores Snapdragon X da Qualcomm para os seus
+  Galaxy Books, prometendo melhorias significativas no desempenho de gaming para
+  os se.
+source_url: 'https://www.sammobile.com/news/galaxy-books-snapdragon-chips-better-gaming'
 draft: false
 needs_review: false
 ---

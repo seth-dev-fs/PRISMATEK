@@ -1,17 +1,23 @@
 ---
-title: "Pony.ai triplica frota global de robotáxis até ao final de 2026"
-date: "2025-11-25T16:57:54.174Z"
-category: "mobilidade"
+title: Pony.ai triplica frota global de robotáxis até ao final de 2026
+date: '2025-11-25T16:57:54.174Z'
+category: mobilidade
 tags:
   - Pony.ai
   - robotáxis
   - mobilidade autónoma
   - veículos elétricos
   - inteligência artificial
-image: "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800"
-image_source: "https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800"
-description: "A empresa chinesa Pony.ai ambiciona uma forte expansão, planeando ter 3.000 robotáxis em circulação globalmente até ao final de 2026. Uma revolução na mobili..."
-source_url: "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800
+image_source: >-
+  https://techcrunch.com/wp-content/uploads/2025/11/pony.ai-robotaxi.jpg?resize=1200,800
+description: >-
+  A empresa chinesa Pony.ai ambiciona uma forte expansão, planeando ter 3.000
+  robotáxis em circulação globalmente até ao final de 2026. Uma revolução na
+  mobili.
+source_url: >-
+  https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,22 @@
 ---
-title: "Samsung testa ecrãs dobráveis com basquetebol para provar robustez"
-date: "2026-01-04T10:19:25.597Z"
-category: "smartphones"
+title: Samsung testa ecrãs dobráveis com basquetebol para provar robustez
+date: '2026-01-04T10:19:25.597Z'
+category: smartphones
 tags:
   - Samsung
   - ecrãs dobráveis
   - OLED
   - durabilidade
   - Galaxy Z
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Folding-Galaxy-Z-TriFold-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung eleva a aposta na durabilidade dos seus ecrãs OLED dobráveis. Em exibição no CES 2026, a empresa demonstra a resistência dos Galaxy Z atirando-lhes..."
-source_url: "https://www.sammobile.com/news/samsung-is-throwing-basketballs-at-foldable-oled-displays-to-prove-their-durability"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Folding-Galaxy-Z-TriFold-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung eleva a aposta na durabilidade dos seus ecrãs OLED dobráveis. Em
+  exibição no CES 2026, a empresa demonstra a resistência dos Galaxy Z
+  atirando-lhes.
+source_url: >-
+  https://www.sammobile.com/news/samsung-is-throwing-basketballs-at-foldable-oled-displays-to-prove-their-durability
 draft: false
 needs_review: false
 photographer_name: undefined

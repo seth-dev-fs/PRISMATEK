@@ -1,17 +1,22 @@
 ---
-title: "iPhone Air 2 de 2027: Samsung pode torná-lo mais fino e duradouro"
-date: "2026-01-09T10:19:19.456Z"
-category: "smartphones"
+title: 'iPhone Air 2 de 2027: Samsung pode torná-lo mais fino e duradouro'
+date: '2026-01-09T10:19:19.456Z'
+category: smartphones
 tags:
   - Apple
   - iPhone Air 2
   - Samsung
   - OLED
   - smartphones
-image: "https://www.sammobile.com/wp-content/uploads/2025/11/Apple-iPhone-Air-Thinness-1200x675.jpg"
-image_source: "rss"
-description: "O futuro iPhone Air 2, esperado para 2027, promete ser mais fino e ter maior autonomia. A tecnologia OLED da Samsung é a chave para estas melhorias. A Apple ..."
-source_url: "https://www.sammobile.com/news/samsung-oled-tech-iphone-air-2-thinner-last-longer"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/11/Apple-iPhone-Air-Thinness-1200x675.jpg
+image_source: rss
+description: >-
+  O futuro iPhone Air 2, esperado para 2027, promete ser mais fino e ter maior
+  autonomia. A tecnologia OLED da Samsung é a chave para estas melhorias. A
+  Apple.
+source_url: >-
+  https://www.sammobile.com/news/samsung-oled-tech-iphone-air-2-thinner-last-longer
 draft: false
 needs_review: false
 photographer_name: undefined

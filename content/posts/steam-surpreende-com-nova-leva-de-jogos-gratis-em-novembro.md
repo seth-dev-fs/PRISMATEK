@@ -1,17 +1,22 @@
 ---
-title: "Steam surpreende com nova leva de jogos grátis em novembro"
-date: "2025-11-30T06:54:40.423Z"
-category: "gaming"
+title: Steam surpreende com nova leva de jogos grátis em novembro
+date: '2025-11-30T06:54:40.423Z'
+category: gaming
 tags:
   - Steam
   - jogos grátis
   - gaming
   - PC
   - novidades
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/NEw-free-games-on-Steam-end-of-November-2025.jpg"
-image_source: "rss"
-description: "A plataforma Steam volta a mimar os jogadores com uma nova seleção de jogos grátis, mesmo a tempo do fim de novembro. Descobre os títulos que podes já adicio..."
-source_url: "https://www.notebookcheck.net/Steam-adds-another-round-of-free-games-just-before-November-2025-wraps-up.1173943.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/NEw-free-games-on-Steam-end-of-November-2025.jpg
+image_source: rss
+description: >-
+  A plataforma Steam volta a mimar os jogadores com uma nova seleção de jogos
+  grátis, mesmo a tempo do fim de novembro. Descobre os títulos que podes já
+  adicio.
+source_url: >-
+  https://www.notebookcheck.net/Steam-adds-another-round-of-free-games-just-before-November-2025-wraps-up.1173943.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

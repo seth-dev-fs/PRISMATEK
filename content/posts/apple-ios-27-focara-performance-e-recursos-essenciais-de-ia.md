@@ -11,7 +11,7 @@ tags:
   - Desempenho
 image: "https://fdn.gsmarena.com/imgroot/news/25/11/ios-27-update-features-gurman/-952x498w6/gsmarena_000.jpg"
 image_source: "https://fdn.gsmarena.com/imgroot/news/25/11/ios-27-update-features-gurman/-952x498w6/gsmarena_000.jpg"
-description: "Mark Gurman revela que o iOS 27 priorizará a otimização de performance, correções de bugs e a introdução de novas funcionalidades de IA. A estabilidade do si..."
+description: "Mark Gurman revela que o iOS 27 priorizará a otimização de performance, correções de bugs e a introdução de novas funcionalidades de IA. A estabilidade do si."
 source_url: "https://www.bloomberg.com/news/technology"
 draft: false
 needs_review: false

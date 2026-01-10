@@ -1,17 +1,21 @@
 ---
-title: "Breville Barista Express: Excelência no Café à Distância de um Botão"
-date: "2025-12-03T20:48:14.887Z"
-category: "home"
+title: 'Breville Barista Express: Excelência no Café à Distância de um Botão'
+date: '2025-12-03T20:48:14.887Z'
+category: home
 tags:
   - Breville
   - máquina de café
   - café espresso
   - eletrodomésticos
   - tecnologia para casa
-image: "https://cdn.mos.cms.futurecdn.net/5GxoituvGohCQSE7KkR7yU-1280-80.jpg"
-image_source: "rss"
-description: "Descubra porque a máquina de café Breville Barista Express continua a ser uma das favoritas dos entusiastas. Tecnologia avançada para o café perfeito, agora ..."
-source_url: "https://www.techradar.com/home/coffee-machines/the-fantastic-breville-barista-express-is-still-at-a-record-low-price-after-black-friday"
+image: 'https://cdn.mos.cms.futurecdn.net/5GxoituvGohCQSE7KkR7yU-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra porque a máquina de café Breville Barista Express continua a ser uma
+  das favoritas dos entusiastas. Tecnologia avançada para o café perfeito,
+  agora.
+source_url: >-
+  https://www.techradar.com/home/coffee-machines/the-fantastic-breville-barista-express-is-still-at-a-record-low-price-after-black-friday
 draft: false
 needs_review: true
 photographer_name: undefined

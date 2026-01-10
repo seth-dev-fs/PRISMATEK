@@ -1,17 +1,21 @@
 ---
-title: "Paciente da Neuralink Inova e Controla Webcam com o Pensamento"
-date: "2025-11-30T14:36:40.161Z"
-category: "ai-futuro"
+title: Paciente da Neuralink Inova e Controla Webcam com o Pensamento
+date: '2025-11-30T14:36:40.161Z'
+category: ai-futuro
 tags:
   - Neuralink
   - BCI
   - ALS
   - tecnologia
   - futuro
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Insta360-Link-2-X-Brad-Smith-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-image_source: "rss"
-description: "Brad Smith, paciente da Neuralink com ALS, surpreende ao controlar uma webcam apenas com o pensamento. Descubra como esta inovação está a redefinir a interaç..."
-source_url: "https://www.theverge.com/report/829120/neuralink-bci-webcam"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Insta360-Link-2-X-Brad-Smith-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+image_source: rss
+description: >-
+  Brad Smith, paciente da Neuralink com ALS, surpreende ao controlar uma webcam
+  apenas com o pensamento. Descubra como esta inovação está a redefinir a
+  interaç.
+source_url: 'https://www.theverge.com/report/829120/neuralink-bci-webcam'
 draft: false
 needs_review: false
 photographer_name: undefined

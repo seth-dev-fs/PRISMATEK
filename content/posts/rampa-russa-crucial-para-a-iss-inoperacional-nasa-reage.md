@@ -1,7 +1,7 @@
 ---
-title: "Rampa russa crucial para a ISS inoperacional: NASA reage"
-date: "2025-12-12T10:20:38.749Z"
-category: "ciencia"
+title: 'Rampa russa crucial para a ISS inoperacional: NASA reage'
+date: '2025-12-12T10:20:38.749Z'
+category: ciencia
 tags:
   - ISS
   - Roscosmos
@@ -9,10 +9,14 @@ tags:
   - Baikonur
   - espaço
   - Soyuz
-image: "https://i.blogs.es/d9ec7d/soyuz-ms-28/840_560.jpeg"
-image_source: "rss"
-description: "A única rampa russa apta a enviar missões tripuladas e de carga para a ISS está danificada. A NASA antecipa voos Dragon para estabilizar a estação. A Estação..."
-source_url: "https://www.xataka.com/espacio/unica-puerta-acceso-rusa-a-iss-continua-fuera-servicio-eso-esta-obligando-a-nasa-a-tomar-medidas"
+image: 'https://i.blogs.es/d9ec7d/soyuz-ms-28/840_560.jpeg'
+image_source: rss
+description: >-
+  A única rampa russa apta a enviar missões tripuladas e de carga para a ISS
+  está danificada. A NASA antecipa voos Dragon para estabilizar a estação. A
+  Estação.
+source_url: >-
+  https://www.xataka.com/espacio/unica-puerta-acceso-rusa-a-iss-continua-fuera-servicio-eso-esta-obligando-a-nasa-a-tomar-medidas
 draft: false
 needs_review: false
 photographer_name: undefined

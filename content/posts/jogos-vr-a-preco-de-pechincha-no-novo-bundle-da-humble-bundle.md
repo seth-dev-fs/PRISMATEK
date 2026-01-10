@@ -1,17 +1,22 @@
 ---
-title: "Jogos VR a preço de pechincha no novo bundle da Humble Bundle"
-date: "2025-12-06T06:23:49.548Z"
-category: "gaming"
+title: Jogos VR a preço de pechincha no novo bundle da Humble Bundle
+date: '2025-12-06T06:23:49.548Z'
+category: gaming
 tags:
   - gaming
   - VR
   - Humble Bundle
   - jogos
   - realidade virtual
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-Upload-VR-games-bundle.jpg"
-image_source: "rss"
-description: "Descobre a nova coleção de jogos de realidade virtual da Humble Bundle. Um pacote imperdível com 9 títulos aclamados por um preço irrisório. Não percas esta ..."
-source_url: "https://www.notebookcheck.net/219-worth-of-cross-genre-VR-games-drop-to-17-in-new-Humble-Bundle-game-deal.1178971.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-Upload-VR-games-bundle.jpg
+image_source: rss
+description: >-
+  Descobre a nova coleção de jogos de realidade virtual da Humble Bundle. Um
+  pacote imperdível com 9 títulos aclamados por um preço irrisório. Não percas
+  esta.
+source_url: >-
+  https://www.notebookcheck.net/219-worth-of-cross-genre-VR-games-drop-to-17-in-new-Humble-Bundle-game-deal.1178971.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

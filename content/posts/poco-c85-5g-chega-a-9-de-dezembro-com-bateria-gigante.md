@@ -1,17 +1,22 @@
 ---
-title: "Poco C85 5G chega a 9 de dezembro com bateria gigante"
-date: "2025-12-04T04:53:50.293Z"
-category: "smartphones"
+title: Poco C85 5G chega a 9 de dezembro com bateria gigante
+date: '2025-12-04T04:53:50.293Z'
+category: smartphones
 tags:
   - Poco
   - smartphones
   - Poco C85 5G
   - bateria
   - telemóveis
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/poco-c85-5g-launch-date/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Poco C85 5G, a mais recente aposta da marca, tem data de lançamento marcada para 9 de dezembro. Descubra a sua impressionante bateria de 6.000 mAh e carreg..."
-source_url: "https://www.gsmarena.com/poco_c85_5g_launch_date_is_out_battery_and_charging_specs_too-news-70558.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/poco-c85-5g-launch-date/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Poco C85 5G, a mais recente aposta da marca, tem data de lançamento marcada
+  para 9 de dezembro. Descubra a sua impressionante bateria de 6.000 mAh e
+  carreg.
+source_url: >-
+  https://www.gsmarena.com/poco_c85_5g_launch_date_is_out_battery_and_charging_specs_too-news-70558.php
 draft: false
 needs_review: false
 photographer_name: undefined

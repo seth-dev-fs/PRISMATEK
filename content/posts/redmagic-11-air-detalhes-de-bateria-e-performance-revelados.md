@@ -1,17 +1,23 @@
 ---
-title: "RedMagic 11 Air: Detalhes de bateria e performance revelados"
-date: "2025-11-24T18:55:05.451Z"
-category: "smartphones"
+title: 'RedMagic 11 Air: Detalhes de bateria e performance revelados'
+date: '2025-11-24T18:55:05.451Z'
+category: smartphones
 tags:
   - RedMagic 11 Air
   - smartphones
   - gaming
   - Nubia
   - Android
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmagic-11-air-leaks-kv.jpg"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmagic-11-air-leaks-kv.jpg"
-description: "O próximo smartphone gaming RedMagic 11 Air da Nubia promete revolucionar o mercado com grandes melhorias na bateria e performance. Descubra os primeiros det..."
-source_url: "https://www.notebookcheck.net/RedMagic-11-Air-rears-its-head-before-release-with-major-battery-and-performance-upgrades-detailed.1169522.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmagic-11-air-leaks-kv.jpg
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/redmagic-11-air-leaks-kv.jpg
+description: >-
+  O próximo smartphone gaming RedMagic 11 Air da Nubia promete revolucionar o
+  mercado com grandes melhorias na bateria e performance. Descubra os primeiros
+  det.
+source_url: >-
+  https://www.notebookcheck.net/RedMagic-11-Air-rears-its-head-before-release-with-major-battery-and-performance-upgrades-detailed.1169522.0.html
 draft: false
 needs_review: false
 ---

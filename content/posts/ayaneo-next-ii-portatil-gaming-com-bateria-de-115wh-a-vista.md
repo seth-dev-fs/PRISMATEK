@@ -1,17 +1,22 @@
 ---
-title: "Ayaneo Next II: Portátil gaming com bateria de 115Wh à vista"
-date: "2025-11-29T20:40:06.244Z"
-category: "gaming"
+title: 'Ayaneo Next II: Portátil gaming com bateria de 115Wh à vista'
+date: '2025-11-29T20:40:06.244Z'
+category: gaming
 tags:
   - Ayaneo
   - gaming
   - PC portátil
   - Windows
   - handheld
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AYANEO-Next-II-featured.jpg"
-image_source: "rss"
-description: "O Ayaneo Next II, novo portátil gaming com Windows, promete revolucionar o mercado com uma bateria massiva de 115Wh e refrigeração avançada. Conhece os detal..."
-source_url: "https://www.notebookcheck.net/Ayaneo-Next-II-latest-livestream-reveals-115Wh-battery-8-way-D-pad-dual-fans-and-more.1173721.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AYANEO-Next-II-featured.jpg
+image_source: rss
+description: >-
+  O Ayaneo Next II, novo portátil gaming com Windows, promete revolucionar o
+  mercado com uma bateria massiva de 115Wh e refrigeração avançada. Conhece os
+  detal.
+source_url: >-
+  https://www.notebookcheck.net/Ayaneo-Next-II-latest-livestream-reveals-115Wh-battery-8-way-D-pad-dual-fans-and-more.1173721.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

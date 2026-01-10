@@ -1,17 +1,20 @@
 ---
-title: "Apps Linux Indispensáveis em 2025: A Escolha de um Especialista"
-date: "2025-12-31T08:26:45.187Z"
-category: "computadores"
+title: 'Apps Linux Indispensáveis em 2025: A Escolha de um Especialista'
+date: '2025-12-31T08:26:45.187Z'
+category: computadores
 tags:
   - Linux
   - aplicações
   - software livre
   - produtividade
   - open source
-image: "https://itsfoss.com/content/images/2025/12/useful-linux-apps-2025-banner.png"
-image_source: "rss"
-description: "Descubra as aplicações Linux de código aberto que um especialista considera essenciais para otimizar o fluxo de trabalho em 2025. Ferramentas que fazem a dif..."
-source_url: "https://itsfoss.com/news/my-choice-linux-apps-2025"
+image: 'https://itsfoss.com/content/images/2025/12/useful-linux-apps-2025-banner.png'
+image_source: rss
+description: >-
+  Descubra as aplicações Linux de código aberto que um especialista considera
+  essenciais para otimizar o fluxo de trabalho em 2025. Ferramentas que fazem a
+  dif.
+source_url: 'https://itsfoss.com/news/my-choice-linux-apps-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

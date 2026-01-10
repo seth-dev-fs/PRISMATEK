@@ -1,17 +1,21 @@
 ---
-title: "AirPods Max: Descontos de Black Friday tornam luxo Apple mais acessível"
-date: "2025-11-28T16:48:25.789Z"
-category: "audio"
+title: 'AirPods Max: Descontos de Black Friday tornam luxo Apple mais acessível'
+date: '2025-11-28T16:48:25.789Z'
+category: audio
 tags:
   - Apple
   - AirPods Max
   - auscultadores
   - áudio premium
   - Black Friday
-image: "https://www.androidauthority.com/wp-content/uploads/2020/12/Apple-AirPods-Max-06-scaled.jpg"
-image_source: "rss"
-description: "Os AirPods Max da Apple, conhecidos pela qualidade premium, voltam a estar em promoção. Descubra como aproveitar os descontos em retalhistas europeus e o que..."
-source_url: "https://www.androidauthority.com/airpods-max-black-friday-3620592"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2020/12/Apple-AirPods-Max-06-scaled.jpg
+image_source: rss
+description: >-
+  Os AirPods Max da Apple, conhecidos pela qualidade premium, voltam a estar em
+  promoção. Descubra como aproveitar os descontos em retalhistas europeus e o
+  que.
+source_url: 'https://www.androidauthority.com/airpods-max-black-friday-3620592'
 draft: false
 needs_review: false
 photographer_name: undefined

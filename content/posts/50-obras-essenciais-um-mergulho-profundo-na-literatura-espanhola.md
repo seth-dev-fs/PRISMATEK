@@ -1,17 +1,20 @@
 ---
-title: "50 Obras Essenciais: Um Mergulho Profundo na Literatura Espanhola"
-date: "2025-12-02T13:51:45.450Z"
-category: "home"
+title: '50 Obras Essenciais: Um Mergulho Profundo na Literatura Espanhola'
+date: '2025-12-02T13:51:45.450Z'
+category: home
 tags:
   - literatura
   - espanha
   - livros
   - clássicos
   - história
-image: "https://i.blogs.es/858c1c/patrick-tomasso-oaqk7qqnh_c-unsplash/840_560.jpeg"
-image_source: "rss"
-description: "Descubra a riqueza da literatura espanhola, da Idade de Ouro aos autores contemporâneos, com 50 obras que marcaram gerações e a cultura hispânica. A literatu..."
-source_url: "https://www.xataka.com/listas/mejores-libros-espanoles-historia"
+image: 'https://i.blogs.es/858c1c/patrick-tomasso-oaqk7qqnh_c-unsplash/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra a riqueza da literatura espanhola, da Idade de Ouro aos autores
+  contemporâneos, com 50 obras que marcaram gerações e a cultura hispânica. A
+  literatu.
+source_url: 'https://www.xataka.com/listas/mejores-libros-espanoles-historia'
 draft: false
 needs_review: true
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Qubits de Érbio em Redes de Fibra: Um Salto para a Internet Quântica"
-date: "2025-12-04T20:44:55.040Z"
-category: "ai-futuro"
+title: 'Qubits de Érbio em Redes de Fibra: Um Salto para a Internet Quântica'
+date: '2025-12-04T20:44:55.040Z'
+category: ai-futuro
 tags:
   - qubits
   - érbio
   - computação quântica
   - redes de fibra
   - telecomunicações
-image: "https://cdn.mos.cms.futurecdn.net/QtDDg3VzU4W5UYp7kXupuh-1280-80.png"
-image_source: "rss"
-description: "Cientistas criam qubits de érbio que se ligam diretamente às redes de fibra existentes. Esta inovação é um passo crucial para sistemas quânticos escaláveis e..."
-source_url: "https://www.techradar.com/pro/scientists-engineer-erbium-molecular-qubits-that-plug-directly-into-existing-fiber-networks-promising-telecom-ready-quantum-systems"
+image: 'https://cdn.mos.cms.futurecdn.net/QtDDg3VzU4W5UYp7kXupuh-1280-80.png'
+image_source: rss
+description: >-
+  Cientistas criam qubits de érbio que se ligam diretamente às redes de fibra
+  existentes. Esta inovação é um passo crucial para sistemas quânticos
+  escaláveis e.
+source_url: >-
+  https://www.techradar.com/pro/scientists-engineer-erbium-molecular-qubits-that-plug-directly-into-existing-fiber-networks-promising-telecom-ready-quantum-systems
 draft: false
 needs_review: false
 photographer_name: undefined

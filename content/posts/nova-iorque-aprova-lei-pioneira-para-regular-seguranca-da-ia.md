@@ -1,17 +1,22 @@
 ---
-title: "Nova Iorque aprova lei pioneira para regular segurança da IA"
-date: "2025-12-20T18:21:36.893Z"
-category: "ai-futuro"
+title: Nova Iorque aprova lei pioneira para regular segurança da IA
+date: '2025-12-20T18:21:36.893Z'
+category: ai-futuro
 tags:
   - IA
   - inteligência artificial
   - regulação
   - segurança digital
   - Nova Iorque
-image: "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243384061.jpg?resize=1200,800"
-image_source: "rss"
-description: "A governadora de Nova Iorque assinou a RAISE Act, uma legislação pioneira que obriga programadores de IA a revelar protocolos de segurança e incidentes. Um p..."
-source_url: "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243384061.jpg?resize=1200,800
+image_source: rss
+description: >-
+  A governadora de Nova Iorque assinou a RAISE Act, uma legislação pioneira que
+  obriga programadores de IA a revelar protocolos de segurança e incidentes. Um
+  p.
+source_url: >-
+  https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety
 draft: false
 needs_review: false
 photographer_name: undefined

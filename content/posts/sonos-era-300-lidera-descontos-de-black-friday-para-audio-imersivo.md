@@ -1,17 +1,23 @@
 ---
-title: "Sonos Era 300 lidera descontos de Black Friday para áudio imersivo"
-date: "2025-11-24T13:48:48.746Z"
-category: "audio"
+title: Sonos Era 300 lidera descontos de Black Friday para áudio imersivo
+date: '2025-11-24T13:48:48.746Z'
+category: audio
 tags:
   - Sonos
   - áudio
   - altifalante
   - Black Friday
   - Dolby Atmos
-image: "https://s.yimg.com/ny/api/res/1.2/LY87GDZrEHkTaQTlF85CPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/45218990-c7b1-11f0-b7f9-7c7bb95f082f"
-image_source: "https://s.yimg.com/ny/api/res/1.2/LY87GDZrEHkTaQTlF85CPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/45218990-c7b1-11f0-b7f9-7c7bb95f082f"
-description: "Aproveite a Black Friday para transformar o seu sistema de áudio. O altifalante Sonos Era 300 destaca-se com áudio espacial e funcionalidades inteligentes. S..."
-source_url: "https://www.engadget.com/deals/sonos-black-friday-deals-include-the-era-300-speaker-for-100-off-120048569.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/LY87GDZrEHkTaQTlF85CPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/45218990-c7b1-11f0-b7f9-7c7bb95f082f
+image_source: >-
+  https://s.yimg.com/ny/api/res/1.2/LY87GDZrEHkTaQTlF85CPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/45218990-c7b1-11f0-b7f9-7c7bb95f082f
+description: >-
+  Aproveite a Black Friday para transformar o seu sistema de áudio. O
+  altifalante Sonos Era 300 destaca-se com áudio espacial e funcionalidades
+  inteligentes. S.
+source_url: >-
+  https://www.engadget.com/deals/sonos-black-friday-deals-include-the-era-300-speaker-for-100-off-120048569.html?src=rss
 draft: false
 needs_review: false
 ---

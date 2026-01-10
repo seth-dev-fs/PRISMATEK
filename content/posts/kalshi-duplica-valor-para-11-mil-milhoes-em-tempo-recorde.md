@@ -1,17 +1,22 @@
 ---
-title: "Kalshi Duplica Valor para $11 Mil Milhões em Tempo Recorde"
-date: "2025-12-02T22:36:21.593Z"
-category: "internet-apps"
+title: Kalshi Duplica Valor para $11 Mil Milhões em Tempo Recorde
+date: '2025-12-02T22:36:21.593Z'
+category: internet-apps
 tags:
   - Kalshi
   - fintech
   - investimento
   - startups
   - venture capital
-image: "https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?resize=1200,800"
-image_source: "rss"
-description: "A plataforma Kalshi alcança uma avaliação de 11 mil milhões de dólares após nova ronda de investimento. Descubra como duplicou o seu valor em menos de dois m..."
-source_url: "https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/04/54430828088_f8b05f4647_4k.jpg?resize=1200,800
+image_source: rss
+description: >-
+  A plataforma Kalshi alcança uma avaliação de 11 mil milhões de dólares após
+  nova ronda de investimento. Descubra como duplicou o seu valor em menos de
+  dois m.
+source_url: >-
+  https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months
 draft: false
 needs_review: false
 photographer_name: undefined

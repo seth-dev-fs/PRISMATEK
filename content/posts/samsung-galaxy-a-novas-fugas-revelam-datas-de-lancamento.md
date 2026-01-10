@@ -1,17 +1,22 @@
 ---
-title: "Samsung Galaxy A: Novas fugas revelam datas de lançamento"
-date: "2025-12-10T08:24:44.732Z"
-category: "smartphones"
+title: 'Samsung Galaxy A: Novas fugas revelam datas de lançamento'
+date: '2025-12-10T08:24:44.732Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy A
   - smartphones
   - Android
   - lançamento
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a07-a37-a57-launch-timeline-leak/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Rumores apontam para a chegada iminente do Galaxy A07 5G e uma antecipação para os Galaxy A37 e A57 em 2026. Descobre as novidades da Samsung. A Samsung, gig..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_a07_5g_galaxy_a37_and_galaxy_a57_launch_timeline_tipped-news-70640.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a07-a37-a57-launch-timeline-leak/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Rumores apontam para a chegada iminente do Galaxy A07 5G e uma antecipação
+  para os Galaxy A37 e A57 em 2026. Descobre as novidades da Samsung. A Samsung,
+  gig.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_a07_5g_galaxy_a37_and_galaxy_a57_launch_timeline_tipped-news-70640.php
 draft: false
 needs_review: false
 photographer_name: undefined

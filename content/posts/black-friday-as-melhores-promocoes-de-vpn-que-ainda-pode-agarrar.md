@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: As melhores promoções de VPN que ainda pode agarrar"
-date: "2025-11-30T04:58:53.891Z"
-category: "internet-apps"
+title: 'Black Friday: As melhores promoções de VPN que ainda pode agarrar'
+date: '2025-11-30T04:58:53.891Z'
+category: internet-apps
 tags:
   - VPN
   - cibersegurança
   - Black Friday
   - privacidade
   - segurança online
-image: "https://cdn.mos.cms.futurecdn.net/zWkaLmnEwjwxUcCVJzUqQa-1280-80.jpg"
-image_source: "rss"
-description: "Um especialista em VPNs revela as melhores oportunidades para garantir a sua privacidade e segurança online na Black Friday europeia. Não perca as últimas of..."
-source_url: "https://www.techradar.com/vpn/vpn-services/im-a-vpn-expert-and-ive-found-the-3-black-friday-vpn-deals-you-need-to-pick-up-while-you-still-can"
+image: 'https://cdn.mos.cms.futurecdn.net/zWkaLmnEwjwxUcCVJzUqQa-1280-80.jpg'
+image_source: rss
+description: >-
+  Um especialista em VPNs revela as melhores oportunidades para garantir a sua
+  privacidade e segurança online na Black Friday europeia. Não perca as últimas
+  of.
+source_url: >-
+  https://www.techradar.com/vpn/vpn-services/im-a-vpn-expert-and-ive-found-the-3-black-friday-vpn-deals-you-need-to-pick-up-while-you-still-can
 draft: false
 needs_review: false
 photographer_name: undefined

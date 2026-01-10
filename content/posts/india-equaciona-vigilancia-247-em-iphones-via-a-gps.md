@@ -1,17 +1,21 @@
 ---
-title: "Índia equaciona vigilância 24/7 em iPhones via A-GPS"
-date: "2025-12-06T03:34:26.729Z"
-category: "smartphones"
+title: Índia equaciona vigilância 24/7 em iPhones via A-GPS
+date: '2025-12-06T03:34:26.729Z'
+category: smartphones
 tags:
   - Índia
   - privacidade
   - smartphones
   - Apple
   - GPS
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/Meta-bypassed-Apple-privacy-protections-and-fired-employee-who-flagged-it-%E2%80%93-FT.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Após abandonar app de segurança, o governo indiano pondera ativar permanentemente o A-GPS em iPhones, levantando sérias preocupações de privacidade. O govern..."
-source_url: "https://9to5mac.com/2025/12/05/india-mulls-mandatory-a-gps-activation"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/Meta-bypassed-Apple-privacy-protections-and-fired-employee-who-flagged-it-%E2%80%93-FT.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Após abandonar app de segurança, o governo indiano pondera ativar
+  permanentemente o A-GPS em iPhones, levantando sérias preocupações de
+  privacidade. O govern.
+source_url: 'https://9to5mac.com/2025/12/05/india-mulls-mandatory-a-gps-activation'
 draft: false
 needs_review: false
 photographer_name: undefined

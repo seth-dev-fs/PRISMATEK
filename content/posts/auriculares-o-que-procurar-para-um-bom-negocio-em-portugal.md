@@ -1,17 +1,21 @@
 ---
-title: "Auriculares: O que procurar para um bom negócio em Portugal"
-date: "2025-11-30T14:37:25.897Z"
-category: "audio"
+title: 'Auriculares: O que procurar para um bom negócio em Portugal'
+date: '2025-11-30T14:37:25.897Z'
+category: audio
 tags:
   - auriculares
   - audio
   - compras
   - tecnologia
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/XoYy2Gra4KwGTWuZBoX9y7-1280-80.jpg"
-image_source: "rss"
-description: "Na hora de comprar auriculares, focar na qualidade é essencial. Descobre quais as características a valorizar para fazer um bom negócio em Portugal, especial..."
-source_url: "https://www.techradar.com/audio/wireless-headphones/i-test-headphones-these-are-the-cyber-monday-headphones-deals-really-worth-buying"
+image: 'https://cdn.mos.cms.futurecdn.net/XoYy2Gra4KwGTWuZBoX9y7-1280-80.jpg'
+image_source: rss
+description: >-
+  Na hora de comprar auriculares, focar na qualidade é essencial. Descobre quais
+  as características a valorizar para fazer um bom negócio em Portugal,
+  especial.
+source_url: >-
+  https://www.techradar.com/audio/wireless-headphones/i-test-headphones-these-are-the-cyber-monday-headphones-deals-really-worth-buying
 draft: false
 needs_review: false
 photographer_name: undefined

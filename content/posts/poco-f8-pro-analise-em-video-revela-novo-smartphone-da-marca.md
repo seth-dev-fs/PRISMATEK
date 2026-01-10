@@ -1,17 +1,22 @@
 ---
-title: "Poco F8 Pro: Análise em vídeo revela novo smartphone da marca"
-date: "2025-12-04T04:55:36.556Z"
-category: "smartphones"
+title: 'Poco F8 Pro: Análise em vídeo revela novo smartphone da marca'
+date: '2025-12-04T04:55:36.556Z'
+category: smartphones
 tags:
   - Poco
   - Poco F8 Pro
   - smartphones
   - análise
   - lançamento
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/poco-f8-pro-video-review/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Poco surpreendeu com o lançamento acelerado do F8 Pro e F8 Ultra. A análise em vídeo do Poco F8 Pro já está disponível. Descobre todos os detalhes! A Poco,..."
-source_url: "https://www.gsmarena.com/our_poco_f8_pro_video_review_is_now_out-news-70555.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/poco-f8-pro-video-review/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Poco surpreendeu com o lançamento acelerado do F8 Pro e F8 Ultra. A análise
+  em vídeo do Poco F8 Pro já está disponível. Descobre todos os detalhes! A
+  Poco,.
+source_url: >-
+  https://www.gsmarena.com/our_poco_f8_pro_video_review_is_now_out-news-70555.php
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "China: O primeiro carro que navega apenas com o sistema BeiDou"
-date: "2025-12-06T18:22:29.164Z"
-category: "mobilidade"
+title: 'China: O primeiro carro que navega apenas com o sistema BeiDou'
+date: '2025-12-06T18:22:29.164Z'
+category: mobilidade
 tags:
   - China
   - BeiDou
   - navegação
   - GPS
   - privacidade
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dongfeng-EV01-SUV-BeiDou-positioning.jpg"
-image_source: "rss"
-description: "A China lança o seu primeiro carro de passageiros que usa exclusivamente o sistema de navegação BeiDou. Autonomia tecnológica e privacidade de dados são as p..."
-source_url: "https://www.notebookcheck.net/China-launches-first-BeiDou-car-that-doesn-t-probe-American-GPS-system-for-navigation.1179912.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dongfeng-EV01-SUV-BeiDou-positioning.jpg
+image_source: rss
+description: >-
+  A China lança o seu primeiro carro de passageiros que usa exclusivamente o
+  sistema de navegação BeiDou. Autonomia tecnológica e privacidade de dados são
+  as p.
+source_url: >-
+  https://www.notebookcheck.net/China-launches-first-BeiDou-car-that-doesn-t-probe-American-GPS-system-for-navigation.1179912.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Meta e Google: Parceria de Milhões em Chips de IA à Vista?"
-date: "2025-11-30T06:56:37.400Z"
-category: "ai-futuro"
+title: 'Meta e Google: Parceria de Milhões em Chips de IA à Vista?'
+date: '2025-11-30T06:56:37.400Z'
+category: ai-futuro
 tags:
   - Meta
   - Google
   - chips IA
   - TPU
   - inteligência artificial
-image: "https://cdn.mos.cms.futurecdn.net/fXNtUHkBNmJf5EcgoUY3jD-1280-80.png"
-image_source: "rss"
-description: "A Meta poderá firmar uma parceria estratégica com a Google para chips TPU de IA. Este potencial acordo pode redefinir o futuro da tecnologia e da inteligênci..."
-source_url: "https://www.techradar.com/pro/meta-and-google-could-be-about-to-sign-a-mega-ai-chip-deal-and-it-could-change-everything-in-the-tech-space"
+image: 'https://cdn.mos.cms.futurecdn.net/fXNtUHkBNmJf5EcgoUY3jD-1280-80.png'
+image_source: rss
+description: >-
+  A Meta poderá firmar uma parceria estratégica com a Google para chips TPU de
+  IA. Este potencial acordo pode redefinir o futuro da tecnologia e da
+  inteligênci.
+source_url: >-
+  https://www.techradar.com/pro/meta-and-google-could-be-about-to-sign-a-mega-ai-chip-deal-and-it-could-change-everything-in-the-tech-space
 draft: false
 needs_review: false
 photographer_name: undefined

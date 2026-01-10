@@ -1,17 +1,21 @@
 ---
-title: "Máquinas de café: a oportunidade para um upgrade na sua cozinha"
-date: "2025-11-30T13:20:49.113Z"
-category: "home"
+title: 'Máquinas de café: a oportunidade para um upgrade na sua cozinha'
+date: '2025-11-30T13:20:49.113Z'
+category: home
 tags:
   - máquinas de café
   - café
   - cozinha inteligente
   - De'Longhi
   - eletrodomésticos
-image: "https://cdn.mos.cms.futurecdn.net/W8eZpZGhxazCdzTPuaHMXc-1280-80.jpg"
-image_source: "rss"
-description: "Procura uma nova máquina de café? Descubra as últimas tendências e as melhores marcas para transformar a sua rotina matinal. Prepare-se para o expresso perfe..."
-source_url: "https://www.techradar.com/home/coffee-machines/coffee-maker-cyber-monday-deals-2025"
+image: 'https://cdn.mos.cms.futurecdn.net/W8eZpZGhxazCdzTPuaHMXc-1280-80.jpg'
+image_source: rss
+description: >-
+  Procura uma nova máquina de café? Descubra as últimas tendências e as melhores
+  marcas para transformar a sua rotina matinal. Prepare-se para o expresso
+  perfe.
+source_url: >-
+  https://www.techradar.com/home/coffee-machines/coffee-maker-cyber-monday-deals-2025
 draft: false
 needs_review: false
 photographer_name: undefined

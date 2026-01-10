@@ -1,17 +1,22 @@
 ---
-title: "PlayStation 5 Ghost of Yotei: Edição Limitada em Destaque"
-date: "2025-11-26T04:48:00.065Z"
-category: "gaming"
+title: 'PlayStation 5 Ghost of Yotei: Edição Limitada em Destaque'
+date: '2025-11-26T04:48:00.065Z'
+category: gaming
 tags:
   - PlayStation 5
   - PS5
   - gaming
   - edição limitada
   - Ghost of Yotei
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ghost-of-Yotei-Limited-Edition-PS5-console.jpg"
-image_source: "rss"
-description: "A edição limitada da PlayStation 5 Ghost of Yotei, que inclui consola e comando temáticos, volta a dar que falar. Analisamos esta versão exclusiva da PS5 no ..."
-source_url: "https://www.notebookcheck.net/PlayStation-5-Ghost-of-Yotei-Limited-Edition-Bundle-drops-to-499-100-off-for-Black-Friday.1170854.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ghost-of-Yotei-Limited-Edition-PS5-console.jpg
+image_source: rss
+description: >-
+  A edição limitada da PlayStation 5 Ghost of Yotei, que inclui consola e
+  comando temáticos, volta a dar que falar. Analisamos esta versão exclusiva da
+  PS5 no.
+source_url: >-
+  https://www.notebookcheck.net/PlayStation-5-Ghost-of-Yotei-Limited-Edition-Bundle-drops-to-499-100-off-for-Black-Friday.1170854.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

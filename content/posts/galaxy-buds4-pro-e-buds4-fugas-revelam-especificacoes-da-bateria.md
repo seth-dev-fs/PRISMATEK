@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Buds4 Pro e Buds4: Fugas revelam especificações da bateria"
-date: "2025-12-04T08:55:56.070Z"
-category: "audio"
+title: 'Galaxy Buds4 Pro e Buds4: Fugas revelam especificações da bateria'
+date: '2025-12-04T08:55:56.070Z'
+category: audio
 tags:
   - Samsung
   - Galaxy Buds4 Pro
   - Galaxy Buds4
   - auriculares
   - bateria
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-buds-4-pro-battery-leak/-952x498w6/gsmarena_002.jpg"
-image_source: "rss"
-description: "As especificações da bateria dos próximos Samsung Galaxy Buds4 Pro e Buds4 foram reveladas em novas fugas. Descubra as novidades que prometem na autonomia do..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_buds_4pro_and_buds4_battery_specs_leak-news-70556.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-buds-4-pro-battery-leak/-952x498w6/gsmarena_002.jpg
+image_source: rss
+description: >-
+  As especificações da bateria dos próximos Samsung Galaxy Buds4 Pro e Buds4
+  foram reveladas em novas fugas. Descubra as novidades que prometem na
+  autonomia do.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_buds_4pro_and_buds4_battery_specs_leak-news-70556.php
 draft: false
 needs_review: false
 photographer_name: undefined

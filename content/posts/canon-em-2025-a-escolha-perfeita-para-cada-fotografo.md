@@ -1,17 +1,20 @@
 ---
-title: "Canon em 2025: A Escolha Perfeita para Cada Fotógrafo"
-date: "2025-11-27T16:51:07.759Z"
-category: "home"
+title: 'Canon em 2025: A Escolha Perfeita para Cada Fotógrafo'
+date: '2025-11-27T16:51:07.759Z'
+category: home
 tags:
   - Canon
   - câmaras fotográficas
   - fotografia
   - mirrorless
   - DSLR
-image: "https://cdn.mos.cms.futurecdn.net/9umYQVECEjhwcPqXD6p9q3-1280-80.jpg"
-image_source: "rss"
-description: "Procura a melhor câmara Canon em 2025? Analisamos os modelos DSLR, mirrorless e compactos para o ajudar a encontrar a opção ideal para o seu perfil. Explore ..."
-source_url: "https://www.techradar.com/cameras/the-best-canon-camera"
+image: 'https://cdn.mos.cms.futurecdn.net/9umYQVECEjhwcPqXD6p9q3-1280-80.jpg'
+image_source: rss
+description: >-
+  Procura a melhor câmara Canon em 2025? Analisamos os modelos DSLR, mirrorless
+  e compactos para o ajudar a encontrar a opção ideal para o seu perfil.
+  Explore.
+source_url: 'https://www.techradar.com/cameras/the-best-canon-camera'
 draft: false
 needs_review: true
 photographer_name: undefined

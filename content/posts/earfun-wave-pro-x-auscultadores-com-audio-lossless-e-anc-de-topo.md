@@ -1,17 +1,22 @@
 ---
-title: "EarFun Wave Pro X: Auscultadores com áudio lossless e ANC de topo"
-date: "2026-01-05T10:22:58.091Z"
-category: "audio"
+title: 'EarFun Wave Pro X: Auscultadores com áudio lossless e ANC de topo'
+date: '2026-01-05T10:22:58.091Z'
+category: audio
 tags:
   - EarFun
   - auscultadores
   - áudio lossless
   - ANC
   - Auracast
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EarFun-Wave-Pro-X-dual-driver-headphones-arrive-with-lossless-high-resolution-music-and-8-mic-ANC.jpg"
-image_source: "rss"
-description: "Os novos auscultadores EarFun Wave Pro X prometem revolucionar a experiência sonora. Com áudio lossless, ANC avançado e Auracast, mergulhe na música como nun..."
-source_url: "https://www.notebookcheck.net/EarFun-Wave-Pro-X-dual-driver-headphones-arrive-with-lossless-high-resolution-music-and-8-mic-ANC.1186532.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/EarFun-Wave-Pro-X-dual-driver-headphones-arrive-with-lossless-high-resolution-music-and-8-mic-ANC.jpg
+image_source: rss
+description: >-
+  Os novos auscultadores EarFun Wave Pro X prometem revolucionar a experiência
+  sonora. Com áudio lossless, ANC avançado e Auracast, mergulhe na música como
+  nun.
+source_url: >-
+  https://www.notebookcheck.net/EarFun-Wave-Pro-X-dual-driver-headphones-arrive-with-lossless-high-resolution-music-and-8-mic-ANC.1186532.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

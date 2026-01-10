@@ -1,17 +1,21 @@
 ---
-title: "As Melhores Compras Tech de 2025: Valeu Cada Cêntimo?"
-date: "2025-12-26T10:18:53.531Z"
-category: "smartphones"
+title: 'As Melhores Compras Tech de 2025: Valeu Cada Cêntimo?'
+date: '2025-12-26T10:18:53.531Z'
+category: smartphones
 tags:
   - tecnologia
   - smartphones
   - compras tech
   - gadgets
   - análise 2025
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/Eufy-C220-on-table-scaled.jpg"
-image_source: "rss"
-description: "Um jornalista de tecnologia analisa as suas melhores aquisições de 2025, destacando smartphones e gadgets que realmente fizeram a diferença no dia-a-dia. Des..."
-source_url: "https://www.androidauthority.com/my-best-tech-purchases-2025-3622540"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/Eufy-C220-on-table-scaled.jpg
+image_source: rss
+description: >-
+  Um jornalista de tecnologia analisa as suas melhores aquisições de 2025,
+  destacando smartphones e gadgets que realmente fizeram a diferença no
+  dia-a-dia. Des.
+source_url: 'https://www.androidauthority.com/my-best-tech-purchases-2025-3622540'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Pixel Studio: Utilizadores portugueses pedem cópias de segurança urgentes"
-date: "2025-12-29T10:21:05.260Z"
-category: "internet-apps"
+title: 'Pixel Studio: Utilizadores portugueses pedem cópias de segurança urgentes'
+date: '2025-12-29T10:21:05.260Z'
+category: internet-apps
 tags:
   - Google Pixel Studio
   - cópia de segurança
   - aplicações
   - Android
   - funcionalidades
-image: "https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Pixel-Studio-humans-prompt.jpg"
-image_source: "rss"
-description: "A aplicação Pixel Studio, da Google, é popular, mas carece de uma funcionalidade essencial: cópias de segurança. A perda de conteúdos, como stickers, é uma f..."
-source_url: "https://www.androidauthority.com/pixel-studio-needs-backup-3624236"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/03/Google-Pixel-Studio-humans-prompt.jpg
+image_source: rss
+description: >-
+  A aplicação Pixel Studio, da Google, é popular, mas carece de uma
+  funcionalidade essencial: cópias de segurança. A perda de conteúdos, como
+  stickers, é uma f.
+source_url: 'https://www.androidauthority.com/pixel-studio-needs-backup-3624236'
 draft: false
 needs_review: false
 photographer_name: undefined

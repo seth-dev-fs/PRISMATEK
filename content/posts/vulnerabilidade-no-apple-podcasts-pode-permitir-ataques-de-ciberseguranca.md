@@ -1,17 +1,21 @@
 ---
-title: "Vulnerabilidade no Apple Podcasts pode permitir ataques de cibersegurança"
-date: "2025-11-27T20:37:26.262Z"
-category: "internet-apps"
+title: Vulnerabilidade no Apple Podcasts pode permitir ataques de cibersegurança
+date: '2025-11-27T20:37:26.262Z'
+category: internet-apps
 tags:
   - Apple
   - Podcasts
   - iOS
   - segurança
   - cibersegurança
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-podcasts-logo_92bfb0.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um comportamento inesperado na app Apple Podcasts está a preocupar utilizadores, abrindo portas a potenciais ataques de cibersegurança. Saiba o que está em c..."
-source_url: "https://9to5mac.com/2025/11/27/apple-podcasts-auto-open-attack-attempt"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/apple-podcasts-logo_92bfb0.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um comportamento inesperado na app Apple Podcasts está a preocupar
+  utilizadores, abrindo portas a potenciais ataques de cibersegurança. Saiba o
+  que está em c.
+source_url: 'https://9to5mac.com/2025/11/27/apple-podcasts-auto-open-attack-attempt'
 draft: false
 needs_review: false
 photographer_name: undefined

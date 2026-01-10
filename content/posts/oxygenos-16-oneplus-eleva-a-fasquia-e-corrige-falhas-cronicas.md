@@ -1,17 +1,22 @@
 ---
-title: "OxygenOS 16: OnePlus eleva a fasquia e corrige falhas crónicas"
-date: "2025-11-29T10:41:03.331Z"
-category: "smartphones"
+title: 'OxygenOS 16: OnePlus eleva a fasquia e corrige falhas crónicas'
+date: '2025-11-29T10:41:03.331Z'
+category: smartphones
 tags:
   - OnePlus
   - OxygenOS 16
   - smartphones
   - Android
   - atualização
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/oxygenOS-devices-quick-settings.jpg"
-image_source: "rss"
-description: "A OnePlus está a apostar forte na experiência de utilizador. O novo OxygenOS 16 promete corrigir as maiores falhas e rivalizar com Apple e Samsung. A OnePlus..."
-source_url: "https://www.androidauthority.com/oxygenos-16-fixes-annoyance-with-oneplus-phones-3616628"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/oxygenOS-devices-quick-settings.jpg
+image_source: rss
+description: >-
+  A OnePlus está a apostar forte na experiência de utilizador. O novo OxygenOS
+  16 promete corrigir as maiores falhas e rivalizar com Apple e Samsung. A
+  OnePlus.
+source_url: >-
+  https://www.androidauthority.com/oxygenos-16-fixes-annoyance-with-oneplus-phones-3616628
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "vivo X300 Ultra: Bateria massiva e lançamento em 2026 a caminho"
-date: "2025-12-01T07:01:38.351Z"
-category: "smartphones"
+title: 'vivo X300 Ultra: Bateria massiva e lançamento em 2026 a caminho'
+date: '2025-12-01T07:01:38.351Z'
+category: smartphones
 tags:
   - vivo
   - smartphones
   - X300 Ultra
   - bateria
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/vivo-x300-ultra-battery-launch-timeline/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O próximo topo de gama da vivo, o X300 Ultra, promete revolucionar com uma bateria colossal de 7.000 mAh e estreia no primeiro trimestre de 2026. Conheça os ..."
-source_url: "https://www.gsmarena.com/vivo_x300_ultra_battery_and_launch_details_leaked-news-70501.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/vivo-x300-ultra-battery-launch-timeline/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O próximo topo de gama da vivo, o X300 Ultra, promete revolucionar com uma
+  bateria colossal de 7.000 mAh e estreia no primeiro trimestre de 2026. Conheça
+  os.
+source_url: >-
+  https://www.gsmarena.com/vivo_x300_ultra_battery_and_launch_details_leaked-news-70501.php
 draft: false
 needs_review: false
 photographer_name: undefined

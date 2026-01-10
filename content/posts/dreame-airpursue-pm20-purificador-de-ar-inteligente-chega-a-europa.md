@@ -1,17 +1,21 @@
 ---
-title: "Dreame AirPursue PM20: Purificador de ar inteligente chega à Europa"
-date: "2025-11-29T04:44:52.506Z"
-category: "home"
+title: 'Dreame AirPursue PM20: Purificador de ar inteligente chega à Europa'
+date: '2025-11-29T04:44:52.506Z'
+category: home
 tags:
   - Dreame
   - purificador de ar
   - qualidade do ar
   - casa inteligente
   - saúde
-image: "https://cdn.mos.cms.futurecdn.net/X3iMvdP5Xi2YCckyAsQobQ-1280-80.jpg"
-image_source: "rss"
-description: "O Dreame AirPursue PM20, um purificador de ar compacto e potente, promete ar mais puro em casa. Descubra as suas tecnologias avançadas e disponibilidade no m..."
-source_url: "https://www.techradar.com/home/air-quality/save-an-incredible-usd300-on-the-multi-talented-dreame-airpursue-down-to-a-record-low-price-for-black-friday"
+image: 'https://cdn.mos.cms.futurecdn.net/X3iMvdP5Xi2YCckyAsQobQ-1280-80.jpg'
+image_source: rss
+description: >-
+  O Dreame AirPursue PM20, um purificador de ar compacto e potente, promete ar
+  mais puro em casa. Descubra as suas tecnologias avançadas e disponibilidade no
+  m.
+source_url: >-
+  https://www.techradar.com/home/air-quality/save-an-incredible-usd300-on-the-multi-talented-dreame-airpursue-down-to-a-record-low-price-for-black-friday
 draft: false
 needs_review: false
 photographer_name: undefined

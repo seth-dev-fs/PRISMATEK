@@ -1,17 +1,22 @@
 ---
-title: "Poco C85 5G: Campanha de Teasers Aponta para Lançamento Iminente"
-date: "2025-12-03T03:43:45.746Z"
-category: "smartphones"
+title: 'Poco C85 5G: Campanha de Teasers Aponta para Lançamento Iminente'
+date: '2025-12-03T03:43:45.746Z'
+category: smartphones
 tags:
   - Poco
   - Poco C85 5G
   - smartphones
   - 5G
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/poco-c85-5g-teaser/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Poco dá o tiro de partida para a campanha de teasers do novo C85 5G, prometendo conectividade de nova geração e uma câmara de 50 MP. Saiba tudo. A Poco, co..."
-source_url: "https://www.gsmarena.com/poco_c85_5g_is_on_its_way_official_teaser_campaign_starts-news-70532.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/poco-c85-5g-teaser/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Poco dá o tiro de partida para a campanha de teasers do novo C85 5G,
+  prometendo conectividade de nova geração e uma câmara de 50 MP. Saiba tudo. A
+  Poco, co.
+source_url: >-
+  https://www.gsmarena.com/poco_c85_5g_is_on_its_way_official_teaser_campaign_starts-news-70532.php
 draft: false
 needs_review: false
 photographer_name: undefined

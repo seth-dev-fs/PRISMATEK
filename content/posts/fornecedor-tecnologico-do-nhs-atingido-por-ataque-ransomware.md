@@ -1,17 +1,21 @@
 ---
-title: "Fornecedor tecnológico do NHS atingido por ataque ransomware"
-date: "2025-12-22T12:35:44.176Z"
-category: "internet-apps"
+title: Fornecedor tecnológico do NHS atingido por ataque ransomware
+date: '2025-12-22T12:35:44.176Z'
+category: internet-apps
 tags:
   - ransomware
   - cibersegurança
   - NHS
   - DXS International
   - dados
-image: "https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-1280-80.jpg"
-image_source: "rss"
-description: "A DXS International, fornecedora de tecnologia do NHS em Inglaterra, revelou ter sido alvo de um ataque ransomware. Saiba mais sobre o impacto e os riscos de..."
-source_url: "https://www.techradar.com/pro/security/nhs-england-tech-provider-reveals-data-breach-dxs-international-hit-by-ransomware"
+image: 'https://cdn.mos.cms.futurecdn.net/Fh3VbXWULVM5kiG48uTmkK-1280-80.jpg'
+image_source: rss
+description: >-
+  A DXS International, fornecedora de tecnologia do NHS em Inglaterra, revelou
+  ter sido alvo de um ataque ransomware. Saiba mais sobre o impacto e os riscos
+  de.
+source_url: >-
+  https://www.techradar.com/pro/security/nhs-england-tech-provider-reveals-data-breach-dxs-international-hit-by-ransomware
 draft: false
 needs_review: false
 photographer_name: undefined

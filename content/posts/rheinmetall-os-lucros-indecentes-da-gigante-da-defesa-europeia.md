@@ -1,17 +1,22 @@
 ---
-title: "Rheinmetall: Os lucros 'indecentes' da gigante da defesa europeia"
-date: "2025-12-06T16:19:11.744Z"
-category: "home"
+title: 'Rheinmetall: Os lucros ''indecentes'' da gigante da defesa europeia'
+date: '2025-12-06T16:19:11.744Z'
+category: home
 tags:
   - Rheinmetall
   - defesa
   - indústria militar
   - Europa
   - lucros
-image: "https://i.blogs.es/9baec6/rheinmetall_120mm-kanone_eines_leopard_2/840_560.jpeg"
-image_source: "rss"
-description: "A Rheinmetall, maior fabricante de armas da Europa, está a ter lucros exorbitantes, gerando um debate sobre financiamento público e ética na defesa. No cenár..."
-source_url: "https://www.xataka.com/magnet/mayor-gigante-defensa-europa-afronta-problema-inesperado-estar-ganando-cantidad-indecente-dinero"
+image: >-
+  https://i.blogs.es/9baec6/rheinmetall_120mm-kanone_eines_leopard_2/840_560.jpeg
+image_source: rss
+description: >-
+  A Rheinmetall, maior fabricante de armas da Europa, está a ter lucros
+  exorbitantes, gerando um debate sobre financiamento público e ética na defesa.
+  No cenár.
+source_url: >-
+  https://www.xataka.com/magnet/mayor-gigante-defensa-europa-afronta-problema-inesperado-estar-ganando-cantidad-indecente-dinero
 draft: false
 needs_review: true
 photographer_name: undefined

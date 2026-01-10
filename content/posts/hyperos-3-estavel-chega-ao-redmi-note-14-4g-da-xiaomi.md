@@ -1,17 +1,22 @@
 ---
-title: "HyperOS 3 Estável Chega ao Redmi Note 14 4G da Xiaomi"
-date: "2025-12-02T08:59:34.435Z"
-category: "smartphones"
+title: HyperOS 3 Estável Chega ao Redmi Note 14 4G da Xiaomi
+date: '2025-12-02T08:59:34.435Z'
+category: smartphones
 tags:
   - Xiaomi
   - HyperOS
   - Redmi Note 14
   - Android 16
   - atualização
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HyperOS-3-featured-logo.jpg"
-image_source: "rss"
-description: "A Xiaomi acelera a distribuição do HyperOS 3, baseado no Android 16, para o Redmi Note 14 4G. Descobre as novidades e melhorias desta atualização. A Xiaomi, ..."
-source_url: "https://www.notebookcheck.net/Stable-HyperOS-3-starts-rolling-out-to-Redmi-Note-14-and-Mi-Band-10.1174393.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HyperOS-3-featured-logo.jpg
+image_source: rss
+description: >-
+  A Xiaomi acelera a distribuição do HyperOS 3, baseado no Android 16, para o
+  Redmi Note 14 4G. Descobre as novidades e melhorias desta atualização. A
+  Xiaomi,.
+source_url: >-
+  https://www.notebookcheck.net/Stable-HyperOS-3-starts-rolling-out-to-Redmi-Note-14-and-Mi-Band-10.1174393.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

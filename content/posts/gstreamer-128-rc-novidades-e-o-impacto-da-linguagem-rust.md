@@ -1,17 +1,21 @@
 ---
-title: "GStreamer 1.28 RC: Novidades e o impacto da linguagem Rust"
-date: "2026-01-06T10:19:53.820Z"
-category: "computadores"
+title: 'GStreamer 1.28 RC: Novidades e o impacto da linguagem Rust'
+date: '2026-01-06T10:19:53.820Z'
+category: computadores
 tags:
   - GStreamer
   - multimédia
   - Rust
   - open-source
   - desenvolvimento
-image: "https://9to5linux.com/wp-content/uploads/2025/07/gs.webp"
-image_source: "rss"
-description: "A versão Release Candidate do GStreamer 1.28 já está disponível para testes públicos. Descubra as melhorias e a integração da linguagem Rust neste framework ..."
-source_url: "https://9to5linux.com/gstreamer-1-28-release-candidate-now-available-for-testing-with-rust-goodies"
+image: 'https://9to5linux.com/wp-content/uploads/2025/07/gs.webp'
+image_source: rss
+description: >-
+  A versão Release Candidate do GStreamer 1.28 já está disponível para testes
+  públicos. Descubra as melhorias e a integração da linguagem Rust neste
+  framework.
+source_url: >-
+  https://9to5linux.com/gstreamer-1-28-release-candidate-now-available-for-testing-with-rust-goodies
 draft: false
 needs_review: false
 photographer_name: undefined

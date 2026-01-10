@@ -1,17 +1,21 @@
 ---
-title: "Dyson: A Filosofia de Design Entre Robustez e Conforto"
-date: "2026-01-02T08:27:00.909Z"
-category: "home"
+title: 'Dyson: A Filosofia de Design Entre Robustez e Conforto'
+date: '2026-01-02T08:27:00.909Z'
+category: home
 tags:
   - Dyson
   - aspiradores
   - design
   - tecnologia
   - conforto
-image: "https://cdn.mos.cms.futurecdn.net/Zu4aKwfzpXSsmUmAcktCwf-1280-80.jpg"
-image_source: "rss"
-description: "Um engenheiro da Dyson revela o equilíbrio delicado entre a durabilidade e o conforto no design dos aspiradores da marca. Descubra a sua abordagem. A Dyson é..."
-source_url: "https://www.techradar.com/home/vacuums/theyre-as-robust-as-they-can-be-while-being-comfortable-for-most-users-a-dyson-engineer-reveals-the-brands-vacuum-design-ethos"
+image: 'https://cdn.mos.cms.futurecdn.net/Zu4aKwfzpXSsmUmAcktCwf-1280-80.jpg'
+image_source: rss
+description: >-
+  Um engenheiro da Dyson revela o equilíbrio delicado entre a durabilidade e o
+  conforto no design dos aspiradores da marca. Descubra a sua abordagem. A Dyson
+  é.
+source_url: >-
+  https://www.techradar.com/home/vacuums/theyre-as-robust-as-they-can-be-while-being-comfortable-for-most-users-a-dyson-engineer-reveals-the-brands-vacuum-design-ethos
 draft: false
 needs_review: true
 photographer_name: undefined

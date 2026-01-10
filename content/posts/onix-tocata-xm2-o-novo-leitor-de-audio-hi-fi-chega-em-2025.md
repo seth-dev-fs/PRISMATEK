@@ -1,17 +1,22 @@
 ---
-title: "Onix Tocata XM2: O novo leitor de áudio Hi-Fi chega em 2025"
-date: "2025-12-09T08:26:35.246Z"
-category: "audio"
+title: 'Onix Tocata XM2: O novo leitor de áudio Hi-Fi chega em 2025'
+date: '2025-12-09T08:26:35.246Z'
+category: audio
 tags:
   - Onix
   - Tocata XM2
   - áudio Hi-Fi
   - DAP
   - música portátil
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Onix-Tocota-Audio-Player.png"
-image_source: "rss"
-description: "A Onix revelou o Tocata XM2, um leitor de áudio digital Hi-Fi compacto com ecrã OLED, Bluetooth 5.2 e até 2TB de armazenamento. Preço e detalhes. A Onix, mar..."
-source_url: "https://www.notebookcheck.net/Onix-Tocata-XM2-launches-as-new-digital-audio-player-with-3-inch-OLED-Bluetooth-5-2-and-up-to-2TB-storage.1180900.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Onix-Tocota-Audio-Player.png
+image_source: rss
+description: >-
+  A Onix revelou o Tocata XM2, um leitor de áudio digital Hi-Fi compacto com
+  ecrã OLED, Bluetooth 5.2 e até 2TB de armazenamento. Preço e detalhes. A Onix,
+  mar.
+source_url: >-
+  https://www.notebookcheck.net/Onix-Tocata-XM2-launches-as-new-digital-audio-player-with-3-inch-OLED-Bluetooth-5-2-and-up-to-2TB-storage.1180900.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

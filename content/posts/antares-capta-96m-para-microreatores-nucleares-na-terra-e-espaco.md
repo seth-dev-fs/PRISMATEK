@@ -1,17 +1,22 @@
 ---
-title: "Antares capta 96M para microreatores nucleares na Terra e Espaço"
-date: "2025-12-02T20:44:16.979Z"
-category: "ciencia"
+title: Antares capta 96M para microreatores nucleares na Terra e Espaço
+date: '2025-12-02T20:44:16.979Z'
+category: ciencia
 tags:
   - energia nuclear
   - microreatores
   - Antares
   - investimento
   - tecnologia
-image: "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?resize=1200,800"
-image_source: "rss"
-description: "A startup Antares angariou 96 milhões de dólares para desenvolver microreatores nucleares para aplicações terrestres, marítimas e espaciais. Um avanço crucia..."
-source_url: "https://techcrunch.com/2025/12/02/microreactor-startup-antares-raises-96m-for-land-sea-and-space-based-nuclear-power"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-157741219.jpeg?resize=1200,800
+image_source: rss
+description: >-
+  A startup Antares angariou 96 milhões de dólares para desenvolver
+  microreatores nucleares para aplicações terrestres, marítimas e espaciais. Um
+  avanço crucia.
+source_url: >-
+  https://techcrunch.com/2025/12/02/microreactor-startup-antares-raises-96m-for-land-sea-and-space-based-nuclear-power
 draft: false
 needs_review: false
 photographer_name: undefined

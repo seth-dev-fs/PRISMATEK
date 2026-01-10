@@ -1,17 +1,21 @@
 ---
-title: "MKBHD encerra app Panels: Como guardar os seus wallpapers favoritos"
-date: "2025-12-01T08:59:45.239Z"
-category: "internet-apps"
+title: 'MKBHD encerra app Panels: Como guardar os seus wallpapers favoritos'
+date: '2025-12-01T08:59:45.239Z'
+category: internet-apps
 tags:
   - MKBHD
   - Panels
   - aplicações
   - wallpapers
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2024/09/MKBHD-Panels-app-scaled.jpg"
-image_source: "rss"
-description: "A popular aplicação de wallpapers Panels, do youtuber MKBHD, vai encerrar. Saiba como guardar os seus fundos de ecrã antes que os dados sejam apagados perman..."
-source_url: "https://www.androidauthority.com/mkbhd-panels-shutdown-3620792"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2024/09/MKBHD-Panels-app-scaled.jpg
+image_source: rss
+description: >-
+  A popular aplicação de wallpapers Panels, do youtuber MKBHD, vai encerrar.
+  Saiba como guardar os seus fundos de ecrã antes que os dados sejam apagados
+  perman.
+source_url: 'https://www.androidauthority.com/mkbhd-panels-shutdown-3620792'
 draft: false
 needs_review: false
 photographer_name: undefined

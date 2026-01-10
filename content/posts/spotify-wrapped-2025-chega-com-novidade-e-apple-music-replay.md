@@ -1,17 +1,22 @@
 ---
-title: "Spotify Wrapped 2025 chega com novidade e Apple Music Replay"
-date: "2025-12-03T13:51:15.496Z"
-category: "audio"
+title: Spotify Wrapped 2025 chega com novidade e Apple Music Replay
+date: '2025-12-03T13:51:15.496Z'
+category: audio
 tags:
   - Spotify
   - Spotify Wrapped
   - Apple Music Replay
   - streaming
   - música
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Spotify-Wrapped-arrives-after-Apple-Music-Replay-%E2%80%93-with-a-new-party-feature.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "O tão esperado Spotify Wrapped 2025 já chegou, revelando os hábitos musicais dos utilizadores e uma nova funcionalidade de festa. Descubra as suas músicas fa..."
-source_url: "https://9to5mac.com/2025/12/03/spotify-wrapped-arrives-after-apple-music-replay-with-a-new-party-feature"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Spotify-Wrapped-arrives-after-Apple-Music-Replay-%E2%80%93-with-a-new-party-feature.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  O tão esperado Spotify Wrapped 2025 já chegou, revelando os hábitos musicais
+  dos utilizadores e uma nova funcionalidade de festa. Descubra as suas músicas
+  fa.
+source_url: >-
+  https://9to5mac.com/2025/12/03/spotify-wrapped-arrives-after-apple-music-replay-with-a-new-party-feature
 draft: false
 needs_review: false
 photographer_name: undefined

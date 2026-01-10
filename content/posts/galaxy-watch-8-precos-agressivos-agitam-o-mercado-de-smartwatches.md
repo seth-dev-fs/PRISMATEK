@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Watch 8: Preços Agressivos Agitam o Mercado de Smartwatches"
-date: "2025-12-07T06:23:12.515Z"
-category: "wearables"
+title: 'Galaxy Watch 8: Preços Agressivos Agitam o Mercado de Smartwatches'
+date: '2025-12-07T06:23:12.515Z'
+category: wearables
 tags:
   - Samsung
   - Galaxy Watch 8
   - smartwatch
   - wearables
   - tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Watch8/Galaxy_Watch8_Training5.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy Watch 8, em versões de 40mm e 44mm, está a dinamizar o segmento dos smartwatches com preços mais acessíveis e design aprimorado. Conheça as ..."
-source_url: "https://www.notebookcheck.net/Samsung-Galaxy-Watch-8-at-lowest-price-ever-on-Amazon.1180026.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/Samsung/Galaxy_Watch8/Galaxy_Watch8_Training5.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy Watch 8, em versões de 40mm e 44mm, está a dinamizar o
+  segmento dos smartwatches com preços mais acessíveis e design aprimorado.
+  Conheça as.
+source_url: >-
+  https://www.notebookcheck.net/Samsung-Galaxy-Watch-8-at-lowest-price-ever-on-Amazon.1180026.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

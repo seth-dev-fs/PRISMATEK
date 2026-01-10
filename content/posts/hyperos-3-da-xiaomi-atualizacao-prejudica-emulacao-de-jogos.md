@@ -1,17 +1,22 @@
 ---
-title: "HyperOS 3 da Xiaomi: Atualização prejudica emulação de jogos?"
-date: "2025-12-14T14:15:05.485Z"
-category: "smartphones"
+title: 'HyperOS 3 da Xiaomi: Atualização prejudica emulação de jogos?'
+date: '2025-12-14T14:15:05.485Z'
+category: smartphones
 tags:
   - Xiaomi
   - HyperOS
   - smartphones
   - gaming
   - emulação
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HyperOS-3-reportedly-degrades-game-emulation-performance.jpg"
-image_source: "rss"
-description: "Utilizadores da Xiaomi relatam que a atualização HyperOS 3, apesar das promessas de melhoria, está a prejudicar a emulação de jogos. Saiba tudo. A Xiaomi lan..."
-source_url: "https://www.notebookcheck.net/HyperOS-3-update-reportedly-hurts-game-emulation-performance-on-some-Xiaomi-devices.1185752.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HyperOS-3-reportedly-degrades-game-emulation-performance.jpg
+image_source: rss
+description: >-
+  Utilizadores da Xiaomi relatam que a atualização HyperOS 3, apesar das
+  promessas de melhoria, está a prejudicar a emulação de jogos. Saiba tudo. A
+  Xiaomi lan.
+source_url: >-
+  https://www.notebookcheck.net/HyperOS-3-update-reportedly-hurts-game-emulation-performance-on-some-Xiaomi-devices.1185752.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

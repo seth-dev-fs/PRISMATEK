@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15R aparece no Geekbench com Android 16 e 12GB RAM"
-date: "2025-12-05T06:58:44.100Z"
-category: "smartphones"
+title: OnePlus 15R aparece no Geekbench com Android 16 e 12GB RAM
+date: '2025-12-05T06:58:44.100Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - Android 16
   - Geekbench
   - Snapdragon 8 Gen 5
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-geekbench/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O aguardado OnePlus 15R foi avistado no Geekbench, revelando especificações chave como Android 16 e 12GB de RAM. Chega em dezembro. Saiba tudo aqui! A comuni..."
-source_url: "https://www.gsmarena.com/oneplus_15r_spotted_on_geekbench_with_12gb_ram_and_android_16-news-70578.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-geekbench/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O aguardado OnePlus 15R foi avistado no Geekbench, revelando especificações
+  chave como Android 16 e 12GB de RAM. Chega em dezembro. Saiba tudo aqui! A
+  comuni.
+source_url: >-
+  https://www.gsmarena.com/oneplus_15r_spotted_on_geekbench_with_12gb_ram_and_android_16-news-70578.php
 draft: false
 needs_review: false
 photographer_name: undefined

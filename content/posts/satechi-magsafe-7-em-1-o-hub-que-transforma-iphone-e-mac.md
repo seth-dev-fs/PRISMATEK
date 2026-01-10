@@ -1,17 +1,22 @@
 ---
-title: "Satechi MagSafe 7-em-1: O hub que transforma iPhone e Mac"
-date: "2025-12-01T22:40:15.243Z"
-category: "mobilidade"
+title: 'Satechi MagSafe 7-em-1: O hub que transforma iPhone e Mac'
+date: '2025-12-01T22:40:15.243Z'
+category: mobilidade
 tags:
   - Satechi
   - MagSafe
   - hub USB-C
   - iPhone
   - MacBook
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/satechi-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Satechi lança um hub 7-em-1 MagSafe que expande a conectividade do seu iPhone e Mac. Descubra como este acessório multifuncional otimiza a sua produtividad..."
-source_url: "https://9to5mac.com/2025/12/01/satechi-levels-up-mobile-workflows-with-a-magsafe-ready-7-in-1-hub"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/satechi-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Satechi lança um hub 7-em-1 MagSafe que expande a conectividade do seu
+  iPhone e Mac. Descubra como este acessório multifuncional otimiza a sua
+  produtividad.
+source_url: >-
+  https://9to5mac.com/2025/12/01/satechi-levels-up-mobile-workflows-with-a-magsafe-ready-7-in-1-hub
 draft: false
 needs_review: false
 photographer_name: undefined

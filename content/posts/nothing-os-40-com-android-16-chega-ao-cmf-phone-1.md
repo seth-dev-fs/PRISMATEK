@@ -1,17 +1,22 @@
 ---
-title: "Nothing OS 4.0 com Android 16 chega ao CMF Phone 1"
-date: "2025-12-27T08:21:59.618Z"
-category: "smartphones"
+title: Nothing OS 4.0 com Android 16 chega ao CMF Phone 1
+date: '2025-12-27T08:21:59.618Z'
+category: smartphones
 tags:
   - Nothing
   - CMF Phone 1
   - Android 16
   - Nothing OS 4.0
   - smartphones
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/cmf-phone-1-phone-2-pro-nothing-os-4-update/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "A Nothing começa a distribuir o Nothing OS 4.0, baseado no Android 16, para o CMF Phone 1. Descubra as novidades desta atualização em Portugal. A Nothing, co..."
-source_url: "https://www.gsmarena.com/cmf_phone_1_cmf_phone_2_pro_android_16_nothing_os_4_stable_update-news-70868.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/cmf-phone-1-phone-2-pro-nothing-os-4-update/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  A Nothing começa a distribuir o Nothing OS 4.0, baseado no Android 16, para o
+  CMF Phone 1. Descubra as novidades desta atualização em Portugal. A Nothing,
+  co.
+source_url: >-
+  https://www.gsmarena.com/cmf_phone_1_cmf_phone_2_pro_android_16_nothing_os_4_stable_update-news-70868.php
 draft: false
 needs_review: false
 photographer_name: undefined

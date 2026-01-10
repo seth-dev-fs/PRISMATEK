@@ -1,17 +1,22 @@
 ---
-title: "OnePlus Turbo: Desempenho Surpreendente no AnTuTu e Geekbench"
-date: "2025-12-23T08:27:25.692Z"
-category: "smartphones"
+title: 'OnePlus Turbo: Desempenho Surpreendente no AnTuTu e Geekbench'
+date: '2025-12-23T08:27:25.692Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - OnePlus Turbo
   - AnTuTu
   - benchmark
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Turbo-spotted-on-AnTuTU.jpg"
-image_source: "rss"
-description: "O primeiro smartphone da série OnePlus Turbo promete um desempenho robusto. Apesar de não ser um topo de gama, os seus resultados no AnTuTu são notáveis. Con..."
-source_url: "https://www.notebookcheck.net/Soon-to-launch-OnePlus-Turbo-scores-high-on-AnTuTu-despite-lacking-flagship-SoC.1191321.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-Turbo-spotted-on-AnTuTU.jpg
+image_source: rss
+description: >-
+  O primeiro smartphone da série OnePlus Turbo promete um desempenho robusto.
+  Apesar de não ser um topo de gama, os seus resultados no AnTuTu são notáveis.
+  Con.
+source_url: >-
+  https://www.notebookcheck.net/Soon-to-launch-OnePlus-Turbo-scores-high-on-AnTuTu-despite-lacking-flagship-SoC.1191321.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

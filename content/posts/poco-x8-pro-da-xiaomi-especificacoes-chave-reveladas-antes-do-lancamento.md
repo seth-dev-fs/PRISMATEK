@@ -1,17 +1,22 @@
 ---
-title: "Poco X8 Pro da Xiaomi: Especificações-chave reveladas antes do lançamento"
-date: "2025-12-12T06:27:54.695Z"
-category: "smartphones"
+title: 'Poco X8 Pro da Xiaomi: Especificações-chave reveladas antes do lançamento'
+date: '2025-12-12T06:27:54.695Z'
+category: smartphones
 tags:
   - Xiaomi
   - Poco X8 Pro
   - smartphones
   - Android
   - telemóveis
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Poco-X7-Pro-268.JPG"
-image_source: "rss"
-description: "O aguardado Xiaomi Poco X8 Pro aproxima-se do lançamento, e os primeiros detalhes das suas especificações-chave já surgem. Descubra o que este gama média pro..."
-source_url: "https://www.notebookcheck.net/Xiaomi-Poco-X8-Pro-key-specs-emerge-as-launch-nears.1183341.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Poco-X7-Pro-268.JPG
+image_source: rss
+description: >-
+  O aguardado Xiaomi Poco X8 Pro aproxima-se do lançamento, e os primeiros
+  detalhes das suas especificações-chave já surgem. Descubra o que este gama
+  média pro.
+source_url: >-
+  https://www.notebookcheck.net/Xiaomi-Poco-X8-Pro-key-specs-emerge-as-launch-nears.1183341.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

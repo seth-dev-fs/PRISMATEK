@@ -1,17 +1,21 @@
 ---
-title: "Kodak Surpreende no Top 10 das Câmaras Mais Vendidas de 2025"
-date: "2026-01-04T01:28:25.889Z"
-category: "home"
+title: Kodak Surpreende no Top 10 das Câmaras Mais Vendidas de 2025
+date: '2026-01-04T01:28:25.889Z'
+category: home
 tags:
   - Kodak
   - câmaras
   - fotografia
   - tendências de mercado
   - Map Camera
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kodak-Pixpro.jpg"
-image_source: "rss"
-description: "Uma lista inesperada de câmaras mais vendidas em 2025 revela a ascensão da Kodak e a popularidade de modelos compactos com sensor grande. Saiba quem dominou ..."
-source_url: "https://www.notebookcheck.net/Map-Camera-revela-surprising-top-10-list-of-best-selling-cameras-of-2025.1195758.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kodak-Pixpro.jpg'
+image_source: rss
+description: >-
+  Uma lista inesperada de câmaras mais vendidas em 2025 revela a ascensão da
+  Kodak e a popularidade de modelos compactos com sensor grande. Saiba quem
+  dominou.
+source_url: >-
+  https://www.notebookcheck.net/Map-Camera-revela-surprising-top-10-list-of-best-selling-cameras-of-2025.1195758.0.html
 draft: false
 needs_review: true
 photographer_name: undefined

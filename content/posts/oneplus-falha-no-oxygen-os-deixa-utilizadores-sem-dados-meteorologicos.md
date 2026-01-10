@@ -1,17 +1,22 @@
 ---
-title: "OnePlus: Falha no Oxygen OS deixa utilizadores sem dados meteorológicos"
-date: "2025-11-24T10:48:40.669Z"
-category: "smartphones"
+title: 'OnePlus: Falha no Oxygen OS deixa utilizadores sem dados meteorológicos'
+date: '2025-11-24T10:48:40.669Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - smartwatches
   - Oxygen OS
   - erros
-image: "https://www.androidauthority.com/wp-content/uploads/2023/06/oneplus-nord-n30-weather-in-hand.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2023/06/oneplus-nord-n30-weather-in-hand.jpg"
-description: "Dispositivos OnePlus, incluindo smartphones e smartwatches, estão a sofrer com uma falha no Oxygen OS que apaga dados meteorológicos. Sabe tudo sobre o probl..."
-source_url: "https://www.androidauthority.com/oneplus-weather-app-issue-3618945"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2023/06/oneplus-nord-n30-weather-in-hand.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2023/06/oneplus-nord-n30-weather-in-hand.jpg
+description: >-
+  Dispositivos OnePlus, incluindo smartphones e smartwatches, estão a sofrer com
+  uma falha no Oxygen OS que apaga dados meteorológicos. Sabe tudo sobre o
+  probl.
+source_url: 'https://www.androidauthority.com/oneplus-weather-app-issue-3618945'
 draft: false
 needs_review: false
 ---

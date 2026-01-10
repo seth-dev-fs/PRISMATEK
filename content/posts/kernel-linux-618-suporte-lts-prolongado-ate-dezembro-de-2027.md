@@ -1,17 +1,21 @@
 ---
-title: "Kernel Linux 6.18: Suporte LTS prolongado até dezembro de 2027"
-date: "2025-12-03T14:53:22.542Z"
-category: "computadores"
+title: 'Kernel Linux 6.18: Suporte LTS prolongado até dezembro de 2027'
+date: '2025-12-03T14:53:22.542Z'
+category: computadores
 tags:
   - Linux
   - Kernel
   - LTS
   - software
   - código aberto
-image: "https://9to5linux.com/wp-content/uploads/2025/12/lk618l.webp"
-image_source: "rss"
-description: "O aguardado Linux Kernel 6.18 foi oficialmente designado como versão LTS (Suporte de Longo Prazo), com atualizações garantidas até dezembro de 2027. Uma notí..."
-source_url: "https://9to5linux.com/its-official-linux-kernel-6-18-will-be-lts-supported-until-december-2027"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/lk618l.webp'
+image_source: rss
+description: >-
+  O aguardado Linux Kernel 6.18 foi oficialmente designado como versão LTS
+  (Suporte de Longo Prazo), com atualizações garantidas até dezembro de 2027.
+  Uma notí.
+source_url: >-
+  https://9to5linux.com/its-official-linux-kernel-6-18-will-be-lts-supported-until-december-2027
 draft: false
 needs_review: false
 photographer_name: undefined

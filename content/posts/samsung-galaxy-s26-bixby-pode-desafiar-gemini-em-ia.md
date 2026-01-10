@@ -1,17 +1,21 @@
 ---
-title: "Samsung Galaxy S26: Bixby Pode Desafiar Gemini em IA"
-date: "2025-11-24T08:49:14.571Z"
-category: "smartphones"
+title: 'Samsung Galaxy S26: Bixby Pode Desafiar Gemini em IA'
+date: '2025-11-24T08:49:14.571Z'
+category: smartphones
 tags:
   - Samsung
   - Bixby
   - Galaxy S26
   - Gemini
   - Inteligência Artificial
-image: "https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-bixby-misunderstanding-1.jpg"
-image_source: "Source of the image if different from image URL, otherwise empty string"
-description: "Rumores indicam que a Samsung poderá redesenhar a Bixby para o Galaxy S26, posicionando-a como rival do Gemini. Uma potencial mudança estratégica no cenário ..."
-source_url: "https://www.androidauthority.com/galaxy-s26-gemini-bixby-3618888"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/07/samsung-bixby-misunderstanding-1.jpg
+image_source: 'Source of the image if different from image URL, otherwise empty string'
+description: >-
+  Rumores indicam que a Samsung poderá redesenhar a Bixby para o Galaxy S26,
+  posicionando-a como rival do Gemini. Uma potencial mudança estratégica no
+  cenário.
+source_url: 'https://www.androidauthority.com/galaxy-s26-gemini-bixby-3618888'
 draft: false
 needs_review: false
 ---

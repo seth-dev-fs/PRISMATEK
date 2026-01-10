@@ -1,17 +1,23 @@
 ---
-title: "Power Banks para Portátil: Autonomia e Segurança em Viagem"
-date: "2025-11-24T10:50:59.256Z"
-category: "computadores"
+title: 'Power Banks para Portátil: Autonomia e Segurança em Viagem'
+date: '2025-11-24T10:50:59.256Z'
+category: computadores
 tags:
   - power bank
   - portátil
   - carregamento
   - viagem
   - autonomia
-image: "https://s.yimg.com/ny/api/res/1.2/CeT3DXCtMzHgtKgQVW0g5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b671f2e0-bdeb-11ef-bfff-8f744e496670"
-image_source: "https://s.yimg.com/ny/api/res/1.2/CeT3DXCtMzHgtKgQVW0g5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b671f2e0-bdeb-11ef-bfff-8f744e496670"
-description: "Precisa de carregar o seu portátil em viagem? Descubra os melhores power banks, capacidade ideal e regras de segurança aérea para voos na Europa e mundo. Ess..."
-source_url: "https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/CeT3DXCtMzHgtKgQVW0g5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b671f2e0-bdeb-11ef-bfff-8f744e496670
+image_source: >-
+  https://s.yimg.com/ny/api/res/1.2/CeT3DXCtMzHgtKgQVW0g5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b671f2e0-bdeb-11ef-bfff-8f744e496670
+description: >-
+  Precisa de carregar o seu portátil em viagem? Descubra os melhores power
+  banks, capacidade ideal e regras de segurança aérea para voos na Europa e
+  mundo. Ess.
+source_url: >-
+  https://www.engadget.com/computing/accessories/best-laptop-power-bank-120040388.html?src=rss
 draft: false
 needs_review: false
 ---

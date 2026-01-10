@@ -1,17 +1,21 @@
 ---
-title: "Black Friday 2025: As Melhores Ofertas em Tecnologia na Europa"
-date: "2025-11-29T06:55:20.300Z"
-category: "home"
+title: 'Black Friday 2025: As Melhores Ofertas em Tecnologia na Europa'
+date: '2025-11-29T06:55:20.300Z'
+category: home
 tags:
   - Black Friday
   - descontos
   - tecnologia
   - promoções
   - gadgets
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PACKAGE2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra as promoções imperdíveis da Black Friday 2025 em Portugal e na Europa. Laptops, TVs, wearables e mais com descontos até 50%. Prepare-se para as melh..."
-source_url: "https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PACKAGE2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra as promoções imperdíveis da Black Friday 2025 em Portugal e na
+  Europa. Laptops, TVs, wearables e mais com descontos até 50%. Prepare-se para
+  as melh.
+source_url: 'https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025'
 draft: false
 needs_review: true
 photographer_name: undefined

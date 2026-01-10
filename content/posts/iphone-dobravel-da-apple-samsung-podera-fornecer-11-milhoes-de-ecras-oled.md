@@ -1,17 +1,22 @@
 ---
-title: "iPhone Dobrável da Apple: Samsung poderá fornecer 11 milhões de ecrãs OLED"
-date: "2025-12-10T08:25:30.336Z"
-category: "smartphones"
+title: 'iPhone Dobrável da Apple: Samsung poderá fornecer 11 milhões de ecrãs OLED'
+date: '2025-12-10T08:25:30.336Z'
+category: smartphones
 tags:
   - Apple
   - iPhone dobrável
   - Samsung
   - OLED
   - tecnologia móvel
-image: "https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Fold-6-review-28.jpg"
-image_source: "rss"
-description: "Rumores apontam que a Apple está a preparar um iPhone dobrável e, surpreendentemente, a Samsung poderá ser a principal fornecedora de ecrãs OLED. Um passo es..."
-source_url: "https://www.sammobile.com/news/apple-may-buy-11-million-oled-panels-from-samsung-for-its-foldable-iphone"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/07/Galaxy-Z-Fold-6-review-28.jpg
+image_source: rss
+description: >-
+  Rumores apontam que a Apple está a preparar um iPhone dobrável e,
+  surpreendentemente, a Samsung poderá ser a principal fornecedora de ecrãs
+  OLED. Um passo es.
+source_url: >-
+  https://www.sammobile.com/news/apple-may-buy-11-million-oled-panels-from-samsung-for-its-foldable-iphone
 draft: false
 needs_review: false
 photographer_name: undefined

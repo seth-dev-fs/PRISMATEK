@@ -1,17 +1,22 @@
 ---
-title: "Backbone One: Edição limitada Kith chega ao mercado"
-date: "2025-12-03T10:54:25.227Z"
-category: "gaming"
+title: 'Backbone One: Edição limitada Kith chega ao mercado'
+date: '2025-12-03T10:54:25.227Z'
+category: gaming
 tags:
   - Backbone
   - controlador móvel
   - gaming
   - edição limitada
   - Kith
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kith-x-Backbone-Pro-retail.jpg"
-image_source: "rss"
-description: "O popular controlador de jogos móvel Backbone One recebe uma edição exclusiva em parceria com a Kith. Descubra os detalhes desta versão limitada. A Backbone,..."
-source_url: "https://www.notebookcheck.net/Backbone-Pro-mobile-controller-gets-a-Kith-limited-edition.1175524.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kith-x-Backbone-Pro-retail.jpg
+image_source: rss
+description: >-
+  O popular controlador de jogos móvel Backbone One recebe uma edição exclusiva
+  em parceria com a Kith. Descubra os detalhes desta versão limitada. A
+  Backbone,.
+source_url: >-
+  https://www.notebookcheck.net/Backbone-Pro-mobile-controller-gets-a-Kith-limited-edition.1175524.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Philips OneBlade 360: Eficiência e Versatilidade em Destaque"
-date: "2025-11-26T08:57:05.899Z"
-category: "home"
+title: 'Philips OneBlade 360: Eficiência e Versatilidade em Destaque'
+date: '2025-11-26T08:57:05.899Z'
+category: home
 tags:
   - Philips
   - OneBlade 360
   - barbear elétrico
   - cuidados pessoais
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/KNfNKEgT2BaTfz9Ctmbuaj-1280-80.jpg"
-image_source: "rss"
-description: "Descubra o barbeador elétrico Philips OneBlade 360, conhecido pela sua eficácia e versatilidade. Analisamos as vantagens deste gadget e futuras promoções no ..."
-source_url: "https://www.techradar.com/home/hair-care/my-daily-shaver-just-hit-an-all-time-low-of-au-49-99-and-boy-do-i-wish-i-waited-for-black-friday-2025"
+image: 'https://cdn.mos.cms.futurecdn.net/KNfNKEgT2BaTfz9Ctmbuaj-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra o barbeador elétrico Philips OneBlade 360, conhecido pela sua
+  eficácia e versatilidade. Analisamos as vantagens deste gadget e futuras
+  promoções no.
+source_url: >-
+  https://www.techradar.com/home/hair-care/my-daily-shaver-just-hit-an-all-time-low-of-au-49-99-and-boy-do-i-wish-i-waited-for-black-friday-2025
 draft: false
 needs_review: true
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Apple Glasses: Os óculos inteligentes que prometem marcar 2026"
-date: "2025-12-01T19:04:23.573Z"
-category: "wearables"
+title: 'Apple Glasses: Os óculos inteligentes que prometem marcar 2026'
+date: '2025-12-01T19:04:23.573Z'
+category: wearables
 tags:
   - Apple
   - Apple Glasses
   - wearables
   - realidade aumentada
   - tecnologia
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Os rumores sobre os Apple Glasses intensificam-se, apontando para um lançamento em 2026 que promete revolucionar o mercado dos wearables. Saiba tudo sobre es..."
-source_url: "https://9to5mac.com/2025/12/01/apple-glasses-could-be-next-years-most-attention-grabbing-product"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Os rumores sobre os Apple Glasses intensificam-se, apontando para um
+  lançamento em 2026 que promete revolucionar o mercado dos wearables. Saiba
+  tudo sobre es.
+source_url: >-
+  https://9to5mac.com/2025/12/01/apple-glasses-could-be-next-years-most-attention-grabbing-product
 draft: false
 needs_review: false
 photographer_name: undefined

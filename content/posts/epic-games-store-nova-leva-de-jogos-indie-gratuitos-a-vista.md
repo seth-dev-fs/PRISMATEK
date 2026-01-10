@@ -1,17 +1,22 @@
 ---
-title: "Epic Games Store: Nova leva de jogos indie gratuitos à vista"
-date: "2025-12-29T08:29:28.263Z"
-category: "gaming"
+title: 'Epic Games Store: Nova leva de jogos indie gratuitos à vista'
+date: '2025-12-29T08:29:28.263Z'
+category: gaming
 tags:
   - Epic Games Store
   - jogos grátis
   - indie games
   - PC gaming
   - ofertas digitais
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Epic-Games-Store-December-29-free-game-predictions-2025.jpg"
-image_source: "rss"
-description: "A Epic Games Store continua a sua tradição de jogos grátis, e os rumores apontam para mais um título indie a ser oferecido no dia 29 de dezembro. Fica a par ..."
-source_url: "https://www.notebookcheck.net/Epic-Games-Store-December-29-free-game-predictions-point-to-another-indie-hit.1193389.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Epic-Games-Store-December-29-free-game-predictions-2025.jpg
+image_source: rss
+description: >-
+  A Epic Games Store continua a sua tradição de jogos grátis, e os rumores
+  apontam para mais um título indie a ser oferecido no dia 29 de dezembro. Fica
+  a par.
+source_url: >-
+  https://www.notebookcheck.net/Epic-Games-Store-December-29-free-game-predictions-point-to-another-indie-hit.1193389.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

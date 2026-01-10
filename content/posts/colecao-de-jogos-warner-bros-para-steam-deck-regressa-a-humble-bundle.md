@@ -1,17 +1,22 @@
 ---
-title: "Coleção de jogos Warner Bros. para Steam Deck regressa à Humble Bundle"
-date: "2025-12-15T08:28:23.990Z"
-category: "gaming"
+title: Coleção de jogos Warner Bros. para Steam Deck regressa à Humble Bundle
+date: '2025-12-15T08:28:23.990Z'
+category: gaming
 tags:
   - Humble Bundle
   - Steam Deck
   - jogos
   - Warner Bros.
   - promoção
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-offers-Steam-Deck-playable-WB-Play-the-Legends-collection-again.jpg"
-image_source: "rss"
-description: "Uma popular coleção de jogos da Warner Bros. para o Steam Deck está de volta na Humble Bundle. Descobre os títulos aclamados pela crítica e aproveita esta of..."
-source_url: "https://www.notebookcheck.net/Top-selling-Steam-Deck-playable-games-collection-returns-on-Humble-Bundle-for-short-time.1185836.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-offers-Steam-Deck-playable-WB-Play-the-Legends-collection-again.jpg
+image_source: rss
+description: >-
+  Uma popular coleção de jogos da Warner Bros. para o Steam Deck está de volta
+  na Humble Bundle. Descobre os títulos aclamados pela crítica e aproveita esta
+  of.
+source_url: >-
+  https://www.notebookcheck.net/Top-selling-Steam-Deck-playable-games-collection-returns-on-Humble-Bundle-for-short-time.1185836.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

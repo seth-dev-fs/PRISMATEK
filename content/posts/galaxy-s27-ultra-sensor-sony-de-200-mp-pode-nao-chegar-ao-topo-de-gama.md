@@ -1,17 +1,22 @@
 ---
-title: "Galaxy S27 Ultra: Sensor Sony de 200 MP pode não chegar ao topo de gama"
-date: "2025-11-27T16:51:24.603Z"
-category: "smartphones"
+title: 'Galaxy S27 Ultra: Sensor Sony de 200 MP pode não chegar ao topo de gama'
+date: '2025-11-27T16:51:24.603Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S27 Ultra
   - câmara
   - smartphones
   - rumores
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-s25-ultra-152.JPG"
-image_source: "rss"
-description: "O futuro Galaxy S27 Ultra da Samsung poderá desapontar fãs de fotografia. Novos rumores indicam que o topo de gama de 2027 não terá o sensor Sony de 200 MP. ..."
-source_url: "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-New-leak-brings-disappointing-camera-news-for-2027-bound-flagship.1172214.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-s25-ultra-152.JPG
+image_source: rss
+description: >-
+  O futuro Galaxy S27 Ultra da Samsung poderá desapontar fãs de fotografia.
+  Novos rumores indicam que o topo de gama de 2027 não terá o sensor Sony de 200
+  MP.
+source_url: >-
+  https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-New-leak-brings-disappointing-camera-news-for-2027-bound-flagship.1172214.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Samsung Good Lock: One Hand Operation+ otimizado para One UI 8.5"
-date: "2025-12-15T04:37:20.687Z"
-category: "smartphones"
+title: 'Samsung Good Lock: One Hand Operation+ otimizado para One UI 8.5'
+date: '2025-12-15T04:37:20.687Z'
+category: smartphones
 tags:
   - Samsung
   - One UI 8.5
   - Good Lock
   - Android
   - atualização
-image: "https://www.sammobile.com/wp-content/uploads/2023/10/Samsung-One-Hand-Operation-1.jpg"
-image_source: "rss"
-description: "O módulo One Hand Operation+ da Samsung Good Lock foi atualizado para total compatibilidade com a nova interface One UI 8.5. Conheça as novidades! A Samsung ..."
-source_url: "https://www.sammobile.com/news/samsung-updates-good-lock-one-hand-operation-one-ui-8-5-support"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2023/10/Samsung-One-Hand-Operation-1.jpg
+image_source: rss
+description: >-
+  O módulo One Hand Operation+ da Samsung Good Lock foi atualizado para total
+  compatibilidade com a nova interface One UI 8.5. Conheça as novidades! A
+  Samsung.
+source_url: >-
+  https://www.sammobile.com/news/samsung-updates-good-lock-one-hand-operation-one-ui-8-5-support
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "OnePlus 15: O Flagship que Conquista o Mercado Global"
-date: "2025-12-19T10:20:15.546Z"
-category: "smartphones"
+title: 'OnePlus 15: O Flagship que Conquista o Mercado Global'
+date: '2025-12-19T10:20:15.546Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - Android
   - OnePlus 15
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15-usa-price-sale-date/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "O OnePlus 15 expande a sua presença global com a chegada ao mercado norte-americano, oferecendo design e desempenho. Conheça os detalhes. O OnePlus 15, um do..."
-source_url: "https://www.gsmarena.com/oneplus_15_usa_price_sale_date-news-70789.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15-usa-price-sale-date/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  O OnePlus 15 expande a sua presença global com a chegada ao mercado
+  norte-americano, oferecendo design e desempenho. Conheça os detalhes. O
+  OnePlus 15, um do.
+source_url: 'https://www.gsmarena.com/oneplus_15_usa_price_sale_date-news-70789.php'
 draft: false
 needs_review: false
 photographer_name: undefined

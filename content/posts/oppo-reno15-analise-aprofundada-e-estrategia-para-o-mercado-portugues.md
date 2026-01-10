@@ -1,7 +1,7 @@
 ---
-title: "Oppo Reno15: Análise Aprofundada e Estratégia para o Mercado Português"
-date: "2026-01-10T03:22:06.430Z"
-category: "smartphones"
+title: 'Oppo Reno15: Análise Aprofundada e Estratégia para o Mercado Português'
+date: '2026-01-10T03:22:06.430Z'
+category: smartphones
 tags:
   - Oppo
   - Reno15
@@ -9,10 +9,14 @@ tags:
   - Portugal
   - tecnologia
   - análise
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/oppo-reno15-hands-on/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Oppo Reno15 chega à Europa, prometendo um ecrã equilibrado e autonomia notável. Analisamos o seu impacto no mercado português, preço estimado e as alternat..."
-source_url: "https://www.gsmarena.com/oppo_reno15_handson-news-71036.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/oppo-reno15-hands-on/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Oppo Reno15 chega à Europa, prometendo um ecrã equilibrado e autonomia
+  notável. Analisamos o seu impacto no mercado português, preço estimado e as
+  alternat.
+source_url: 'https://www.gsmarena.com/oppo_reno15_handson-news-71036.php'
 draft: false
 needs_review: false
 photographer_name: undefined

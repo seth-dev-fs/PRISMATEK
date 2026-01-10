@@ -1,17 +1,23 @@
 ---
-title: "Índia: Trabalhadores da Gig Economy com novo estatuto legal"
-date: "2025-11-25T04:47:55.276Z"
-category: "internet-apps"
+title: 'Índia: Trabalhadores da Gig Economy com novo estatuto legal'
+date: '2025-11-25T04:47:55.276Z'
+category: internet-apps
 tags:
   - Índia
   - gig economy
   - trabalho digital
   - legislação
   - segurança social
-image: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1209176022.jpg?resize=1200,800"
-image_source: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1209176022.jpg?resize=1200,800"
-description: "A Índia reestrutura a sua gig economy com nova legislação, mas o acesso à segurança social para os trabalhadores continua um desafio. O que isto significa gl..."
-source_url: "https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1209176022.jpg?resize=1200,800
+image_source: >-
+  https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1209176022.jpg?resize=1200,800
+description: >-
+  A Índia reestrutura a sua gig economy com nova legislação, mas o acesso à
+  segurança social para os trabalhadores continua um desafio. O que isto
+  significa gl.
+source_url: >-
+  https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive
 draft: false
 needs_review: false
 ---

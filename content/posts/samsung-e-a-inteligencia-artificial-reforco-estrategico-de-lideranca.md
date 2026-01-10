@@ -1,17 +1,21 @@
 ---
-title: "Samsung e a Inteligência Artificial: Reforço estratégico de liderança"
-date: "2025-11-26T13:49:59.505Z"
-category: "ai-futuro"
+title: 'Samsung e a Inteligência Artificial: Reforço estratégico de liderança'
+date: '2025-11-26T13:49:59.505Z'
+category: ai-futuro
 tags:
   - Samsung
   - Inteligência Artificial
   - IA
   - executivos
   - estratégia
-image: "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-logo-8.jpg"
-image_source: "rss"
-description: "A Samsung está a fazer movimentos estratégicos para capitalizar a era da Inteligência Artificial. Conheça as promoções de executivos que reforçam esta aposta..."
-source_url: "https://www.sammobile.com/news/samsung-is-making-big-moves-to-win-in-the-ai-era"
+image: 'https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-logo-8.jpg'
+image_source: rss
+description: >-
+  A Samsung está a fazer movimentos estratégicos para capitalizar a era da
+  Inteligência Artificial. Conheça as promoções de executivos que reforçam esta
+  aposta.
+source_url: >-
+  https://www.sammobile.com/news/samsung-is-making-big-moves-to-win-in-the-ai-era
 draft: false
 needs_review: false
 photographer_name: undefined

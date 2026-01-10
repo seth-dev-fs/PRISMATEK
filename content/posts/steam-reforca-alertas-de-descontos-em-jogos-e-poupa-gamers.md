@@ -1,17 +1,22 @@
 ---
-title: "Steam reforça alertas de descontos em jogos e poupa gamers"
-date: "2025-12-14T08:23:40.138Z"
-category: "gaming"
+title: Steam reforça alertas de descontos em jogos e poupa gamers
+date: '2025-12-14T08:23:40.138Z'
+category: gaming
 tags:
   - Steam
   - jogos
   - descontos
   - Valve
   - gaming
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SteamShoppingBag.jpg"
-image_source: "rss"
-description: "A Steam implementa novas notificações que alertam os jogadores sobre descontos e preços mais baixos. Descubra como a Valve quer ajudá-lo a poupar nos seus jo..."
-source_url: "https://www.notebookcheck.net/Steam-adds-new-notifications-for-sale-prices-and-discounts-on-games-saving-buyers-money.1185066.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SteamShoppingBag.jpg
+image_source: rss
+description: >-
+  A Steam implementa novas notificações que alertam os jogadores sobre descontos
+  e preços mais baixos. Descubra como a Valve quer ajudá-lo a poupar nos seus
+  jo.
+source_url: >-
+  https://www.notebookcheck.net/Steam-adds-new-notifications-for-sale-prices-and-discounts-on-games-saving-buyers-money.1185066.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

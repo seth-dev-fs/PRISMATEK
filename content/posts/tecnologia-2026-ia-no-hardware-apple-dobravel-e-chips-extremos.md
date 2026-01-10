@@ -1,17 +1,22 @@
 ---
-title: "Tecnologia 2026: IA no hardware, Apple dobrável e chips extremos"
-date: "2025-12-02T20:45:13.482Z"
-category: "ai-futuro"
+title: 'Tecnologia 2026: IA no hardware, Apple dobrável e chips extremos'
+date: '2025-12-02T20:45:13.482Z'
+category: ai-futuro
 tags:
   - Inteligência Artificial
   - hardware
   - Apple
   - iPhone dobrável
   - tecnologia 2026
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pixabay_Maxwell_joe_Robot_KI_9223434_cr.jpg"
-image_source: "rss"
-description: "Previsões para 2026 apontam para uma revolução tecnológica: IA a dominar o hardware, o aguardado iPhone dobrável e chips que desafiam a refrigeração. O ano d..."
-source_url: "https://www.notebookcheck.net/Tech-forecast-2026-AI-hype-Apple-foldable-1000-watt-chips-and-robot-invasion.1175532.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pixabay_Maxwell_joe_Robot_KI_9223434_cr.jpg
+image_source: rss
+description: >-
+  Previsões para 2026 apontam para uma revolução tecnológica: IA a dominar o
+  hardware, o aguardado iPhone dobrável e chips que desafiam a refrigeração. O
+  ano d.
+source_url: >-
+  https://www.notebookcheck.net/Tech-forecast-2026-AI-hype-Apple-foldable-1000-watt-chips-and-robot-invasion.1175532.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

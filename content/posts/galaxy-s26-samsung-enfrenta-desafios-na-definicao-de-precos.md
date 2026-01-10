@@ -1,17 +1,21 @@
 ---
-title: "Galaxy S26: Samsung enfrenta desafios na definição de preços"
-date: "2025-12-27T08:23:18.789Z"
-category: "smartphones"
+title: 'Galaxy S26: Samsung enfrenta desafios na definição de preços'
+date: '2025-12-27T08:23:18.789Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S26
   - smartphones
   - preços
   - lançamento
-image: "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-S25-Edge-1-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung enfrenta dificuldades na fixação dos preços da série Galaxy S26, que chega em fevereiro de 2026. Descobre o que poderá influenciar o custo dos novo..."
-source_url: "https://www.sammobile.com/news/samsung-struggling-set-galaxy-s26-price"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-S25-Edge-1-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung enfrenta dificuldades na fixação dos preços da série Galaxy S26, que
+  chega em fevereiro de 2026. Descobre o que poderá influenciar o custo dos
+  novo.
+source_url: 'https://www.sammobile.com/news/samsung-struggling-set-galaxy-s26-price'
 draft: false
 needs_review: false
 photographer_name: undefined

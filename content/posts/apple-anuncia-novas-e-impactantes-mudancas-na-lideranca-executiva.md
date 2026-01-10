@@ -1,17 +1,21 @@
 ---
-title: "Apple Anuncia Novas e Impactantes Mudanças na Liderança Executiva"
-date: "2025-12-04T22:38:45.628Z"
-category: "smartphones"
+title: Apple Anuncia Novas e Impactantes Mudanças na Liderança Executiva
+date: '2025-12-04T22:38:45.628Z'
+category: smartphones
 tags:
   - Apple
   - liderança
   - executivos
   - mudanças
   - tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2236778494.jpg?quality=90&strip=all&crop=0%2C9.2355700067918%2C100%2C81.528859986416&w=1200"
-image_source: "rss"
-description: "A Apple prepara-se para uma nova vaga de mudanças na sua estrutura de liderança. Lisa Jackson e Kate Adams reformam-se, e Jennifer Newstead é a nova General ..."
-source_url: "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2236778494.jpg?quality=90&strip=all&crop=0%2C9.2355700067918%2C100%2C81.528859986416&w=1200
+image_source: rss
+description: >-
+  A Apple prepara-se para uma nova vaga de mudanças na sua estrutura de
+  liderança. Lisa Jackson e Kate Adams reformam-se, e Jennifer Newstead é a nova
+  General.
+source_url: 'https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring'
 draft: false
 needs_review: false
 photographer_name: undefined

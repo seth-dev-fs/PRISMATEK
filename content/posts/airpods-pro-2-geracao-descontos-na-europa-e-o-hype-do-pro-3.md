@@ -1,17 +1,21 @@
 ---
-title: "AirPods Pro (2.ª Geração): Descontos na Europa e o Hype do 'Pro 3'"
-date: "2025-12-16T22:17:10.923Z"
-category: "audio"
+title: 'AirPods Pro (2.ª Geração): Descontos na Europa e o Hype do ''Pro 3'''
+date: '2025-12-16T22:17:10.923Z'
+category: audio
 tags:
   - Apple
   - AirPods Pro
   - auriculares
   - áudio
   - descontos
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/Apple-AirPods-Pro-3-featured-image.jpg"
-image_source: "rss"
-description: "Procura os AirPods Pro (2.ª geração)? Boas notícias: estes aclamados auriculares sem fios da Apple estão a aparecer com descontos interessantes no mercado eu..."
-source_url: "https://www.androidauthority.com/apple-airpods-pro-3-deal-2-3625651"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/Apple-AirPods-Pro-3-featured-image.jpg
+image_source: rss
+description: >-
+  Procura os AirPods Pro (2.ª geração)? Boas notícias: estes aclamados
+  auriculares sem fios da Apple estão a aparecer com descontos interessantes no
+  mercado eu.
+source_url: 'https://www.androidauthority.com/apple-airpods-pro-3-deal-2-3625651'
 draft: false
 needs_review: false
 photographer_name: undefined

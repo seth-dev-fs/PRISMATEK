@@ -1,17 +1,22 @@
 ---
-title: "Circle to Search nos Pixel ganha rolagem contínua: o futuro da pesquisa mobile"
-date: "2025-12-04T08:56:38.505Z"
-category: "smartphones"
+title: 'Circle to Search nos Pixel ganha rolagem contínua: o futuro da pesquisa mobile'
+date: '2025-12-04T08:56:38.505Z'
+category: smartphones
 tags:
   - Google Pixel
   - Circle to Search
   - Android
   - pesquisa
   - inteligência artificial
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/circle-to-search-scroll-and-translate.jpg"
-image_source: "rss"
-description: "A funcionalidade Circle to Search do Google Pixel recebe uma atualização de peso com rolagem contínua. Descobre como esta melhoria otimiza a tua pesquisa vis..."
-source_url: "https://www.androidauthority.com/circle-to-search-continous-translation-3621994"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/circle-to-search-scroll-and-translate.jpg
+image_source: rss
+description: >-
+  A funcionalidade Circle to Search do Google Pixel recebe uma atualização de
+  peso com rolagem contínua. Descobre como esta melhoria otimiza a tua pesquisa
+  vis.
+source_url: >-
+  https://www.androidauthority.com/circle-to-search-continous-translation-3621994
 draft: false
 needs_review: false
 photographer_name: undefined

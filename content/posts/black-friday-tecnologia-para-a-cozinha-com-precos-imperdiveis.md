@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Tecnologia para a Cozinha com Preços Imperdíveis"
-date: "2025-11-27T20:35:40.499Z"
-category: "home"
+title: 'Black Friday: Tecnologia para a Cozinha com Preços Imperdíveis'
+date: '2025-11-27T20:35:40.499Z'
+category: home
 tags:
   - eletrodomésticos
   - cozinha
   - Black Friday
   - Ninja
   - KitchenAid
-image: "https://cdn.mos.cms.futurecdn.net/7EVfawtwaYjm5pdzfQ72a7-1280-80.png"
-image_source: "rss"
-description: "Descubra as melhores oportunidades em eletrodomésticos de cozinha de marcas como Ninja, Breville e KitchenAid durante a Black Friday europeia. É o momento de..."
-source_url: "https://www.techradar.com/seasonal-sales/ive-hand-picked-28-of-the-best-black-friday-kitchen-appliance-deals-from-ninja-breville-kitchenaid-and-more"
+image: 'https://cdn.mos.cms.futurecdn.net/7EVfawtwaYjm5pdzfQ72a7-1280-80.png'
+image_source: rss
+description: >-
+  Descubra as melhores oportunidades em eletrodomésticos de cozinha de marcas
+  como Ninja, Breville e KitchenAid durante a Black Friday europeia. É o momento
+  de.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/ive-hand-picked-28-of-the-best-black-friday-kitchen-appliance-deals-from-ninja-breville-kitchenaid-and-more
 draft: false
 needs_review: true
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Oportunidades em Tecnologia: Portáteis, TV e Consolas em Destaque"
-date: "2026-01-03T10:18:40.326Z"
-category: "entretenimento-gaming"
+title: 'Oportunidades em Tecnologia: Portáteis, TV e Consolas em Destaque'
+date: '2026-01-03T10:18:40.326Z'
+category: entretenimento-gaming
 tags:
   - tecnologia
   - portáteis
   - smart TV
   - PlayStation 5
   - gaming
-image: "https://i.blogs.es/0eb6d4/el-ejido-4-/840_560.jpeg"
-image_source: "rss"
-description: "Descubra as oportunidades imperdíveis em tecnologia que estão a animar o mercado europeu. De portáteis a TVs e consolas, aproveite estes destaques. À medida ..."
-source_url: "https://www.xataka.com/seleccion/portatiles-televisores-cinco-ofertas-top-tecnologia-corte-ingles-que-estan-a-punto-terminar"
+image: 'https://i.blogs.es/0eb6d4/el-ejido-4-/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra as oportunidades imperdíveis em tecnologia que estão a animar o
+  mercado europeu. De portáteis a TVs e consolas, aproveite estes destaques. À
+  medida.
+source_url: >-
+  https://www.xataka.com/seleccion/portatiles-televisores-cinco-ofertas-top-tecnologia-corte-ingles-que-estan-a-punto-terminar
 draft: false
 needs_review: false
 photographer_name: undefined

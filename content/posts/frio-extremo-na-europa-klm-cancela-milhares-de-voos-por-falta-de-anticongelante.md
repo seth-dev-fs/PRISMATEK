@@ -1,16 +1,22 @@
 ---
-title: "Frio Extremo na Europa: KLM Cancela Milhares de Voos por Falta de Anticongelante"
-date: "2026-01-10T10:25:09.206Z"
-category: "mobilidade"
+title: >-
+  Frio Extremo na Europa: KLM Cancela Milhares de Voos por Falta de
+  Anticongelante
+date: '2026-01-10T10:25:09.206Z'
+category: mobilidade
 tags:
   - KLM
   - Voo
   - Frio Extremo
   - Logística Aérea
-image: "https://i.blogs.es/6df526/david-syphers-qyv4wlluaj8-unsplash/840_560.jpeg"
-image_source: "rss"
-description: "A onda de frio polar que assola a Europa levou a KLM a cancelar mais de 2.300 voos devido à escassez de anticongelante. Um alerta para a infraestrutura aérea..."
-source_url: "https://www.xataka.com/movilidad/hace-frio-que-klm-ha-tenido-que-cancelar-2-300-vuelos-se-ha-quedado-anticongelante-para-sus-aviones"
+image: 'https://i.blogs.es/6df526/david-syphers-qyv4wlluaj8-unsplash/840_560.jpeg'
+image_source: rss
+description: >-
+  A onda de frio polar que assola a Europa levou a KLM a cancelar mais de 2.300
+  voos devido à escassez de anticongelante. Um alerta para a infraestrutura
+  aérea.
+source_url: >-
+  https://www.xataka.com/movilidad/hace-frio-que-klm-ha-tenido-que-cancelar-2-300-vuelos-se-ha-quedado-anticongelante-para-sus-aviones
 draft: false
 needs_review: false
 photographer_name: undefined

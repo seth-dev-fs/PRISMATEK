@@ -1,17 +1,20 @@
 ---
-title: "Chips Exynos da Samsung chegam aos automóveis BMW"
-date: "2025-12-30T08:26:39.443Z"
-category: "mobilidade"
+title: Chips Exynos da Samsung chegam aos automóveis BMW
+date: '2025-12-30T08:26:39.443Z'
+category: mobilidade
 tags:
   - Samsung
   - Exynos
   - BMW
   - automóveis
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2025/03/Samsung-Exynos-Auto-UA100-Chip-1200x675.jpg"
-image_source: "rss"
-description: "Os processadores Exynos da Samsung vão equipar os automóveis BMW, marcando uma expansão significativa da tecnológica coreana na indústria automóvel europeia...."
-source_url: "https://www.sammobile.com/news/samsungs-exynos-chips-making-it-to-bmw-cars"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/03/Samsung-Exynos-Auto-UA100-Chip-1200x675.jpg
+image_source: rss
+description: >-
+  Os processadores Exynos da Samsung vão equipar os automóveis BMW, marcando uma
+  expansão significativa da tecnológica coreana na indústria automóvel europeia.
+source_url: 'https://www.sammobile.com/news/samsungs-exynos-chips-making-it-to-bmw-cars'
 draft: false
 needs_review: false
 photographer_name: undefined

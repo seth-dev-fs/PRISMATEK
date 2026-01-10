@@ -1,17 +1,22 @@
 ---
-title: "Oportunidades Pós-Black Friday: TVs, Soundbars e Streaming em Destaque"
-date: "2025-11-30T22:39:38.927Z"
-category: "entretenimento-gaming"
+title: 'Oportunidades Pós-Black Friday: TVs, Soundbars e Streaming em Destaque'
+date: '2025-11-30T22:39:38.927Z'
+category: entretenimento-gaming
 tags:
   - TVs
   - Soundbars
   - Streaming
   - Home Cinema
   - Tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/TCL-TV-and-Z100-speakers.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra as melhores oportunidades para atualizar o seu sistema de entretenimento em casa. TVs 4K, soundbars imersivas e dispositivos de streaming com preços..."
-source_url: "https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/TCL-TV-and-Z100-speakers.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra as melhores oportunidades para atualizar o seu sistema de
+  entretenimento em casa. TVs 4K, soundbars imersivas e dispositivos de
+  streaming com preços.
+source_url: >-
+  https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday
 draft: false
 needs_review: false
 photographer_name: undefined

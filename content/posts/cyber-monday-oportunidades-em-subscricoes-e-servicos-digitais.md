@@ -1,17 +1,22 @@
 ---
-title: "Cyber Monday: Oportunidades em subscrições e serviços digitais"
-date: "2025-12-01T10:52:04.033Z"
-category: "internet-apps"
+title: 'Cyber Monday: Oportunidades em subscrições e serviços digitais'
+date: '2025-12-01T10:52:04.033Z'
+category: internet-apps
 tags:
   - Cyber Monday
   - descontos
   - serviços digitais
   - streaming
   - VPN
-image: "https://s.yimg.com/ny/api/res/1.2/ib7vhytSxt3mrDRAegK33Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/d6dcab70-ce10-11f0-bedf-7938a9197066"
-image_source: "rss"
-description: "A Cyber Monday é uma excelente altura para poupar em streaming, VPNs e apps. Descubra como aproveitar os descontos significativos nos serviços digitais na Eu..."
-source_url: "https://www.engadget.com/deals/cyber-monday-subscription-and-streaming-deals-are-here-big-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-174507016.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/ib7vhytSxt3mrDRAegK33Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/d6dcab70-ce10-11f0-bedf-7938a9197066
+image_source: rss
+description: >-
+  A Cyber Monday é uma excelente altura para poupar em streaming, VPNs e apps.
+  Descubra como aproveitar os descontos significativos nos serviços digitais na
+  Eu.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-subscription-and-streaming-deals-are-here-big-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-174507016.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

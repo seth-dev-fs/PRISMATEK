@@ -1,17 +1,21 @@
 ---
-title: "Ucrânia propõe trégua de Natal, mas Rússia recusa parar combates"
-date: "2025-12-21T18:23:03.366Z"
-category: "home"
+title: 'Ucrânia propõe trégua de Natal, mas Rússia recusa parar combates'
+date: '2025-12-21T18:23:03.366Z'
+category: home
 tags:
   - Ucrânia
   - Rússia
   - Guerra
   - Natal
   - Diplomacia
-image: "https://i.blogs.es/771239/ps---plantilla-portadas-xtk-565/840_560.jpeg"
-image_source: "rss"
-description: "Kiev sugere pausa nos combates por Natal, evocando a 1ª Guerra Mundial, mas Moscovo rejeita. A Rússia considera qualquer trégua uma armadilha, mantendo a gue..."
-source_url: "https://www.xataka.com/magnet/ucrania-ha-preguntado-a-rusia-paran-navidad-como-primera-guerra-mundial-respuesta-no-ha-podido-ser-rusa"
+image: 'https://i.blogs.es/771239/ps---plantilla-portadas-xtk-565/840_560.jpeg'
+image_source: rss
+description: >-
+  Kiev sugere pausa nos combates por Natal, evocando a 1ª Guerra Mundial, mas
+  Moscovo rejeita. A Rússia considera qualquer trégua uma armadilha, mantendo a
+  gue.
+source_url: >-
+  https://www.xataka.com/magnet/ucrania-ha-preguntado-a-rusia-paran-navidad-como-primera-guerra-mundial-respuesta-no-ha-podido-ser-rusa
 draft: false
 needs_review: true
 photographer_name: undefined

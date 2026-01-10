@@ -1,17 +1,21 @@
 ---
-title: "One UI 8.5: Samsung renova a experiência de wearables e atualizações"
-date: "2025-12-15T06:29:48.969Z"
-category: "smartphones"
+title: 'One UI 8.5: Samsung renova a experiência de wearables e atualizações'
+date: '2025-12-15T06:29:48.969Z'
+category: smartphones
 tags:
   - Samsung
   - One UI 8.5
   - smartphones
   - Galaxy Wearable
   - atualização
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/One-UI-8.5-1200x674.jpg"
-image_source: "rss"
-description: "A versão beta do One UI 8.5 da Samsung traz novidades visuais, com destaque para a configuração de wearables e o ecrã de atualizações. Conheça as melhorias n..."
-source_url: "https://www.sammobile.com/news/one-ui-8-5-brings-new-look-setting-up-galaxy-wearable"
+image: 'https://www.sammobile.com/wp-content/uploads/2025/12/One-UI-8.5-1200x674.jpg'
+image_source: rss
+description: >-
+  A versão beta do One UI 8.5 da Samsung traz novidades visuais, com destaque
+  para a configuração de wearables e o ecrã de atualizações. Conheça as
+  melhorias n.
+source_url: >-
+  https://www.sammobile.com/news/one-ui-8-5-brings-new-look-setting-up-galaxy-wearable
 draft: false
 needs_review: false
 photographer_name: undefined

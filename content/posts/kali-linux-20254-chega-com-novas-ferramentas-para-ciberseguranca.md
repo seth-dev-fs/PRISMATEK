@@ -1,17 +1,21 @@
 ---
-title: "Kali Linux 2025.4 chega com novas ferramentas para cibersegurança"
-date: "2025-12-13T01:14:32.444Z"
-category: "computadores"
+title: Kali Linux 2025.4 chega com novas ferramentas para cibersegurança
+date: '2025-12-13T01:14:32.444Z'
+category: computadores
 tags:
   - Kali Linux
   - cibersegurança
   - hacking ético
   - distro Linux
   - KDE Plasma 6.5
-image: "https://9to5linux.com/wp-content/uploads/2025/12/kl254.webp"
-image_source: "rss"
-description: "A nova versão do Kali Linux, 2025.4, já está disponível, trazendo 10 novas ferramentas essenciais para profissionais de cibersegurança e entusiastas. A Offen..."
-source_url: "https://9to5linux.com/kali-linux-2025-4-ethical-hacking-distro-released-with-kde-plasma-6-5-gnome-49"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/kl254.webp'
+image_source: rss
+description: >-
+  A nova versão do Kali Linux, 2025.4, já está disponível, trazendo 10 novas
+  ferramentas essenciais para profissionais de cibersegurança e entusiastas. A
+  Offen.
+source_url: >-
+  https://9to5linux.com/kali-linux-2025-4-ethical-hacking-distro-released-with-kde-plasma-6-5-gnome-49
 draft: false
 needs_review: false
 photographer_name: undefined

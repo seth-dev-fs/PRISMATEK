@@ -1,17 +1,22 @@
 ---
-title: "Red Dead Redemption no iOS: Qual o melhor Apple para jogar?"
-date: "2025-12-05T22:40:27.534Z"
-category: "gaming"
+title: 'Red Dead Redemption no iOS: Qual o melhor Apple para jogar?'
+date: '2025-12-05T22:40:27.534Z'
+category: gaming
 tags:
   - Red Dead Redemption
   - gaming
   - Apple
   - iOS
   - performance
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/red-dead-redemption-john-marston-game-scene.jpg"
-image_source: "rss"
-description: "Descobre como Red Dead Redemption se comporta nos dispositivos móveis da Apple. Testes revelam diferenças na performance entre iPhones e iPads. Escolhe o mel..."
-source_url: "https://www.notebookcheck.net/Red-Dead-Redemption-mobile-performance-tested-This-is-the-best-Apple-mobile-device-to-play-it-on.1178960.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/red-dead-redemption-john-marston-game-scene.jpg
+image_source: rss
+description: >-
+  Descobre como Red Dead Redemption se comporta nos dispositivos móveis da
+  Apple. Testes revelam diferenças na performance entre iPhones e iPads. Escolhe
+  o mel.
+source_url: >-
+  https://www.notebookcheck.net/Red-Dead-Redemption-mobile-performance-tested-This-is-the-best-Apple-mobile-device-to-play-it-on.1178960.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

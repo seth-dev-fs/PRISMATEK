@@ -1,17 +1,22 @@
 ---
-title: "Apple continua 'dança das cadeiras' na sua cúpula de liderança"
-date: "2025-12-04T22:39:21.357Z"
-category: "home"
+title: Apple continua 'dança das cadeiras' na sua cúpula de liderança
+date: '2025-12-04T22:39:21.357Z'
+category: home
 tags:
   - Apple
   - gestão
   - executivos
   - liderança
   - reorganização
-image: "https://techcrunch.com/wp-content/uploads/2023/09/lisa-jackson-apple-disrupt-2023.jpg?resize=1200,800"
-image_source: "rss"
-description: "A Apple vê a saída de dois executivos seniores, incluindo a conselheira-geral. Jennifer Newstead, da Meta, assume em 2026, numa fase de reorganização da lide..."
-source_url: "https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2023/09/lisa-jackson-apple-disrupt-2023.jpg?resize=1200,800
+image_source: rss
+description: >-
+  A Apple vê a saída de dois executivos seniores, incluindo a conselheira-geral.
+  Jennifer Newstead, da Meta, assume em 2026, numa fase de reorganização da
+  lide.
+source_url: >-
+  https://techcrunch.com/2025/12/04/apples-executive-shakeup-continues-with-departures-of-general-counsel-and-policy-head
 draft: false
 needs_review: true
 photographer_name: undefined

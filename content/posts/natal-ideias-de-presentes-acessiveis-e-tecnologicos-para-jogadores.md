@@ -1,17 +1,21 @@
 ---
-title: "Natal: Ideias de Presentes Acessíveis e Tecnológicos para Jogadores"
-date: "2025-12-02T16:59:47.258Z"
-category: "gaming"
+title: 'Natal: Ideias de Presentes Acessíveis e Tecnológicos para Jogadores'
+date: '2025-12-02T16:59:47.258Z'
+category: gaming
 tags:
   - gaming
   - Natal
   - presentes
   - jogadores
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/koczfpwiuWeujCtUmKKg89-1280-80.jpg"
-image_source: "rss"
-description: "Prepara-te para a época festiva com as nossas sugestões de presentes tecnológicos para jogadores. Encontra as melhores ideias para surpreender sem gastar uma..."
-source_url: "https://www.techradar.com/gaming/get-your-christmas-shopping-done-early-with-these-cheap-stocking-filler-gifts-for-gamers"
+image: 'https://cdn.mos.cms.futurecdn.net/koczfpwiuWeujCtUmKKg89-1280-80.jpg'
+image_source: rss
+description: >-
+  Prepara-te para a época festiva com as nossas sugestões de presentes
+  tecnológicos para jogadores. Encontra as melhores ideias para surpreender sem
+  gastar uma.
+source_url: >-
+  https://www.techradar.com/gaming/get-your-christmas-shopping-done-early-with-these-cheap-stocking-filler-gifts-for-gamers
 draft: false
 needs_review: false
 photographer_name: undefined

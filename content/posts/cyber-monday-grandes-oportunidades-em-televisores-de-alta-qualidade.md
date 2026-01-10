@@ -1,17 +1,20 @@
 ---
-title: "Cyber Monday: Grandes Oportunidades em Televisores de Alta Qualidade"
-date: "2025-12-01T07:01:04.276Z"
-category: "entretenimento-gaming"
+title: 'Cyber Monday: Grandes Oportunidades em Televisores de Alta Qualidade'
+date: '2025-12-01T07:01:04.276Z'
+category: entretenimento-gaming
 tags:
   - Cyber Monday
   - TVs
   - descontos
   - OLED
   - 4K
-image: "https://cdn.mos.cms.futurecdn.net/QJgB5aWg2szGm6X7e4mwye-1280-80.jpg"
-image_source: "rss"
-description: "Prepare-se para a Cyber Monday e descubra os melhores descontos em TVs OLED e 4K. Samsung, LG, Hisense e TCL com preços mais competitivos na Europa. A Cyber ..."
-source_url: "https://www.techradar.com/live/news/cyber-monday-tv-deals-2025"
+image: 'https://cdn.mos.cms.futurecdn.net/QJgB5aWg2szGm6X7e4mwye-1280-80.jpg'
+image_source: rss
+description: >-
+  Prepare-se para a Cyber Monday e descubra os melhores descontos em TVs OLED e
+  4K. Samsung, LG, Hisense e TCL com preços mais competitivos na Europa. A
+  Cyber.
+source_url: 'https://www.techradar.com/live/news/cyber-monday-tv-deals-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

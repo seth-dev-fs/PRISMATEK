@@ -1,17 +1,21 @@
 ---
-title: "Netflix adquire Warner Bros. Discovery: Um Terramoto no Entretenimento"
-date: "2025-12-05T08:53:11.246Z"
-category: "entretenimento-gaming"
+title: 'Netflix adquire Warner Bros. Discovery: Um Terramoto no Entretenimento'
+date: '2025-12-05T08:53:11.246Z'
+category: entretenimento-gaming
 tags:
   - Netflix
   - Warner Bros.
   - streaming
   - aquisição
   - entretenimento
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB374_WARNER_BROS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "A Netflix sagra-se vencedora na guerra de licitações pela Warner Bros., adquirindo o estúdio e o negócio de streaming. Prepara-se uma nova era no entretenime..."
-source_url: "https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB374_WARNER_BROS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  A Netflix sagra-se vencedora na guerra de licitações pela Warner Bros.,
+  adquirindo o estúdio e o negócio de streaming. Prepara-se uma nova era no
+  entretenime.
+source_url: 'https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout'
 draft: false
 needs_review: false
 photographer_name: undefined

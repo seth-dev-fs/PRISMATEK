@@ -1,17 +1,22 @@
 ---
-title: "Monarch Money: A app que revoluciona a gestão das suas finanças"
-date: "2025-11-29T06:54:33.427Z"
-category: "internet-apps"
+title: 'Monarch Money: A app que revoluciona a gestão das suas finanças'
+date: '2025-11-29T06:54:33.427Z'
+category: internet-apps
 tags:
   - gestão financeira
   - aplicações
   - orçamento
   - Monarch Money
   - finanças pessoais
-image: "https://s.yimg.com/ny/api/res/1.2/t8tHnH_U7TskwsI8N7xGcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/bbc6fec0-a8f5-11f0-b9f4-3a833197801f"
-image_source: "rss"
-description: "Descubra como aplicações de gestão financeira, como a Monarch Money, podem transformar o controlo das suas despesas e investimentos. Uma ferramenta poderosa ..."
-source_url: "https://www.engadget.com/deals/one-of-our-favorite-budgeting-apps-has-half-off-subscriptions-for-black-friday-174011903.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/t8tHnH_U7TskwsI8N7xGcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/bbc6fec0-a8f5-11f0-b9f4-3a833197801f
+image_source: rss
+description: >-
+  Descubra como aplicações de gestão financeira, como a Monarch Money, podem
+  transformar o controlo das suas despesas e investimentos. Uma ferramenta
+  poderosa.
+source_url: >-
+  https://www.engadget.com/deals/one-of-our-favorite-budgeting-apps-has-half-off-subscriptions-for-black-friday-174011903.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

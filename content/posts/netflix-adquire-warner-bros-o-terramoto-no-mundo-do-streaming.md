@@ -1,17 +1,21 @@
 ---
-title: "Netflix Adquire Warner Bros.: O Terramoto no Mundo do Streaming"
-date: "2025-12-05T16:54:45.390Z"
-category: "entretenimento-gaming"
+title: 'Netflix Adquire Warner Bros.: O Terramoto no Mundo do Streaming'
+date: '2025-12-05T16:54:45.390Z'
+category: entretenimento-gaming
 tags:
   - Netflix
   - Warner Bros.
   - HBO Max
   - Streaming
   - Entretenimento
-image: "https://i.blogs.es/73d51b/ps---plantilla-portadas-xtk/840_560.jpeg"
-image_source: "rss"
-description: "A Netflix adquiriu a Warner Bros. por 82,7 mil milhões de dólares, num movimento que redesenha o panorama do streaming. O que muda para o HBO Max e os conteú..."
-source_url: "https://www.xataka.com/streaming/todas-preguntas-respuesta-que-deja-compra-warner-parte-netflix-jaleo-descomunal"
+image: 'https://i.blogs.es/73d51b/ps---plantilla-portadas-xtk/840_560.jpeg'
+image_source: rss
+description: >-
+  A Netflix adquiriu a Warner Bros. por 82,7 mil milhões de dólares, num
+  movimento que redesenha o panorama do streaming. O que muda para o HBO Max e
+  os conteú.
+source_url: >-
+  https://www.xataka.com/streaming/todas-preguntas-respuesta-que-deja-compra-warner-parte-netflix-jaleo-descomunal
 draft: false
 needs_review: false
 photographer_name: undefined

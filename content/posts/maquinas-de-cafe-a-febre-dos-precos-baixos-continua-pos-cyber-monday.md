@@ -1,17 +1,21 @@
 ---
-title: "Máquinas de Café: A febre dos preços baixos continua pós-Cyber Monday"
-date: "2025-12-01T04:19:55.052Z"
-category: "home"
+title: 'Máquinas de Café: A febre dos preços baixos continua pós-Cyber Monday'
+date: '2025-12-01T04:19:55.052Z'
+category: home
 tags:
   - Máquinas de café
   - Eletrodomésticos
   - Black Friday
   - Cyber Monday
   - Tecnologia de cozinha
-image: "https://cdn.mos.cms.futurecdn.net/QPF3ckMgYoH3eimPKj9myi-1280-80.jpg"
-image_source: "rss"
-description: "Descubra as melhores oportunidades em máquinas de café após a Cyber Monday, com modelos como o Ninja Luxe Cafe a preços nunca vistos. Um guia para a sua próx..."
-source_url: "https://www.techradar.com/home/coffee-machines/ninjas-luxe-cafe-just-hit-a-record-low-for-cyber-monday-and-its-not-only-coffee-machine-with-a-better-than-black-friday-price"
+image: 'https://cdn.mos.cms.futurecdn.net/QPF3ckMgYoH3eimPKj9myi-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra as melhores oportunidades em máquinas de café após a Cyber Monday,
+  com modelos como o Ninja Luxe Cafe a preços nunca vistos. Um guia para a sua
+  próx.
+source_url: >-
+  https://www.techradar.com/home/coffee-machines/ninjas-luxe-cafe-just-hit-a-record-low-for-cyber-monday-and-its-not-only-coffee-machine-with-a-better-than-black-friday-price
 draft: false
 needs_review: true
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Novidades Apple CarPlay e Chave de Carro em Destaque no 9to5Mac"
-date: "2025-12-30T20:19:27.386Z"
-category: "mobilidade"
+title: Novidades Apple CarPlay e Chave de Carro em Destaque no 9to5Mac
+date: '2025-12-30T20:19:27.386Z'
+category: mobilidade
 tags:
   - Apple
   - CarPlay
   - mobilidade
   - chave digital
   - 9to5Mac
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "O 9to5Mac Daily aborda as novidades do Apple CarPlay e da chave de carro digital. A Apple foca-se na integração automóvel, moldando a experiência de condução..."
-source_url: "https://9to5mac.com/2025/12/30/daily-december-30-2025"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  O 9to5Mac Daily aborda as novidades do Apple CarPlay e da chave de carro
+  digital. A Apple foca-se na integração automóvel, moldando a experiência de
+  condução.
+source_url: 'https://9to5mac.com/2025/12/30/daily-december-30-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

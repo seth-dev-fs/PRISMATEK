@@ -1,17 +1,22 @@
 ---
-title: "As tendências tech que marcaram 2025: Bateria e design slim no topo"
-date: "2026-01-02T08:26:10.181Z"
-category: "smartphones"
+title: 'As tendências tech que marcaram 2025: Bateria e design slim no topo'
+date: '2026-01-02T08:26:10.181Z'
+category: smartphones
 tags:
   - tendências tech
   - smartphones
   - bateria
   - design
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/top-news-2025/-952x498w6/gsmarena_00.jpg"
-image_source: "rss"
-description: "Análise das notícias tech mais populares de 2025 revela foco em autonomia e design. Baterias de silício-carbono revolucionam smartphones chineses. À medida q..."
-source_url: "https://www.gsmarena.com/these_are_the_top_100_news_stories_of_2025-news-70841.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/top-news-2025/-952x498w6/gsmarena_00.jpg
+image_source: rss
+description: >-
+  Análise das notícias tech mais populares de 2025 revela foco em autonomia e
+  design. Baterias de silício-carbono revolucionam smartphones chineses. À
+  medida q.
+source_url: >-
+  https://www.gsmarena.com/these_are_the_top_100_news_stories_of_2025-news-70841.php
 draft: false
 needs_review: false
 photographer_name: undefined

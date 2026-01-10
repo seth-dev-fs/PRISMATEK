@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15: Câmaras Aguentam-se Após Cortes na Qualidade?"
-date: "2025-11-29T10:41:15.824Z"
-category: "smartphones"
+title: 'OnePlus 15: Câmaras Aguentam-se Após Cortes na Qualidade?'
+date: '2025-11-29T10:41:15.824Z'
+category: smartphones
 tags:
   - OnePlus
   - OnePlus 15
   - câmara
   - fotografia móvel
   - Lumo Engine
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/OnePlus/15/OnePlus_15_im_Kameratest.jpg"
-image_source: "rss"
-description: "O OnePlus 15 enfrenta desafios com a câmara, sem Hasselblad e lentes menos sensíveis. Será que o motor Lumo consegue compensar? Analisamos o impacto nos util..."
-source_url: "https://www.notebookcheck.net/Do-the-cameras-of-the-OnePlus-15-still-hold-up-despite-cost-cutting-measures.1173133.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/OnePlus/15/OnePlus_15_im_Kameratest.jpg
+image_source: rss
+description: >-
+  O OnePlus 15 enfrenta desafios com a câmara, sem Hasselblad e lentes menos
+  sensíveis. Será que o motor Lumo consegue compensar? Analisamos o impacto nos
+  util.
+source_url: >-
+  https://www.notebookcheck.net/Do-the-cameras-of-the-OnePlus-15-still-hold-up-despite-cost-cutting-measures.1173133.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

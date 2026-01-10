@@ -1,17 +1,23 @@
 ---
-title: "watchOS 26: Apple Watch ganha novas funções de saúde vitais"
-date: "2025-11-25T22:01:56.949Z"
-category: "wearables"
+title: 'watchOS 26: Apple Watch ganha novas funções de saúde vitais'
+date: '2025-11-25T22:01:56.949Z'
+category: wearables
 tags:
   - Apple Watch
   - watchOS 26
   - saúde digital
   - hipertensão
   - monitorização do sono
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "O watchOS 26 chega com duas funcionalidades poderosas para o Apple Watch: notificações de hipertensão e monitorização avançada do sono. Saiba o que muda na s..."
-source_url: "https://9to5mac.com/2025/11/25/watchos-26-brings-two-powerful-health-features-for-apple-watch"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  O watchOS 26 chega com duas funcionalidades poderosas para o Apple Watch:
+  notificações de hipertensão e monitorização avançada do sono. Saiba o que muda
+  na s.
+source_url: >-
+  https://9to5mac.com/2025/11/25/watchos-26-brings-two-powerful-health-features-for-apple-watch
 draft: false
 needs_review: false
 ---

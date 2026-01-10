@@ -1,17 +1,22 @@
 ---
-title: "PS5 Slim: Testes de ruído revelam consola mais silenciosa"
-date: "2025-12-05T03:46:21.983Z"
-category: "gaming"
+title: 'PS5 Slim: Testes de ruído revelam consola mais silenciosa'
+date: '2025-12-05T03:46:21.983Z'
+category: gaming
 tags:
   - PS5 Slim
   - Sony
   - gaming
   - PlayStation 5
   - ruído
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5SlimDigitalwithNoiseMeter.jpg"
-image_source: "rss"
-description: "A PS5 Slim é mais silenciosa. Testes de ruído confirmam que o modelo europeu da consola da Sony é mais tranquilo que os anteriores. Uma boa notícia para os j..."
-source_url: "https://www.notebookcheck.net/Noise-tests-reveal-if-the-new-PS5-Slim-model-makes-gaming-on-the-console-more-peaceful.1177936.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5SlimDigitalwithNoiseMeter.jpg
+image_source: rss
+description: >-
+  A PS5 Slim é mais silenciosa. Testes de ruído confirmam que o modelo europeu
+  da consola da Sony é mais tranquilo que os anteriores. Uma boa notícia para os
+  j.
+source_url: >-
+  https://www.notebookcheck.net/Noise-tests-reveal-if-the-new-PS5-Slim-model-makes-gaming-on-the-console-more-peaceful.1177936.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

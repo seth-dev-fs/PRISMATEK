@@ -1,17 +1,22 @@
 ---
-title: "Nintendo Switch 2: Primeiro desconto de sempre agita o mercado"
-date: "2025-12-01T19:02:41.727Z"
-category: "gaming"
+title: 'Nintendo Switch 2: Primeiro desconto de sempre agita o mercado'
+date: '2025-12-01T19:02:41.727Z'
+category: gaming
 tags:
   - Nintendo Switch 2
   - gaming
   - consola
   - Nintendo
   - metroid prime 4
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "A aguardada Nintendo Switch 2, sucessora da popular consola, registou o seu primeiro desconto em vendas nos EUA. Conheça as suas especificações e impacto no ..."
-source_url: "https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0395_588c1a.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  A aguardada Nintendo Switch 2, sucessora da popular consola, registou o seu
+  primeiro desconto em vendas nos EUA. Conheça as suas especificações e impacto
+  no.
+source_url: >-
+  https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale
 draft: false
 needs_review: false
 photographer_name: undefined

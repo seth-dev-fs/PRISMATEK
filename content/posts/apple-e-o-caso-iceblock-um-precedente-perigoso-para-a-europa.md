@@ -1,7 +1,7 @@
 ---
-title: "Apple e o Caso ICEBlock: Um Precedente Perigoso para a Europa"
-date: "2026-01-09T22:17:38.844Z"
-category: "internet-apps"
+title: 'Apple e o Caso ICEBlock: Um Precedente Perigoso para a Europa'
+date: '2026-01-09T22:17:38.844Z'
+category: internet-apps
 tags:
   - Apple
   - App Store
@@ -9,10 +9,15 @@ tags:
   - DSA
   - Privacidade
   - Liberdade de Expressão
-image: "https://s.yimg.com/ny/api/res/1.2/6WZYzRH0XauOb7LT8zKIIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-01/a84adce8-6e43-443b-a28d-24d5f68dd5f9"
-image_source: "rss"
-description: "A decisão da Apple de remover a app ICEBlock, após uma morte trágica nos EUA, levanta questões críticas sobre a moderação de conteúdo nas plataformas e o imp..."
-source_url: "https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/6WZYzRH0XauOb7LT8zKIIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-01/a84adce8-6e43-443b-a28d-24d5f68dd5f9
+image_source: rss
+description: >-
+  A decisão da Apple de remover a app ICEBlock, após uma morte trágica nos EUA,
+  levanta questões críticas sobre a moderação de conteúdo nas plataformas e o
+  imp.
+source_url: >-
+  https://www.engadget.com/big-tech/its-time-for-apple-to-reinstate-iceblock-220802356.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

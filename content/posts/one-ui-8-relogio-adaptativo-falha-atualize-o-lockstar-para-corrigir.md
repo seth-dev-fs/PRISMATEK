@@ -1,17 +1,22 @@
 ---
-title: "One UI 8: Relógio Adaptativo falha? Atualize o LockStar para corrigir"
-date: "2025-11-28T06:58:27.223Z"
-category: "smartphones"
+title: 'One UI 8: Relógio Adaptativo falha? Atualize o LockStar para corrigir'
+date: '2025-11-28T06:58:27.223Z'
+category: smartphones
 tags:
   - Samsung
   - One UI 8
   - Relógio Adaptativo
   - LockStar
   - smartphones
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-One-UI-8.0-1200x675.jpg"
-image_source: "rss"
-description: "Utilizadores Samsung reportam falhas no Relógio Adaptativo do One UI 8. Descubra a solução simples para este problema estético e funcional: uma atualização e..."
-source_url: "https://www.sammobile.com/news/if-one-ui-8-adaptive-clock-isnt-working-you-may-try-updating-lockstar"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-One-UI-8.0-1200x675.jpg
+image_source: rss
+description: >-
+  Utilizadores Samsung reportam falhas no Relógio Adaptativo do One UI 8.
+  Descubra a solução simples para este problema estético e funcional: uma
+  atualização e.
+source_url: >-
+  https://www.sammobile.com/news/if-one-ui-8-adaptive-clock-isnt-working-you-may-try-updating-lockstar
 draft: false
 needs_review: false
 photographer_name: undefined

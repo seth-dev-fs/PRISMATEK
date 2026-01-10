@@ -1,17 +1,21 @@
 ---
-title: "Expedição Franklin: Ciência desvenda mistério após 170 anos"
-date: "2025-12-27T08:22:12.782Z"
-category: "ciencia"
+title: 'Expedição Franklin: Ciência desvenda mistério após 170 anos'
+date: '2025-12-27T08:22:12.782Z'
+category: ciencia
 tags:
   - Expedição Franklin
   - ciência forense
   - descobertas históricas
   - Ártico
   - nutrição
-image: "https://i.blogs.es/66bd6c/frabnklin-1-/840_560.jpeg"
-image_source: "rss"
-description: "A expedição perdida de John Franklin no Ártico, em 1845, intrigou o mundo por séculos. A ciência moderna revelou agora a causa da tragédia. Em maio de 1845, ..."
-source_url: "https://www.xataka.com/magnet/1845-expedicion-john-franklin-zarpo-busca-paso-noroeste-180-anos-despues-su-perdida-sigue-siendo-misterio"
+image: 'https://i.blogs.es/66bd6c/frabnklin-1-/840_560.jpeg'
+image_source: rss
+description: >-
+  A expedição perdida de John Franklin no Ártico, em 1845, intrigou o mundo por
+  séculos. A ciência moderna revelou agora a causa da tragédia. Em maio de
+  1845,.
+source_url: >-
+  https://www.xataka.com/magnet/1845-expedicion-john-franklin-zarpo-busca-paso-noroeste-180-anos-despues-su-perdida-sigue-siendo-misterio
 draft: false
 needs_review: false
 photographer_name: undefined

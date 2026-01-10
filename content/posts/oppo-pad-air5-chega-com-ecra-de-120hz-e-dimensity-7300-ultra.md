@@ -1,17 +1,22 @@
 ---
-title: "Oppo Pad Air5 chega com ecrã de 120Hz e Dimensity 7300-Ultra"
-date: "2025-12-25T10:18:47.819Z"
-category: "smartphones"
+title: Oppo Pad Air5 chega com ecrã de 120Hz e Dimensity 7300-Ultra
+date: '2025-12-25T10:18:47.819Z'
+category: smartphones
 tags:
   - Oppo
   - Pad Air5
   - tablet
   - MediaTek
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oppo-pad-air5-ofic/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Oppo acaba de lançar o seu novo tablet, o Pad Air5, no mercado chinês. Com um ecrã de 12.1 polegadas a 120Hz e chip Dimensity 7300-Ultra, promete desempenh..."
-source_url: "https://www.gsmarena.com/oppo_pad_air5_goes_official_with_121inch_display_dimensity_7300ultra_soc-news-70861.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oppo-pad-air5-ofic/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Oppo acaba de lançar o seu novo tablet, o Pad Air5, no mercado chinês. Com
+  um ecrã de 12.1 polegadas a 120Hz e chip Dimensity 7300-Ultra, promete
+  desempenh.
+source_url: >-
+  https://www.gsmarena.com/oppo_pad_air5_goes_official_with_121inch_display_dimensity_7300ultra_soc-news-70861.php
 draft: false
 needs_review: false
 photographer_name: undefined

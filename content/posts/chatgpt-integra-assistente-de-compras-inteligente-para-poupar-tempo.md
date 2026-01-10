@@ -1,17 +1,23 @@
 ---
-title: "ChatGPT integra assistente de compras inteligente para poupar tempo"
-date: "2025-11-24T18:55:33.972Z"
-category: "ai-futuro"
+title: ChatGPT integra assistente de compras inteligente para poupar tempo
+date: '2025-11-24T18:55:33.972Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - IA
   - compras online
   - OpenAI
   - assistente virtual
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Shopping_Research-Blog-16x9.png.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Shopping_Research-Blog-16x9.png.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "O ChatGPT integra uma nova ferramenta de assistência às compras, tornando a busca por produtos online mais eficiente e rápida para os utilizadores. Uma novid..."
-source_url: "https://9to5mac.com/2025/11/24/chatgpt-adds-ai-shopping-assistant-to-find-the-right-products-faster"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Shopping_Research-Blog-16x9.png.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Shopping_Research-Blog-16x9.png.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  O ChatGPT integra uma nova ferramenta de assistência às compras, tornando a
+  busca por produtos online mais eficiente e rápida para os utilizadores. Uma
+  novid.
+source_url: >-
+  https://9to5mac.com/2025/11/24/chatgpt-adds-ai-shopping-assistant-to-find-the-right-products-faster
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Auscultadores e Auriculares de Topo com Preços Atrativos"
-date: "2025-11-28T18:55:34.818Z"
-category: "audio"
+title: 'Black Friday: Auscultadores e Auriculares de Topo com Preços Atrativos'
+date: '2025-11-28T18:55:34.818Z'
+category: audio
 tags:
   - audio
   - auscultadores
   - auriculares
   - Black Friday
   - tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475374/DSCF7374.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra os melhores auriculares e auscultadores de marcas como Apple, Sony e Bose que se destacam na Black Friday europeia com ofertas imperdíveis. A época ..."
-source_url: "https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475374/DSCF7374.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra os melhores auriculares e auscultadores de marcas como Apple, Sony e
+  Bose que se destacam na Black Friday europeia com ofertas imperdíveis. A
+  época.
+source_url: >-
+  https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025
 draft: false
 needs_review: false
 photographer_name: undefined

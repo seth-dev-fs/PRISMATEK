@@ -1,17 +1,22 @@
 ---
-title: "Lâmpada de 30.000 W derrete alumínio: O feito de um YouTuber"
-date: "2025-11-26T08:55:14.875Z"
-category: "ciencia"
+title: 'Lâmpada de 30.000 W derrete alumínio: O feito de um YouTuber'
+date: '2025-11-26T08:55:14.875Z'
+category: ciencia
 tags:
   - YouTuber
   - experiência
   - lâmpada
   - energia
   - ciência
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/30000-watt-light-bulb-experiments-12-1-screenshot.png"
-image_source: "rss"
-description: "Um YouTuber ultrapassou os limites ao ligar uma lâmpada de 30.000 W, gerando calor suficiente para derreter alumínio. Conheça este impressionante experimento..."
-source_url: "https://www.notebookcheck.net/YouTuber-powers-up-30-000-W-light-bulb-so-hot-it-melts-aluminum.1171185.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/30000-watt-light-bulb-experiments-12-1-screenshot.png
+image_source: rss
+description: >-
+  Um YouTuber ultrapassou os limites ao ligar uma lâmpada de 30.000 W, gerando
+  calor suficiente para derreter alumínio. Conheça este impressionante
+  experimento.
+source_url: >-
+  https://www.notebookcheck.net/YouTuber-powers-up-30-000-W-light-bulb-so-hot-it-melts-aluminum.1171185.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

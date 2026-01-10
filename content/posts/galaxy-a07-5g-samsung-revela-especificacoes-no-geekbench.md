@@ -1,17 +1,22 @@
 ---
-title: "Galaxy A07 5G: Samsung revela especificações no Geekbench"
-date: "2025-12-16T03:21:52.343Z"
-category: "smartphones"
+title: 'Galaxy A07 5G: Samsung revela especificações no Geekbench'
+date: '2025-12-16T03:21:52.343Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy A07 5G
   - smartphones
   - MediaTek
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-a07-5g-geekbench/-952x498w6/gsmarena_00.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy A07 5G surge no Geekbench com Android 16 e 4GB de RAM. Conheça os primeiros detalhes deste novo smartphone acessível da Samsung. A Samsung, ..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_a07_5g_specs_revealed_via_geekbench_listing-news-70725.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-a07-5g-geekbench/-952x498w6/gsmarena_00.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy A07 5G surge no Geekbench com Android 16 e 4GB de RAM.
+  Conheça os primeiros detalhes deste novo smartphone acessível da Samsung. A
+  Samsung,.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_a07_5g_specs_revealed_via_geekbench_listing-news-70725.php
 draft: false
 needs_review: false
 photographer_name: undefined

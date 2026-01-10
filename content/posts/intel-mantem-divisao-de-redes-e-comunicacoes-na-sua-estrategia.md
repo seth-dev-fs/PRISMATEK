@@ -1,17 +1,21 @@
 ---
-title: "Intel mantém divisão de redes e comunicações na sua estratégia"
-date: "2025-12-05T10:47:05.278Z"
-category: "computadores"
+title: Intel mantém divisão de redes e comunicações na sua estratégia
+date: '2025-12-05T10:47:05.278Z'
+category: computadores
 tags:
   - Intel
   - redes
   - comunicações
   - estratégia
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/6d7cf232f256da242ddcd70ea9f0d062-1280-80.jpg"
-image_source: "rss"
-description: "A Intel inverte planos e decide manter a sua crucial divisão de redes e comunicações. Descobre o impacto desta decisão estratégica no futuro da gigante tecno..."
-source_url: "https://www.techradar.com/pro/intel-drops-plans-to-sell-networking-and-communication-division"
+image: 'https://cdn.mos.cms.futurecdn.net/6d7cf232f256da242ddcd70ea9f0d062-1280-80.jpg'
+image_source: rss
+description: >-
+  A Intel inverte planos e decide manter a sua crucial divisão de redes e
+  comunicações. Descobre o impacto desta decisão estratégica no futuro da
+  gigante tecno.
+source_url: >-
+  https://www.techradar.com/pro/intel-drops-plans-to-sell-networking-and-communication-division
 draft: false
 needs_review: false
 photographer_name: undefined

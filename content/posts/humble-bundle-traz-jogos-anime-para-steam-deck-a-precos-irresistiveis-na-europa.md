@@ -1,7 +1,9 @@
 ---
-title: "Humble Bundle Traz Jogos Anime para Steam Deck a Preços Irresistíveis na Europa"
-date: "2026-01-10T08:22:28.638Z"
-category: "gaming"
+title: >-
+  Humble Bundle Traz Jogos Anime para Steam Deck a Preços Irresistíveis na
+  Europa
+date: '2026-01-10T08:22:28.638Z'
+category: gaming
 tags:
   - Humble Bundle
   - Steam Deck
@@ -9,10 +11,15 @@ tags:
   - oferta
   - Portugal
   - Europa
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-D3-Waifu-4U-games-collection.jpg"
-image_source: "rss"
-description: "Descubra o novo Humble Bundle 'D3 Waifu 4U', que oferece nove jogos de ação estilo anime compatíveis com Steam Deck por cerca de €2.50 cada. Uma análise deta..."
-source_url: "https://www.notebookcheck.net/Humble-Bundle-offers-nine-Steam-Deck-playable-anime-style-action-games-for-under-3-each.1201099.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-D3-Waifu-4U-games-collection.jpg
+image_source: rss
+description: >-
+  Descubra o novo Humble Bundle 'D3 Waifu 4U', que oferece nove jogos de ação
+  estilo anime compatíveis com Steam Deck por cerca de €2.50 cada. Uma análise
+  deta.
+source_url: >-
+  https://www.notebookcheck.net/Humble-Bundle-offers-nine-Steam-Deck-playable-anime-style-action-games-for-under-3-each.1201099.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

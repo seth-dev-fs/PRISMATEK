@@ -1,17 +1,21 @@
 ---
-title: "SSDs USB4 e Thunderbolt: O Desempenho Premium em Época de Saldo"
-date: "2025-11-26T13:49:33.303Z"
-category: "computadores"
+title: 'SSDs USB4 e Thunderbolt: O Desempenho Premium em Época de Saldo'
+date: '2025-11-26T13:49:33.303Z'
+category: computadores
 tags:
   - SSDs
   - USB4
   - Thunderbolt
   - armazenamento
   - desempenho
-image: "https://cdn.mos.cms.futurecdn.net/4BNGtCAjbwiaVkUgyDmDdT-1280-80.png"
-image_source: "rss"
-description: "SSDs USB4 e Thunderbolt prometem velocidades incríveis para o seu PC. Descubra como tirar partido destas soluções de armazenamento de alto desempenho no merc..."
-source_url: "https://www.techradar.com/pro/11-of-my-favorite-black-friday-deals-on-usb4-and-thunderbolt-ssds-have-arrived-these-are-the-ones-i-recommend-based-on-my-benchmarks-and-tests"
+image: 'https://cdn.mos.cms.futurecdn.net/4BNGtCAjbwiaVkUgyDmDdT-1280-80.png'
+image_source: rss
+description: >-
+  SSDs USB4 e Thunderbolt prometem velocidades incríveis para o seu PC. Descubra
+  como tirar partido destas soluções de armazenamento de alto desempenho no
+  merc.
+source_url: >-
+  https://www.techradar.com/pro/11-of-my-favorite-black-friday-deals-on-usb4-and-thunderbolt-ssds-have-arrived-these-are-the-ones-i-recommend-based-on-my-benchmarks-and-tests
 draft: false
 needs_review: false
 photographer_name: undefined

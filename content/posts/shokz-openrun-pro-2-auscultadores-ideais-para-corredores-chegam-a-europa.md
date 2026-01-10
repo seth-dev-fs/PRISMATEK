@@ -1,17 +1,21 @@
 ---
-title: "Shokz OpenRun Pro 2: Auscultadores Ideais Para Corredores Chegam à Europa"
-date: "2025-12-14T08:21:54.367Z"
-category: "audio"
+title: 'Shokz OpenRun Pro 2: Auscultadores Ideais Para Corredores Chegam à Europa'
+date: '2025-12-14T08:21:54.367Z'
+category: audio
 tags:
   - Shokz
   - OpenRun Pro 2
   - auscultadores
   - corrida
   - desporto
-image: "https://cdn.mos.cms.futurecdn.net/GHGg4YY6nZmG7ALZRKKocV-1280-80.jpg"
-image_source: "rss"
-description: "Os Shokz OpenRun Pro 2, perfeitos para corredores, chegam agora com um posicionamento de preço competitivo na Europa. Descobre as suas inovações e vantagens ..."
-source_url: "https://www.techradar.com/audio/headphones/runners-rejoice-the-shokz-openrun-pro-2-hit-a-record-low-price-at-amazon"
+image: 'https://cdn.mos.cms.futurecdn.net/GHGg4YY6nZmG7ALZRKKocV-1280-80.jpg'
+image_source: rss
+description: >-
+  Os Shokz OpenRun Pro 2, perfeitos para corredores, chegam agora com um
+  posicionamento de preço competitivo na Europa. Descobre as suas inovações e
+  vantagens.
+source_url: >-
+  https://www.techradar.com/audio/headphones/runners-rejoice-the-shokz-openrun-pro-2-hit-a-record-low-price-at-amazon
 draft: false
 needs_review: false
 photographer_name: undefined

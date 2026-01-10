@@ -1,17 +1,21 @@
 ---
-title: "UE reconsidera: Proibição de carros a combustão em 2035 revogada?"
-date: "2025-12-13T10:18:54.818Z"
-category: "mobilidade"
+title: 'UE reconsidera: Proibição de carros a combustão em 2035 revogada?'
+date: '2025-12-13T10:18:54.818Z'
+category: mobilidade
 tags:
   - UE
   - carros a combustão
   - veículos elétricos
   - mobilidade
   - política ambiental
-image: "https://cdn.mos.cms.futurecdn.net/SExL7K7X6gSgTLRqphdg8A-1280-80.jpg"
-image_source: "rss"
-description: "A UE pode reverter a proibição de carros a combustão interna em 2035. A fraca procura por elétricos leva à reavaliação desta meta ambiental. Descobre os impa..."
-source_url: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-inevitable-has-happened-the-eu-has-u-turned-on-its-plan-to-ban-the-sale-of-ice-cars-by-2035"
+image: 'https://cdn.mos.cms.futurecdn.net/SExL7K7X6gSgTLRqphdg8A-1280-80.jpg'
+image_source: rss
+description: >-
+  A UE pode reverter a proibição de carros a combustão interna em 2035. A fraca
+  procura por elétricos leva à reavaliação desta meta ambiental. Descobre os
+  impa.
+source_url: >-
+  https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/the-inevitable-has-happened-the-eu-has-u-turned-on-its-plan-to-ban-the-sale-of-ice-cars-by-2035
 draft: false
 needs_review: false
 photographer_name: undefined

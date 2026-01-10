@@ -1,17 +1,22 @@
 ---
-title: "Motorola Edge 70 prepara-se para novos mercados com bateria reforçada"
-date: "2025-12-04T06:59:28.646Z"
-category: "smartphones"
+title: Motorola Edge 70 prepara-se para novos mercados com bateria reforçada
+date: '2025-12-04T06:59:28.646Z'
+category: smartphones
 tags:
   - Motorola
   - smartphones
   - Motorola Edge 70
   - bateria
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/motorola-edge-70-india/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Motorola Edge 70, lançado globalmente em outubro, poderá receber uma bateria maior numa variante. Conheça os detalhes sobre a sua expansão para novos merca..."
-source_url: "https://www.gsmarena.com/heres_when_the_motorola_edge_70_is_rumored_to_reach_india-news-70557.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/motorola-edge-70-india/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Motorola Edge 70, lançado globalmente em outubro, poderá receber uma bateria
+  maior numa variante. Conheça os detalhes sobre a sua expansão para novos
+  merca.
+source_url: >-
+  https://www.gsmarena.com/heres_when_the_motorola_edge_70_is_rumored_to_reach_india-news-70557.php
 draft: false
 needs_review: false
 photographer_name: undefined

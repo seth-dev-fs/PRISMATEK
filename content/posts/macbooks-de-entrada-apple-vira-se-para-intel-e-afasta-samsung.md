@@ -1,17 +1,22 @@
 ---
-title: "MacBooks de entrada: Apple vira-se para Intel e afasta Samsung"
-date: "2025-11-30T18:52:33.921Z"
-category: "computadores"
+title: 'MacBooks de entrada: Apple vira-se para Intel e afasta Samsung'
+date: '2025-11-30T18:52:33.921Z'
+category: computadores
 tags:
   - Apple
   - Intel
   - MacBook
   - chips
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2023/10/Apple-MacBook-Air-MacBook-Pro-iMac-Mac-Mini-Mac-Studio-Mac-Pro.jpg"
-image_source: "rss"
-description: "A Apple explora a possibilidade de usar chips Intel 18A para os seus MacBooks de gama de entrada, num potencial afastamento da Samsung. Saiba mais sobre esta..."
-source_url: "https://www.sammobile.com/news/apple-turns-intel-instead-samsung-low-end-macbook-chips"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2023/10/Apple-MacBook-Air-MacBook-Pro-iMac-Mac-Mini-Mac-Studio-Mac-Pro.jpg
+image_source: rss
+description: >-
+  A Apple explora a possibilidade de usar chips Intel 18A para os seus MacBooks
+  de gama de entrada, num potencial afastamento da Samsung. Saiba mais sobre
+  esta.
+source_url: >-
+  https://www.sammobile.com/news/apple-turns-intel-instead-samsung-low-end-macbook-chips
 draft: false
 needs_review: false
 photographer_name: undefined

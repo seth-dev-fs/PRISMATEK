@@ -1,17 +1,20 @@
 ---
-title: "Firefox testa Vista Dividida para separadores: como ativar"
-date: "2025-12-24T03:21:24.734Z"
-category: "internet-apps"
+title: 'Firefox testa Vista Dividida para separadores: como ativar'
+date: '2025-12-24T03:21:24.734Z'
+category: internet-apps
 tags:
   - Firefox
   - navegador
   - Split View
   - produtividade
   - Mozilla
-image: "https://www.omgubuntu.co.uk/wp-content/uploads/2025/12/split-tab.jpg"
-image_source: "rss"
-description: "O navegador Firefox está a desenvolver uma funcionalidade de vista dividida para separadores, permitindo navegar em dois sites lado a lado. Saiba como ativá-..."
-source_url: "https://www.omgubuntu.co.uk/2025/12/enable-firefox-split-view-feature"
+image: 'https://www.omgubuntu.co.uk/wp-content/uploads/2025/12/split-tab.jpg'
+image_source: rss
+description: >-
+  O navegador Firefox está a desenvolver uma funcionalidade de vista dividida
+  para separadores, permitindo navegar em dois sites lado a lado. Saiba como
+  ativá-.
+source_url: 'https://www.omgubuntu.co.uk/2025/12/enable-firefox-split-view-feature'
 draft: false
 needs_review: false
 photographer_name: undefined

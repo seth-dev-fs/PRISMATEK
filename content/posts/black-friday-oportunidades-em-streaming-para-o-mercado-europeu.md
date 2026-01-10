@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Oportunidades em Streaming para o Mercado Europeu"
-date: "2025-11-29T08:47:58.704Z"
-category: "internet-apps"
+title: 'Black Friday: Oportunidades em Streaming para o Mercado Europeu'
+date: '2025-11-29T08:47:58.704Z'
+category: internet-apps
 tags:
   - streaming
   - Black Friday
   - serviços
   - entretenimento
   - promoções
-image: "https://s.yimg.com/ny/api/res/1.2/6S40xWxZtJBgrtFEGbzXOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b4927400-cc67-11f0-bb7f-f24d79f04dd0"
-image_source: "rss"
-description: "A Black Friday traz descontos em serviços de streaming populares, ideais para o inverno. Descubra como aproveitar as promoções no mercado europeu. Com a cheg..."
-source_url: "https://www.engadget.com/deals/black-friday-streaming-deals-drop-one-year-of-starz-down-to-just-12-143804639.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/6S40xWxZtJBgrtFEGbzXOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b4927400-cc67-11f0-bb7f-f24d79f04dd0
+image_source: rss
+description: >-
+  A Black Friday traz descontos em serviços de streaming populares, ideais para
+  o inverno. Descubra como aproveitar as promoções no mercado europeu. Com a
+  cheg.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-streaming-deals-drop-one-year-of-starz-down-to-just-12-143804639.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

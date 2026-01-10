@@ -1,17 +1,21 @@
 ---
-title: "Comando Thrustmaster Heart Xbox: A Experiência Gaming Aprimorada"
-date: "2026-01-07T10:20:52.922Z"
-category: "gaming"
+title: 'Comando Thrustmaster Heart Xbox: A Experiência Gaming Aprimorada'
+date: '2026-01-07T10:20:52.922Z'
+category: gaming
 tags:
   - Thrustmaster
   - Xbox
   - comando
   - gaming
   - acessórios
-image: "https://cdn.mos.cms.futurecdn.net/iMEPFAmgwd8emMchJxksFh-1280-80.jpg"
-image_source: "rss"
-description: "Descobre o comando Thrustmaster Heart para Xbox, uma opção popular entre gamers pela sua precisão e conforto. Explora as suas características e a relevância ..."
-source_url: "https://www.techradar.com/gaming/the-thrustmaster-heart-xbox-controller-just-dropped-to-its-lowest-price-since-september-save-27-percent"
+image: 'https://cdn.mos.cms.futurecdn.net/iMEPFAmgwd8emMchJxksFh-1280-80.jpg'
+image_source: rss
+description: >-
+  Descobre o comando Thrustmaster Heart para Xbox, uma opção popular entre
+  gamers pela sua precisão e conforto. Explora as suas características e a
+  relevância.
+source_url: >-
+  https://www.techradar.com/gaming/the-thrustmaster-heart-xbox-controller-just-dropped-to-its-lowest-price-since-september-save-27-percent
 draft: false
 needs_review: false
 photographer_name: undefined

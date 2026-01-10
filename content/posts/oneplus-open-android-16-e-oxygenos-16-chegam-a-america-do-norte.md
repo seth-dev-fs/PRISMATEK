@@ -1,17 +1,22 @@
 ---
-title: "OnePlus Open: Android 16 e OxygenOS 16 chegam à América do Norte"
-date: "2025-12-14T03:26:07.184Z"
-category: "smartphones"
+title: 'OnePlus Open: Android 16 e OxygenOS 16 chegam à América do Norte'
+date: '2025-12-14T03:26:07.184Z'
+category: smartphones
 tags:
   - OnePlus
   - OnePlus Open
   - Android 16
   - OxygenOS 16
   - atualização
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-open-android-16-oxygenos-16-stable-update-north-america/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "A OnePlus expande a atualização para o seu dobrável, o Open. Após a Europa, o OxygenOS 16 baseado em Android 16 chega agora à América do Norte. A OnePlus con..."
-source_url: "https://www.gsmarena.com/oneplus_open_android_16_oxygenos_16_stable_update_north_america-news-70705.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-open-android-16-oxygenos-16-stable-update-north-america/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  A OnePlus expande a atualização para o seu dobrável, o Open. Após a Europa, o
+  OxygenOS 16 baseado em Android 16 chega agora à América do Norte. A OnePlus
+  con.
+source_url: >-
+  https://www.gsmarena.com/oneplus_open_android_16_oxygenos_16_stable_update_north_america-news-70705.php
 draft: false
 needs_review: false
 photographer_name: undefined

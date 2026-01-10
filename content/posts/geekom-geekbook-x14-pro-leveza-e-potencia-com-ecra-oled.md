@@ -1,17 +1,21 @@
 ---
-title: "Geekom GeekBook X14 Pro: Leveza e potência com ecrã OLED"
-date: "2025-11-25T22:40:51.543Z"
-category: "computadores"
+title: 'Geekom GeekBook X14 Pro: Leveza e potência com ecrã OLED'
+date: '2025-11-25T22:40:51.543Z'
+category: computadores
 tags:
   - Geekom
   - portátil
   - GeekBook X14 Pro
   - Intel Core Ultra
   - ecrã OLED
-image: "https://cdn.mos.cms.futurecdn.net/nuMzQEYodVCvJa53MqTMYi-1280-80.png"
-image_source: "rss"
-description: "O novo Geekom GeekBook X14 Pro promete revolucionar o segmento dos portáteis ultra-leves. Descubra a sua potência Intel Core Ultra, ecrã OLED e bateria durad..."
-source_url: "https://www.techradar.com/pro/geekoms-new-laptop-offers-a-bright-and-wide-screen-impressive-hardware-but-it-weighs-less-than-a-bag-of-sugar"
+image: 'https://cdn.mos.cms.futurecdn.net/nuMzQEYodVCvJa53MqTMYi-1280-80.png'
+image_source: rss
+description: >-
+  O novo Geekom GeekBook X14 Pro promete revolucionar o segmento dos portáteis
+  ultra-leves. Descubra a sua potência Intel Core Ultra, ecrã OLED e bateria
+  durad.
+source_url: >-
+  https://www.techradar.com/pro/geekoms-new-laptop-offers-a-bright-and-wide-screen-impressive-hardware-but-it-weighs-less-than-a-bag-of-sugar
 draft: false
 needs_review: false
 photographer_name: undefined

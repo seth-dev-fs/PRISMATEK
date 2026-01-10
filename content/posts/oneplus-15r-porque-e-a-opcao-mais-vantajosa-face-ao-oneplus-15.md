@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15R: Porquê é a opção mais vantajosa face ao OnePlus 15"
-date: "2025-12-21T10:17:15.888Z"
-category: "smartphones"
+title: 'OnePlus 15R: Porquê é a opção mais vantajosa face ao OnePlus 15'
+date: '2025-12-21T10:17:15.888Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - Android
   - tecnologia
   - gama média
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg"
-image_source: "rss"
-description: "Embora o OnePlus 15 seja tentador, o OnePlus 15R pode ser a escolha mais inteligente para a maioria dos utilizadores. Descubra as razões que o tornam superio..."
-source_url: "https://www.androidauthority.com/oneplus-15r-better-deal-than-oneplus-15-why-3625169"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/OnePlus-15R-vs-OnePlus-15.jpg
+image_source: rss
+description: >-
+  Embora o OnePlus 15 seja tentador, o OnePlus 15R pode ser a escolha mais
+  inteligente para a maioria dos utilizadores. Descubra as razões que o tornam
+  superio.
+source_url: >-
+  https://www.androidauthority.com/oneplus-15r-better-deal-than-oneplus-15-why-3625169
 draft: false
 needs_review: false
 photographer_name: undefined

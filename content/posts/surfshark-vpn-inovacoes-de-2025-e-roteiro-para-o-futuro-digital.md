@@ -1,17 +1,21 @@
 ---
-title: "Surfshark VPN: Inovações de 2025 e Roteiro para o Futuro Digital"
-date: "2026-01-04T08:22:48.284Z"
-category: "internet-apps"
+title: 'Surfshark VPN: Inovações de 2025 e Roteiro para o Futuro Digital'
+date: '2026-01-04T08:22:48.284Z'
+category: internet-apps
 tags:
   - Surfshark
   - VPN
   - cibersegurança
   - privacidade
   - inteligencia artificial
-image: "https://cdn.mos.cms.futurecdn.net/NZiFtMBwxxp3uew9fduisK-1280-80.jpg"
-image_source: "rss"
-description: "A Surfshark partilha os seus marcos de 2025, desde estabilidade de conexão patenteada ao combate a fraudes de IA. Saiba o que esperar em 2026. A Surfshark, u..."
-source_url: "https://www.techradar.com/vpn/vpn-services/surfshark-vpn-2025s-milestones-and-the-roadmap-for-2026"
+image: 'https://cdn.mos.cms.futurecdn.net/NZiFtMBwxxp3uew9fduisK-1280-80.jpg'
+image_source: rss
+description: >-
+  A Surfshark partilha os seus marcos de 2025, desde estabilidade de conexão
+  patenteada ao combate a fraudes de IA. Saiba o que esperar em 2026. A
+  Surfshark, u.
+source_url: >-
+  https://www.techradar.com/vpn/vpn-services/surfshark-vpn-2025s-milestones-and-the-roadmap-for-2026
 draft: false
 needs_review: false
 photographer_name: undefined

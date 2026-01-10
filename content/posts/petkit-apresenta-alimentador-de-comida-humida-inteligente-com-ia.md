@@ -1,17 +1,22 @@
 ---
-title: "Petkit apresenta alimentador de comida húmida inteligente com IA"
-date: "2026-01-02T08:25:23.111Z"
-category: "ai-futuro"
+title: Petkit apresenta alimentador de comida húmida inteligente com IA
+date: '2026-01-02T08:25:23.111Z'
+category: ai-futuro
 tags:
   - Petkit
   - alimentador inteligente
   - animais de estimação
   - CES 2026
   - tecnologia AI
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/petkit_wet_feeder1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200"
-image_source: "rss"
-description: "A Petkit apresentou no CES 2026 o Yumshare Daily Feast, um alimentador inteligente para comida húmida. Com IA, monitoriza o consumo e saúde dos pets. Inovaçã..."
-source_url: "https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/petkit_wet_feeder1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200
+image_source: rss
+description: >-
+  A Petkit apresentou no CES 2026 o Yumshare Daily Feast, um alimentador
+  inteligente para comida húmida. Com IA, monitoriza o consumo e saúde dos pets.
+  Inovaçã.
+source_url: >-
+  https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain
 draft: false
 needs_review: false
 photographer_name: undefined

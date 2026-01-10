@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15 a caminho e descontos nos Galaxy S25 antes do Natal"
-date: "2025-12-14T20:18:13.205Z"
-category: "smartphones"
+title: OnePlus 15 a caminho e descontos nos Galaxy S25 antes do Natal
+date: '2025-12-14T20:18:13.205Z'
+category: smartphones
 tags:
   - OnePlus 15
   - Samsung Galaxy S25
   - smartphones
   - tecnologia
   - promoções
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/us-deals-12/-952x498w6/gsmarena_us.jpg"
-image_source: "rss"
-description: "O OnePlus 15 prepara-se para chegar ao mercado, enquanto a série Galaxy S25 regista quedas de preço. Prepara-te para as novidades e oportunidades. Nesta altu..."
-source_url: "https://www.gsmarena.com/deals_oneplus_15_goes_on_preorder_galaxy_s25_series_gets_discounted-news-70692.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/us-deals-12/-952x498w6/gsmarena_us.jpg
+image_source: rss
+description: >-
+  O OnePlus 15 prepara-se para chegar ao mercado, enquanto a série Galaxy S25
+  regista quedas de preço. Prepara-te para as novidades e oportunidades. Nesta
+  altu.
+source_url: >-
+  https://www.gsmarena.com/deals_oneplus_15_goes_on_preorder_galaxy_s25_series_gets_discounted-news-70692.php
 draft: false
 needs_review: false
 photographer_name: undefined

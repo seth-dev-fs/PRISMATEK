@@ -1,17 +1,22 @@
 ---
-title: "Dell 14 Plus: Híbrido com Intel Core Ultra aposta na versatilidade"
-date: "2025-12-30T08:26:50.117Z"
-category: "computadores"
+title: 'Dell 14 Plus: Híbrido com Intel Core Ultra aposta na versatilidade'
+date: '2025-12-30T08:26:50.117Z'
+category: computadores
 tags:
   - Dell
   - computadores
   - portátil
   - Intel Core Ultra
   - híbrido
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dell-14-Plus-convertible-with-Intel-Core-Ultra-256V-discounted-by-450-1.jpg"
-image_source: "rss"
-description: "O Dell 14 Plus surge como um portátil híbrido que promete desempenho e versatilidade. Equipado com Intel Core Ultra, ecrã tátil e SSD de 1TB, é ideal para o ..."
-source_url: "https://www.notebookcheck.net/Dell-14-Plus-convertible-with-Intel-Core-Ultra-256V-discounted-by-450.1194016.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dell-14-Plus-convertible-with-Intel-Core-Ultra-256V-discounted-by-450-1.jpg
+image_source: rss
+description: >-
+  O Dell 14 Plus surge como um portátil híbrido que promete desempenho e
+  versatilidade. Equipado com Intel Core Ultra, ecrã tátil e SSD de 1TB, é ideal
+  para o.
+source_url: >-
+  https://www.notebookcheck.net/Dell-14-Plus-convertible-with-Intel-Core-Ultra-256V-discounted-by-450.1194016.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

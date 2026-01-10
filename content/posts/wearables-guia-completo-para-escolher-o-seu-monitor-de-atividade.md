@@ -1,17 +1,21 @@
 ---
-title: "Wearables: Guia Completo para Escolher o Seu Monitor de Atividade"
-date: "2025-12-03T18:59:24.577Z"
-category: "wearables"
+title: 'Wearables: Guia Completo para Escolher o Seu Monitor de Atividade'
+date: '2025-12-03T18:59:24.577Z'
+category: wearables
 tags:
   - wearables
   - fitness
   - smartwatches
   - amazfit
   - garmin
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257835_Fitness_Tracker_Buying_Guide_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra os melhores monitores de atividade física e smartwatches de 2025 avaliados pela NEXORA News. Encontre o wearable ideal para as suas necessidades. Sa..."
-source_url: "https://www.theverge.com/22985108/best-fitness-tracker"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257835_Fitness_Tracker_Buying_Guide_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra os melhores monitores de atividade física e smartwatches de 2025
+  avaliados pela NEXORA News. Encontre o wearable ideal para as suas
+  necessidades. Sa.
+source_url: 'https://www.theverge.com/22985108/best-fitness-tracker'
 draft: false
 needs_review: false
 photographer_name: undefined

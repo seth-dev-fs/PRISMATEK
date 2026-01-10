@@ -1,17 +1,21 @@
 ---
-title: "Tecnologia com preços baixos: Oportunidades pós-saldos em gadgets"
-date: "2026-01-06T04:36:55.202Z"
-category: "home"
+title: 'Tecnologia com preços baixos: Oportunidades pós-saldos em gadgets'
+date: '2026-01-06T04:36:55.202Z'
+category: home
 tags:
   - tecnologia
   - descontos
   - gadgets
   - robôs aspiradores
   - auscultadores ANC
-image: "https://cdn.mos.cms.futurecdn.net/RVuF96Sjjf3UAdNvvwiKRf-1280-80.jpg"
-image_source: "rss"
-description: "As campanhas de descontos podem ter terminado, mas ainda há oportunidades para poupar em gadgets essenciais. Descobre os melhores preços em robôs aspiradores..."
-source_url: "https://www.techradar.com/seasonal-sales/missed-the-boxing-day-sales-dont-stress-i-found-5-deals-still-going-strong"
+image: 'https://cdn.mos.cms.futurecdn.net/RVuF96Sjjf3UAdNvvwiKRf-1280-80.jpg'
+image_source: rss
+description: >-
+  As campanhas de descontos podem ter terminado, mas ainda há oportunidades para
+  poupar em gadgets essenciais. Descobre os melhores preços em robôs
+  aspiradores.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/missed-the-boxing-day-sales-dont-stress-i-found-5-deals-still-going-strong
 draft: false
 needs_review: true
 photographer_name: undefined

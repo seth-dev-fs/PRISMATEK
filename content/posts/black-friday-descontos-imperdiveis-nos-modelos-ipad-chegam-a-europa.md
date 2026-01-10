@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Descontos imperdíveis nos modelos iPad chegam à Europa"
-date: "2025-11-25T13:48:17.569Z"
-category: "mobilidade"
+title: 'Black Friday: Descontos imperdíveis nos modelos iPad chegam à Europa'
+date: '2025-11-25T13:48:17.569Z'
+category: mobilidade
 tags:
   - Apple
   - iPad
   - Black Friday
   - tablets
   - promoções
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ipad-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ipad-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "Prepare-se para a Black Friday! Os populares modelos iPad, iPad Air e iPad mini estão com descontos significativos no mercado europeu. Não perca esta oportun..."
-source_url: "https://9to5mac.com/2025/11/25/ipad-black-friday-deals"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ipad-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ipad-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  Prepare-se para a Black Friday! Os populares modelos iPad, iPad Air e iPad
+  mini estão com descontos significativos no mercado europeu. Não perca esta
+  oportun.
+source_url: 'https://9to5mac.com/2025/11/25/ipad-black-friday-deals'
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,21 @@
 ---
-title: "Streaming: HBO Max com oferta especial na Black Friday dos EUA"
-date: "2025-11-25T08:57:29.636Z"
-category: "internet-apps"
+title: 'Streaming: HBO Max com oferta especial na Black Friday dos EUA'
+date: '2025-11-25T08:57:29.636Z'
+category: internet-apps
 tags:
   - HBO Max
   - Streaming
   - Black Friday
   - ofertas
   - serviços
-image: "https://cdn.mos.cms.futurecdn.net/88t9WRFrdSu5ugdLrPYqbm-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/88t9WRFrdSu5ugdLrPYqbm-1280-80.jpg"
-description: "Durante a Black Friday, a HBO Max (agora Max nos EUA) oferece um desconto significativo para subscritores Hulu. Conheça esta promoção exclusiva do mercado am..."
-source_url: "https://www.techradar.com/streaming/hbo-max/want-to-add-hbo-max-to-your-hulu-subscription-get-it-for-just-usd2-99-per-month-this-black-friday"
+image: 'https://cdn.mos.cms.futurecdn.net/88t9WRFrdSu5ugdLrPYqbm-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/88t9WRFrdSu5ugdLrPYqbm-1280-80.jpg'
+description: >-
+  Durante a Black Friday, a HBO Max (agora Max nos EUA) oferece um desconto
+  significativo para subscritores Hulu. Conheça esta promoção exclusiva do
+  mercado am.
+source_url: >-
+  https://www.techradar.com/streaming/hbo-max/want-to-add-hbo-max-to-your-hulu-subscription-get-it-for-just-usd2-99-per-month-this-black-friday
 draft: false
 needs_review: false
 ---

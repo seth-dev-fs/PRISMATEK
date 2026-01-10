@@ -1,17 +1,21 @@
 ---
-title: "Dominar o Som: Como os Smartphones Gerem Vários Níveis de Volume"
-date: "2025-12-27T06:25:29.156Z"
-category: "smartphones"
+title: 'Dominar o Som: Como os Smartphones Gerem Vários Níveis de Volume'
+date: '2025-12-27T06:25:29.156Z'
+category: smartphones
 tags:
   - smartphones
   - volume
   - áudio
   - dicas
   - Android
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Os smartphones modernos oferecem controlo granular sobre som multimédia, toques, notificações e alarmes. Descubra como gerir eficazmente o volume do seu disp..."
-source_url: "https://www.sammobile.com/news/how-do-phone-volume-controls-work-for-different-features"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Os smartphones modernos oferecem controlo granular sobre som multimédia,
+  toques, notificações e alarmes. Descubra como gerir eficazmente o volume do
+  seu disp.
+source_url: >-
+  https://www.sammobile.com/news/how-do-phone-volume-controls-work-for-different-features
 draft: false
 needs_review: false
 photographer_name: undefined

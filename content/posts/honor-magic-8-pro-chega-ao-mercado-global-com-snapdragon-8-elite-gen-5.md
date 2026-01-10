@@ -1,17 +1,22 @@
 ---
-title: "Honor Magic 8 Pro chega ao mercado global com Snapdragon 8 Elite Gen 5"
-date: "2025-12-01T10:52:31.451Z"
-category: "smartphones"
+title: Honor Magic 8 Pro chega ao mercado global com Snapdragon 8 Elite Gen 5
+date: '2025-12-01T10:52:31.451Z'
+category: smartphones
 tags:
   - Honor
   - Magic 8 Pro
   - smartphones
   - Snapdragon
   - Android
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Honor-Magic-8-Pro-Malaysian-launch.jpg"
-image_source: "rss"
-description: "O Honor Magic 8 Pro, com o poderoso Snapdragon 8 Elite Gen 5, inicia a sua jornada global. Descobre tudo sobre este flagship de câmara que promete revolucion..."
-source_url: "https://www.notebookcheck.net/Snapdragon-8-Elite-Gen-5-equipped-Honor-Magic-8-Pro-officially-debuts-outside-China.1174396.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Honor-Magic-8-Pro-Malaysian-launch.jpg
+image_source: rss
+description: >-
+  O Honor Magic 8 Pro, com o poderoso Snapdragon 8 Elite Gen 5, inicia a sua
+  jornada global. Descobre tudo sobre este flagship de câmara que promete
+  revolucion.
+source_url: >-
+  https://www.notebookcheck.net/Snapdragon-8-Elite-Gen-5-equipped-Honor-Magic-8-Pro-officially-debuts-outside-China.1174396.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

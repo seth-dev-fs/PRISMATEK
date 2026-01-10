@@ -1,17 +1,21 @@
 ---
-title: "China desafia limites: maior vão de aço em ponte impressiona"
-date: "2025-12-07T20:17:35.852Z"
-category: "ciencia"
+title: 'China desafia limites: maior vão de aço em ponte impressiona'
+date: '2025-12-07T20:17:35.852Z'
+category: ciencia
 tags:
   - China
   - engenharia
   - pontes
   - infraestruturas
   - tecnologia
-image: "https://i.blogs.es/5b05af/puente-acero-chino/840_560.jpeg"
-image_source: "rss"
-description: "A China concluiu o maior vão de aço do mundo na ponte Fenglai Daxi River, uma proeza de engenharia. Esta obra estratégica liga regiões e impulsiona o turismo..."
-source_url: "https://www.xataka.com/ingenieria-y-megaconstrucciones/puente-mayor-vano-acero-ha-completado-su-reto-dificil-esta-china-claro"
+image: 'https://i.blogs.es/5b05af/puente-acero-chino/840_560.jpeg'
+image_source: rss
+description: >-
+  A China concluiu o maior vão de aço do mundo na ponte Fenglai Daxi River, uma
+  proeza de engenharia. Esta obra estratégica liga regiões e impulsiona o
+  turismo.
+source_url: >-
+  https://www.xataka.com/ingenieria-y-megaconstrucciones/puente-mayor-vano-acero-ha-completado-su-reto-dificil-esta-china-claro
 draft: false
 needs_review: false
 photographer_name: undefined

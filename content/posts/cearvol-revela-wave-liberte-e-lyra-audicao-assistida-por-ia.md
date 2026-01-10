@@ -1,17 +1,22 @@
 ---
-title: "Cearvol revela Wave, Liberte e Lyra: audição assistida por IA"
-date: "2026-01-02T10:21:02.237Z"
-category: "wearables"
+title: 'Cearvol revela Wave, Liberte e Lyra: audição assistida por IA'
+date: '2026-01-02T10:21:02.237Z'
+category: wearables
 tags:
   - Cearvol
   - aparelhos auditivos
   - inteligência artificial
   - audição
   - wearables
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/2026-01-02-Cearvol-unveils-three-hearing-aid-devices-Wave-in-ear-earbuds-Liberte-ear-clip-earphones-and-Lyra-smart-hearing-glasses.jpg"
-image_source: "rss"
-description: "A Cearvol apresenta três novos dispositivos de audição com IA NeuroFlow, prometendo amplificar apenas a fala. Conheça os Wave, Liberte e Lyra para um futuro ..."
-source_url: "https://www.notebookcheck.net/Cearvol-unveils-three-hearing-aid-devices-Wave-in-ear-earbuds-Liberte-ear-clip-earphones-and-Lyra-smart-hearing-glasses.1194914.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/2026-01-02-Cearvol-unveils-three-hearing-aid-devices-Wave-in-ear-earbuds-Liberte-ear-clip-earphones-and-Lyra-smart-hearing-glasses.jpg
+image_source: rss
+description: >-
+  A Cearvol apresenta três novos dispositivos de audição com IA NeuroFlow,
+  prometendo amplificar apenas a fala. Conheça os Wave, Liberte e Lyra para um
+  futuro.
+source_url: >-
+  https://www.notebookcheck.net/Cearvol-unveils-three-hearing-aid-devices-Wave-in-ear-earbuds-Liberte-ear-clip-earphones-and-Lyra-smart-hearing-glasses.1194914.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

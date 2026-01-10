@@ -1,7 +1,7 @@
 ---
-title: "PeaZip 10.8: Novo Gestor de Arquivos Open-Source Revoluciona Pré-Visualização"
-date: "2025-12-06T10:18:00.270Z"
-category: "internet-apps"
+title: 'PeaZip 10.8: Novo Gestor de Arquivos Open-Source Revoluciona Pré-Visualização'
+date: '2025-12-06T10:18:00.270Z'
+category: internet-apps
 tags:
   - PeaZip
   - software
@@ -9,10 +9,14 @@ tags:
   - gestor de arquivos
   - Windows
   - Linux
-image: "https://9to5linux.com/wp-content/uploads/2025/12/pea108.webp"
-image_source: "rss"
-description: "O PeaZip 10.8 chegou e promete transformar a forma como pré-visualiza ficheiros em arquivos. Este gestor de código aberto traz um novo visualizador de imagen..."
-source_url: "https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/pea108.webp'
+image_source: rss
+description: >-
+  O PeaZip 10.8 chegou e promete transformar a forma como pré-visualiza
+  ficheiros em arquivos. Este gestor de código aberto traz um novo visualizador
+  de imagen.
+source_url: >-
+  https://9to5linux.com/peazip-10-8-open-source-archive-manager-overhauls-previewing-inside-archives
 draft: false
 needs_review: false
 photographer_name: undefined

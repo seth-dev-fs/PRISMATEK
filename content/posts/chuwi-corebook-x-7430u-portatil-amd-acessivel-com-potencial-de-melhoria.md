@@ -1,17 +1,20 @@
 ---
-title: "Chuwi CoreBook X 7430U: Portátil AMD acessível com potencial de melhoria"
-date: "2025-12-21T14:15:11.476Z"
-category: "computadores"
+title: 'Chuwi CoreBook X 7430U: Portátil AMD acessível com potencial de melhoria'
+date: '2025-12-21T14:15:11.476Z'
+category: computadores
 tags:
   - Chuwi
   - CoreBook X
   - portátil
   - AMD Ryzen
   - Windows
-image: "https://cdn.mos.cms.futurecdn.net/foPfejtPHmvbtm7jafLQg4-1280-80.jpg"
-image_source: "rss"
-description: "O Chuwi CoreBook X 7430U chega ao mercado como uma opção de portátil Windows AMD económica. Descubra o seu potencial e como otimizar o desempenho para o dia ..."
-source_url: "https://www.techradar.com/pro/chuwi-corebook-x-7430u-laptop-review"
+image: 'https://cdn.mos.cms.futurecdn.net/foPfejtPHmvbtm7jafLQg4-1280-80.jpg'
+image_source: rss
+description: >-
+  O Chuwi CoreBook X 7430U chega ao mercado como uma opção de portátil Windows
+  AMD económica. Descubra o seu potencial e como otimizar o desempenho para o
+  dia.
+source_url: 'https://www.techradar.com/pro/chuwi-corebook-x-7430u-laptop-review'
 draft: false
 needs_review: false
 photographer_name: undefined

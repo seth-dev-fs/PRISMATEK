@@ -1,17 +1,22 @@
 ---
-title: "Armazenamento em Destaque: SSDs e microSDs Pós-Período de Saldos"
-date: "2025-11-30T20:41:18.279Z"
-category: "computadores"
+title: 'Armazenamento em Destaque: SSDs e microSDs Pós-Período de Saldos'
+date: '2025-11-30T20:41:18.279Z'
+category: computadores
 tags:
   - SSDs
   - microSD
   - armazenamento
   - tecnologia
   - descontos
-image: "https://s.yimg.com/ny/api/res/1.2/BfWxcs8lbRD.fd.2fPsLCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/8ca6fc70-cdf9-11f0-be3d-c3923a136faa"
-image_source: "rss"
-description: "Analisamos as tendências e oportunidades em SSDs internos, portáteis e cartões microSD, com foco no desempenho e valor no mercado europeu. Ainda que os grand..."
-source_url: "https://www.engadget.com/deals/cyber-monday-ssd-deals-include-up-to-270-off-recommended-internal-and-portable-ssds-micro-sd-cards-and-more-200006074.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/BfWxcs8lbRD.fd.2fPsLCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/8ca6fc70-cdf9-11f0-be3d-c3923a136faa
+image_source: rss
+description: >-
+  Analisamos as tendências e oportunidades em SSDs internos, portáteis e cartões
+  microSD, com foco no desempenho e valor no mercado europeu. Ainda que os
+  grand.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-ssd-deals-include-up-to-270-off-recommended-internal-and-portable-ssds-micro-sd-cards-and-more-200006074.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

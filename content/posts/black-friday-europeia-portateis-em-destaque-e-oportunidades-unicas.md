@@ -1,17 +1,22 @@
 ---
-title: "Black Friday Europeia: Portáteis em Destaque e Oportunidades Únicas"
-date: "2025-11-29T03:37:38.623Z"
-category: "computadores"
+title: 'Black Friday Europeia: Portáteis em Destaque e Oportunidades Únicas'
+date: '2025-11-29T03:37:38.623Z'
+category: computadores
 tags:
   - portáteis
   - Black Friday
   - MacBook
   - Windows
   - gaming
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra as tendências e oportunidades de poupança em portáteis durante a Black Friday. Desde MacBooks a máquinas gaming, explore as melhores ofertas no merc..."
-source_url: "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra as tendências e oportunidades de poupança em portáteis durante a
+  Black Friday. Desde MacBooks a máquinas gaming, explore as melhores ofertas no
+  merc.
+source_url: >-
+  https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025
 draft: false
 needs_review: false
 photographer_name: undefined

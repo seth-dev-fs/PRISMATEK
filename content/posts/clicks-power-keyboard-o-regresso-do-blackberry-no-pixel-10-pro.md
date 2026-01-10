@@ -1,17 +1,22 @@
 ---
-title: "Clicks Power Keyboard: o regresso do BlackBerry no Pixel 10 Pro?"
-date: "2026-01-08T10:21:42.026Z"
-category: "smartphones"
+title: 'Clicks Power Keyboard: o regresso do BlackBerry no Pixel 10 Pro?'
+date: '2026-01-08T10:21:42.026Z'
+category: smartphones
 tags:
   - smartphones
   - acessórios
   - Pixel 10 Pro
   - teclado físico
   - Clicks Keyboard
-image: "https://www.androidauthority.com/wp-content/uploads/2026/01/clicks-power-keyboard-hands-on-ces-4-scaled.jpg"
-image_source: "rss"
-description: "Um novo teclado físico, o Clicks Power Keyboard, promete transformar o futuro Pixel 10 Pro, trazendo a nostalgia e eficiência dos teclados BlackBerry. Uma re..."
-source_url: "https://www.androidauthority.com/clicks-power-keyboard-hands-on-ces-2026-3630283"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2026/01/clicks-power-keyboard-hands-on-ces-4-scaled.jpg
+image_source: rss
+description: >-
+  Um novo teclado físico, o Clicks Power Keyboard, promete transformar o futuro
+  Pixel 10 Pro, trazendo a nostalgia e eficiência dos teclados BlackBerry. Uma
+  re.
+source_url: >-
+  https://www.androidauthority.com/clicks-power-keyboard-hands-on-ces-2026-3630283
 draft: false
 needs_review: false
 photographer_name: undefined

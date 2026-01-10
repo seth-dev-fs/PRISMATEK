@@ -1,17 +1,21 @@
 ---
-title: "Garmin: Modelos de eleição com descontos em época de promoções"
-date: "2025-11-30T14:36:56.124Z"
-category: "wearables"
+title: 'Garmin: Modelos de eleição com descontos em época de promoções'
+date: '2025-11-30T14:36:56.124Z'
+category: wearables
 tags:
   - Garmin
   - relógios inteligentes
   - fitness
   - wearables
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/4xk4fotRSpN99TuRMskqSM-1280-80.jpg"
-image_source: "rss"
-description: "Um especialista em Garmin revela os seus seis relógios favoritos, que beneficiaram de promoções em épocas como a Cyber Monday. Descobre porquê são uma aposta..."
-source_url: "https://www.techradar.com/health-fitness/im-a-garmin-tester-and-my-top-six-watches-are-all-discounted-for-cyber-monday"
+image: 'https://cdn.mos.cms.futurecdn.net/4xk4fotRSpN99TuRMskqSM-1280-80.jpg'
+image_source: rss
+description: >-
+  Um especialista em Garmin revela os seus seis relógios favoritos, que
+  beneficiaram de promoções em épocas como a Cyber Monday. Descobre porquê são
+  uma aposta.
+source_url: >-
+  https://www.techradar.com/health-fitness/im-a-garmin-tester-and-my-top-six-watches-are-all-discounted-for-cyber-monday
 draft: false
 needs_review: false
 photographer_name: undefined

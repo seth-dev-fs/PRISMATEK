@@ -1,17 +1,21 @@
 ---
-title: "OPPO Find X9 Pro: O novo candidato a 'smartphone do ano'?"
-date: "2025-11-29T10:41:33.694Z"
-category: "smartphones"
+title: 'OPPO Find X9 Pro: O novo candidato a ''smartphone do ano''?'
+date: '2025-11-29T10:41:33.694Z'
+category: smartphones
 tags:
   - OPPO
   - smartphones
   - Find X9 Pro
   - câmara
   - bateria
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/OPPO-Find-X9-Pro-screen.jpg"
-image_source: "rss"
-description: "Com câmaras de topo e uma bateria robusta, o OPPO Find X9 Pro pode ser o smartphone a destronar a concorrência. Conheça as primeiras impressões deste potente..."
-source_url: "https://www.androidauthority.com/oppo-find-x9-pro-hands-on-3615032"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/OPPO-Find-X9-Pro-screen.jpg
+image_source: rss
+description: >-
+  Com câmaras de topo e uma bateria robusta, o OPPO Find X9 Pro pode ser o
+  smartphone a destronar a concorrência. Conheça as primeiras impressões deste
+  potente.
+source_url: 'https://www.androidauthority.com/oppo-find-x9-pro-hands-on-3615032'
 draft: false
 needs_review: false
 photographer_name: undefined

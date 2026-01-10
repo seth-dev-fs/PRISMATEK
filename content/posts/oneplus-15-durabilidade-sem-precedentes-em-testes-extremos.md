@@ -11,7 +11,7 @@ tags:
   - teste de resistência
 image: "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg"
 image_source: "https://www.androidauthority.com/wp-content/uploads/2025/11/OnePlus-15-hero-image-scaled.jpg"
-description: "O OnePlus 15 eleva a fasquia da durabilidade. Testes de JerryRigEverything provam que o flagship não dobra, mesmo com uma câmara de vapor frágil. Uma nova re..."
+description: "O OnePlus 15 eleva a fasquia da durabilidade. Testes de JerryRigEverything provam que o flagship não dobra, mesmo com uma câmara de vapor frágil. Uma nova re."
 source_url: "https://www.androidauthority.com/oneplus-15-durability-test-3618909"
 draft: false
 needs_review: false

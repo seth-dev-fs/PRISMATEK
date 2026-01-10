@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Os produtos Apple mais desejados com descontos"
-date: "2025-11-29T04:45:28.098Z"
-category: "mobilidade"
+title: 'Black Friday: Os produtos Apple mais desejados com descontos'
+date: '2025-11-29T04:45:28.098Z'
+category: mobilidade
 tags:
   - Apple
   - Black Friday
   - AirPods
   - iPad
   - MacBook
-image: "https://s.yimg.com/ny/api/res/1.2/KENn.NoHKtcigQtbYK8tlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/fca293f0-c628-11f0-9bdf-0ec4555bbc42"
-image_source: "rss"
-description: "A Apple domina o mercado tecnológico e os seus produtos são muito procurados. Descobre quais os dispositivos que mais brilham na Black Friday com preços comp..."
-source_url: "https://www.engadget.com/deals/apple-black-friday-deals-are-live-some-of-the-biggest-sales-weve-seen-this-year-on-airpods-ipads-macbooks-apple-watches-and-airtags-161346421.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/KENn.NoHKtcigQtbYK8tlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/fca293f0-c628-11f0-9bdf-0ec4555bbc42
+image_source: rss
+description: >-
+  A Apple domina o mercado tecnológico e os seus produtos são muito procurados.
+  Descobre quais os dispositivos que mais brilham na Black Friday com preços
+  comp.
+source_url: >-
+  https://www.engadget.com/deals/apple-black-friday-deals-are-live-some-of-the-biggest-sales-weve-seen-this-year-on-airpods-ipads-macbooks-apple-watches-and-airtags-161346421.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Xiaomi S40: O Aspirador Robô Que Desafia Preços em Portugal"
-date: "2026-01-10T08:24:15.803Z"
-category: "home"
+title: 'Xiaomi S40: O Aspirador Robô Que Desafia Preços em Portugal'
+date: '2026-01-10T08:24:15.803Z'
+category: home
 tags:
   - Xiaomi S40
   - aspirador robô
   - casa inteligente
   - tecnologia acessível
   - Portugal
-image: "https://cdn.4gnews.pt/imagens/xiaomi-s40-o-meu-aspirador-robo-favorito-abaixo-dos-200-e-estas-sao-as-razoes-og.jpg"
-image_source: "rss"
-description: "Analisamos o Xiaomi S40, um aspirador robô com dupla função e navegação inteligente, disponível em Portugal por menos de 200€. Descubra porquê é a escolha id..."
-source_url: "https://4gnews.pt/xiaomi-s40-o-meu-aspirador-robo-favorito-abaixo-dos-200-e-estas-sao-as-razoes"
+image: >-
+  https://cdn.4gnews.pt/imagens/xiaomi-s40-o-meu-aspirador-robo-favorito-abaixo-dos-200-e-estas-sao-as-razoes-og.jpg
+image_source: rss
+description: >-
+  Analisamos o Xiaomi S40, um aspirador robô com dupla função e navegação
+  inteligente, disponível em Portugal por menos de 200€. Descubra porquê é a
+  escolha id.
+source_url: >-
+  https://4gnews.pt/xiaomi-s40-o-meu-aspirador-robo-favorito-abaixo-dos-200-e-estas-sao-as-razoes
 draft: false
 needs_review: false
 photographer_name: undefined

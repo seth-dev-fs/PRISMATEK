@@ -1,17 +1,21 @@
 ---
-title: "Pixel 9 Pro Fold: Câmara ganha recurso essencial para dobráveis"
-date: "2025-12-12T10:19:12.371Z"
-category: "smartphones"
+title: 'Pixel 9 Pro Fold: Câmara ganha recurso essencial para dobráveis'
+date: '2025-12-12T10:19:12.371Z'
+category: smartphones
 tags:
   - Google Pixel
   - Pixel 9 Pro Fold
   - smartphones dobráveis
   - câmara
   - Android
-image: "https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-9-pro-fold-camera-module-1.jpg"
-image_source: "rss"
-description: "O Google Pixel 9 Pro Fold promete uma experiência fotográfica aprimorada com uma nova funcionalidade de câmara que tira partido do seu ecrã interior. Descobr..."
-source_url: "https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2024/09/google-pixel-9-pro-fold-camera-module-1.jpg
+image_source: rss
+description: >-
+  O Google Pixel 9 Pro Fold promete uma experiência fotográfica aprimorada com
+  uma nova funcionalidade de câmara que tira partido do seu ecrã interior.
+  Descobr.
+source_url: 'https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750'
 draft: false
 needs_review: false
 photographer_name: undefined

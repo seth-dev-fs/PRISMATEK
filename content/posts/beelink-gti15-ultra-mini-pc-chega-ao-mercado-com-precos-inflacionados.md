@@ -1,17 +1,21 @@
 ---
-title: "Beelink GTI15 Ultra: Mini PC chega ao mercado com preços inflacionados"
-date: "2025-12-01T04:20:47.462Z"
-category: "computadores"
+title: 'Beelink GTI15 Ultra: Mini PC chega ao mercado com preços inflacionados'
+date: '2025-12-01T04:20:47.462Z'
+category: computadores
 tags:
   - Beelink
   - mini PC
   - GTI15 Ultra
   - Arrow Lake-H
   - computadores
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gti15.jpg"
-image_source: "rss"
-description: "O novo mini PC Beelink GTI15 Ultra, com processador Arrow Lake-H, chega ao mercado europeu com preços superiores devido à subida de componentes. Descubra os ..."
-source_url: "https://www.notebookcheck.net/Beellnk-GTI15-Ultra-PC-launches-for-almost-twice-the-original-price-of-the-GTI13-Ultra.1173816.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gti15.jpg'
+image_source: rss
+description: >-
+  O novo mini PC Beelink GTI15 Ultra, com processador Arrow Lake-H, chega ao
+  mercado europeu com preços superiores devido à subida de componentes. Descubra
+  os.
+source_url: >-
+  https://www.notebookcheck.net/Beellnk-GTI15-Ultra-PC-launches-for-almost-twice-the-original-price-of-the-GTI13-Ultra.1173816.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

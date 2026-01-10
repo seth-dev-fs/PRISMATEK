@@ -1,17 +1,22 @@
 ---
-title: "IKEA lança carregador USB-C de 20W a preço muito acessível"
-date: "2026-01-01T08:26:16.094Z"
-category: "smartphones"
+title: IKEA lança carregador USB-C de 20W a preço muito acessível
+date: '2026-01-01T08:26:16.094Z'
+category: smartphones
 tags:
   - IKEA
   - carregador USB-C
   - smartphones
   - mobilidade
   - acessórios
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IKEA-SJOeSS-20W-1-port-USB-charger.jpg"
-image_source: "rss"
-description: "A IKEA aposta na mobilidade com o carregador Sjöss USB-C de 20W, ideal para telemóveis e tablets. É compacto, compatível com PD 3.0 e QC 3.0 e já disponível ..."
-source_url: "https://www.notebookcheck.net/IKEA-releases-3-99-compact-20W-USB-C-charger-for-phones-and-tablets.1194560.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IKEA-SJOeSS-20W-1-port-USB-charger.jpg
+image_source: rss
+description: >-
+  A IKEA aposta na mobilidade com o carregador Sjöss USB-C de 20W, ideal para
+  telemóveis e tablets. É compacto, compatível com PD 3.0 e QC 3.0 e já
+  disponível.
+source_url: >-
+  https://www.notebookcheck.net/IKEA-releases-3-99-compact-20W-USB-C-charger-for-phones-and-tablets.1194560.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

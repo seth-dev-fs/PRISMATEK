@@ -1,17 +1,21 @@
 ---
-title: "AirPods com descontos históricos na Black Friday europeia"
-date: "2025-11-25T20:42:35.708Z"
-category: "audio"
+title: AirPods com descontos históricos na Black Friday europeia
+date: '2025-11-25T20:42:35.708Z'
+category: audio
 tags:
   - AirPods
   - Apple
   - auriculares
   - Black Friday
   - descontos
-image: "https://cdn.mos.cms.futurecdn.net/vqsifoiSi8jTDN2p8ccpaU-1280-80.png"
-image_source: "https://cdn.mos.cms.futurecdn.net/vqsifoiSi8jTDN2p8ccpaU-1280-80.png"
-description: "A Black Friday traz os AirPods da Apple a preços nunca antes vistos na Europa. Descobre como podes aproveitar estas ofertas imperdíveis para os teus novos au..."
-source_url: "https://www.techradar.com/audio/earbuds-airpods/airpods-4-just-got-a-double-black-friday-discount-now-nearly-half-price"
+image: 'https://cdn.mos.cms.futurecdn.net/vqsifoiSi8jTDN2p8ccpaU-1280-80.png'
+image_source: 'https://cdn.mos.cms.futurecdn.net/vqsifoiSi8jTDN2p8ccpaU-1280-80.png'
+description: >-
+  A Black Friday traz os AirPods da Apple a preços nunca antes vistos na Europa.
+  Descobre como podes aproveitar estas ofertas imperdíveis para os teus novos
+  au.
+source_url: >-
+  https://www.techradar.com/audio/earbuds-airpods/airpods-4-just-got-a-double-black-friday-discount-now-nearly-half-price
 draft: false
 needs_review: false
 ---

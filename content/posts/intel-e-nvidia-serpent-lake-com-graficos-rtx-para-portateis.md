@@ -1,17 +1,22 @@
 ---
-title: "Intel e Nvidia: Serpent Lake com gráficos RTX para portáteis?"
-date: "2025-12-23T10:21:57.167Z"
-category: "computadores"
+title: 'Intel e Nvidia: Serpent Lake com gráficos RTX para portáteis?'
+date: '2025-12-23T10:21:57.167Z'
+category: computadores
 tags:
   - Intel
   - Nvidia
   - Serpent Lake
   - processadores
   - portáteis
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Intel-and-Nvidia-are-allegedly-developing-Serpent-Lake-desktop-and-laptop-CPUs.jpg"
-image_source: "rss"
-description: "Rumores apontam para uma colaboração inédita entre Intel e Nvidia, com a arquitetura Serpent Lake a integrar uma iGPU RTX para rivalizar com a AMD em portáte..."
-source_url: "https://www.notebookcheck.net/Intel-x-Nvidia-Serpent-Lake-leaks-as-Strix-Halo-rival-with-capable-CPU-and-big-GeForce-RTX-Rubin-iGPU.1190608.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Intel-and-Nvidia-are-allegedly-developing-Serpent-Lake-desktop-and-laptop-CPUs.jpg
+image_source: rss
+description: >-
+  Rumores apontam para uma colaboração inédita entre Intel e Nvidia, com a
+  arquitetura Serpent Lake a integrar uma iGPU RTX para rivalizar com a AMD em
+  portáte.
+source_url: >-
+  https://www.notebookcheck.net/Intel-x-Nvidia-Serpent-Lake-leaks-as-Strix-Halo-rival-with-capable-CPU-and-big-GeForce-RTX-Rubin-iGPU.1190608.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

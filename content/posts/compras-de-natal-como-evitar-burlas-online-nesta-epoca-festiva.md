@@ -1,17 +1,21 @@
 ---
-title: "Compras de Natal: Como evitar burlas online nesta época festiva"
-date: "2025-12-20T10:17:59.426Z"
-category: "internet-apps"
+title: 'Compras de Natal: Como evitar burlas online nesta época festiva'
+date: '2025-12-20T10:17:59.426Z'
+category: internet-apps
 tags:
   - seguranca online
   - burlas
   - compras online
   - Natal
   - ciberseguranca
-image: "https://cdn.mos.cms.futurecdn.net/VuBMgidwKAh2uEAV7UMikB-1280-80.jpg"
-image_source: "rss"
-description: "Com a correria das compras de Natal, as fraudes online aumentam. Proteja-se com as nossas dicas essenciais para uma época festiva segura e sem surpresas desa..."
-source_url: "https://www.techradar.com/pro/security/last-minute-holiday-shopping-heres-how-to-stay-safe-from-scams"
+image: 'https://cdn.mos.cms.futurecdn.net/VuBMgidwKAh2uEAV7UMikB-1280-80.jpg'
+image_source: rss
+description: >-
+  Com a correria das compras de Natal, as fraudes online aumentam. Proteja-se
+  com as nossas dicas essenciais para uma época festiva segura e sem surpresas
+  desa.
+source_url: >-
+  https://www.techradar.com/pro/security/last-minute-holiday-shopping-heres-how-to-stay-safe-from-scams
 draft: false
 needs_review: false
 photographer_name: undefined

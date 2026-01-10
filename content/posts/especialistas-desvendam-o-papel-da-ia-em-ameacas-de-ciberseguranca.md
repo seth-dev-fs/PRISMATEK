@@ -1,17 +1,21 @@
 ---
-title: "Especialistas Desvendam o Papel da IA em Ameaças de Cibersegurança"
-date: "2025-11-24T22:41:11.040Z"
-category: "ai-futuro"
+title: Especialistas Desvendam o Papel da IA em Ameaças de Cibersegurança
+date: '2025-11-24T22:41:11.040Z'
+category: ai-futuro
 tags:
   - IA
   - cibersegurança
   - LLMs
   - segurança digital
   - ameaças cibernéticas
-image: "https://cdn.mos.cms.futurecdn.net/U3nMoaJ3iNrFx8Qwkwmw7d-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/U3nMoaJ3iNrFx8Qwkwmw7d-1280-80.jpg"
-description: "Especialistas testaram modelos de linguagem avançados para criar ameaças de cibersegurança. Os resultados surpreendem, mas a autonomia total ainda é um desaf..."
-source_url: "https://www.techradar.com/pro/experts-tried-to-get-ai-to-create-malicious-security-threats-but-what-it-did-next-was-a-surprise-even-to-them"
+image: 'https://cdn.mos.cms.futurecdn.net/U3nMoaJ3iNrFx8Qwkwmw7d-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/U3nMoaJ3iNrFx8Qwkwmw7d-1280-80.jpg'
+description: >-
+  Especialistas testaram modelos de linguagem avançados para criar ameaças de
+  cibersegurança. Os resultados surpreendem, mas a autonomia total ainda é um
+  desaf.
+source_url: >-
+  https://www.techradar.com/pro/experts-tried-to-get-ai-to-create-malicious-security-threats-but-what-it-did-next-was-a-surprise-even-to-them
 draft: false
 needs_review: false
 ---

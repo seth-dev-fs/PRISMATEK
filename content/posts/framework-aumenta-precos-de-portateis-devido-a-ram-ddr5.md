@@ -1,17 +1,22 @@
 ---
-title: "Framework aumenta preços de portáteis devido à RAM DDR5"
-date: "2025-12-26T01:19:00.959Z"
-category: "computadores"
+title: Framework aumenta preços de portáteis devido à RAM DDR5
+date: '2025-12-26T01:19:00.959Z'
+category: computadores
 tags:
   - Framework
   - portáteis
   - RAM DDR5
   - custos
   - componentes
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pair-of-RAM-Modules-Image-Source-Framework-Blog.png"
-image_source: "rss"
-description: "A Framework anunciou novos aumentos de preço para os seus portáteis, devido à escalada dos custos da memória RAM DDR5. Saiba o que significa para o mercado e..."
-source_url: "https://www.notebookcheck.net/Framework-warns-of-further-laptop-price-increases-as-DDR5-RAM-costs-surge-while-announcing-a-further-price-adjustment-a-week-after-its-last-hike.1192510.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pair-of-RAM-Modules-Image-Source-Framework-Blog.png
+image_source: rss
+description: >-
+  A Framework anunciou novos aumentos de preço para os seus portáteis, devido à
+  escalada dos custos da memória RAM DDR5. Saiba o que significa para o mercado
+  e.
+source_url: >-
+  https://www.notebookcheck.net/Framework-warns-of-further-laptop-price-increases-as-DDR5-RAM-costs-surge-while-announcing-a-further-price-adjustment-a-week-after-its-last-hike.1192510.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

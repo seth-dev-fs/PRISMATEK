@@ -1,17 +1,22 @@
 ---
-title: "Google Fotos testa novo editor de rosto com IA para 'retouch' facial"
-date: "2025-12-04T06:59:42.691Z"
-category: "ai-futuro"
+title: Google Fotos testa novo editor de rosto com IA para 'retouch' facial
+date: '2025-12-04T06:59:42.691Z'
+category: ai-futuro
 tags:
   - Google Fotos
   - edição de fotos
   - inteligência artificial
   - apps Android
   - Touch Up
-image: "https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg"
-image_source: "rss"
-description: "O Google Fotos prepara-se para lançar uma poderosa ferramenta de edição facial, 'Touch Up', permitindo ajustar olhos, lábios e dentes com IA. Descobre a novi..."
-source_url: "https://www.androidauthority.com/google-photos-touch-up-face-editor-first-look-3621974"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2023/04/Gogole-photos-logo-on-smartphone-next-to-other-devices-and-picture-frame-Stock-photo-6.jpg
+image_source: rss
+description: >-
+  O Google Fotos prepara-se para lançar uma poderosa ferramenta de edição
+  facial, 'Touch Up', permitindo ajustar olhos, lábios e dentes com IA. Descobre
+  a novi.
+source_url: >-
+  https://www.androidauthority.com/google-photos-touch-up-face-editor-first-look-3621974
 draft: false
 needs_review: false
 photographer_name: undefined

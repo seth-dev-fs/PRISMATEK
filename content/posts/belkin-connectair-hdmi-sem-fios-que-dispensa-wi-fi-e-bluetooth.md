@@ -1,17 +1,22 @@
 ---
-title: "Belkin ConnectAir: HDMI sem fios que dispensa Wi-Fi e Bluetooth"
-date: "2026-01-04T22:16:39.330Z"
-category: "mobilidade"
+title: 'Belkin ConnectAir: HDMI sem fios que dispensa Wi-Fi e Bluetooth'
+date: '2026-01-04T22:16:39.330Z'
+category: mobilidade
 tags:
   - Belkin
   - HDMI sem fios
   - ConnectAir
   - partilha de ecrã
   - tecnologia móvel
-image: "https://s.yimg.com/ny/api/res/1.2/Wz6UsBoDgfvZtd_r9lJ8rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/connectair.jpg"
-image_source: "rss"
-description: "A Belkin apresenta o ConnectAir, um adaptador HDMI sem fios inovador que permite partilhar ecrãs a 1080p/60Hz, sem precisar de Wi-Fi. Ideal para trabalho e l..."
-source_url: "https://www.engadget.com/computing/accessories/belkin-announces-a-wireless-hdmi-dongle-that-doesnt-need-wi-fi-access-215513179.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/Wz6UsBoDgfvZtd_r9lJ8rQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/connectair.jpg
+image_source: rss
+description: >-
+  A Belkin apresenta o ConnectAir, um adaptador HDMI sem fios inovador que
+  permite partilhar ecrãs a 1080p/60Hz, sem precisar de Wi-Fi. Ideal para
+  trabalho e l.
+source_url: >-
+  https://www.engadget.com/computing/accessories/belkin-announces-a-wireless-hdmi-dongle-that-doesnt-need-wi-fi-access-215513179.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

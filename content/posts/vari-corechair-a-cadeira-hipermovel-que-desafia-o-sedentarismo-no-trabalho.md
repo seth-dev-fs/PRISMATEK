@@ -1,17 +1,20 @@
 ---
-title: "Vari CoreChair: A Cadeira Hipermóvel que Desafia o Sedentarismo no Trabalho"
-date: "2026-01-10T08:24:42.625Z"
-category: "home"
+title: 'Vari CoreChair: A Cadeira Hipermóvel que Desafia o Sedentarismo no Trabalho'
+date: '2026-01-10T08:24:42.625Z'
+category: home
 tags:
   - ergonomia
   - home office
   - saúde laboral
   - produtividade
   - cadeiras de escritório
-image: "https://cdn.mos.cms.futurecdn.net/pKjebWmc2SVSSYWhV7qQs4-1280-80.jpg"
-image_source: "rss"
-description: "Analisamos a Vari CoreChair, a cadeira hipermóvel que promete ativar o core e a produtividade. Descubra o seu preço, disponibilidade e impacto no mercado de ..."
-source_url: "https://www.techradar.com/pro/vari-corechair-office-chair-review"
+image: 'https://cdn.mos.cms.futurecdn.net/pKjebWmc2SVSSYWhV7qQs4-1280-80.jpg'
+image_source: rss
+description: >-
+  Analisamos a Vari CoreChair, a cadeira hipermóvel que promete ativar o core e
+  a produtividade. Descubra o seu preço, disponibilidade e impacto no mercado
+  de.
+source_url: 'https://www.techradar.com/pro/vari-corechair-office-chair-review'
 draft: false
 needs_review: false
 photographer_name: undefined

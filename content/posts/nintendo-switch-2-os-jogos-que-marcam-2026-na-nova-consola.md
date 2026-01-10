@@ -1,17 +1,22 @@
 ---
-title: "Nintendo Switch 2: Os jogos que marcam 2026 na nova consola"
-date: "2025-12-25T10:19:40.369Z"
-category: "gaming"
+title: 'Nintendo Switch 2: Os jogos que marcam 2026 na nova consola'
+date: '2025-12-25T10:19:40.369Z'
+category: gaming
 tags:
   - Nintendo Switch 2
   - gaming
   - jogos
   - consola
   - Nintendo
-image: "https://s.yimg.com/ny/api/res/1.2/6LuH8CVd2Q0vKatBFJcqFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/5b52f280-d445-11f0-89bf-f92c6022b6f3"
-image_source: "rss"
-description: "A Nintendo Switch 2 promete uma transição fluida e uma biblioteca de jogos diversificada para 2026. Descobre o que esperar da próxima geração da consola híbr..."
-source_url: "https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-games-070007467.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/6LuH8CVd2Q0vKatBFJcqFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/5b52f280-d445-11f0-89bf-f92c6022b6f3
+image_source: rss
+description: >-
+  A Nintendo Switch 2 promete uma transição fluida e uma biblioteca de jogos
+  diversificada para 2026. Descobre o que esperar da próxima geração da consola
+  híbr.
+source_url: >-
+  https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-games-070007467.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

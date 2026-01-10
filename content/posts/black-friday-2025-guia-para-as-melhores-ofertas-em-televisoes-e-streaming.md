@@ -1,17 +1,22 @@
 ---
-title: "Black Friday 2025: Guia para as Melhores Ofertas em Televisões e Streaming"
-date: "2025-11-26T14:47:13.040Z"
-category: "entretenimento-gaming"
+title: 'Black Friday 2025: Guia para as Melhores Ofertas em Televisões e Streaming'
+date: '2025-11-26T14:47:13.040Z'
+category: entretenimento-gaming
 tags:
   - Black Friday
   - televisões
   - OLED
   - streaming
   - tecnologia
-image: "https://s.yimg.com/ny/api/res/1.2/Wrq_rDncR7ZuRV3gUeUCHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/7375a7b0-c3db-11f0-bca7-d533f213bf22"
-image_source: "rss"
-description: "Prepare-se para a Black Friday 2025! Descubra os televisores e dispositivos de streaming que prometem descontos imperdíveis no mercado europeu. Guia essencia..."
-source_url: "https://www.engadget.com/deals/best-black-friday-tv-deals-for-2025-save-hundreds-on-sets-from-samsung-lg-sony-and-others-181143641.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/Wrq_rDncR7ZuRV3gUeUCHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/7375a7b0-c3db-11f0-bca7-d533f213bf22
+image_source: rss
+description: >-
+  Prepare-se para a Black Friday 2025! Descubra os televisores e dispositivos de
+  streaming que prometem descontos imperdíveis no mercado europeu. Guia
+  essencia.
+source_url: >-
+  https://www.engadget.com/deals/best-black-friday-tv-deals-for-2025-save-hundreds-on-sets-from-samsung-lg-sony-and-others-181143641.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

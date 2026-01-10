@@ -1,17 +1,21 @@
 ---
-title: "Gemini da Google adota UI do ChatGPT e novas funções no Maps"
-date: "2025-12-02T18:59:31.932Z"
-category: "ai-futuro"
+title: Gemini da Google adota UI do ChatGPT e novas funções no Maps
+date: '2025-12-02T18:59:31.932Z'
+category: ai-futuro
 tags:
   - Google Gemini
   - Inteligência Artificial
   - Google Maps
   - ChatGPT
   - IA
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/gemini-app-tool-redesign-assembledebug.jpg"
-image_source: "rss"
-description: "O Google Gemini adota interface similar ao ChatGPT e integra novas funcionalidades no Google Maps. Descubra como estas atualizações irão simplificar a sua in..."
-source_url: "https://www.androidauthority.com/gemini-chatgpt-menu-maps-3621465"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/gemini-app-tool-redesign-assembledebug.jpg
+image_source: rss
+description: >-
+  O Google Gemini adota interface similar ao ChatGPT e integra novas
+  funcionalidades no Google Maps. Descubra como estas atualizações irão
+  simplificar a sua in.
+source_url: 'https://www.androidauthority.com/gemini-chatgpt-menu-maps-3621465'
 draft: false
 needs_review: false
 photographer_name: undefined

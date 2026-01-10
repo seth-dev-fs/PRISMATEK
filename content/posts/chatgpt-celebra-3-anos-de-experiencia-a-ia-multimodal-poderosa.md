@@ -1,17 +1,21 @@
 ---
-title: "ChatGPT celebra 3 anos: de experiência a IA multimodal poderosa"
-date: "2025-11-28T22:38:17.909Z"
-category: "ai-futuro"
+title: 'ChatGPT celebra 3 anos: de experiência a IA multimodal poderosa'
+date: '2025-11-28T22:38:17.909Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - inteligência artificial
   - IA
   - tecnologia
   - inovação
-image: "https://cdn.mos.cms.futurecdn.net/Eakjt4xkTm7Zjoy54bJVY-1280-80.jpg"
-image_source: "rss"
-description: "O ChatGPT assinala o seu terceiro aniversário, transformando-se de uma experiência em inteligência artificial num assistente multimodal. Descubra a sua evolu..."
-source_url: "https://www.techradar.com/ai-platforms-assistan/chatgpt-turns-3-on-sunday-heres-how-far-its-really-come-and-where-its-heading-next"
+image: 'https://cdn.mos.cms.futurecdn.net/Eakjt4xkTm7Zjoy54bJVY-1280-80.jpg'
+image_source: rss
+description: >-
+  O ChatGPT assinala o seu terceiro aniversário, transformando-se de uma
+  experiência em inteligência artificial num assistente multimodal. Descubra a
+  sua evolu.
+source_url: >-
+  https://www.techradar.com/ai-platforms-assistan/chatgpt-turns-3-on-sunday-heres-how-far-its-really-come-and-where-its-heading-next
 draft: false
 needs_review: false
 photographer_name: undefined

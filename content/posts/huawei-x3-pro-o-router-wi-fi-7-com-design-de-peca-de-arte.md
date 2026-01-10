@@ -1,17 +1,23 @@
 ---
-title: "Huawei X3 Pro: O Router Wi-Fi 7 com design de peça de arte"
-date: "2025-11-25T20:42:49.350Z"
-category: "internet-apps"
+title: 'Huawei X3 Pro: O Router Wi-Fi 7 com design de peça de arte'
+date: '2025-11-25T20:42:49.350Z'
+category: internet-apps
 tags:
   - Huawei
   - Wi-Fi 7
   - router
   - rede mesh
   - design
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-router-x3-pro-kv.jpg"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-router-x3-pro-kv.jpg"
-description: "O novo Huawei X3 Pro redefine a estética dos routers Wi-Fi 7. Combina desempenho de rede com um design inovador, prometendo revolucionar a sua casa e conecti..."
-source_url: "https://www.notebookcheck.net/Huawei-s-latest-Wi-Fi-7-mesh-router-looks-more-like-an-ornament-than-a-router.1170820.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-router-x3-pro-kv.jpg
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/huawei-router-x3-pro-kv.jpg
+description: >-
+  O novo Huawei X3 Pro redefine a estética dos routers Wi-Fi 7. Combina
+  desempenho de rede com um design inovador, prometendo revolucionar a sua casa
+  e conecti.
+source_url: >-
+  https://www.notebookcheck.net/Huawei-s-latest-Wi-Fi-7-mesh-router-looks-more-like-an-ornament-than-a-router.1170820.0.html
 draft: false
 needs_review: false
 ---

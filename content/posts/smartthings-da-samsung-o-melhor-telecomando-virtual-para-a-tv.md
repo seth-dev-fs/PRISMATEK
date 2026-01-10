@@ -1,17 +1,22 @@
 ---
-title: "SmartThings da Samsung: O Melhor Telecomando Virtual para a TV"
-date: "2025-12-05T16:53:06.200Z"
-category: "smartphones"
+title: 'SmartThings da Samsung: O Melhor Telecomando Virtual para a TV'
+date: '2025-12-05T16:53:06.200Z'
+category: smartphones
 tags:
   - Samsung
   - SmartThings
   - One UI
   - telecomando
   - tecnologia
-image: "https://www.sammobile.com/wp-content/uploads/2025/05/samsung-s90f-oled-tv-review-10-1200x741.jpg"
-image_source: "rss"
-description: "A Samsung transformou o SmartThings na sua melhor solução de telecomando virtual, integrada na One UI e disponível em vários dispositivos Galaxy. Descubra a ..."
-source_url: "https://www.sammobile.com/opinion/modern-one-ui-has-the-best-virtual-smartthings-tv-remote"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/05/samsung-s90f-oled-tv-review-10-1200x741.jpg
+image_source: rss
+description: >-
+  A Samsung transformou o SmartThings na sua melhor solução de telecomando
+  virtual, integrada na One UI e disponível em vários dispositivos Galaxy.
+  Descubra a.
+source_url: >-
+  https://www.sammobile.com/opinion/modern-one-ui-has-the-best-virtual-smartthings-tv-remote
 draft: false
 needs_review: false
 photographer_name: undefined

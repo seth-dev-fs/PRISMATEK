@@ -1,17 +1,22 @@
 ---
-title: "Android otimiza hotspot com Wi-Fi 6 GHz para melhor conectividade"
-date: "2025-11-27T13:44:43.957Z"
-category: "smartphones"
+title: Android otimiza hotspot com Wi-Fi 6 GHz para melhor conectividade
+date: '2025-11-27T13:44:43.957Z'
+category: smartphones
 tags:
   - Android
   - hotspot
   - Wi-Fi 6E
   - conectividade
   - smartphones
-image: "https://m-cdn.phonearena.com/images/article/176137-two/Androids-new-hotspot-mode-finally-blends-6-GHz-speed-with-everyday-compatibility.jpg"
-image_source: "rss"
-description: "O Android prepara-se para revolucionar o hotspot móvel, combinando a velocidade do Wi-Fi 6 GHz com a compatibilidade para todos. Uma melhoria vital na partil..."
-source_url: "https://www.phonearena.com/news/android-new-hotspot-mode-6-ghz-speed-compatibility_id176137"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176137-two/Androids-new-hotspot-mode-finally-blends-6-GHz-speed-with-everyday-compatibility.jpg
+image_source: rss
+description: >-
+  O Android prepara-se para revolucionar o hotspot móvel, combinando a
+  velocidade do Wi-Fi 6 GHz com a compatibilidade para todos. Uma melhoria vital
+  na partil.
+source_url: >-
+  https://www.phonearena.com/news/android-new-hotspot-mode-6-ghz-speed-compatibility_id176137
 draft: false
 needs_review: false
 photographer_name: undefined

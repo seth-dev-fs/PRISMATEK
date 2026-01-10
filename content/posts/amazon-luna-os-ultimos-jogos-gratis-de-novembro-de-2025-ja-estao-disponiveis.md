@@ -1,17 +1,22 @@
 ---
-title: "Amazon Luna: Os últimos jogos grátis de novembro de 2025 já estão disponíveis"
-date: "2025-11-28T13:41:34.794Z"
-category: "gaming"
+title: 'Amazon Luna: Os últimos jogos grátis de novembro de 2025 já estão disponíveis'
+date: '2025-11-28T13:41:34.794Z'
+category: gaming
 tags:
   - Amazon Luna
   - jogos grátis
   - gaming
   - cloud gaming
   - novembro 2025
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Final-free-games-for-November-2025-now-available-on-Amazon-Luna.jpg"
-image_source: "rss"
-description: "A Amazon revela os jogos gratuitos finais de novembro de 2025 para o serviço Luna. Descubra os títulos de ação e aventura que pode descarregar já. A Amazon e..."
-source_url: "https://www.notebookcheck.net/Final-November-2025-free-games-include-a-fast-paced-shooter-on-Amazon-Luna.1173033.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Final-free-games-for-November-2025-now-available-on-Amazon-Luna.jpg
+image_source: rss
+description: >-
+  A Amazon revela os jogos gratuitos finais de novembro de 2025 para o serviço
+  Luna. Descubra os títulos de ação e aventura que pode descarregar já. A Amazon
+  e.
+source_url: >-
+  https://www.notebookcheck.net/Final-November-2025-free-games-include-a-fast-paced-shooter-on-Amazon-Luna.1173033.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

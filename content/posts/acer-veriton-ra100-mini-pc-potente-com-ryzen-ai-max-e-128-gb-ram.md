@@ -1,17 +1,22 @@
 ---
-title: "Acer Veriton RA100: Mini PC potente com Ryzen AI Max+ e 128 GB RAM"
-date: "2026-01-09T10:21:24.329Z"
-category: "computadores"
+title: 'Acer Veriton RA100: Mini PC potente com Ryzen AI Max+ e 128 GB RAM'
+date: '2026-01-09T10:21:24.329Z'
+category: computadores
 tags:
   - Acer
   - mini PC
   - Ryzen AI
   - Radeon 8060S
   - Veriton RA100
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-new-Veriton-RA100-mini-PC-with-AMD-Strix-Point-APU.jpg"
-image_source: "rss"
-description: "O novo Acer Veriton RA100 deslumbra com o processador AMD Ryzen AI Max+ 395, iGPU Radeon 8060S e até 128 GB de RAM. Descubra este potente mini PC. A Acer sur..."
-source_url: "https://www.notebookcheck.net/New-Acer-mini-PC-debuts-with-powerful-Radeon-8060S-iGPU-and-up-to-128-GB-of-RAM.1200449.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-new-Veriton-RA100-mini-PC-with-AMD-Strix-Point-APU.jpg
+image_source: rss
+description: >-
+  O novo Acer Veriton RA100 deslumbra com o processador AMD Ryzen AI Max+ 395,
+  iGPU Radeon 8060S e até 128 GB de RAM. Descubra este potente mini PC. A Acer
+  sur.
+source_url: >-
+  https://www.notebookcheck.net/New-Acer-mini-PC-debuts-with-powerful-Radeon-8060S-iGPU-and-up-to-128-GB-of-RAM.1200449.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

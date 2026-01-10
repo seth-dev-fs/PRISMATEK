@@ -1,17 +1,21 @@
 ---
-title: "Calculadora no Smartphone vs. Física: Qual a Melhor Ferramenta para Si?"
-date: "2025-12-31T08:26:58.171Z"
-category: "smartphones"
+title: 'Calculadora no Smartphone vs. Física: Qual a Melhor Ferramenta para Si?'
+date: '2025-12-31T08:26:58.171Z'
+category: smartphones
 tags:
   - calculadora
   - smartphones
   - produtividade
   - ferramentas digitais
   - tecnologia
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "A escolha entre uma calculadora no smartphone e uma física divide opiniões. Exploramos as vantagens e desvantagens de cada para uso diário e profissional em ..."
-source_url: "https://www.sammobile.com/news/how-do-phone-calculators-compare-to-traditional-ones"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  A escolha entre uma calculadora no smartphone e uma física divide opiniões.
+  Exploramos as vantagens e desvantagens de cada para uso diário e profissional
+  em.
+source_url: >-
+  https://www.sammobile.com/news/how-do-phone-calculators-compare-to-traditional-ones
 draft: false
 needs_review: false
 photographer_name: undefined

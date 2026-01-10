@@ -1,17 +1,21 @@
 ---
-title: "Gestão de Projetos: A Chave para a Sustentabilidade com IA"
-date: "2025-11-29T13:20:04.666Z"
-category: "ai-futuro"
+title: 'Gestão de Projetos: A Chave para a Sustentabilidade com IA'
+date: '2025-11-29T13:20:04.666Z'
+category: ai-futuro
 tags:
   - inteligência artificial
   - sustentabilidade
   - gestão de projetos
   - tecnologia verde
   - inovação
-image: "https://cdn.mos.cms.futurecdn.net/cuJ2nHdA2cLngX4bhsHsye-1280-80.jpg"
-image_source: "rss"
-description: "A gestão eficaz de projetos é crucial para que a inteligência artificial cumpra a sua promessa de impulsionar a sustentabilidade duradoura. Descubra o impact..."
-source_url: "https://www.techradar.com/pro/the-project-management-imperative-for-a-greener-future"
+image: 'https://cdn.mos.cms.futurecdn.net/cuJ2nHdA2cLngX4bhsHsye-1280-80.jpg'
+image_source: rss
+description: >-
+  A gestão eficaz de projetos é crucial para que a inteligência artificial
+  cumpra a sua promessa de impulsionar a sustentabilidade duradoura. Descubra o
+  impact.
+source_url: >-
+  https://www.techradar.com/pro/the-project-management-imperative-for-a-greener-future
 draft: false
 needs_review: false
 photographer_name: undefined

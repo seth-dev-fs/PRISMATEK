@@ -1,17 +1,22 @@
 ---
-title: "Firebat A8: Mini PC renovado com AMD Ryzen AI 9 e porta OCuLink"
-date: "2025-12-06T08:21:53.046Z"
-category: "computadores"
+title: 'Firebat A8: Mini PC renovado com AMD Ryzen AI 9 e porta OCuLink'
+date: '2025-12-06T08:21:53.046Z'
+category: computadores
 tags:
   - Mini PC
   - Firebat A8
   - AMD Ryzen AI
   - OCuLink
   - computadores compactos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Firebat-introduces-refreshed-A8-mini-PC.jpg"
-image_source: "rss"
-description: "O mini PC Firebat A8 ganha nova vida com o APU AMD Ryzen AI 9 365 e porta OCuLink para eGPUs. Descubra este potente computador compacto no mercado. A Firebat..."
-source_url: "https://www.notebookcheck.net/Firebat-intros-refreshed-A8-mini-PC-with-capable-AMD-Strix-Point-APU-and-OCuLink.1179322.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Firebat-introduces-refreshed-A8-mini-PC.jpg
+image_source: rss
+description: >-
+  O mini PC Firebat A8 ganha nova vida com o APU AMD Ryzen AI 9 365 e porta
+  OCuLink para eGPUs. Descubra este potente computador compacto no mercado. A
+  Firebat.
+source_url: >-
+  https://www.notebookcheck.net/Firebat-intros-refreshed-A8-mini-PC-with-capable-AMD-Strix-Point-APU-and-OCuLink.1179322.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

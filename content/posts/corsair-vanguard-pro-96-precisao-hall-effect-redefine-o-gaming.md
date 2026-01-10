@@ -1,17 +1,21 @@
 ---
-title: "Corsair Vanguard Pro 96: Precisão Hall Effect redefine o gaming"
-date: "2025-12-24T12:35:51.046Z"
-category: "gaming"
+title: 'Corsair Vanguard Pro 96: Precisão Hall Effect redefine o gaming'
+date: '2025-12-24T12:35:51.046Z'
+category: gaming
 tags:
   - Corsair
   - teclado gaming
   - Hall Effect
   - periféricos
   - gaming
-image: "https://cdn.mos.cms.futurecdn.net/7FZMNtUBJs3JKd6kwNii2E-1280-80.png"
-image_source: "rss"
-description: "O teclado Corsair Vanguard Pro 96 com tecnologia Hall Effect oferece precisão e durabilidade ímpares. Descobre as inovações que o tornam ideal para gamers ex..."
-source_url: "https://www.techradar.com/computing/save-gbp50-on-corsairs-top-tier-vanguard-pro-96-hall-effect-gaming-keyboard-for-boxing-day"
+image: 'https://cdn.mos.cms.futurecdn.net/7FZMNtUBJs3JKd6kwNii2E-1280-80.png'
+image_source: rss
+description: >-
+  O teclado Corsair Vanguard Pro 96 com tecnologia Hall Effect oferece precisão
+  e durabilidade ímpares. Descobre as inovações que o tornam ideal para gamers
+  ex.
+source_url: >-
+  https://www.techradar.com/computing/save-gbp50-on-corsairs-top-tier-vanguard-pro-96-hall-effect-gaming-keyboard-for-boxing-day
 draft: false
 needs_review: false
 photographer_name: undefined

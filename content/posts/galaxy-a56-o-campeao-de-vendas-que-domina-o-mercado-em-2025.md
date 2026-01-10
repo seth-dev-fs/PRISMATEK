@@ -1,17 +1,22 @@
 ---
-title: "Galaxy A56: O campeão de vendas que domina o mercado em 2025"
-date: "2025-12-05T10:45:56.501Z"
-category: "smartphones"
+title: 'Galaxy A56: O campeão de vendas que domina o mercado em 2025'
+date: '2025-12-05T10:45:56.501Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy A56
   - smartphones
   - mercado mobile
   - vendas
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-A56-review-Design-4-1200x675.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy A56 surpreendeu ao tornar-se um dos smartphones mais vendidos no terceiro trimestre de 2025. Descubra como a Samsung e a Apple continuam a l..."
-source_url: "https://www.sammobile.com/news/the-galaxy-a56-became-one-of-the-worlds-best-selling-phones-in-q3"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-A56-review-Design-4-1200x675.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy A56 surpreendeu ao tornar-se um dos smartphones mais vendidos
+  no terceiro trimestre de 2025. Descubra como a Samsung e a Apple continuam a
+  l.
+source_url: >-
+  https://www.sammobile.com/news/the-galaxy-a56-became-one-of-the-worlds-best-selling-phones-in-q3
 draft: false
 needs_review: false
 photographer_name: undefined

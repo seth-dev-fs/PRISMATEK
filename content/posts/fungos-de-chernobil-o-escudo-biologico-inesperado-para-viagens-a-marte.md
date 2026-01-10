@@ -1,17 +1,21 @@
 ---
-title: "Fungos de Chernobil: O Escudo Biológico Inesperado para Viagens a Marte?"
-date: "2025-12-05T13:46:58.332Z"
-category: "ciencia"
+title: 'Fungos de Chernobil: O Escudo Biológico Inesperado para Viagens a Marte?'
+date: '2025-12-05T13:46:58.332Z'
+category: ciencia
 tags:
   - fungos
   - radiação
   - exploração espacial
   - Marte
   - Chernobil
-image: "https://i.blogs.es/5314f6/plantilla-xtk/840_560.png"
-image_source: "rss"
-description: "Descoberta em Chernobil, a radiosíntese de fungos oferece uma solução inovadora para o desafio da radiação em viagens espaciais a Marte. Em maio de 1997, a b..."
-source_url: "https://www.xataka.com/espacio/hongos-que-desafiaron-chernobil-tambien-desafian-espacio-profundo-asi-como-radiosintesis-quiere-llevarnos-a-marte"
+image: 'https://i.blogs.es/5314f6/plantilla-xtk/840_560.png'
+image_source: rss
+description: >-
+  Descoberta em Chernobil, a radiosíntese de fungos oferece uma solução
+  inovadora para o desafio da radiação em viagens espaciais a Marte. Em maio de
+  1997, a b.
+source_url: >-
+  https://www.xataka.com/espacio/hongos-que-desafiaron-chernobil-tambien-desafian-espacio-profundo-asi-como-radiosintesis-quiere-llevarnos-a-marte
 draft: false
 needs_review: false
 photographer_name: undefined

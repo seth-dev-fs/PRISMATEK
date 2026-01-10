@@ -1,17 +1,21 @@
 ---
-title: "Samsung garante luz verde dos EUA para fábrica de chips na China"
-date: "2025-12-30T08:26:28.595Z"
-category: "computadores"
+title: Samsung garante luz verde dos EUA para fábrica de chips na China
+date: '2025-12-30T08:26:28.595Z'
+category: computadores
 tags:
   - Samsung
   - chips
   - China
   - EUA
   - semicondutores
-image: "https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-logo-6.jpg"
-image_source: "rss"
-description: "A Samsung obteve uma aprovação crucial dos EUA, permitindo a continuidade das operações na sua fábrica de semicondutores na China, superando restrições de ex..."
-source_url: "https://www.sammobile.com/news/samsung-wins-key-us-approval-for-its-china-chip-factory"
+image: 'https://www.sammobile.com/wp-content/uploads/2025/01/Samsung-logo-6.jpg'
+image_source: rss
+description: >-
+  A Samsung obteve uma aprovação crucial dos EUA, permitindo a continuidade das
+  operações na sua fábrica de semicondutores na China, superando restrições de
+  ex.
+source_url: >-
+  https://www.sammobile.com/news/samsung-wins-key-us-approval-for-its-china-chip-factory
 draft: false
 needs_review: false
 photographer_name: undefined

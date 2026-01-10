@@ -1,17 +1,21 @@
 ---
-title: "Ciber-resiliência: Imperativo para negócios face a ameaças crescentes"
-date: "2025-11-29T10:42:51.373Z"
-category: "internet-apps"
+title: 'Ciber-resiliência: Imperativo para negócios face a ameaças crescentes'
+date: '2025-11-29T10:42:51.373Z'
+category: internet-apps
 tags:
   - ciber-resiliência
   - cibersegurança
   - ransomware
   - segurança digital
   - empresas
-image: "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-1280-80.jpg"
-image_source: "rss"
-description: "A ciber-resiliência tornou-se um imperativo de negócio. Com o aumento das ameaças de ransomware, empresas na Europa devem evoluir estratégias e competências ..."
-source_url: "https://www.techradar.com/pro/cyber-resilience-is-a-business-imperative-skills-and-strategy-must-evolve"
+image: 'https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-1280-80.jpg'
+image_source: rss
+description: >-
+  A ciber-resiliência tornou-se um imperativo de negócio. Com o aumento das
+  ameaças de ransomware, empresas na Europa devem evoluir estratégias e
+  competências.
+source_url: >-
+  https://www.techradar.com/pro/cyber-resilience-is-a-business-imperative-skills-and-strategy-must-evolve
 draft: false
 needs_review: false
 photographer_name: undefined

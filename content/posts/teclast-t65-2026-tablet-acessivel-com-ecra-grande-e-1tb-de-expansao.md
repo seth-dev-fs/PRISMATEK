@@ -1,17 +1,22 @@
 ---
-title: "Teclast T65 2026: Tablet acessível com ecrã grande e 1TB de expansão"
-date: "2025-12-04T17:00:09.216Z"
-category: "mobilidade"
+title: 'Teclast T65 2026: Tablet acessível com ecrã grande e 1TB de expansão'
+date: '2025-12-04T17:00:09.216Z'
+category: mobilidade
 tags:
   - Teclast
   - tablet
   - mobilidade
   - T65 2026
   - tecnologia acessível
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Teclast-T65-2026-tablet-launched.jpg"
-image_source: "rss"
-description: "A Teclast lança o T65 2026, um tablet económico com ecrã de 13,4 polegadas a 120 Hz e expansão de até 1 TB. Ideal para multimédia e produtividade. Descubra m..."
-source_url: "https://www.notebookcheck.net/Teclast-debuts-new-affordable-tablet-with-large-display-and-up-to-1-TB-expandable-storage.1177809.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Teclast-T65-2026-tablet-launched.jpg
+image_source: rss
+description: >-
+  A Teclast lança o T65 2026, um tablet económico com ecrã de 13,4 polegadas a
+  120 Hz e expansão de até 1 TB. Ideal para multimédia e produtividade. Descubra
+  m.
+source_url: >-
+  https://www.notebookcheck.net/Teclast-debuts-new-affordable-tablet-with-large-display-and-up-to-1-TB-expandable-storage.1177809.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

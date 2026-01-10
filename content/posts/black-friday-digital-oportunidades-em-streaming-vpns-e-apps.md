@@ -1,17 +1,22 @@
 ---
-title: "Black Friday Digital: Oportunidades em Streaming, VPNs e Apps"
-date: "2025-11-30T13:19:32.304Z"
-category: "internet-apps"
+title: 'Black Friday Digital: Oportunidades em Streaming, VPNs e Apps'
+date: '2025-11-30T13:19:32.304Z'
+category: internet-apps
 tags:
   - Black Friday
   - subscrições
   - streaming
   - VPN
   - aplicações
-image: "https://s.yimg.com/ny/api/res/1.2/KwihF3Y1rPeD_3mzD0sG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/087dbff0-c580-11f0-a897-fd501f4376c2"
-image_source: "rss"
-description: "A Black Friday traz ofertas imperdíveis em serviços digitais. Descubra como poupar em plataformas de streaming, VPNs de segurança e apps de produtividade na ..."
-source_url: "https://www.engadget.com/deals/black-friday-subscription-and-streaming-deals-you-can-still-get-today-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-180000005.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/KwihF3Y1rPeD_3mzD0sG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/087dbff0-c580-11f0-a897-fd501f4376c2
+image_source: rss
+description: >-
+  A Black Friday traz ofertas imperdíveis em serviços digitais. Descubra como
+  poupar em plataformas de streaming, VPNs de segurança e apps de produtividade
+  na.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-subscription-and-streaming-deals-you-can-still-get-today-discounts-on-apple-tv-hbo-max-disney-proton-vpn-and-more-180000005.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

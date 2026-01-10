@@ -1,7 +1,7 @@
 ---
-title: "Casio G-Shock x Sole DXB: Um relógio com alma do deserto"
-date: "2025-12-15T10:21:53.834Z"
-category: "wearables"
+title: 'Casio G-Shock x Sole DXB: Um relógio com alma do deserto'
+date: '2025-12-15T10:21:53.834Z'
+category: wearables
 tags:
   - Casio
   - G-Shock
@@ -9,10 +9,15 @@ tags:
   - edição limitada
   - design
   - Sole DXB
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-Sole-DXB-collab-watch.png"
-image_source: "rss"
-description: "Casio e Sole DXB unem-se para um G-Shock quadrado de edição limitada. Design em preto mate inspirado no deserto, exclusivo para colecionadores. Descobre esta..."
-source_url: "https://www.notebookcheck.net/New-Casio-G-Shock-collab-watch-with-matte-black-desert-inspired-design-revealed.1185976.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-Sole-DXB-collab-watch.png
+image_source: rss
+description: >-
+  Casio e Sole DXB unem-se para um G-Shock quadrado de edição limitada. Design
+  em preto mate inspirado no deserto, exclusivo para colecionadores. Descobre
+  esta.
+source_url: >-
+  https://www.notebookcheck.net/New-Casio-G-Shock-collab-watch-with-matte-black-desert-inspired-design-revealed.1185976.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

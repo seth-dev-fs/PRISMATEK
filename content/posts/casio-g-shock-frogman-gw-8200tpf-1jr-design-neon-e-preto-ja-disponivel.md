@@ -1,17 +1,22 @@
 ---
-title: "Casio G-Shock Frogman GW-8200TPF-1JR: Design neon e preto já disponível"
-date: "2025-12-01T20:37:01.931Z"
-category: "wearables"
+title: 'Casio G-Shock Frogman GW-8200TPF-1JR: Design neon e preto já disponível'
+date: '2025-12-01T20:37:01.931Z'
+category: wearables
 tags:
   - Casio
   - G-Shock
   - Frogman
   - relógio
   - resistente
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-Frogman-Poison-Dart.png"
-image_source: "rss"
-description: "O icónico Casio G-Shock Frogman ganha uma nova versão inspirada no sapo-venenoso, com design arrojado, Tough Solar e Bluetooth. Saiba tudo. A Casio, conhecid..."
-source_url: "https://www.notebookcheck.net/New-Casio-G-Shock-Frogman-watch-with-black-and-neon-finish-now-open-for-preorder.1174531.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-Frogman-Poison-Dart.png
+image_source: rss
+description: >-
+  O icónico Casio G-Shock Frogman ganha uma nova versão inspirada no
+  sapo-venenoso, com design arrojado, Tough Solar e Bluetooth. Saiba tudo. A
+  Casio, conhecid.
+source_url: >-
+  https://www.notebookcheck.net/New-Casio-G-Shock-Frogman-watch-with-black-and-neon-finish-now-open-for-preorder.1174531.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

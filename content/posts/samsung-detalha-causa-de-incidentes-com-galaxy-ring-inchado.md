@@ -1,17 +1,22 @@
 ---
-title: "Samsung detalha causa de incidentes com Galaxy Ring inchado"
-date: "2026-01-08T10:22:13.561Z"
-category: "wearables"
+title: Samsung detalha causa de incidentes com Galaxy Ring inchado
+date: '2026-01-08T10:22:13.561Z'
+category: wearables
 tags:
   - Samsung
   - Galaxy Ring
   - wearables
   - anéis inteligentes
   - segurança
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-ring-statement-samsung.jpg"
-image_source: "rss"
-description: "A Samsung quebrou o silêncio sobre os incidentes de inchaço do Galaxy Ring, assegurando que não há problemas generalizados com a bateria do seu anel intelige..."
-source_url: "https://www.notebookcheck.net/Samsung-finally-releases-statement-for-swollen-Galaxy-Ring.1199702.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-ring-statement-samsung.jpg
+image_source: rss
+description: >-
+  A Samsung quebrou o silêncio sobre os incidentes de inchaço do Galaxy Ring,
+  assegurando que não há problemas generalizados com a bateria do seu anel
+  intelige.
+source_url: >-
+  https://www.notebookcheck.net/Samsung-finally-releases-statement-for-swollen-Galaxy-Ring.1199702.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

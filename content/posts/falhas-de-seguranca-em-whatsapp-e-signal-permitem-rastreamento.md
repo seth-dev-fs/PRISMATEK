@@ -1,17 +1,22 @@
 ---
-title: "Falhas de segurança em WhatsApp e Signal permitem rastreamento"
-date: "2025-12-11T08:27:40.381Z"
-category: "internet-apps"
+title: Falhas de segurança em WhatsApp e Signal permitem rastreamento
+date: '2025-12-11T08:27:40.381Z'
+category: internet-apps
 tags:
   - WhatsApp
   - Signal
   - segurança
   - privacidade
   - rastreamento
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Whats-App-Tracking.png"
-image_source: "rss"
-description: "Investigadores da Universidade de Viena expõem falhas em WhatsApp e Signal que permitem rastrear utilizadores. Saiba como esta vulnerabilidade funciona e o q..."
-source_url: "https://www.notebookcheck.net/Weak-security-in-WhatsApp-and-Signal-allows-low-skill-attackers-to-track-users.1183239.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Whats-App-Tracking.png
+image_source: rss
+description: >-
+  Investigadores da Universidade de Viena expõem falhas em WhatsApp e Signal que
+  permitem rastrear utilizadores. Saiba como esta vulnerabilidade funciona e o
+  q.
+source_url: >-
+  https://www.notebookcheck.net/Weak-security-in-WhatsApp-and-Signal-allows-low-skill-attackers-to-track-users.1183239.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

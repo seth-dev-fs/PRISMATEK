@@ -1,17 +1,22 @@
 ---
-title: "Carregador Portátil de 10.000 mAh: Essencial para a Autonomia Diária"
-date: "2025-11-27T18:53:11.770Z"
-category: "smartphones"
+title: 'Carregador Portátil de 10.000 mAh: Essencial para a Autonomia Diária'
+date: '2025-11-27T18:53:11.770Z'
+category: smartphones
 tags:
   - carregador portátil
   - power bank
   - USB-C
   - bateria
   - mobilidade
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/INIU-Portable-Charger-Press-Image-scaled.jpg"
-image_source: "rss"
-description: "Descubra o carregador portátil de 10.000 mAh com cabo USB-C integrado e carregamento rápido de 45W. Uma solução essencial para a autonomia dos seus dispositi..."
-source_url: "https://www.androidauthority.com/iniu-portable-charger-portable-charger-deal-3620042"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/INIU-Portable-Charger-Press-Image-scaled.jpg
+image_source: rss
+description: >-
+  Descubra o carregador portátil de 10.000 mAh com cabo USB-C integrado e
+  carregamento rápido de 45W. Uma solução essencial para a autonomia dos seus
+  dispositi.
+source_url: >-
+  https://www.androidauthority.com/iniu-portable-charger-portable-charger-deal-3620042
 draft: false
 needs_review: false
 photographer_name: undefined

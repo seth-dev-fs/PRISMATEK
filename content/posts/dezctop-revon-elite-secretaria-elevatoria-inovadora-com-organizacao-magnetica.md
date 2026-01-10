@@ -1,16 +1,19 @@
 ---
-title: "Dezctop Revon Elite: Secretária Elevatória Inovadora com Organização Magnética"
-date: "2026-01-10T12:32:52.200Z"
-category: "home"
+title: 'Dezctop Revon Elite: Secretária Elevatória Inovadora com Organização Magnética'
+date: '2026-01-10T12:32:52.200Z'
+category: home
 tags:
   - secretária elevatória
   - home office
   - organização
   - inovação tecnológica
-image: "https://cdn.mos.cms.futurecdn.net/DHivNkfpJTZ9WLyUG3RNEU-1280-80.jpg"
-image_source: "rss"
-description: "A Dezctop Revon Elite redefine a secretária elevatória com um sistema de acessórios magnéticos sem precedentes. Analisamos o seu impacto potencial no mercado..."
-source_url: "https://www.techradar.com/pro/dezctop-revon-elite-standing-desk-review"
+image: 'https://cdn.mos.cms.futurecdn.net/DHivNkfpJTZ9WLyUG3RNEU-1280-80.jpg'
+image_source: rss
+description: >-
+  A Dezctop Revon Elite redefine a secretária elevatória com um sistema de
+  acessórios magnéticos sem precedentes. Analisamos o seu impacto potencial no
+  mercado.
+source_url: 'https://www.techradar.com/pro/dezctop-revon-elite-standing-desk-review'
 draft: false
 needs_review: false
 photographer_name: undefined

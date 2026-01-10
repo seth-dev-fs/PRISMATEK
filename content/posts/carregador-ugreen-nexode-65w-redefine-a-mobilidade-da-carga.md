@@ -1,17 +1,22 @@
 ---
-title: "Carregador Ugreen Nexode 65W redefine a mobilidade da carga"
-date: "2025-12-25T06:27:40.620Z"
-category: "mobilidade"
+title: Carregador Ugreen Nexode 65W redefine a mobilidade da carga
+date: '2025-12-25T06:27:40.620Z'
+category: mobilidade
 tags:
   - Ugreen
   - carregador
   - GaN
   - mobilidade
   - acessórios
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ugreen_nexode_65_watt_gan_charger_deal.jpg"
-image_source: "rss"
-description: "O Ugreen Nexode 65W é um carregador GaN compacto com três portas, ideal para múltiplos dispositivos. Descubra a eficiência e versatilidade deste acessório es..."
-source_url: "https://www.notebookcheck.net/Compact-triple-port-fast-charger-Ugreen-Nexode-65-watt-nears-all-time-low-price-on-Amazon.1192175.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ugreen_nexode_65_watt_gan_charger_deal.jpg
+image_source: rss
+description: >-
+  O Ugreen Nexode 65W é um carregador GaN compacto com três portas, ideal para
+  múltiplos dispositivos. Descubra a eficiência e versatilidade deste acessório
+  es.
+source_url: >-
+  https://www.notebookcheck.net/Compact-triple-port-fast-charger-Ugreen-Nexode-65-watt-nears-all-time-low-price-on-Amazon.1192175.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

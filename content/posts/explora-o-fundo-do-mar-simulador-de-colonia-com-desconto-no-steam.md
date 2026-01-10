@@ -1,17 +1,22 @@
 ---
-title: "Explora o Fundo do Mar: Simulador de Colónia com Desconto no Steam"
-date: "2025-12-08T03:19:08.492Z"
-category: "gaming"
+title: 'Explora o Fundo do Mar: Simulador de Colónia com Desconto no Steam'
+date: '2025-12-08T03:19:08.492Z'
+category: gaming
 tags:
   - gaming
   - simulação
   - jogos PC
   - Steam
   - promoção
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/city_view_underwater_witth_ui-SOURCE_SteamDB.jpg"
-image_source: "rss"
-description: "Um fascinante jogo de simulação e construção de cidades subaquáticas está com 70% de desconto no Steam. Mergulha nas profundezas, mas atenção às críticas mis..."
-source_url: "https://www.notebookcheck.net/This-underwater-city-builder-and-colony-sim-is-available-at-a-70-discount-on-Steam.1180428.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/city_view_underwater_witth_ui-SOURCE_SteamDB.jpg
+image_source: rss
+description: >-
+  Um fascinante jogo de simulação e construção de cidades subaquáticas está com
+  70% de desconto no Steam. Mergulha nas profundezas, mas atenção às críticas
+  mis.
+source_url: >-
+  https://www.notebookcheck.net/This-underwater-city-builder-and-colony-sim-is-available-at-a-70-discount-on-Steam.1180428.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

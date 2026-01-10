@@ -1,17 +1,21 @@
 ---
-title: "Fairbuds XL: Auscultadores Fairphone levam sustentabilidade e som mais longe"
-date: "2025-12-09T08:25:24.579Z"
-category: "audio"
+title: 'Fairbuds XL: Auscultadores Fairphone levam sustentabilidade e som mais longe'
+date: '2025-12-09T08:25:24.579Z'
+category: audio
 tags:
   - Fairphone
   - auscultadores
   - sustentabilidade
   - áudio
   - tecnologia verde
-image: "https://cdn.mos.cms.futurecdn.net/JLUztptETNLfBG7BhPCT8H-1280-80.jpg"
-image_source: "rss"
-description: "Os novos auscultadores Fairbuds XL da Fairphone redefinem o áudio sustentável. Com design modular e som melhorado, são um exemplo para a indústria. Conheça-o..."
-source_url: "https://www.techradar.com/audio/wireless-headphones/fairphone-fairbuds-xl-2025-review"
+image: 'https://cdn.mos.cms.futurecdn.net/JLUztptETNLfBG7BhPCT8H-1280-80.jpg'
+image_source: rss
+description: >-
+  Os novos auscultadores Fairbuds XL da Fairphone redefinem o áudio sustentável.
+  Com design modular e som melhorado, são um exemplo para a indústria.
+  Conheça-o.
+source_url: >-
+  https://www.techradar.com/audio/wireless-headphones/fairphone-fairbuds-xl-2025-review
 draft: false
 needs_review: false
 photographer_name: undefined

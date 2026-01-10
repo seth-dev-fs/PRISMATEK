@@ -1,17 +1,21 @@
 ---
-title: "Linux Kernel 6.18 LTS: Como instalar no Ubuntu 25.x"
-date: "2025-12-19T18:24:55.104Z"
-category: "computadores"
+title: 'Linux Kernel 6.18 LTS: Como instalar no Ubuntu 25.x'
+date: '2025-12-19T18:24:55.104Z'
+category: computadores
 tags:
   - Linux
   - Ubuntu
   - Kernel
   - código aberto
   - sistemas operativos
-image: "https://9to5linux.com/wp-content/uploads/2025/12/l618u.webp"
-image_source: "rss"
-description: "Descubra como instalar o mais recente Linux Kernel 6.18 LTS nas versões Ubuntu 25.04 e 25.10. Mantenha o seu sistema atualizado para melhor desempenho e segu..."
-source_url: "https://9to5linux.com/how-to-install-linux-kernel-6-18-lts-on-ubuntu-25-10-and-ubuntu-25-04"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/l618u.webp'
+image_source: rss
+description: >-
+  Descubra como instalar o mais recente Linux Kernel 6.18 LTS nas versões Ubuntu
+  25.04 e 25.10. Mantenha o seu sistema atualizado para melhor desempenho e
+  segu.
+source_url: >-
+  https://9to5linux.com/how-to-install-linux-kernel-6-18-lts-on-ubuntu-25-10-and-ubuntu-25-04
 draft: false
 needs_review: false
 photographer_name: undefined

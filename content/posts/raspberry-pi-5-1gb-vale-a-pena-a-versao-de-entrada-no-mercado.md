@@ -1,17 +1,20 @@
 ---
-title: "Raspberry Pi 5 1GB: Vale a pena a versão de entrada no mercado?"
-date: "2025-12-03T10:53:43.472Z"
-category: "computadores"
+title: 'Raspberry Pi 5 1GB: Vale a pena a versão de entrada no mercado?'
+date: '2025-12-03T10:53:43.472Z'
+category: computadores
 tags:
   - Raspberry Pi
   - SBC
   - microcomputador
   - hardware
   - projetos DIY
-image: "https://itsfoss.com/content/images/2025/12/raspberry-pi-5-1gb-alternatives.png"
-image_source: "rss"
-description: "A versão de 1GB do Raspberry Pi 5 chegou ao mercado. Analisamos se o seu preço justifica a compra face à concorrência e aos desafios da RAM limitada. O Raspb..."
-source_url: "https://itsfoss.com/news/raspberry-pi-5-1gb-worth-it"
+image: 'https://itsfoss.com/content/images/2025/12/raspberry-pi-5-1gb-alternatives.png'
+image_source: rss
+description: >-
+  A versão de 1GB do Raspberry Pi 5 chegou ao mercado. Analisamos se o seu preço
+  justifica a compra face à concorrência e aos desafios da RAM limitada. O
+  Raspb.
+source_url: 'https://itsfoss.com/news/raspberry-pi-5-1gb-worth-it'
 draft: false
 needs_review: false
 photographer_name: undefined

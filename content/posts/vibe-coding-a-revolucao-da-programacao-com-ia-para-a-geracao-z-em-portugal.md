@@ -1,16 +1,20 @@
 ---
-title: "Vibe Coding: A Revolução da Programação com IA para a Geração Z em Portugal"
-date: "2026-01-09T20:40:38.712Z"
-category: "ai-futuro"
+title: 'Vibe Coding: A Revolução da Programação com IA para a Geração Z em Portugal'
+date: '2026-01-09T20:40:38.712Z'
+category: ai-futuro
 tags:
   - vibe coding
   - IA na programação
   - mercado tech PT
   - futuro do trabalho
-image: "https://pplware.sapo.pt/wp-content/uploads/2026/01/Alexandr_Wang_IA_meta.webp"
-image_source: "rss"
-description: "Descubra o 'vibe coding', o conceito de programação impulsionado por IA que Alexandr Wang sugere para a Geração Z. Analisamos o impacto no mercado tech portu..."
-source_url: "https://pplware.sapo.pt/inteligencia-artificial/lider-de-ia-da-meta-tem-um-conselho-para-a-geracao-z-dediquem-se-ao-vibe-coding"
+image: 'https://pplware.sapo.pt/wp-content/uploads/2026/01/Alexandr_Wang_IA_meta.webp'
+image_source: rss
+description: >-
+  Descubra o 'vibe coding', o conceito de programação impulsionado por IA que
+  Alexandr Wang sugere para a Geração Z. Analisamos o impacto no mercado tech
+  portu.
+source_url: >-
+  https://pplware.sapo.pt/inteligencia-artificial/lider-de-ia-da-meta-tem-um-conselho-para-a-geracao-z-dediquem-se-ao-vibe-coding
 draft: false
 needs_review: false
 photographer_name: undefined

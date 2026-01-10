@@ -1,17 +1,22 @@
 ---
-title: "China planeia o primeiro navio porta-contentores a tório até 2035"
-date: "2025-12-14T01:23:58.948Z"
-category: "ai-futuro"
+title: China planeia o primeiro navio porta-contentores a tório até 2035
+date: '2025-12-14T01:23:58.948Z'
+category: ai-futuro
 tags:
   - China
   - transporte marítimo
   - energia nuclear
   - tório
   - zero emissões
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/An-aerial-image-of-a-container-ship.jpg"
-image_source: "rss"
-description: "A China quer construir o primeiro navio porta-contentores a tório do mundo até 2035. Saiba como esta tecnologia nuclear pode revolucionar o transporte maríti..."
-source_url: "https://www.notebookcheck.net/China-to-build-world-s-first-thorium-powered-container-vessel-by-2035.1184981.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/An-aerial-image-of-a-container-ship.jpg
+image_source: rss
+description: >-
+  A China quer construir o primeiro navio porta-contentores a tório do mundo até
+  2035. Saiba como esta tecnologia nuclear pode revolucionar o transporte
+  maríti.
+source_url: >-
+  https://www.notebookcheck.net/China-to-build-world-s-first-thorium-powered-container-vessel-by-2035.1184981.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

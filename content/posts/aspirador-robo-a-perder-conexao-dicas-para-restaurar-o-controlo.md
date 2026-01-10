@@ -1,17 +1,20 @@
 ---
-title: "Aspirador Robô a Perder Conexão? Dicas para Restaurar o Controlo"
-date: "2025-12-26T10:21:18.080Z"
-category: "internet-apps"
+title: Aspirador Robô a Perder Conexão? Dicas para Restaurar o Controlo
+date: '2025-12-26T10:21:18.080Z'
+category: internet-apps
 tags:
   - aspirador robô
   - casa inteligente
   - conectividade
   - Wi-Fi
   - problemas técnicos
-image: "https://cdn.mos.cms.futurecdn.net/dzjekFYRB2tpYEJaLg6A5-1280-80.jpg"
-image_source: "rss"
-description: "Se o seu aspirador robô está constantemente a perder a conexão, não desespere. Descubra as melhores dicas para restaurar a ligação e manter a sua casa limpa ..."
-source_url: "https://www.techradar.com/home/robot-vacuums/what-to-do-if-your-robot-vacuum-keeps-losing-connection"
+image: 'https://cdn.mos.cms.futurecdn.net/dzjekFYRB2tpYEJaLg6A5-1280-80.jpg'
+image_source: rss
+description: >-
+  Se o seu aspirador robô está constantemente a perder a conexão, não desespere.
+  Descubra as melhores dicas para restaurar a ligação e manter a sua casa limpa.
+source_url: >-
+  https://www.techradar.com/home/robot-vacuums/what-to-do-if-your-robot-vacuum-keeps-losing-connection
 draft: false
 needs_review: false
 photographer_name: undefined

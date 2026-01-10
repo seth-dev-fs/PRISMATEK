@@ -1,17 +1,20 @@
 ---
-title: "Os Melhores Projetores Portáteis para Streaming e Apresentações Móveis"
-date: "2025-11-29T14:36:14.926Z"
-category: "mobilidade"
+title: Os Melhores Projetores Portáteis para Streaming e Apresentações Móveis
+date: '2025-11-29T14:36:14.926Z'
+category: mobilidade
 tags:
   - projetor portátil
   - streaming
   - apresentações
   - tecnologia móvel
   - entretenimento
-image: "https://cdn.mos.cms.futurecdn.net/E9Cn4hw5usgtGJdTjqtx9G-1280-80.webp"
-image_source: "rss"
-description: "Descubra os projetores portáteis ideais para levar consigo, seja para maratonas de séries ou apresentações profissionais em qualquer lugar. A era digital tro..."
-source_url: "https://www.techradar.com/pro/best-portable-projector"
+image: 'https://cdn.mos.cms.futurecdn.net/E9Cn4hw5usgtGJdTjqtx9G-1280-80.webp'
+image_source: rss
+description: >-
+  Descubra os projetores portáteis ideais para levar consigo, seja para
+  maratonas de séries ou apresentações profissionais em qualquer lugar. A era
+  digital tro.
+source_url: 'https://www.techradar.com/pro/best-portable-projector'
 draft: false
 needs_review: false
 photographer_name: undefined

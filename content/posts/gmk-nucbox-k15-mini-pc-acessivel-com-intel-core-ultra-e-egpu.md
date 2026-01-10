@@ -1,17 +1,22 @@
 ---
-title: "GMK NucBox K15: Mini PC acessível com Intel Core Ultra e eGPU"
-date: "2025-12-20T10:18:45.353Z"
-category: "computadores"
+title: 'GMK NucBox K15: Mini PC acessível com Intel Core Ultra e eGPU'
+date: '2025-12-20T10:18:45.353Z'
+category: computadores
 tags:
   - GMK NucBox K15
   - mini PC
   - Intel Core Ultra
   - eGPU
   - computadores compactos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GMKtec-launches-NucBox-K15-globally.jpg"
-image_source: "rss"
-description: "O GMK NucBox K15 chega ao mercado global. Este mini PC compacto, com Intel Core Ultra 5 e suporte para eGPUs, oferece desempenho e versatilidade a um preço c..."
-source_url: "https://www.notebookcheck.net/GMK-NucBox-K15-goes-global-as-affordable-mini-PC-with-OCuLink-and-24-TB-storage-support.1189724.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GMKtec-launches-NucBox-K15-globally.jpg
+image_source: rss
+description: >-
+  O GMK NucBox K15 chega ao mercado global. Este mini PC compacto, com Intel
+  Core Ultra 5 e suporte para eGPUs, oferece desempenho e versatilidade a um
+  preço c.
+source_url: >-
+  https://www.notebookcheck.net/GMK-NucBox-K15-goes-global-as-affordable-mini-PC-with-OCuLink-and-24-TB-storage-support.1189724.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

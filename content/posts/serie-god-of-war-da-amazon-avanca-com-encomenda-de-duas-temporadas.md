@@ -1,17 +1,22 @@
 ---
-title: "Série 'God of War' da Amazon avança com encomenda de duas temporadas"
-date: "2025-12-02T13:51:26.955Z"
-category: "entretenimento-gaming"
+title: Série 'God of War' da Amazon avança com encomenda de duas temporadas
+date: '2025-12-02T13:51:26.955Z'
+category: entretenimento-gaming
 tags:
   - God of War
   - Amazon Prime Video
   - séries
   - videojogos
   - adaptação
-image: "https://s.yimg.com/ny/api/res/1.2/MXFQXHPVKpbEmvJ9gKOe7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/01d45330-912e-11ef-bfdf-f8b12907e713"
-image_source: "rss"
-description: "A muito aguardada adaptação de 'God of War' pela Amazon Prime Video ganha forma, com uma encomenda de duas temporadas e novidades na produção. Após anos de a..."
-source_url: "https://www.engadget.com/entertainment/tv-movies/amazons-god-of-war-adaptation-gets-a-two-season-order-133059803.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/MXFQXHPVKpbEmvJ9gKOe7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/01d45330-912e-11ef-bfdf-f8b12907e713
+image_source: rss
+description: >-
+  A muito aguardada adaptação de 'God of War' pela Amazon Prime Video ganha
+  forma, com uma encomenda de duas temporadas e novidades na produção. Após anos
+  de a.
+source_url: >-
+  https://www.engadget.com/entertainment/tv-movies/amazons-god-of-war-adaptation-gets-a-two-season-order-133059803.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

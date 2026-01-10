@@ -1,17 +1,21 @@
 ---
-title: "Samsung poderá abandonar AMD para criar GPU Exynos própria"
-date: "2025-12-25T12:34:30.668Z"
-category: "smartphones"
+title: Samsung poderá abandonar AMD para criar GPU Exynos própria
+date: '2025-12-25T12:34:30.668Z'
+category: smartphones
 tags:
   - Samsung
   - Exynos
   - GPU
   - AMD
   - smartphones
-image: "https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-Exynos-2400-Xclipse-940-GPU-AMD-RDNA3.jpg"
-image_source: "rss"
-description: "A Samsung estará a considerar o desenvolvimento de uma GPU totalmente própria para os seus processadores Exynos, marcando o fim da colaboração com a AMD. Con..."
-source_url: "https://www.sammobile.com/news/samsung-exynos-in-house-gpu-without-amd-help"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-Exynos-2400-Xclipse-940-GPU-AMD-RDNA3.jpg
+image_source: rss
+description: >-
+  A Samsung estará a considerar o desenvolvimento de uma GPU totalmente própria
+  para os seus processadores Exynos, marcando o fim da colaboração com a AMD.
+  Con.
+source_url: 'https://www.sammobile.com/news/samsung-exynos-in-house-gpu-without-amd-help'
 draft: false
 needs_review: false
 photographer_name: undefined

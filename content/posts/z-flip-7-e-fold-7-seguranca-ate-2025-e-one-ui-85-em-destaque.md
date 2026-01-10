@@ -1,17 +1,22 @@
 ---
-title: "Z Flip 7 e Fold 7: Segurança até 2025 e One UI 8.5 em destaque"
-date: "2025-12-10T12:36:17.217Z"
-category: "smartphones"
+title: 'Z Flip 7 e Fold 7: Segurança até 2025 e One UI 8.5 em destaque'
+date: '2025-12-10T12:36:17.217Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones
   - Galaxy Z Flip 7
   - Galaxy Z Fold 7
   - One UI 8.5
-image: "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-One-UI-8-0-Android-16-1200x675.jpg"
-image_source: "rss"
-description: "Os futuros dobráveis da Samsung, Galaxy Z Flip 7 e Fold 7, já têm garantida a atualização de segurança de dezembro de 2025, indicando forte suporte. A One UI..."
-source_url: "https://www.sammobile.com/news/galaxy-z-flip-7-fold-7-get-december-2025-security-update"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-One-UI-8-0-Android-16-1200x675.jpg
+image_source: rss
+description: >-
+  Os futuros dobráveis da Samsung, Galaxy Z Flip 7 e Fold 7, já têm garantida a
+  atualização de segurança de dezembro de 2025, indicando forte suporte. A One
+  UI.
+source_url: >-
+  https://www.sammobile.com/news/galaxy-z-flip-7-fold-7-get-december-2025-security-update
 draft: false
 needs_review: false
 photographer_name: undefined

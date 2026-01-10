@@ -1,17 +1,21 @@
 ---
-title: "Como ver os especiais de Natal de Call the Midwife 2025 online"
-date: "2025-12-25T08:24:02.531Z"
-category: "entretenimento-gaming"
+title: Como ver os especiais de Natal de Call the Midwife 2025 online
+date: '2025-12-25T08:24:02.531Z'
+category: entretenimento-gaming
 tags:
   - Call the Midwife
   - streaming
   - Natal
   - séries
   - VPN
-image: "https://cdn.mos.cms.futurecdn.net/YZAVstdTbjfw3YAjdyqpyi-1280-80.jpg"
-image_source: "rss"
-description: "Prepare-se para os especiais de Natal de Call the Midwife em 2025. Saiba como acompanhar a missão do Nonnatus em Hong Kong através do streaming, onde quer qu..."
-source_url: "https://www.techradar.com/how-to-watch/tv-shows/call-the-midwife-2025-christmas-specials"
+image: 'https://cdn.mos.cms.futurecdn.net/YZAVstdTbjfw3YAjdyqpyi-1280-80.jpg'
+image_source: rss
+description: >-
+  Prepare-se para os especiais de Natal de Call the Midwife em 2025. Saiba como
+  acompanhar a missão do Nonnatus em Hong Kong através do streaming, onde quer
+  qu.
+source_url: >-
+  https://www.techradar.com/how-to-watch/tv-shows/call-the-midwife-2025-christmas-specials
 draft: false
 needs_review: false
 photographer_name: undefined

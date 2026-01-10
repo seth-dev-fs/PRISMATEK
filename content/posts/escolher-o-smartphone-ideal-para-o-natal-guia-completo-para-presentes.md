@@ -1,17 +1,21 @@
 ---
-title: "Escolher o Smartphone Ideal para o Natal? Guia Completo para Presentes"
-date: "2025-12-09T10:21:13.658Z"
-category: "smartphones"
+title: Escolher o Smartphone Ideal para o Natal? Guia Completo para Presentes
+date: '2025-12-09T10:21:13.658Z'
+category: smartphones
 tags:
   - smartphones
   - presentes de Natal
   - telemóveis
   - guia de compra
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/FXMD5AyNhN9U4mSwHoyteG-1280-80.jpg"
-image_source: "rss"
-description: "Com a época natalícia a aproximar-se, descubra o guia definitivo para escolher o smartphone perfeito como presente. Encontre o modelo ideal para cada tipo de..."
-source_url: "https://www.techradar.com/phones/buying-someone-a-new-phone-this-christmas-here-are-my-7-expert-recommendations-for-every-type-of-person"
+image: 'https://cdn.mos.cms.futurecdn.net/FXMD5AyNhN9U4mSwHoyteG-1280-80.jpg'
+image_source: rss
+description: >-
+  Com a época natalícia a aproximar-se, descubra o guia definitivo para escolher
+  o smartphone perfeito como presente. Encontre o modelo ideal para cada tipo
+  de.
+source_url: >-
+  https://www.techradar.com/phones/buying-someone-a-new-phone-this-christmas-here-are-my-7-expert-recommendations-for-every-type-of-person
 draft: false
 needs_review: false
 photographer_name: undefined

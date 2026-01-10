@@ -1,17 +1,21 @@
 ---
-title: "OnePlus Pad Go 2: O novo tablet acessível já chegou à Europa"
-date: "2025-12-24T08:26:48.925Z"
-category: "mobilidade"
+title: 'OnePlus Pad Go 2: O novo tablet acessível já chegou à Europa'
+date: '2025-12-24T08:26:48.925Z'
+category: mobilidade
 tags:
   - OnePlus
   - tablet
   - Pad Go 2
   - Android
   - mobilidade
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-pad-go-2-price-sale-date/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "O novo tablet OnePlus Pad Go 2, focado na acessibilidade e entretenimento, já pode ser adquirido na Europa. Conheça as suas especificações e ofertas de lança..."
-source_url: "https://www.gsmarena.com/oneplus_pad_go_2_price_sale_date-news-70845.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-pad-go-2-price-sale-date/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  O novo tablet OnePlus Pad Go 2, focado na acessibilidade e entretenimento, já
+  pode ser adquirido na Europa. Conheça as suas especificações e ofertas de
+  lança.
+source_url: 'https://www.gsmarena.com/oneplus_pad_go_2_price_sale_date-news-70845.php'
 draft: false
 needs_review: false
 photographer_name: undefined

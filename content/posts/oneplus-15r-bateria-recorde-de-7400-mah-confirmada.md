@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15R: Bateria recorde de 7.400 mAh confirmada"
-date: "2025-12-05T22:41:01.705Z"
-category: "smartphones"
+title: 'OnePlus 15R: Bateria recorde de 7.400 mAh confirmada'
+date: '2025-12-05T22:41:01.705Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - OnePlus 15R
   - bateria
   - carregamento rápido
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-battery/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A OnePlus revelou oficialmente a capacidade da bateria do 15R: 7.400 mAh. Este novo smartphone promete autonomia impressionante. Descubra mais! A OnePlus pre..."
-source_url: "https://www.gsmarena.com/oneplus_15rs_battery_capacity_officially_revealed-news-70590.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-battery/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A OnePlus revelou oficialmente a capacidade da bateria do 15R: 7.400 mAh. Este
+  novo smartphone promete autonomia impressionante. Descubra mais! A OnePlus
+  pre.
+source_url: >-
+  https://www.gsmarena.com/oneplus_15rs_battery_capacity_officially_revealed-news-70590.php
 draft: false
 needs_review: false
 photographer_name: undefined

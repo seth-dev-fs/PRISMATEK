@@ -1,17 +1,22 @@
 ---
-title: "Galaxy S26: Samsung pode manter preço para desafiar rivais"
-date: "2026-01-03T08:22:01.753Z"
-category: "smartphones"
+title: 'Galaxy S26: Samsung pode manter preço para desafiar rivais'
+date: '2026-01-03T08:22:01.753Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S26
   - smartphones
   - preço
   - mercado
-image: "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s26-ultra-new-renders/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Contrariando as expectativas, a linha Galaxy S26 da Samsung poderá chegar ao mercado com preços inalterados. Descobre como a Samsung pretende manter a sua qu..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_s26_series_galaxy_z_fold8_galaxy_z_flip8_usa_price_tipped-news-70931.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s26-ultra-new-renders/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Contrariando as expectativas, a linha Galaxy S26 da Samsung poderá chegar ao
+  mercado com preços inalterados. Descobre como a Samsung pretende manter a sua
+  qu.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_s26_series_galaxy_z_fold8_galaxy_z_flip8_usa_price_tipped-news-70931.php
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Modos Retrato e Paisagem no Telefone: Maximize a Sua Experiência"
-date: "2025-12-22T08:28:06.877Z"
-category: "smartphones"
+title: 'Modos Retrato e Paisagem no Telefone: Maximize a Sua Experiência'
+date: '2025-12-22T08:28:06.877Z'
+category: smartphones
 tags:
   - smartphones
   - orientação ecrã
   - modo retrato
   - modo paisagem
   - dicas
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Descubra as diferenças entre os modos retrato e paisagem no seu smartphone e otimize a sua experiência de uso diário, seja a navegar em redes sociais ou a jo..."
-source_url: "https://www.sammobile.com/news/what-is-the-difference-between-phone-portrait-and-landscape-modes"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Descubra as diferenças entre os modos retrato e paisagem no seu smartphone e
+  otimize a sua experiência de uso diário, seja a navegar em redes sociais ou a
+  jo.
+source_url: >-
+  https://www.sammobile.com/news/what-is-the-difference-between-phone-portrait-and-landscape-modes
 draft: false
 needs_review: false
 photographer_name: undefined

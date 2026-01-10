@@ -1,17 +1,21 @@
 ---
-title: "Samsung TVs abraçam Google Fotos e IA Gemini Nano da Google"
-date: "2025-12-29T04:45:33.088Z"
-category: "ai-futuro"
+title: Samsung TVs abraçam Google Fotos e IA Gemini Nano da Google
+date: '2025-12-29T04:45:33.088Z'
+category: ai-futuro
 tags:
   - Samsung
   - Smart TV
   - Google Photos
   - Gemini Nano
   - Inteligência Artificial
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-TV-Google-Photos-Memories-Integration-CES-2026-1200x675.jpg"
-image_source: "rss"
-description: "As Smart TVs da Samsung vão integrar o Google Photos, permitindo ver memórias no ecrã grande. Em 2025, chega a IA Gemini Nano para criar imagens. Conheça as ..."
-source_url: "https://www.sammobile.com/news/samsung-tv-google-photos-gemini-nano-banana"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-TV-Google-Photos-Memories-Integration-CES-2026-1200x675.jpg
+image_source: rss
+description: >-
+  As Smart TVs da Samsung vão integrar o Google Photos, permitindo ver memórias
+  no ecrã grande. Em 2025, chega a IA Gemini Nano para criar imagens. Conheça
+  as.
+source_url: 'https://www.sammobile.com/news/samsung-tv-google-photos-gemini-nano-banana'
 draft: false
 needs_review: false
 photographer_name: undefined

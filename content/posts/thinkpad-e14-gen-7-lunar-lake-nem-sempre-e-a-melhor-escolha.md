@@ -1,17 +1,22 @@
 ---
-title: "ThinkPad E14 Gen 7: Lunar Lake nem sempre é a melhor escolha"
-date: "2025-11-28T14:42:57.710Z"
-category: "computadores"
+title: 'ThinkPad E14 Gen 7: Lunar Lake nem sempre é a melhor escolha'
+date: '2025-11-28T14:42:57.710Z'
+category: computadores
 tags:
   - Lenovo
   - ThinkPad
   - portáteis
   - Intel
   - Lunar Lake
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_Gen_7_21U2002QGE/thinkpad_e14_g7_lunar_lake_case_01.jpg"
-image_source: "rss"
-description: "O Lenovo ThinkPad E14 Gen 7 surpreende ao mostrar que os novos processadores Lunar Lake podem não ser a opção ideal para portáteis compactos, face ao Arrow L..."
-source_url: "https://www.notebookcheck.net/Lenovo-s-ThinkPad-E14-Gen-7-shows-that-Lunar-Lake-is-not-automatically-the-better-choice-for-compact-laptops.1171776.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/Lenovo/ThinkPad_E14_Gen_7_21U2002QGE/thinkpad_e14_g7_lunar_lake_case_01.jpg
+image_source: rss
+description: >-
+  O Lenovo ThinkPad E14 Gen 7 surpreende ao mostrar que os novos processadores
+  Lunar Lake podem não ser a opção ideal para portáteis compactos, face ao Arrow
+  L.
+source_url: >-
+  https://www.notebookcheck.net/Lenovo-s-ThinkPad-E14-Gen-7-shows-that-Lunar-Lake-is-not-automatically-the-better-choice-for-compact-laptops.1171776.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

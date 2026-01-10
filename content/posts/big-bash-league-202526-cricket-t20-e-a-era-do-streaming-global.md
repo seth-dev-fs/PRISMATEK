@@ -1,17 +1,21 @@
 ---
-title: "Big Bash League 2025/26: Cricket T20 e a Era do Streaming Global"
-date: "2025-12-14T08:23:02.035Z"
-category: "entretenimento-gaming"
+title: 'Big Bash League 2025/26: Cricket T20 e a Era do Streaming Global'
+date: '2025-12-14T08:23:02.035Z'
+category: entretenimento-gaming
 tags:
   - Big Bash League
   - Cricket T20
   - Streaming desportivo
   - Desporto
   - Transmissões online
-image: "https://cdn.mos.cms.futurecdn.net/WiFyaezWcxRh49KGkaZ54m-1280-80.jpg"
-image_source: "rss"
-description: "A próxima edição da Big Bash League promete emoção. Descubra como o cricket T20 australiano chega a Portugal através do streaming e o que esperar da temporad..."
-source_url: "https://www.techradar.com/how-to-watch/cricket/big-bash-league-2025-26-free-bbl15-t20-cricket"
+image: 'https://cdn.mos.cms.futurecdn.net/WiFyaezWcxRh49KGkaZ54m-1280-80.jpg'
+image_source: rss
+description: >-
+  A próxima edição da Big Bash League promete emoção. Descubra como o cricket
+  T20 australiano chega a Portugal através do streaming e o que esperar da
+  temporad.
+source_url: >-
+  https://www.techradar.com/how-to-watch/cricket/big-bash-league-2025-26-free-bbl15-t20-cricket
 draft: false
 needs_review: false
 photographer_name: undefined

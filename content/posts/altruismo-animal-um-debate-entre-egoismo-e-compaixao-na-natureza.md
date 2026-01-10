@@ -1,17 +1,21 @@
 ---
-title: "Altruísmo Animal: Um Debate Entre Egoísmo e Compaixão na Natureza"
-date: "2025-12-28T08:22:21.309Z"
-category: "ciencia"
+title: 'Altruísmo Animal: Um Debate Entre Egoísmo e Compaixão na Natureza'
+date: '2025-12-28T08:22:21.309Z'
+category: ciencia
 tags:
   - altruísmo
   - animais
   - comportamento animal
   - ciência
   - biologia
-image: "https://i.blogs.es/2b1367/pato-1-/840_560.jpeg"
-image_source: "rss"
-description: "Serão os animais capazes de altruísmo genuíno ou cada ato de ajuda esconde um interesse próprio? Uma questão filosófica e biológica complexa que continua a d..."
-source_url: "https://www.xataka.com/ecologia-y-naturaleza/resolviendo-uno-debates-intrigantes-filosofia-existe-altruismo-animales-no"
+image: 'https://i.blogs.es/2b1367/pato-1-/840_560.jpeg'
+image_source: rss
+description: >-
+  Serão os animais capazes de altruísmo genuíno ou cada ato de ajuda esconde um
+  interesse próprio? Uma questão filosófica e biológica complexa que continua a
+  d.
+source_url: >-
+  https://www.xataka.com/ecologia-y-naturaleza/resolviendo-uno-debates-intrigantes-filosofia-existe-altruismo-animales-no
 draft: false
 needs_review: false
 photographer_name: undefined

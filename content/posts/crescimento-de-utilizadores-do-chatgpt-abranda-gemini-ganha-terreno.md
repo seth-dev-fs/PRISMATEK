@@ -1,17 +1,21 @@
 ---
-title: "Crescimento de utilizadores do ChatGPT abranda, Gemini ganha terreno"
-date: "2025-12-05T20:43:41.834Z"
-category: "ai-futuro"
+title: 'Crescimento de utilizadores do ChatGPT abranda, Gemini ganha terreno'
+date: '2025-12-05T20:43:41.834Z'
+category: ai-futuro
 tags:
   - ChatGPT
   - Gemini
   - IA
   - inteligência artificial
   - tendências de mercado
-image: "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800"
-image_source: "rss"
-description: "Um novo relatório revela que o crescimento de utilizadores do ChatGPT desacelerou significativamente nos últimos meses. Descobre como o Gemini está a ganhar ..."
-source_url: "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800
+image_source: rss
+description: >-
+  Um novo relatório revela que o crescimento de utilizadores do ChatGPT
+  desacelerou significativamente nos últimos meses. Descobre como o Gemini está
+  a ganhar.
+source_url: 'https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds'
 draft: false
 needs_review: false
 photographer_name: undefined

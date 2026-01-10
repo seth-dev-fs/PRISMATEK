@@ -1,17 +1,21 @@
 ---
-title: "Controlo parental nos smartphones: guia para proteger os seus filhos"
-date: "2025-12-04T06:58:55.343Z"
-category: "smartphones"
+title: 'Controlo parental nos smartphones: guia para proteger os seus filhos'
+date: '2025-12-04T06:58:55.343Z'
+category: smartphones
 tags:
   - Controlo parental
   - smartphones
   - segurança digital
   - crianças
   - tempo de ecrã
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Saiba como configurar o controlo parental nos smartphones dos seus filhos em poucos minutos. Proteja-os online e ensine-os a usar a tecnologia de forma respo..."
-source_url: "https://www.sammobile.com/news/how-do-i-set-up-parental-controls-on-a-smartphone"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Saiba como configurar o controlo parental nos smartphones dos seus filhos em
+  poucos minutos. Proteja-os online e ensine-os a usar a tecnologia de forma
+  respo.
+source_url: >-
+  https://www.sammobile.com/news/how-do-i-set-up-parental-controls-on-a-smartphone
 draft: false
 needs_review: false
 photographer_name: undefined

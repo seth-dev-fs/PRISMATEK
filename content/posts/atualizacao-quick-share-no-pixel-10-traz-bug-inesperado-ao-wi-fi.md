@@ -1,7 +1,7 @@
 ---
-title: "Atualização Quick Share no Pixel 10 traz bug inesperado ao Wi-Fi"
-date: "2025-11-28T06:59:33.499Z"
-category: "smartphones"
+title: Atualização Quick Share no Pixel 10 traz bug inesperado ao Wi-Fi
+date: '2025-11-28T06:59:33.499Z'
+category: smartphones
 tags:
   - Google Pixel
   - Quick Share
@@ -9,10 +9,15 @@ tags:
   - Android
   - bug
   - atualização
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/airdrop-quick-share-hero-20-scaled.jpg"
-image_source: "rss"
-description: "Utilizadores de smartphones Pixel 10 estão a reportar um bug no Wi-Fi após a mais recente atualização do Quick Share. Fique a par dos detalhes e possíveis so..."
-source_url: "https://www.androidauthority.com/google-pixel-10-quick-share-airdrop-wi-fi-bug-3620357"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/airdrop-quick-share-hero-20-scaled.jpg
+image_source: rss
+description: >-
+  Utilizadores de smartphones Pixel 10 estão a reportar um bug no Wi-Fi após a
+  mais recente atualização do Quick Share. Fique a par dos detalhes e possíveis
+  so.
+source_url: >-
+  https://www.androidauthority.com/google-pixel-10-quick-share-airdrop-wi-fi-bug-3620357
 draft: false
 needs_review: false
 photographer_name: undefined

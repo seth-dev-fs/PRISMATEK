@@ -1,17 +1,22 @@
 ---
-title: "Netflix: CEO discute aquisição da Warner Bros. com Donald Trump"
-date: "2025-12-08T04:30:58.515Z"
-category: "entretenimento-gaming"
+title: 'Netflix: CEO discute aquisição da Warner Bros. com Donald Trump'
+date: '2025-12-08T04:30:58.515Z'
+category: entretenimento-gaming
 tags:
   - Netflix
   - Warner Bros.
   - aquisição
   - streaming
   - regulação
-image: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1204362902.jpg?resize=1200,675"
-image_source: "rss"
-description: "O CEO da Netflix, Ted Sarandos, terá debatido a aquisição da Warner Bros. com Donald Trump. Um negócio de 82,7 mil milhões de dólares que pode redefinir o fu..."
-source_url: "https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1204362902.jpg?resize=1200,675
+image_source: rss
+description: >-
+  O CEO da Netflix, Ted Sarandos, terá debatido a aquisição da Warner Bros. com
+  Donald Trump. Um negócio de 82,7 mil milhões de dólares que pode redefinir o
+  fu.
+source_url: >-
+  https://techcrunch.com/2025/12/07/netflix-co-ceo-reportedly-discussed-warner-bros-deal-with-trump
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,23 @@
 ---
-title: "As Melhores Air Fryers de 2025: Guia Essencial NEXORA News"
-date: "2025-11-24T08:49:55.948Z"
-category: "home"
+title: 'As Melhores Air Fryers de 2025: Guia Essencial NEXORA News'
+date: '2025-11-24T08:49:55.948Z'
+category: home
 tags:
   - air fryer
   - fritadeira de ar
   - eletrodomésticos
   - cozinha saudável
   - NEXORA News
-image: "https://s.yimg.com/ny/api/res/1.2/2yeA9_yl2pMXtQN3sN2JGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b0e69a00-bc6b-11ef-b77f-8770908c27f4"
-image_source: "https://s.yimg.com/ny/api/res/1.2/2yeA9_yl2pMXtQN3sN2JGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b0e69a00-bc6b-11ef-b77f-8770908c27f4"
-description: "Descubra as melhores air fryers de 2025 para refeições crocantes e saudáveis. Analisamos modelos, tipos e dicas de uso. A Instant Vortex Plus é a escolha pri..."
-source_url: "https://www.engadget.com/home/kitchen-tech/best-air-fryers-133047180.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/2yeA9_yl2pMXtQN3sN2JGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b0e69a00-bc6b-11ef-b77f-8770908c27f4
+image_source: >-
+  https://s.yimg.com/ny/api/res/1.2/2yeA9_yl2pMXtQN3sN2JGw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/b0e69a00-bc6b-11ef-b77f-8770908c27f4
+description: >-
+  Descubra as melhores air fryers de 2025 para refeições crocantes e saudáveis.
+  Analisamos modelos, tipos e dicas de uso. A Instant Vortex Plus é a escolha
+  pri.
+source_url: >-
+  https://www.engadget.com/home/kitchen-tech/best-air-fryers-133047180.html?src=rss
 draft: false
 needs_review: false
 ---

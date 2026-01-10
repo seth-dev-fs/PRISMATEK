@@ -1,17 +1,22 @@
 ---
-title: "Samsung Galaxy: Gravação de ecrã recebe melhorias cruciais na One UI 8.5"
-date: "2025-12-11T08:25:04.507Z"
-category: "smartphones"
+title: 'Samsung Galaxy: Gravação de ecrã recebe melhorias cruciais na One UI 8.5'
+date: '2025-12-11T08:25:04.507Z'
+category: smartphones
 tags:
   - Samsung
   - One UI
   - smartphones
   - gravação de ecrã
   - Android
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/samsung-one-ui-8-5-beta-how-to-hero-1-scaled.jpg"
-image_source: "rss"
-description: "A Samsung prepara uma atualização crucial para a gravação de ecrã nos seus Galaxy com One UI 8.5. Melhorias na qualidade e funcionalidade esperadas. Descubra..."
-source_url: "https://www.androidauthority.com/samsung-one-ui-8-5-screen-recording-upgrade-3624263"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/samsung-one-ui-8-5-beta-how-to-hero-1-scaled.jpg
+image_source: rss
+description: >-
+  A Samsung prepara uma atualização crucial para a gravação de ecrã nos seus
+  Galaxy com One UI 8.5. Melhorias na qualidade e funcionalidade esperadas.
+  Descubra.
+source_url: >-
+  https://www.androidauthority.com/samsung-one-ui-8-5-screen-recording-upgrade-3624263
 draft: false
 needs_review: false
 photographer_name: undefined

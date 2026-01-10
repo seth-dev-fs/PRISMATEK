@@ -1,17 +1,22 @@
 ---
-title: "PlayStation 5: Descontos e inovações tornam consolas mais acessíveis"
-date: "2025-11-30T16:45:06.619Z"
-category: "gaming"
+title: 'PlayStation 5: Descontos e inovações tornam consolas mais acessíveis'
+date: '2025-11-30T16:45:06.619Z'
+category: gaming
 tags:
   - PlayStation 5
   - PS5 Pro
   - consolas
   - gaming
   - Sony
-image: "https://s.yimg.com/ny/api/res/1.2/OqKt_9S4eL9iKrSazr0Vfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed3fe000-cd41-11f0-a733-3349c12b1b3e"
-image_source: "rss"
-description: "A PlayStation 5 continua a ser um sucesso, e os seus preços mais competitivos tornam-na mais acessível. Conheça as versões e acessórios da PS5. A PlayStation..."
-source_url: "https://www.engadget.com/deals/cyber-monday-ps5-deals-sony-takes-100-off-consoles-plus-discounts-on-playstation-games-accessories-and-more-164015111.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/OqKt_9S4eL9iKrSazr0Vfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ed3fe000-cd41-11f0-a733-3349c12b1b3e
+image_source: rss
+description: >-
+  A PlayStation 5 continua a ser um sucesso, e os seus preços mais competitivos
+  tornam-na mais acessível. Conheça as versões e acessórios da PS5. A
+  PlayStation.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-ps5-deals-sony-takes-100-off-consoles-plus-discounts-on-playstation-games-accessories-and-more-164015111.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

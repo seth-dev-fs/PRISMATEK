@@ -1,17 +1,21 @@
 ---
-title: "Wireshark 4.6.2 Chega com Novidades para Análise de Rede"
-date: "2025-12-03T20:47:59.138Z"
-category: "internet-apps"
+title: Wireshark 4.6.2 Chega com Novidades para Análise de Rede
+date: '2025-12-03T20:47:59.138Z'
+category: internet-apps
 tags:
   - Wireshark
   - redes
   - protocolos
   - software open-source
   - análise de rede
-image: "https://9to5linux.com/wp-content/uploads/2025/12/ws462.webp"
-image_source: "rss"
-description: "A nova versão 4.6.2 do Wireshark, o popular analisador de protocolos de rede, já está disponível, trazendo correções de erros e suporte atualizado. Essencial..."
-source_url: "https://9to5linux.com/wireshark-4-6-2-is-out-to-update-protocol-capture-file-support-and-fix-more-bugs"
+image: 'https://9to5linux.com/wp-content/uploads/2025/12/ws462.webp'
+image_source: rss
+description: >-
+  A nova versão 4.6.2 do Wireshark, o popular analisador de protocolos de rede,
+  já está disponível, trazendo correções de erros e suporte atualizado.
+  Essencial.
+source_url: >-
+  https://9to5linux.com/wireshark-4-6-2-is-out-to-update-protocol-capture-file-support-and-fix-more-bugs
 draft: false
 needs_review: false
 photographer_name: undefined

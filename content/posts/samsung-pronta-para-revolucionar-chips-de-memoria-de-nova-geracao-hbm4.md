@@ -1,17 +1,21 @@
 ---
-title: "Samsung pronta para revolucionar chips de memória de nova geração (HBM4)"
-date: "2025-12-02T14:52:13.773Z"
-category: "smartphones"
+title: Samsung pronta para revolucionar chips de memória de nova geração (HBM4)
+date: '2025-12-02T14:52:13.773Z'
+category: smartphones
 tags:
   - Samsung
   - chips de memória
   - HBM4
   - tecnologia
   - componentes
-image: "https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-HBM4-Chip-HBM3E-SEDEX-2025-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung, gigante tecnológica, está prestes a recuperar a sua posição de liderança no mercado de chips de memória HBM4, cruciais para a nova geração de disp..."
-source_url: "https://www.sammobile.com/news/samsung-completely-ready-make-hbm4-memory-chips"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/10/Samsung-HBM4-Chip-HBM3E-SEDEX-2025-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung, gigante tecnológica, está prestes a recuperar a sua posição de
+  liderança no mercado de chips de memória HBM4, cruciais para a nova geração de
+  disp.
+source_url: 'https://www.sammobile.com/news/samsung-completely-ready-make-hbm4-memory-chips'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,20 @@
 ---
-title: "Promoção de Inverno Steam: Jogos Linux com descontos imperdíveis"
-date: "2025-12-22T06:29:10.104Z"
-category: "gaming"
+title: 'Promoção de Inverno Steam: Jogos Linux com descontos imperdíveis'
+date: '2025-12-22T06:29:10.104Z'
+category: gaming
 tags:
   - Steam
   - jogos
   - Linux
   - promoções
   - gaming
-image: "https://itsfoss.com/content/images/2025/12/steam-winter-sale-2025-banner.png"
-image_source: "rss"
-description: "Aproveite a Promoção de Inverno Steam e descubra uma seleção de jogos fantásticos compatíveis com Linux. Uma oportunidade única para gamers em Portugal. Term..."
-source_url: "https://itsfoss.com/news/linux-games-steam-winter-sale-2025"
+image: 'https://itsfoss.com/content/images/2025/12/steam-winter-sale-2025-banner.png'
+image_source: rss
+description: >-
+  Aproveite a Promoção de Inverno Steam e descubra uma seleção de jogos
+  fantásticos compatíveis com Linux. Uma oportunidade única para gamers em
+  Portugal. Term.
+source_url: 'https://itsfoss.com/news/linux-games-steam-winter-sale-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Turrón para Cães: El Lobo Revoluciona Natal dos Amigos de Quatro Patas"
-date: "2025-11-29T13:19:03.958Z"
-category: "home"
+title: 'Turrón para Cães: El Lobo Revoluciona Natal dos Amigos de Quatro Patas'
+date: '2025-11-29T13:19:03.958Z'
+category: home
 tags:
   - turrón
   - animais de estimação
   - inovação alimentar
   - natal
   - mercado pet
-image: "https://i.blogs.es/b61059/perroturron/840_560.jpeg"
-image_source: "rss"
-description: "A famosa marca espanhola El Lobo inova com turrón e polvorones para cães. Saiba tudo sobre esta aposta que promete adoçar o Natal dos patudos e o crescente m..."
-source_url: "https://www.xataka.com/magnet/probar-toda-clase-sabores-imposibles-turron-espanol-se-ha-marcado-nueva-meta-alimentar-a-tu-perro"
+image: 'https://i.blogs.es/b61059/perroturron/840_560.jpeg'
+image_source: rss
+description: >-
+  A famosa marca espanhola El Lobo inova com turrón e polvorones para cães.
+  Saiba tudo sobre esta aposta que promete adoçar o Natal dos patudos e o
+  crescente m.
+source_url: >-
+  https://www.xataka.com/magnet/probar-toda-clase-sabores-imposibles-turron-espanol-se-ha-marcado-nueva-meta-alimentar-a-tu-perro
 draft: false
 needs_review: true
 photographer_name: undefined

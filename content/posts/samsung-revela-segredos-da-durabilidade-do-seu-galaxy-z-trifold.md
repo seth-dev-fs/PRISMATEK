@@ -1,17 +1,21 @@
 ---
-title: "Samsung revela segredos da durabilidade do seu Galaxy Z TriFold"
-date: "2025-12-02T09:00:08.151Z"
-category: "smartphones"
+title: Samsung revela segredos da durabilidade do seu Galaxy Z TriFold
+date: '2025-12-02T09:00:08.151Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones dobráveis
   - durabilidade
   - inovação
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold-Assembly-Process-Factory-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung partilha os detalhes da engenharia por trás do Galaxy Z TriFold, o seu primeiro smartphone tri-dobrável, focando-se na sua impressionante durabilid..."
-source_url: "https://www.sammobile.com/news/samsung-explains-galaxy-z-trifold-durability"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold-Assembly-Process-Factory-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung partilha os detalhes da engenharia por trás do Galaxy Z TriFold, o
+  seu primeiro smartphone tri-dobrável, focando-se na sua impressionante
+  durabilid.
+source_url: 'https://www.sammobile.com/news/samsung-explains-galaxy-z-trifold-durability'
 draft: false
 needs_review: false
 photographer_name: undefined

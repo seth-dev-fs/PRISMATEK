@@ -1,17 +1,23 @@
 ---
-title: "Apple garante extensão para mega campus na Carolina do Norte"
-date: "2025-11-25T22:00:49.035Z"
-category: "home"
+title: Apple garante extensão para mega campus na Carolina do Norte
+date: '2025-11-25T22:00:49.035Z'
+category: home
 tags:
   - Apple
   - investimento
   - campus
   - tecnologia
   - Carolina do Norte
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "A Apple assegurou uma rara extensão de prazo para o seu ambicioso campus na Carolina do Norte, mantendo um incentivo de $845 milhões. O que significa para o ..."
-source_url: "https://9to5mac.com/2025/11/25/apple-granted-rare-timeline-extension-north-carolina-campus"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  A Apple assegurou uma rara extensão de prazo para o seu ambicioso campus na
+  Carolina do Norte, mantendo um incentivo de $845 milhões. O que significa para
+  o.
+source_url: >-
+  https://9to5mac.com/2025/11/25/apple-granted-rare-timeline-extension-north-carolina-campus
 draft: false
 needs_review: true
 ---

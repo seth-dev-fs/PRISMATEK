@@ -1,17 +1,22 @@
 ---
-title: "MacBook Air M4: Desempenho e Portabilidade Elevados"
-date: "2025-11-29T06:55:51.606Z"
-category: "computadores"
+title: 'MacBook Air M4: Desempenho e Portabilidade Elevados'
+date: '2025-11-29T06:55:51.606Z'
+category: computadores
 tags:
   - MacBook Air
   - Apple
   - portátil
   - M4
   - tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257607_M4_MacBook_Air_ADiBenedetto_0183.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
-image_source: "rss"
-description: "O mais recente MacBook Air M4 redefine o portátil ideal para uso diário. Com performance robusta e autonomia para todo o dia, continua uma aposta segura no m..."
-source_url: "https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257607_M4_MacBook_Air_ADiBenedetto_0183.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613
+image_source: rss
+description: >-
+  O mais recente MacBook Air M4 redefine o portátil ideal para uso diário. Com
+  performance robusta e autonomia para todo o dia, continua uma aposta segura no
+  m.
+source_url: >-
+  https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025
 draft: false
 needs_review: false
 photographer_name: undefined

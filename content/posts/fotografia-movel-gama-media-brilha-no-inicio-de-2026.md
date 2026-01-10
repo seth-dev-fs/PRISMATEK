@@ -1,17 +1,22 @@
 ---
-title: "Fotografia Móvel: Gama Média Brilha no Início de 2026"
-date: "2026-01-04T10:19:15.169Z"
-category: "smartphones"
+title: 'Fotografia Móvel: Gama Média Brilha no Início de 2026'
+date: '2026-01-04T10:19:15.169Z'
+category: smartphones
 tags:
   - smartphones
   - fotografia móvel
   - gama média
   - câmara
   - tendências 2026
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/15T/Xiaomi_15t_Test61.jpg"
-image_source: "rss"
-description: "Quer tirar fotos fantásticas sem gastar muito? Descubra os melhores smartphones de gama média para fotografia que prometem dominar o início de 2026, com qual..."
-source_url: "https://www.notebookcheck.net/The-best-mid-range-photography-smartphone-for-the-start-of-2026.1195603.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/Xiaomi/15T/Xiaomi_15t_Test61.jpg
+image_source: rss
+description: >-
+  Quer tirar fotos fantásticas sem gastar muito? Descubra os melhores
+  smartphones de gama média para fotografia que prometem dominar o início de
+  2026, com qual.
+source_url: >-
+  https://www.notebookcheck.net/The-best-mid-range-photography-smartphone-for-the-start-of-2026.1195603.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Dreame E1: O smartphone que quer replicar o ecossistema Xiaomi"
-date: "2025-12-22T10:19:01.411Z"
-category: "smartphones"
+title: 'Dreame E1: O smartphone que quer replicar o ecossistema Xiaomi'
+date: '2025-12-22T10:19:01.411Z'
+category: smartphones
 tags:
   - Dreame
   - smartphones
   - ecossistema
   - Xiaomi
   - tecnologia chinesa
-image: "https://i.blogs.es/893fc3/dreame/840_560.jpeg"
-image_source: "rss"
-description: "Dreame, gigante dos eletrodomésticos, lança o seu primeiro smartphone, o E1. Descobre como a empresa quer seguir os passos da Xiaomi na criação de um ecossis..."
-source_url: "https://www.xataka.com/moviles/dreame-busca-convertirse-tercera-grande-china-a-xiaomi-huawei-lejos-quedo-querer-ser-nueva-dyson"
+image: 'https://i.blogs.es/893fc3/dreame/840_560.jpeg'
+image_source: rss
+description: >-
+  Dreame, gigante dos eletrodomésticos, lança o seu primeiro smartphone, o E1.
+  Descobre como a empresa quer seguir os passos da Xiaomi na criação de um
+  ecossis.
+source_url: >-
+  https://www.xataka.com/moviles/dreame-busca-convertirse-tercera-grande-china-a-xiaomi-huawei-lejos-quedo-querer-ser-nueva-dyson
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "China liga Jupiter I: A turbina de hidrogénio que combate o desperdício"
-date: "2025-12-29T10:22:27.957Z"
-category: "ciencia"
+title: 'China liga Jupiter I: A turbina de hidrogénio que combate o desperdício'
+date: '2025-12-29T10:22:27.957Z'
+category: ciencia
 tags:
   - Energia renovável
   - Hidrogénio puro
   - China
   - Sustentabilidade
   - Jupiter I
-image: "https://i.blogs.es/b1592e/original/840_560.jpeg"
-image_source: "rss"
-description: "A China ativou Jupiter I, a primeira turbina de 30 MW a hidrogénio puro do mundo. Esta inovação é crucial para armazenar energia renovável e combater o despe..."
-source_url: "https://www.xataka.com/energia/china-acaba-encender-jupiter-i-primera-gran-turbina-hidrogeno-puro-para-luchar-desperdicio-renovable"
+image: 'https://i.blogs.es/b1592e/original/840_560.jpeg'
+image_source: rss
+description: >-
+  A China ativou Jupiter I, a primeira turbina de 30 MW a hidrogénio puro do
+  mundo. Esta inovação é crucial para armazenar energia renovável e combater o
+  despe.
+source_url: >-
+  https://www.xataka.com/energia/china-acaba-encender-jupiter-i-primera-gran-turbina-hidrogeno-puro-para-luchar-desperdicio-renovable
 draft: false
 needs_review: false
 photographer_name: undefined

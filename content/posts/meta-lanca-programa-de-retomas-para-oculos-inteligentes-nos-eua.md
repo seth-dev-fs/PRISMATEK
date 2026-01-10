@@ -1,17 +1,22 @@
 ---
-title: "Meta lança programa de retomas para óculos inteligentes nos EUA"
-date: "2025-11-24T22:39:31.224Z"
-category: "wearables"
+title: Meta lança programa de retomas para óculos inteligentes nos EUA
+date: '2025-11-24T22:39:31.224Z'
+category: wearables
 tags:
   - Meta
   - óculos inteligentes
   - wearables
   - Ray-Ban Meta
   - Oakley Meta
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200"
-image_source: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200"
-description: "A Meta está a testar um programa piloto de retomas de óculos inteligentes Ray-Ban e Oakley nos EUA, oferecendo descontos em novos modelos. Uma estratégia par..."
-source_url: "https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200
+image_source: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Verge-Ray-ban-Meta-Gen2-Stills-6.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200
+description: >-
+  A Meta está a testar um programa piloto de retomas de óculos inteligentes
+  Ray-Ban e Oakley nos EUA, oferecendo descontos em novos modelos. Uma
+  estratégia par.
+source_url: 'https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit'
 draft: false
 needs_review: false
 ---

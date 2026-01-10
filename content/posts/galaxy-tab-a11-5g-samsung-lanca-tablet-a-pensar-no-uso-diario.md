@@ -1,17 +1,22 @@
 ---
-title: "Galaxy Tab A11+ 5G: Samsung lança tablet a pensar no uso diário"
-date: "2025-12-01T16:57:28.925Z"
-category: "smartphones"
+title: 'Galaxy Tab A11+ 5G: Samsung lança tablet a pensar no uso diário'
+date: '2025-12-01T16:57:28.925Z'
+category: smartphones
 tags:
   - Samsung
   - tablet
   - Galaxy Tab A11+ 5G
   - Android
   - MediaTek
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Tab-A11-5G-.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy Tab A11+ 5G foi lançado na Índia, revelando um ecrã de 90 Hz e bateria de 7.040 mAh. Será que chega ao mercado português? A Samsung continua..."
-source_url: "https://www.notebookcheck.net/Samsung-Galaxy-Tab-A11-5G-with-MediaTek-MT8775-chipset-now-available-in-India.1174616.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-Tab-A11-5G-.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy Tab A11+ 5G foi lançado na Índia, revelando um ecrã de 90 Hz
+  e bateria de 7.040 mAh. Será que chega ao mercado português? A Samsung
+  continua.
+source_url: >-
+  https://www.notebookcheck.net/Samsung-Galaxy-Tab-A11-5G-with-MediaTek-MT8775-chipset-now-available-in-India.1174616.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

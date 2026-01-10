@@ -1,17 +1,21 @@
 ---
-title: "Jolla: Smartphone regressa com bateria amovível e apps Android"
-date: "2025-12-09T08:24:43.315Z"
-category: "smartphones"
+title: 'Jolla: Smartphone regressa com bateria amovível e apps Android'
+date: '2025-12-09T08:24:43.315Z'
+category: smartphones
 tags:
   - Jolla
   - smartphones
   - Sailfish OS
   - Android apps
   - bateria amovível
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/Jolla-Phone-2026-scaled-1.jpg"
-image_source: "rss"
-description: "Um novo smartphone promete abalar o mercado com bateria amovível, slot microSD e apps Android, mas sem o sistema Google. Conheça a proposta da Jolla. No cená..."
-source_url: "https://www.androidauthority.com/new-jolla-phone-3623421"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/Jolla-Phone-2026-scaled-1.jpg
+image_source: rss
+description: >-
+  Um novo smartphone promete abalar o mercado com bateria amovível, slot microSD
+  e apps Android, mas sem o sistema Google. Conheça a proposta da Jolla. No
+  cená.
+source_url: 'https://www.androidauthority.com/new-jolla-phone-3623421'
 draft: false
 needs_review: false
 photographer_name: undefined

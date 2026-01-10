@@ -1,17 +1,23 @@
 ---
-title: "Citizen lança novos Eco-Drive em aço com Disney: magia no pulso"
-date: "2025-11-24T22:40:38.017Z"
-category: "wearables"
+title: 'Citizen lança novos Eco-Drive em aço com Disney: magia no pulso'
+date: '2025-11-24T22:40:38.017Z'
+category: wearables
 tags:
   - Citizen
   - Eco-Drive
   - Disney
   - relógios
   - aço inoxidável
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Mickey-Mouse.png"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Mickey-Mouse.png"
-description: "A Citizen apresenta três novos relógios Eco-Drive em aço inoxidável, com designs de Mickey e Minnie Mouse. Conheça a tecnologia solar e o estilo único desta ..."
-source_url: "https://www.notebookcheck.net/New-Citizen-stainless-steel-Eco-Drive-watches-announced-for-launch.1170003.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Mickey-Mouse.png
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Citizen-Mickey-Mouse.png
+description: >-
+  A Citizen apresenta três novos relógios Eco-Drive em aço inoxidável, com
+  designs de Mickey e Minnie Mouse. Conheça a tecnologia solar e o estilo único
+  desta.
+source_url: >-
+  https://www.notebookcheck.net/New-Citizen-stainless-steel-Eco-Drive-watches-announced-for-launch.1170003.0.html
 draft: false
 needs_review: false
 ---

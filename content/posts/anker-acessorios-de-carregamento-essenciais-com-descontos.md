@@ -1,17 +1,22 @@
 ---
-title: "Anker: Acessórios de Carregamento Essenciais com Descontos"
-date: "2025-11-28T14:42:40.989Z"
-category: "mobilidade"
+title: 'Anker: Acessórios de Carregamento Essenciais com Descontos'
+date: '2025-11-28T14:42:40.989Z'
+category: mobilidade
 tags:
   - Anker
   - carregadores
   - power banks
   - acessórios
   - tecnologia
-image: "https://s.yimg.com/ny/api/res/1.2/2pIdZzcwzpU2WCDgf_9pdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f8c716b0-c002-11f0-bdaf-6de4d5a9e7c1"
-image_source: "rss"
-description: "Descubra os acessórios Anker mais procurados, de power banks a carregadores sem fios. Prepare-se para otimizar o carregamento dos seus dispositivos. A Anker ..."
-source_url: "https://www.engadget.com/deals/anker-black-friday-deals-save-on-power-banks-wireless-chargers-power-adapters-and-other-accessories-164907229.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/2pIdZzcwzpU2WCDgf_9pdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/f8c716b0-c002-11f0-bdaf-6de4d5a9e7c1
+image_source: rss
+description: >-
+  Descubra os acessórios Anker mais procurados, de power banks a carregadores
+  sem fios. Prepare-se para otimizar o carregamento dos seus dispositivos. A
+  Anker.
+source_url: >-
+  https://www.engadget.com/deals/anker-black-friday-deals-save-on-power-banks-wireless-chargers-power-adapters-and-other-accessories-164907229.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

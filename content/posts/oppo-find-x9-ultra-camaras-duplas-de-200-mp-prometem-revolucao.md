@@ -1,17 +1,22 @@
 ---
-title: "Oppo Find X9 Ultra: Câmaras duplas de 200 MP prometem revolução"
-date: "2025-12-22T06:29:42.464Z"
-category: "smartphones"
+title: 'Oppo Find X9 Ultra: Câmaras duplas de 200 MP prometem revolução'
+date: '2025-12-22T06:29:42.464Z'
+category: smartphones
 tags:
   - Oppo
   - Find X9 Ultra
   - smartphones
   - câmara
   - fotografia móvel
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oppo-find-x9-ultra-camera-specs/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O Oppo Find X9 Ultra poderá revolucionar a fotografia móvel com as suas câmaras duplas de 200 MP e zoom ótico de 10x. Descobre os primeiros detalhes deste su..."
-source_url: "https://www.gsmarena.com/oppo_find_x9_ultra_camera_specifications_tipped-news-70814.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oppo-find-x9-ultra-camera-specs/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O Oppo Find X9 Ultra poderá revolucionar a fotografia móvel com as suas
+  câmaras duplas de 200 MP e zoom ótico de 10x. Descobre os primeiros detalhes
+  deste su.
+source_url: >-
+  https://www.gsmarena.com/oppo_find_x9_ultra_camera_specifications_tipped-news-70814.php
 draft: false
 needs_review: false
 photographer_name: undefined

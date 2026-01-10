@@ -1,16 +1,19 @@
 ---
-title: "AnTuTu 11 no iOS: Relevância e Desafios para o Mercado Europeu de Smartphones"
-date: "2026-01-09T20:43:40.343Z"
-category: "smartphones"
+title: 'AnTuTu 11 no iOS: Relevância e Desafios para o Mercado Europeu de Smartphones'
+date: '2026-01-09T20:43:40.343Z'
+category: smartphones
 tags:
   - AnTuTu
   - iOS
   - Benchmarking
   - Smartphones
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/antutu-ios-ipados/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A chegada do AnTuTu 11 ao iOS e iPadOS representa um marco para o benchmarking em Portugal e na UE. Analisamos o seu impacto nos consumidores e fabricantes, ..."
-source_url: "https://www.gsmarena.com/antutu_11_is_now_out_on_ios_and_ipados-news-71045.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/antutu-ios-ipados/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A chegada do AnTuTu 11 ao iOS e iPadOS representa um marco para o benchmarking
+  em Portugal e na UE. Analisamos o seu impacto nos consumidores e fabricantes,.
+source_url: 'https://www.gsmarena.com/antutu_11_is_now_out_on_ios_and_ipados-news-71045.php'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Grand Seiko SBGH375: O Relógio de Luxo Exclusivo para o Japão"
-date: "2025-12-01T13:51:47.105Z"
-category: "home"
+title: 'Grand Seiko SBGH375: O Relógio de Luxo Exclusivo para o Japão'
+date: '2025-12-01T13:51:47.105Z'
+category: home
 tags:
   - Grand Seiko
   - relógios de luxo
   - relojoaria
   - SBGH375
   - edição limitada
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Grand-Seiko-Eye-Eye-Isuzu.png"
-image_source: "rss"
-description: "A Grand Seiko revela o SBGH375, um relógio de titânio ultralimitado, com movimento hi-beat e mostrador singular. Exclusivo do mercado japonês. A Grand Seiko,..."
-source_url: "https://www.notebookcheck.net/Grand-Seiko-SBGH375-announced-as-new-ultra-limited-anniversary-exclusive-watch.1174609.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Grand-Seiko-Eye-Eye-Isuzu.png
+image_source: rss
+description: >-
+  A Grand Seiko revela o SBGH375, um relógio de titânio ultralimitado, com
+  movimento hi-beat e mostrador singular. Exclusivo do mercado japonês. A Grand
+  Seiko,.
+source_url: >-
+  https://www.notebookcheck.net/Grand-Seiko-SBGH375-announced-as-new-ultra-limited-anniversary-exclusive-watch.1174609.0.html
 draft: false
 needs_review: true
 photographer_name: undefined

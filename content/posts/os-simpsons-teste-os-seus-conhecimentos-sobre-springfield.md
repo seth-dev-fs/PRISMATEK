@@ -1,17 +1,21 @@
 ---
-title: "Os Simpsons: Teste os seus conhecimentos sobre Springfield"
-date: "2025-12-04T10:53:38.221Z"
-category: "entretenimento-gaming"
+title: 'Os Simpsons: Teste os seus conhecimentos sobre Springfield'
+date: '2025-12-04T10:53:38.221Z'
+category: entretenimento-gaming
 tags:
   - Os Simpsons
   - quiz
   - streaming
   - cultura pop
   - televisão
-image: "https://cdn.mos.cms.futurecdn.net/hSpWnncmpAR5CqVcoAMESK-1280-80.jpeg"
-image_source: "rss"
-description: "É um verdadeiro fã de Os Simpsons? Desafie-se com este divertido quiz de 30 perguntas e descubra o quão bem conhece a família amarela e Springfield. Há pouca..."
-source_url: "https://www.techradar.com/streaming/think-you-know-the-simpsons-test-your-springfield-knowledge-with-this-superfan-quiz"
+image: 'https://cdn.mos.cms.futurecdn.net/hSpWnncmpAR5CqVcoAMESK-1280-80.jpeg'
+image_source: rss
+description: >-
+  É um verdadeiro fã de Os Simpsons? Desafie-se com este divertido quiz de 30
+  perguntas e descubra o quão bem conhece a família amarela e Springfield. Há
+  pouca.
+source_url: >-
+  https://www.techradar.com/streaming/think-you-know-the-simpsons-test-your-springfield-knowledge-with-this-superfan-quiz
 draft: false
 needs_review: false
 photographer_name: undefined

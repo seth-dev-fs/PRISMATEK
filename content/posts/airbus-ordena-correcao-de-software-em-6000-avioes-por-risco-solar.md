@@ -1,17 +1,21 @@
 ---
-title: "Airbus ordena correção de software em 6.000 aviões por risco solar"
-date: "2025-11-30T03:53:00.345Z"
-category: "mobilidade"
+title: Airbus ordena correção de software em 6.000 aviões por risco solar
+date: '2025-11-30T03:53:00.345Z'
+category: mobilidade
 tags:
   - Airbus
   - aviação
   - segurança aérea
   - software
   - radiação solar
-image: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?resize=1200,800"
-image_source: "rss"
-description: "A Airbus está a implementar uma atualização de software crítica em milhares de aviões A320 para mitigar riscos de radiação solar nos controlos de voo. Saiba ..."
-source_url: "https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1177988041.jpg?resize=1200,800
+image_source: rss
+description: >-
+  A Airbus está a implementar uma atualização de software crítica em milhares de
+  aviões A320 para mitigar riscos de radiação solar nos controlos de voo. Saiba.
+source_url: >-
+  https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk
 draft: false
 needs_review: false
 photographer_name: undefined

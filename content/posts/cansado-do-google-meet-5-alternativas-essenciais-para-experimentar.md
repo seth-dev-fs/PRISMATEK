@@ -1,17 +1,21 @@
 ---
-title: "Cansado do Google Meet? 5 Alternativas Essenciais para Experimentar"
-date: "2025-11-27T10:46:10.264Z"
-category: "internet-apps"
+title: Cansado do Google Meet? 5 Alternativas Essenciais para Experimentar
+date: '2025-11-27T10:46:10.264Z'
+category: internet-apps
 tags:
   - videoconferência
   - Google Meet
   - alternativas
   - trabalho remoto
   - produtividade
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/Zoho-Meetings-scaled.jpg"
-image_source: "rss"
-description: "Se o Google Meet já não satisfaz, descubra 5 plataformas de videoconferência que oferecem mais funcionalidades, privacidade ou são gratuitas. Escolha a ideal..."
-source_url: "https://www.androidauthority.com/google-meet-alternatives-3618950"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/Zoho-Meetings-scaled.jpg
+image_source: rss
+description: >-
+  Se o Google Meet já não satisfaz, descubra 5 plataformas de videoconferência
+  que oferecem mais funcionalidades, privacidade ou são gratuitas. Escolha a
+  ideal.
+source_url: 'https://www.androidauthority.com/google-meet-alternatives-3618950'
 draft: false
 needs_review: false
 photographer_name: undefined

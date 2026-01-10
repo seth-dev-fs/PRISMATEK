@@ -1,17 +1,22 @@
 ---
-title: "Samsung Tri-Fold: Será mais acessível do que se esperava?"
-date: "2025-11-28T08:56:10.883Z"
-category: "smartphones"
+title: 'Samsung Tri-Fold: Será mais acessível do que se esperava?'
+date: '2025-11-28T08:56:10.883Z'
+category: smartphones
 tags:
   - Samsung
   - smartphones
   - dobrável
   - tecnologia
   - preço
-image: "https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-G-Fold-render_5.jpg"
-image_source: "rss"
-description: "Rumores apontam para que o aguardado smartphone tri-fold da Samsung possa ter um preço mais competitivo no lançamento. Conheça as últimas novidades. O mercad..."
-source_url: "https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/07/Samsung-Galaxy-G-Fold-render_5.jpg
+image_source: rss
+description: >-
+  Rumores apontam para que o aguardado smartphone tri-fold da Samsung possa ter
+  um preço mais competitivo no lançamento. Conheça as últimas novidades. O
+  mercad.
+source_url: >-
+  https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378
 draft: false
 needs_review: false
 photographer_name: undefined

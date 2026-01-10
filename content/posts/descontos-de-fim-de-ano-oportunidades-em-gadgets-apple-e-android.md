@@ -1,17 +1,21 @@
 ---
-title: "Descontos de Fim de Ano: Oportunidades em Gadgets Apple e Android"
-date: "2025-12-01T04:20:34.978Z"
-category: "smartphones"
+title: 'Descontos de Fim de Ano: Oportunidades em Gadgets Apple e Android'
+date: '2025-12-01T04:20:34.978Z'
+category: smartphones
 tags:
   - smartphones
   - Apple
   - Google
   - tecnologia
   - descontos
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra as melhores oportunidades em smartphones, computadores e wearables no mercado europeu. De iPhones a Pixels, poupe em tecnologia de ponta este fim de..."
-source_url: "https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra as melhores oportunidades em smartphones, computadores e wearables no
+  mercado europeu. De iPhones a Pixels, poupe em tecnologia de ponta este fim
+  de.
+source_url: 'https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Tecnologia de Ponta a Preços Atraentes: Oportunidades Recentes na Amazon"
-date: "2025-12-23T10:22:15.079Z"
-category: "mobilidade"
+title: 'Tecnologia de Ponta a Preços Atraentes: Oportunidades Recentes na Amazon'
+date: '2025-12-23T10:22:15.079Z'
+category: mobilidade
 tags:
   - tecnologia
   - descontos
   - Amazon
   - smartphones
   - wearables
-image: "https://i.blogs.es/ce63ac/amazon-5-/840_560.jpeg"
-image_source: "rss"
-description: "Descubra as recentes oportunidades de descontos em tecnologia na Amazon. De smartwatches a e-readers, prepare-se para encontrar o gadget perfeito. Num mercad..."
-source_url: "https://www.xataka.com/seleccion/mejores-chollos-tecnologia-hoy-23-diciembre-amazon-descuentos-casi-50"
+image: 'https://i.blogs.es/ce63ac/amazon-5-/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra as recentes oportunidades de descontos em tecnologia na Amazon. De
+  smartwatches a e-readers, prepare-se para encontrar o gadget perfeito. Num
+  mercad.
+source_url: >-
+  https://www.xataka.com/seleccion/mejores-chollos-tecnologia-hoy-23-diciembre-amazon-descuentos-casi-50
 draft: false
 needs_review: false
 photographer_name: undefined

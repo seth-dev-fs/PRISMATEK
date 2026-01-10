@@ -1,17 +1,22 @@
 ---
-title: "Vendas da PS5 superam Nintendo Switch no Reino Unido e Espanha"
-date: "2025-11-30T04:58:38.472Z"
-category: "gaming"
+title: Vendas da PS5 superam Nintendo Switch no Reino Unido e Espanha
+date: '2025-11-30T04:58:38.472Z'
+category: gaming
 tags:
   - PlayStation 5
   - Nintendo Switch
   - vendas
   - mercado de consolas
   - Europa
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5andSwitch2UnionJack.jpg"
-image_source: "rss"
-description: "A PlayStation 5 está a ganhar terreno na Europa, superando as vendas da Nintendo Switch em mercados chave como o Reino Unido e Espanha em outubro. Conheça os..."
-source_url: "https://www.notebookcheck.net/October-Nintendo-Switch-2-sales-fall-behind-PS5-in-UK-as-Sony-s-console-gains-momentum-in-Europe.1173814.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5andSwitch2UnionJack.jpg
+image_source: rss
+description: >-
+  A PlayStation 5 está a ganhar terreno na Europa, superando as vendas da
+  Nintendo Switch em mercados chave como o Reino Unido e Espanha em outubro.
+  Conheça os.
+source_url: >-
+  https://www.notebookcheck.net/October-Nintendo-Switch-2-sales-fall-behind-PS5-in-UK-as-Sony-s-console-gains-momentum-in-Europe.1173814.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

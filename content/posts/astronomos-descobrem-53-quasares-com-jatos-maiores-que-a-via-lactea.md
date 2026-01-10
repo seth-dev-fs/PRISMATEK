@@ -1,17 +1,22 @@
 ---
-title: "Astrónomos descobrem 53 quasares com jatos maiores que a Via Láctea"
-date: "2025-12-03T10:54:10.611Z"
-category: "ciencia"
+title: Astrónomos descobrem 53 quasares com jatos maiores que a Via Láctea
+date: '2025-12-03T10:54:10.611Z'
+category: ciencia
 tags:
   - quasares
   - astrofísica
   - universo
   - buracos negros
   - descoberta espacial
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/53-powerful-quasars-emitting-jets-50-times-larger-than-the-Milky-Way-have-been-discovered.jpg"
-image_source: "rss"
-description: "Uma equipa de astrónomos revelou a descoberta de 53 quasares, cujos jatos de matéria e energia superam em 50 vezes o tamanho da Via Láctea. Uma visão sem pre..."
-source_url: "https://www.notebookcheck.net/Astronomers-have-discovered-53-quasars-emitting-jets-50-times-larger-than-the-Milky-Way.1175418.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/53-powerful-quasars-emitting-jets-50-times-larger-than-the-Milky-Way-have-been-discovered.jpg
+image_source: rss
+description: >-
+  Uma equipa de astrónomos revelou a descoberta de 53 quasares, cujos jatos de
+  matéria e energia superam em 50 vezes o tamanho da Via Láctea. Uma visão sem
+  pre.
+source_url: >-
+  https://www.notebookcheck.net/Astronomers-have-discovered-53-quasars-emitting-jets-50-times-larger-than-the-Milky-Way.1175418.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

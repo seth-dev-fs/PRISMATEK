@@ -1,17 +1,21 @@
 ---
-title: "AI e Apple Watch: Dados cardíacos mais profundos à vista"
-date: "2025-12-03T01:16:32.868Z"
-category: "ai-futuro"
+title: 'AI e Apple Watch: Dados cardíacos mais profundos à vista'
+date: '2025-12-03T01:16:32.868Z'
+category: ai-futuro
 tags:
   - Apple Watch
   - inteligência artificial
   - saúde cardíaca
   - sensores
   - tecnologia
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-watch-health-sensors-blood-glucose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um novo estudo revela como a IA pode aprofundar a análise de dados cardíacos do Apple Watch, abrindo portas a diagnósticos mais precisos e prevenção. Fique a..."
-source_url: "https://9to5mac.com/2025/12/02/apple-watch-study-ai-health-data-optical-sensor"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-watch-health-sensors-blood-glucose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um novo estudo revela como a IA pode aprofundar a análise de dados cardíacos
+  do Apple Watch, abrindo portas a diagnósticos mais precisos e prevenção. Fique
+  a.
+source_url: 'https://9to5mac.com/2025/12/02/apple-watch-study-ai-health-data-optical-sensor'
 draft: false
 needs_review: false
 photographer_name: undefined

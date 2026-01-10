@@ -1,17 +1,21 @@
 ---
-title: "Sony desafia Samsung com novo sensor de câmara de 200MP"
-date: "2025-11-27T07:00:19.079Z"
-category: "smartphones"
+title: Sony desafia Samsung com novo sensor de câmara de 200MP
+date: '2025-11-27T07:00:19.079Z'
+category: smartphones
 tags:
   - Sony
   - câmaras
   - smartphones
   - fotografia móvel
   - Samsung
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/Sony-LYTIA-901-200MP-camera-sensor-scaled-1.jpg"
-image_source: "rss"
-description: "A Sony revelou o seu primeiro sensor de câmara de 200MP para smartphones, prometendo um salto na qualidade fotográfica. Será este o futuro da fotografia móve..."
-source_url: "https://www.androidauthority.com/sony-lyt-901-200mp-camera-3620090"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/Sony-LYTIA-901-200MP-camera-sensor-scaled-1.jpg
+image_source: rss
+description: >-
+  A Sony revelou o seu primeiro sensor de câmara de 200MP para smartphones,
+  prometendo um salto na qualidade fotográfica. Será este o futuro da fotografia
+  móve.
+source_url: 'https://www.androidauthority.com/sony-lyt-901-200mp-camera-3620090'
 draft: false
 needs_review: false
 photographer_name: undefined

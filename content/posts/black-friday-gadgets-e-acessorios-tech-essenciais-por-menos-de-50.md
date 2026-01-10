@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Gadgets e Acessórios Tech Essenciais por Menos de 50€"
-date: "2025-11-28T22:38:47.783Z"
-category: "mobilidade"
+title: 'Black Friday: Gadgets e Acessórios Tech Essenciais por Menos de 50€'
+date: '2025-11-28T22:38:47.783Z'
+category: mobilidade
 tags:
   - Black Friday
   - gadgets
   - acessórios
   - smart home
   - carregadores
-image: "https://s.yimg.com/ny/api/res/1.2/V46tp9EefhdZyZYE4eiMhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9d9196e0-c3d5-11f0-b5ed-53a1aa62d068"
-image_source: "rss"
-description: "Aproveite a Black Friday para descobrir gadgets e acessórios de tecnologia que valem a pena por menos de 50 euros. Há opções para todos os gostos. A época da..."
-source_url: "https://www.engadget.com/deals/black-friday-deals-under-50-worth-shopping-for-2025-apple-airtags-legos-ugreen-chargers-blink-cameras-and-more-173833765.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/V46tp9EefhdZyZYE4eiMhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/9d9196e0-c3d5-11f0-b5ed-53a1aa62d068
+image_source: rss
+description: >-
+  Aproveite a Black Friday para descobrir gadgets e acessórios de tecnologia que
+  valem a pena por menos de 50 euros. Há opções para todos os gostos. A época
+  da.
+source_url: >-
+  https://www.engadget.com/deals/black-friday-deals-under-50-worth-shopping-for-2025-apple-airtags-legos-ugreen-chargers-blink-cameras-and-more-173833765.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "AirPods da Apple podem vir a ler sinais cerebrais com nova IA"
-date: "2025-11-28T16:50:11.173Z"
-category: "ai-futuro"
+title: AirPods da Apple podem vir a ler sinais cerebrais com nova IA
+date: '2025-11-28T16:50:11.173Z'
+category: ai-futuro
 tags:
   - Apple
   - AirPods
   - IA
   - neurotecnologia
   - futuro
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro-3-ear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um novo estudo da Apple explora como os futuros AirPods poderão interpretar a atividade cerebral humana através de IA. Descubra esta visão revolucionária dos..."
-source_url: "https://9to5mac.com/2025/11/28/airpods-brain-signal-study-patent"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro-3-ear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um novo estudo da Apple explora como os futuros AirPods poderão interpretar a
+  atividade cerebral humana através de IA. Descubra esta visão revolucionária
+  dos.
+source_url: 'https://9to5mac.com/2025/11/28/airpods-brain-signal-study-patent'
 draft: false
 needs_review: false
 photographer_name: undefined

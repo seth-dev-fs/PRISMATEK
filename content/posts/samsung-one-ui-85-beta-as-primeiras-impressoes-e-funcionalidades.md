@@ -1,17 +1,22 @@
 ---
-title: "Samsung One UI 8.5 Beta: As primeiras impressões e funcionalidades"
-date: "2025-12-10T08:26:02.607Z"
-category: "smartphones"
+title: 'Samsung One UI 8.5 Beta: As primeiras impressões e funcionalidades'
+date: '2025-12-10T08:26:02.607Z'
+category: smartphones
 tags:
   - Samsung
   - One UI
   - Android
   - smartphones
   - atualização
-image: "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Z-Fold-7-One-UI-8.5-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung lançou o programa beta do One UI 8.5, permitindo aos utilizadores elegíveis testar as novas funcionalidades e melhorias na interface. Descubra o qu..."
-source_url: "https://www.sammobile.com/news/check-out-the-full-video-guide-to-samsungs-one-ui-8-5"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Z-Fold-7-One-UI-8.5-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung lançou o programa beta do One UI 8.5, permitindo aos utilizadores
+  elegíveis testar as novas funcionalidades e melhorias na interface. Descubra o
+  qu.
+source_url: >-
+  https://www.sammobile.com/news/check-out-the-full-video-guide-to-samsungs-one-ui-8-5
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Dynabook lança portáteis Tecra A45-M e A65-M com AMD Ryzen Pro"
-date: "2025-12-10T04:30:36.163Z"
-category: "computadores"
+title: Dynabook lança portáteis Tecra A45-M e A65-M com AMD Ryzen Pro
+date: '2025-12-10T04:30:36.163Z'
+category: computadores
 tags:
   - Dynabook
   - portáteis
   - AMD Ryzen Pro
   - computadores de negócios
   - IA
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dynabook-debuts-16-inch-Tecra-A65-M-and-14-inch-Tecra-A45-M-business-notebooks-with-AMD-Ryzen-7-250-CPU-A65-M.jpg"
-image_source: "rss"
-description: "Os novos portáteis Dynabook Tecra A45-M e A65-M chegam com processadores AMD Ryzen Pro e segurança de nível empresarial, prontos para a IA do Windows Copilot..."
-source_url: "https://www.notebookcheck.net/Dynabook-debuts-16-inch-Tecra-A65-M-and-14-inch-Tecra-A45-M-business-laptops-powered-by-AMD-Ryzen-Pro-200-series-CPUs.1182019.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Dynabook-debuts-16-inch-Tecra-A65-M-and-14-inch-Tecra-A45-M-business-notebooks-with-AMD-Ryzen-7-250-CPU-A65-M.jpg
+image_source: rss
+description: >-
+  Os novos portáteis Dynabook Tecra A45-M e A65-M chegam com processadores AMD
+  Ryzen Pro e segurança de nível empresarial, prontos para a IA do Windows
+  Copilot.
+source_url: >-
+  https://www.notebookcheck.net/Dynabook-debuts-16-inch-Tecra-A65-M-and-14-inch-Tecra-A45-M-business-laptops-powered-by-AMD-Ryzen-Pro-200-series-CPUs.1182019.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

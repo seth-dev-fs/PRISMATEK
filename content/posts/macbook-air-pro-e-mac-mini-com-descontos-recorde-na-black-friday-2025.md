@@ -1,17 +1,23 @@
 ---
-title: "MacBook Air, Pro e Mac mini com descontos recorde na Black Friday 2025"
-date: "2025-11-24T14:44:20.129Z"
-category: "computadores"
+title: 'MacBook Air, Pro e Mac mini com descontos recorde na Black Friday 2025'
+date: '2025-11-24T14:44:20.129Z'
+category: computadores
 tags:
   - Apple
   - MacBook Air
   - Mac mini
   - Black Friday
   - computadores
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-holiday-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-holiday-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "A Black Friday 2025 promete trazer descontos inéditos para a linha Mac da Apple. MacBook Air, MacBook Pro e Mac mini alcançam preços mínimos históricos na Eu..."
-source_url: "https://9to5mac.com/2025/11/24/black-friday-new-lows-on-macbook-air-mac-mini-more"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-holiday-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-holiday-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  A Black Friday 2025 promete trazer descontos inéditos para a linha Mac da
+  Apple. MacBook Air, MacBook Pro e Mac mini alcançam preços mínimos históricos
+  na Eu.
+source_url: >-
+  https://9to5mac.com/2025/11/24/black-friday-new-lows-on-macbook-air-mac-mini-more
 draft: false
 needs_review: false
 ---

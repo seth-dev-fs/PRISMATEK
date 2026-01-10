@@ -1,17 +1,21 @@
 ---
-title: "Shokz OpenFit Pro: Auriculares Open-Ear com Cancelamento Ativo"
-date: "2026-01-06T08:26:40.439Z"
-category: "audio"
+title: 'Shokz OpenFit Pro: Auriculares Open-Ear com Cancelamento Ativo'
+date: '2026-01-06T08:26:40.439Z'
+category: audio
 tags:
   - Shokz
   - auriculares
   - open-ear
   - cancelamento de ruído
   - áudio
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Shokz-.png"
-image_source: "rss"
-description: "Os novos Shokz OpenFit Pro chegam com design open-ear e cancelamento de ruído ativo, uma estreia para a marca. Descubra as suas funcionalidades inovadoras e ..."
-source_url: "https://www.notebookcheck.net/Shokz-OpenFit-Pro-lunches-as-the-brand-s-first-open-ear-earbuds-with-active-noise-reduction.1178955.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Shokz-.png'
+image_source: rss
+description: >-
+  Os novos Shokz OpenFit Pro chegam com design open-ear e cancelamento de ruído
+  ativo, uma estreia para a marca. Descubra as suas funcionalidades inovadoras
+  e.
+source_url: >-
+  https://www.notebookcheck.net/Shokz-OpenFit-Pro-lunches-as-the-brand-s-first-open-ear-earbuds-with-active-noise-reduction.1178955.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

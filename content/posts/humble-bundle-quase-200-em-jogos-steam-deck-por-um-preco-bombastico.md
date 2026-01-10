@@ -1,17 +1,22 @@
 ---
-title: "Humble Bundle: Quase 200€ em jogos Steam Deck por um preço bombástico"
-date: "2025-12-03T06:58:43.485Z"
-category: "gaming"
+title: 'Humble Bundle: Quase 200€ em jogos Steam Deck por um preço bombástico'
+date: '2025-12-03T06:58:43.485Z'
+category: gaming
 tags:
   - Humble Bundle
   - Steam Deck
   - jogos
   - promoção
   - PC Gaming
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-December-2025-Choice-is-now-available.jpg"
-image_source: "rss"
-description: "A edição de dezembro de 2025 do Humble Choice traz uma coleção de jogos avaliada em quase 200€, ideal para o Steam Deck, por apenas 15€. Uma pechincha imperd..."
-source_url: "https://www.notebookcheck.net/Nearly-200-worth-of-well-rated-Steam-Deck-games-down-to-15-on-Humble-Bundle.1175528.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humble-Bundle-December-2025-Choice-is-now-available.jpg
+image_source: rss
+description: >-
+  A edição de dezembro de 2025 do Humble Choice traz uma coleção de jogos
+  avaliada em quase 200€, ideal para o Steam Deck, por apenas 15€. Uma pechincha
+  imperd.
+source_url: >-
+  https://www.notebookcheck.net/Nearly-200-worth-of-well-rated-Steam-Deck-games-down-to-15-on-Humble-Bundle.1175528.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

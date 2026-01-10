@@ -1,17 +1,21 @@
 ---
-title: "Ascensão da Google na IA impulsiona Larry Page ao pódio dos bilionários"
-date: "2025-11-27T10:45:49.848Z"
-category: "ai-futuro"
+title: Ascensão da Google na IA impulsiona Larry Page ao pódio dos bilionários
+date: '2025-11-27T10:45:49.848Z'
+category: ai-futuro
 tags:
   - Google
   - IA
   - NVIDIA
   - Larry Page
   - mercado de ações
-image: "https://i.blogs.es/ff345e/google-y-la-ia/840_560.jpeg"
-image_source: "rss"
-description: "A Google desafia a NVIDIA no mercado de IA, elevando as suas ações e a fortuna de Larry Page. Descobre como a corrida da IA está a redefinir o pódio dos bili..."
-source_url: "https://www.xataka.com/robotica-e-ia/carambola-financiera-google-ha-plantado-cara-a-nvidia-dejando-ganador-inesperado-carrera-loca-ia-larry-page"
+image: 'https://i.blogs.es/ff345e/google-y-la-ia/840_560.jpeg'
+image_source: rss
+description: >-
+  A Google desafia a NVIDIA no mercado de IA, elevando as suas ações e a fortuna
+  de Larry Page. Descobre como a corrida da IA está a redefinir o pódio dos
+  bili.
+source_url: >-
+  https://www.xataka.com/robotica-e-ia/carambola-financiera-google-ha-plantado-cara-a-nvidia-dejando-ganador-inesperado-carrera-loca-ia-larry-page
 draft: false
 needs_review: false
 photographer_name: undefined

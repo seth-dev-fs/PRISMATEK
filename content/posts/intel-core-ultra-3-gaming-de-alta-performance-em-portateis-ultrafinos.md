@@ -1,17 +1,22 @@
 ---
-title: "Intel Core Ultra 3: Gaming de Alta Performance em Portáteis Ultrafinos"
-date: "2026-01-06T22:17:44.226Z"
-category: "gaming"
+title: 'Intel Core Ultra 3: Gaming de Alta Performance em Portáteis Ultrafinos'
+date: '2026-01-06T22:17:44.226Z'
+category: gaming
 tags:
   - Intel Core Ultra
   - gaming
   - gráficos integrados
   - portáteis
   - Battlefield 6
-image: "https://s.yimg.com/ny/api/res/1.2/NwHhM5emOriSr.GehsCH8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Intel_Core_Ultra_3_gaming-1.jpg"
-image_source: "rss"
-description: "Os novos processadores Intel Core Ultra 3 prometem revolucionar o gaming em portáteis finos, com gráficos integrados que rivalizam placas dedicadas. Uma surp..."
-source_url: "https://www.engadget.com/gaming/intels-core-ultra-series-3-let-me-play-battlefield-6-at-190-fps-on-a-lenovo-ultraportable-220952246.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/NwHhM5emOriSr.GehsCH8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/Intel_Core_Ultra_3_gaming-1.jpg
+image_source: rss
+description: >-
+  Os novos processadores Intel Core Ultra 3 prometem revolucionar o gaming em
+  portáteis finos, com gráficos integrados que rivalizam placas dedicadas. Uma
+  surp.
+source_url: >-
+  https://www.engadget.com/gaming/intels-core-ultra-series-3-let-me-play-battlefield-6-at-190-fps-on-a-lenovo-ultraportable-220952246.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

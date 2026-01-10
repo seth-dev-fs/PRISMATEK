@@ -1,17 +1,22 @@
 ---
-title: "OnePlus Pad Go 2: Mais detalhes do novo tablet acessível revelados"
-date: "2025-12-07T10:17:31.257Z"
-category: "mobilidade"
+title: 'OnePlus Pad Go 2: Mais detalhes do novo tablet acessível revelados'
+date: '2025-12-07T10:17:31.257Z'
+category: mobilidade
 tags:
   - OnePlus
   - tablets
   - Android
   - gadgets
   - tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oneplus-pad-go-2-138.jpg"
-image_source: "rss"
-description: "O OnePlus Pad Go 2, um novo tablet de gama média, está a caminho e promete agitar o mercado global. Fique a conhecer os primeiros detalhes revelados sobre es..."
-source_url: "https://www.notebookcheck.net/OnePlus-Pad-Go-2-More-details-of-upcoming-mid-range-tablet-surface.1180056.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/oneplus-pad-go-2-138.jpg
+image_source: rss
+description: >-
+  O OnePlus Pad Go 2, um novo tablet de gama média, está a caminho e promete
+  agitar o mercado global. Fique a conhecer os primeiros detalhes revelados
+  sobre es.
+source_url: >-
+  https://www.notebookcheck.net/OnePlus-Pad-Go-2-More-details-of-upcoming-mid-range-tablet-surface.1180056.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "El Corte Inglés: Ofertas de Natal em Tecnologia e Entretenimento"
-date: "2025-12-06T10:18:32.908Z"
-category: "home"
+title: 'El Corte Inglés: Ofertas de Natal em Tecnologia e Entretenimento'
+date: '2025-12-06T10:18:32.908Z'
+category: home
 tags:
   - Natal
   - El Corte Inglés
   - ofertas
   - tecnologia
   - entretenimento
-image: "https://i.blogs.es/74e4f0/el-corte-ingles/840_560.jpeg"
-image_source: "rss"
-description: "A campanha de Natal do El Corte Inglés traz descontos imperdíveis em tecnologia e entretenimento. Descobre as melhores ofertas em consolas, smartphones e mui..."
-source_url: "https://www.xataka.com/seleccion/cinco-ofertas-corte-ingles-tecnologia-entretenimiento-durante-su-campana-navidad-hoy-6-diciembre"
+image: 'https://i.blogs.es/74e4f0/el-corte-ingles/840_560.jpeg'
+image_source: rss
+description: >-
+  A campanha de Natal do El Corte Inglés traz descontos imperdíveis em
+  tecnologia e entretenimento. Descobre as melhores ofertas em consolas,
+  smartphones e mui.
+source_url: >-
+  https://www.xataka.com/seleccion/cinco-ofertas-corte-ingles-tecnologia-entretenimiento-durante-su-campana-navidad-hoy-6-diciembre
 draft: false
 needs_review: true
 photographer_name: undefined

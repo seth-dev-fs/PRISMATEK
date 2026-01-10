@@ -1,17 +1,21 @@
 ---
-title: "Hispasat falha na Espanha rural: Starlink prevalece na conectividade"
-date: "2025-12-14T10:18:43.777Z"
-category: "internet-apps"
+title: 'Hispasat falha na Espanha rural: Starlink prevalece na conectividade'
+date: '2025-12-14T10:18:43.777Z'
+category: internet-apps
 tags:
   - Hispasat
   - Starlink
   - internet rural
   - satélite
   - conectividade
-image: "https://i.blogs.es/c6a066/hispasat/840_560.jpeg"
-image_source: "rss"
-description: "O projeto de internet rural da Hispasat em Espanha, com fundos europeus, falhou. Atingiu menos de 12 mil lares de 1,3 milhões previstos, evidenciando o desaf..."
-source_url: "https://www.xataka.com/espacio/hispasat-quiso-ser-starlink-espanol-conectar-a-espana-rural-ha-fracasado-estrepitosamente"
+image: 'https://i.blogs.es/c6a066/hispasat/840_560.jpeg'
+image_source: rss
+description: >-
+  O projeto de internet rural da Hispasat em Espanha, com fundos europeus,
+  falhou. Atingiu menos de 12 mil lares de 1,3 milhões previstos, evidenciando o
+  desaf.
+source_url: >-
+  https://www.xataka.com/espacio/hispasat-quiso-ser-starlink-espanol-conectar-a-espana-rural-ha-fracasado-estrepitosamente
 draft: false
 needs_review: false
 photographer_name: undefined

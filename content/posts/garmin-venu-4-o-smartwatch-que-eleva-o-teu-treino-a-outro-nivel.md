@@ -1,17 +1,21 @@
 ---
-title: "Garmin Venu 4: O smartwatch que eleva o teu treino a outro nível"
-date: "2025-11-26T14:47:47.408Z"
-category: "wearables"
+title: 'Garmin Venu 4: O smartwatch que eleva o teu treino a outro nível'
+date: '2025-11-26T14:47:47.408Z'
+category: wearables
 tags:
   - Garmin
   - Venu 4
   - smartwatch
   - fitness
   - saúde
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/Garmin-Venu-4-Face-scaled.jpg"
-image_source: "rss"
-description: "O Garmin Venu 4 é o smartwatch ideal para quem busca funcionalidades avançadas de fitness e bem-estar. Descobre as suas capacidades e por que se destaca no m..."
-source_url: "https://www.androidauthority.com/garmin-venu-4-deal-3619124"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/Garmin-Venu-4-Face-scaled.jpg
+image_source: rss
+description: >-
+  O Garmin Venu 4 é o smartwatch ideal para quem busca funcionalidades avançadas
+  de fitness e bem-estar. Descobre as suas capacidades e por que se destaca no
+  m.
+source_url: 'https://www.androidauthority.com/garmin-venu-4-deal-3619124'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Johny Srouji, o 'pai' do Apple Silicon, poderá deixar a Apple"
-date: "2025-12-06T18:23:15.648Z"
-category: "computadores"
+title: 'Johny Srouji, o ''pai'' do Apple Silicon, poderá deixar a Apple'
+date: '2025-12-06T18:23:15.648Z'
+category: computadores
 tags:
   - Apple
   - Johny Srouji
   - Apple Silicon
   - chips
   - hardware
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Johny Srouji, o arquiteto por trás do Apple Silicon, pondera deixar a Apple. A sua saída seria um golpe significativo para o gigante tecnológico. A Apple pod..."
-source_url: "https://9to5mac.com/2025/12/06/apple-chip-lead-johny-srouji-considering-leaving-company-report"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Johny Srouji, o arquiteto por trás do Apple Silicon, pondera deixar a Apple. A
+  sua saída seria um golpe significativo para o gigante tecnológico. A Apple
+  pod.
+source_url: >-
+  https://9to5mac.com/2025/12/06/apple-chip-lead-johny-srouji-considering-leaving-company-report
 draft: false
 needs_review: false
 photographer_name: undefined

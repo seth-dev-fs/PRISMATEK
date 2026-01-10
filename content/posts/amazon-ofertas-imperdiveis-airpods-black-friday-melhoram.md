@@ -11,7 +11,7 @@ tags:
   - Descontos
 image: "https://m-cdn.phonearena.com/images/article/176006-two/Amazons-exceptional-AirPods-4-Black-Friday-deals-have-somehow-gotten-even-better.jpg"
 image_source: "https://m-cdn.phonearena.com/images/article/176006-two/Amazons-exceptional-AirPods-4-Black-Friday-deals-have-somehow-gotten-even-better.jpg"
-description: "As ofertas de Black Friday para os AirPods na Amazon superam as expectativas. Descontos que já eram excecionais tornam-se ainda mais apelativos e difíceis de..."
+description: "As ofertas de Black Friday para os AirPods na Amazon superam as expectativas. Descontos que já eram excecionais tornam-se ainda mais apelativos e difíceis de."
 source_url: "https://example.com/amazon-airpods-black-friday-deals-better"
 draft: false
 needs_review: false

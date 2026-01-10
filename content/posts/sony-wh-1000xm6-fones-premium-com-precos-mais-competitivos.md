@@ -1,17 +1,22 @@
 ---
-title: "Sony WH-1000XM6: Fones premium com preços mais competitivos"
-date: "2025-11-24T22:41:25.942Z"
-category: "audio"
+title: 'Sony WH-1000XM6: Fones premium com preços mais competitivos'
+date: '2025-11-24T22:41:25.942Z'
+category: audio
 tags:
   - Sony
   - headphones
   - áudio
   - cancelamento de ruído
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/05/Sony-WH-1000XM6-hero-image.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/05/Sony-WH-1000XM6-hero-image.jpg"
-description: "Os aclamados headphones Sony WH-1000XM6 estão agora mais acessíveis no mercado. Descobre as características que os tornam imbatíveis em áudio e cancelamento ..."
-source_url: "https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3619126"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/05/Sony-WH-1000XM6-hero-image.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/05/Sony-WH-1000XM6-hero-image.jpg
+description: >-
+  Os aclamados headphones Sony WH-1000XM6 estão agora mais acessíveis no
+  mercado. Descobre as características que os tornam imbatíveis em áudio e
+  cancelamento.
+source_url: 'https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3619126'
 draft: false
 needs_review: false
 ---

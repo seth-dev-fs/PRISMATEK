@@ -1,7 +1,7 @@
 ---
-title: "Bixby 2.0: A Revolução da IA da Samsung Prepara-se para Chegar à Europa"
-date: "2026-01-09T20:41:03.897Z"
-category: "ai-futuro"
+title: 'Bixby 2.0: A Revolução da IA da Samsung Prepara-se para Chegar à Europa'
+date: '2026-01-09T20:41:03.897Z'
+category: ai-futuro
 tags:
   - Bixby
   - Samsung
@@ -13,10 +13,15 @@ tags:
   - smartphones
   - assistente virtual
   - tecnologia
-image: "https://cdn.4gnews.pt/imagens/a-atualizacao-que-o-bixby-precisava-esta-a-caminho-ve-as-primeiras-imagens-og.jpg"
-image_source: "rss"
-description: "A Bixby prepara-se para uma atualização gigante com IA da Perplexity, trazendo Circle to Ask e Bixby Live. Descobre o impacto desta novidade para utilizadore..."
-source_url: "https://4gnews.pt/a-atualizacao-que-a-bixby-precisava-esta-a-caminho-ve-as-primeiras-imagens"
+image: >-
+  https://cdn.4gnews.pt/imagens/a-atualizacao-que-o-bixby-precisava-esta-a-caminho-ve-as-primeiras-imagens-og.jpg
+image_source: rss
+description: >-
+  A Bixby prepara-se para uma atualização gigante com IA da Perplexity, trazendo
+  Circle to Ask e Bixby Live. Descobre o impacto desta novidade para
+  utilizadore.
+source_url: >-
+  https://4gnews.pt/a-atualizacao-que-a-bixby-precisava-esta-a-caminho-ve-as-primeiras-imagens
 draft: false
 needs_review: false
 photographer_name: undefined

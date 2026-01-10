@@ -1,17 +1,22 @@
 ---
-title: "Black Friday 2025: Descontos em serviços de streaming à vista"
-date: "2025-11-29T03:38:09.765Z"
-category: "internet-apps"
+title: 'Black Friday 2025: Descontos em serviços de streaming à vista'
+date: '2025-11-29T03:38:09.765Z'
+category: internet-apps
 tags:
   - streaming
   - Black Friday
   - descontos
   - serviços
   - entretenimento
-image: "https://s.yimg.com/ny/api/res/1.2/Vb6uxB47ak7JJfB6804wLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b2075b60-c93d-11f0-bbfd-38e1913829cb"
-image_source: "rss"
-description: "A Black Friday de 2025 promete trazer poupanças notáveis em serviços de streaming populares. Saiba como aproveitar os melhores descontos para subscrever as p..."
-source_url: "https://www.engadget.com/deals/best-black-friday-streaming-deals-for-2025-one-year-of-the-disney-hulu-bundle-for-60-plus-big-savings-on-apple-tv-hbo-max-and-others-094257185.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/Vb6uxB47ak7JJfB6804wLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b2075b60-c93d-11f0-bbfd-38e1913829cb
+image_source: rss
+description: >-
+  A Black Friday de 2025 promete trazer poupanças notáveis em serviços de
+  streaming populares. Saiba como aproveitar os melhores descontos para
+  subscrever as p.
+source_url: >-
+  https://www.engadget.com/deals/best-black-friday-streaming-deals-for-2025-one-year-of-the-disney-hulu-bundle-for-60-plus-big-savings-on-apple-tv-hbo-max-and-others-094257185.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Oportunidades Pós-Black Friday: AirPods, PS5 e Mais em Destaque"
-date: "2025-12-05T16:55:04.200Z"
-category: "entretenimento-gaming"
+title: 'Oportunidades Pós-Black Friday: AirPods, PS5 e Mais em Destaque'
+date: '2025-12-05T16:55:04.200Z'
+category: entretenimento-gaming
 tags:
   - descontos
   - Black Friday
   - tecnologia
   - AirPods
   - PS5
-image: "https://cdn.mos.cms.futurecdn.net/HoZif6NGXAJtuREwPtuXTX-1280-80.png"
-image_source: "rss"
-description: "Ainda procura pechinchas? Os saldos pós-Black Friday continuam a surgir em tecnologia na Europa, com AirPods, PS5 e outros gadgets em foco. Descubra as melho..."
-source_url: "https://www.techradar.com/seasonal-sales/amazon-has-a-huge-holiday-sale-with-black-friday-prices-airpods-coffee-makers-ps5-and-more"
+image: 'https://cdn.mos.cms.futurecdn.net/HoZif6NGXAJtuREwPtuXTX-1280-80.png'
+image_source: rss
+description: >-
+  Ainda procura pechinchas? Os saldos pós-Black Friday continuam a surgir em
+  tecnologia na Europa, com AirPods, PS5 e outros gadgets em foco. Descubra as
+  melho.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/amazon-has-a-huge-holiday-sale-with-black-friday-prices-airpods-coffee-makers-ps5-and-more
 draft: false
 needs_review: false
 photographer_name: undefined

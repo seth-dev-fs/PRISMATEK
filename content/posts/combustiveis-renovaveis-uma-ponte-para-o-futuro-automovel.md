@@ -1,17 +1,21 @@
 ---
-title: "Combustíveis Renováveis: Uma Ponte para o Futuro Automóvel"
-date: "2025-11-24T08:49:34.638Z"
-category: "mobilidade"
+title: 'Combustíveis Renováveis: Uma Ponte para o Futuro Automóvel'
+date: '2025-11-24T08:49:34.638Z'
+category: mobilidade
 tags:
   - combustíveis renováveis
   - biocombustíveis
   - transição energética
   - carros de combustão
   - emissões CO2
-image: "https://i.blogs.es/89ac04/engin-akyurt-f4ubpvbjcjw-unsplash/840_560.jpeg"
-image_source: "https://i.blogs.es/89ac04/engin-akyurt-f4ubpvbjcjw-unsplash/840_560.jpeg"
-description: "Descubra como os combustíveis renováveis, produzidos de resíduos, oferecem alternativa sustentável para milhões de carros a combustão na Europa. Nexora News ..."
-source_url: "https://www.xataka.com/automovil/gasolina-diesel-renovables-ultimo-bastion-coches-combustion-para-poder-circular-europa-tienen-dificil"
+image: 'https://i.blogs.es/89ac04/engin-akyurt-f4ubpvbjcjw-unsplash/840_560.jpeg'
+image_source: 'https://i.blogs.es/89ac04/engin-akyurt-f4ubpvbjcjw-unsplash/840_560.jpeg'
+description: >-
+  Descubra como os combustíveis renováveis, produzidos de resíduos, oferecem
+  alternativa sustentável para milhões de carros a combustão na Europa. Nexora
+  News.
+source_url: >-
+  https://www.xataka.com/automovil/gasolina-diesel-renovables-ultimo-bastion-coches-combustion-para-poder-circular-europa-tienen-dificil
 draft: false
 needs_review: false
 ---

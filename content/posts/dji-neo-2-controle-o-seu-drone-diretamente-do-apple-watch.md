@@ -1,17 +1,22 @@
 ---
-title: "DJI Neo 2: Controle o seu drone diretamente do Apple Watch"
-date: "2025-12-12T01:18:58.732Z"
-category: "wearables"
+title: 'DJI Neo 2: Controle o seu drone diretamente do Apple Watch'
+date: '2025-12-12T01:18:58.732Z'
+category: wearables
 tags:
   - DJI
   - drones
   - Apple Watch
   - wearables
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/dji-neo-2-apple-watch-control/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A DJI lançou uma atualização para o drone Neo 2, permitindo controlo total via Apple Watch (Series 8+, Ultra 2, Ultra 3). Ideal para desportistas e criadores..."
-source_url: "https://www.gsmarena.com/you_can_now_control_the_dji_neo_2_with_your_apple_watch-news-70680.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/dji-neo-2-apple-watch-control/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A DJI lançou uma atualização para o drone Neo 2, permitindo controlo total via
+  Apple Watch (Series 8+, Ultra 2, Ultra 3). Ideal para desportistas e
+  criadores.
+source_url: >-
+  https://www.gsmarena.com/you_can_now_control_the_dji_neo_2_with_your_apple_watch-news-70680.php
 draft: false
 needs_review: false
 photographer_name: undefined

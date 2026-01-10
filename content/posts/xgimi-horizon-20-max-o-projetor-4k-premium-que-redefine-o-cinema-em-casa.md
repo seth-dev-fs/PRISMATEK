@@ -1,17 +1,20 @@
 ---
-title: "Xgimi Horizon 20 Max: O projetor 4K premium que redefine o cinema em casa"
-date: "2025-12-07T12:30:44.256Z"
-category: "entretenimento-gaming"
+title: 'Xgimi Horizon 20 Max: O projetor 4K premium que redefine o cinema em casa'
+date: '2025-12-07T12:30:44.256Z'
+category: entretenimento-gaming
 tags:
   - Xgimi
   - projetor 4K
   - cinema em casa
   - gaming
   - entretenimento
-image: "https://cdn.mos.cms.futurecdn.net/52BLFwPdsjdsFkn2a7gwCD-1280-80.jpg"
-image_source: "rss"
-description: "O Xgimi Horizon 20 Max redefine a experiência de projeção 4K, combinando portabilidade com desempenho premium para cinema e gaming. Descubra o que o torna ún..."
-source_url: "https://www.techradar.com/televisions/projectors/xgimi-horizon-20-max-review"
+image: 'https://cdn.mos.cms.futurecdn.net/52BLFwPdsjdsFkn2a7gwCD-1280-80.jpg'
+image_source: rss
+description: >-
+  O Xgimi Horizon 20 Max redefine a experiência de projeção 4K, combinando
+  portabilidade com desempenho premium para cinema e gaming. Descubra o que o
+  torna ún.
+source_url: 'https://www.techradar.com/televisions/projectors/xgimi-horizon-20-max-review'
 draft: false
 needs_review: false
 photographer_name: undefined

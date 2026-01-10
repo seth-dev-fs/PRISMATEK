@@ -1,17 +1,21 @@
 ---
-title: "O futuro do iPad: Apple prepara grandes novidades para 2026"
-date: "2026-01-04T08:24:37.142Z"
-category: "mobilidade"
+title: 'O futuro do iPad: Apple prepara grandes novidades para 2026'
+date: '2026-01-04T08:24:37.142Z'
+category: mobilidade
 tags:
   - Apple
   - iPad
   - tablets
   - tecnologia
   - lançamentos
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/ipad-lineup-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Apple planeia uma renovação ambiciosa para toda a sua linha de iPads em 2026, com novos modelos e chips M5. Descobre o que esperar desta geração. A Apple p..."
-source_url: "https://9to5mac.com/2026/01/03/ipad-lineup-heres-whats-coming-in-2026-and-more"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/ipad-lineup-2024.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Apple planeia uma renovação ambiciosa para toda a sua linha de iPads em
+  2026, com novos modelos e chips M5. Descobre o que esperar desta geração. A
+  Apple p.
+source_url: 'https://9to5mac.com/2026/01/03/ipad-lineup-heres-whats-coming-in-2026-and-more'
 draft: false
 needs_review: false
 photographer_name: undefined

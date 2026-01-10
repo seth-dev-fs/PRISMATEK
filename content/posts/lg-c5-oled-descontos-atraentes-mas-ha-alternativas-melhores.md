@@ -1,17 +1,21 @@
 ---
-title: "LG C5 OLED: Descontos atraentes, mas há alternativas melhores?"
-date: "2025-12-01T22:41:09.686Z"
-category: "entretenimento-gaming"
+title: 'LG C5 OLED: Descontos atraentes, mas há alternativas melhores?'
+date: '2025-12-01T22:41:09.686Z'
+category: entretenimento-gaming
 tags:
   - LG
   - OLED
   - televisões
   - descontos
   - eletrónica de consumo
-image: "https://cdn.mos.cms.futurecdn.net/eBkFByFaT3NUbkqTmSFmcm-1280-80.jpg"
-image_source: "rss"
-description: "Avalie se a LG C5 OLED é a melhor compra em período de saldos, ou se existem televisões OLED mais recentes e competitivas no mercado europeu. Os períodos de ..."
-source_url: "https://www.techradar.com/televisions/the-lg-c5-has-nice-cyber-monday-deals-but-there-are-cheaper-oled-tv-you-might-want-to-choose-instead"
+image: 'https://cdn.mos.cms.futurecdn.net/eBkFByFaT3NUbkqTmSFmcm-1280-80.jpg'
+image_source: rss
+description: >-
+  Avalie se a LG C5 OLED é a melhor compra em período de saldos, ou se existem
+  televisões OLED mais recentes e competitivas no mercado europeu. Os períodos
+  de.
+source_url: >-
+  https://www.techradar.com/televisions/the-lg-c5-has-nice-cyber-monday-deals-but-there-are-cheaper-oled-tv-you-might-want-to-choose-instead
 draft: false
 needs_review: false
 photographer_name: undefined

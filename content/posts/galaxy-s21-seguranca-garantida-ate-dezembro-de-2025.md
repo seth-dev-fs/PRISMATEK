@@ -1,17 +1,22 @@
 ---
-title: "Galaxy S21: Segurança Garantida até dezembro de 2025"
-date: "2025-12-20T08:22:13.304Z"
-category: "smartphones"
+title: 'Galaxy S21: Segurança Garantida até dezembro de 2025'
+date: '2025-12-20T08:22:13.304Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy S21
   - atualização de segurança
   - Android
   - smartphones
-image: "https://www.sammobile.com/wp-content/uploads/2021/09/Galaxy-S21-Ultra-review-31-scaled.jpg"
-image_source: "rss"
-description: "A série Samsung Galaxy S21 continua a receber suporte, com uma nova atualização de segurança que estende a proteção até dezembro de 2025. A Samsung continua ..."
-source_url: "https://www.sammobile.com/news/galaxy-s21-gets-december-2025-security-update-usa"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2021/09/Galaxy-S21-Ultra-review-31-scaled.jpg
+image_source: rss
+description: >-
+  A série Samsung Galaxy S21 continua a receber suporte, com uma nova
+  atualização de segurança que estende a proteção até dezembro de 2025. A
+  Samsung continua.
+source_url: >-
+  https://www.sammobile.com/news/galaxy-s21-gets-december-2025-security-update-usa
 draft: false
 needs_review: false
 photographer_name: undefined

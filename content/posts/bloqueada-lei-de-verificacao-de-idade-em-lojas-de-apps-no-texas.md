@@ -1,17 +1,22 @@
 ---
-title: "Bloqueada lei de verificação de idade em lojas de apps no Texas"
-date: "2025-12-23T18:25:33.971Z"
-category: "internet-apps"
+title: Bloqueada lei de verificação de idade em lojas de apps no Texas
+date: '2025-12-23T18:25:33.971Z'
+category: internet-apps
 tags:
   - Texas
   - lei digital
   - lojas de apps
   - verificação de idade
   - regulação tecnológica
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Um juiz federal nos EUA suspendeu uma controversa lei do Texas que obrigava lojas de aplicações a verificar a idade dos utilizadores. Um precedente important..."
-source_url: "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Um juiz federal nos EUA suspendeu uma controversa lei do Texas que obrigava
+  lojas de aplicações a verificar a idade dos utilizadores. Um precedente
+  important.
+source_url: >-
+  https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction
 draft: false
 needs_review: false
 photographer_name: undefined

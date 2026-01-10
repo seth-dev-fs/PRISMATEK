@@ -1,17 +1,21 @@
 ---
-title: "Ciberataque Expondo Quase Meio Milhão de Pacientes em Saúde"
-date: "2026-01-05T10:21:40.420Z"
-category: "internet-apps"
+title: Ciberataque Expondo Quase Meio Milhão de Pacientes em Saúde
+date: '2026-01-05T10:21:40.420Z'
+category: internet-apps
 tags:
   - cibersegurança
   - ransomware
   - dados
   - saúde
   - Qilin
-image: "https://cdn.mos.cms.futurecdn.net/mX3W9KraGSUsScvjwiRudM-1280-80.jpg"
-image_source: "rss"
-description: "Um ciberataque ao Covenant Health, atribuído ao grupo Qilin, expôs dados de quase 500 mil pacientes. Saiba mais sobre esta grave falha de segurança. Um incid..."
-source_url: "https://www.techradar.com/pro/security/nearly-half-a-million-patients-exposed-in-healthcare-breach-heres-what-we-know"
+image: 'https://cdn.mos.cms.futurecdn.net/mX3W9KraGSUsScvjwiRudM-1280-80.jpg'
+image_source: rss
+description: >-
+  Um ciberataque ao Covenant Health, atribuído ao grupo Qilin, expôs dados de
+  quase 500 mil pacientes. Saiba mais sobre esta grave falha de segurança. Um
+  incid.
+source_url: >-
+  https://www.techradar.com/pro/security/nearly-half-a-million-patients-exposed-in-healthcare-breach-heres-what-we-know
 draft: false
 needs_review: false
 photographer_name: undefined

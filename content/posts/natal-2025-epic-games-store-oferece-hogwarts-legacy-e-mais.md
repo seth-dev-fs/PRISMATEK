@@ -1,17 +1,21 @@
 ---
-title: "Natal 2025: Epic Games Store Oferece Hogwarts Legacy e Mais"
-date: "2025-12-12T10:21:28.142Z"
-category: "gaming"
+title: 'Natal 2025: Epic Games Store Oferece Hogwarts Legacy e Mais'
+date: '2025-12-12T10:21:28.142Z'
+category: gaming
 tags:
   - Epic Games Store
   - jogos grátis
   - Natal 2025
   - Hogwarts Legacy
   - PC gaming
-image: "https://i.blogs.es/e05cfe/epic-games-juegos/840_560.jpeg"
-image_source: "rss"
-description: "A Epic Games Store prepara-se para o Natal 2025 com uma avalanche de jogos grátis. Hogwarts Legacy é o primeiro confirmado. Descobre tudo sobre os presentes ..."
-source_url: "https://www.xataka.com/basics/juegos-gratis-epic-games-store-navidad-2025-fechas-informacion-todo-que-esperamos-juegos-que-van-a-regalar"
+image: 'https://i.blogs.es/e05cfe/epic-games-juegos/840_560.jpeg'
+image_source: rss
+description: >-
+  A Epic Games Store prepara-se para o Natal 2025 com uma avalanche de jogos
+  grátis. Hogwarts Legacy é o primeiro confirmado. Descobre tudo sobre os
+  presentes.
+source_url: >-
+  https://www.xataka.com/basics/juegos-gratis-epic-games-store-navidad-2025-fechas-informacion-todo-que-esperamos-juegos-que-van-a-regalar
 draft: false
 needs_review: false
 photographer_name: undefined

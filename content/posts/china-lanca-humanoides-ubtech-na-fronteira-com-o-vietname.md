@@ -1,17 +1,21 @@
 ---
-title: "China lança humanoides UBTECH na fronteira com o Vietname"
-date: "2025-11-27T03:41:00.591Z"
-category: "ai-futuro"
+title: China lança humanoides UBTECH na fronteira com o Vietname
+date: '2025-11-27T03:41:00.591Z'
+category: ai-futuro
 tags:
   - robótica
   - humanoides
   - inteligência artificial
   - China
   - UBTECH
-image: "https://i.blogs.es/717d54/robots-1/840_560.jpeg"
-image_source: "rss"
-description: "A China vai testar humanoides avançados da UBTECH na sua fronteira com o Vietname. O modelo Walker S2 irá apoiar logística e controlo de pessoas. Uma aposta ..."
-source_url: "https://www.xataka.com/robotica-e-ia/china-ha-elegido-su-frontera-vietnam-para-experimento-poner-a-trabajar-robots-humanoides-avanzados-ubtech"
+image: 'https://i.blogs.es/717d54/robots-1/840_560.jpeg'
+image_source: rss
+description: >-
+  A China vai testar humanoides avançados da UBTECH na sua fronteira com o
+  Vietname. O modelo Walker S2 irá apoiar logística e controlo de pessoas. Uma
+  aposta.
+source_url: >-
+  https://www.xataka.com/robotica-e-ia/china-ha-elegido-su-frontera-vietnam-para-experimento-poner-a-trabajar-robots-humanoides-avanzados-ubtech
 draft: false
 needs_review: false
 photographer_name: undefined

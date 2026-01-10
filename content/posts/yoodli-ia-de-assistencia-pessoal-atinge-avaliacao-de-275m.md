@@ -1,17 +1,22 @@
 ---
-title: "Yoodli: IA de assistência pessoal atinge avaliação de €275M"
-date: "2025-12-06T06:25:22.850Z"
-category: "ai-futuro"
+title: 'Yoodli: IA de assistência pessoal atinge avaliação de €275M'
+date: '2025-12-06T06:25:22.850Z'
+category: ai-futuro
 tags:
   - Inteligência Artificial
   - IA assistencial
   - Yoodli
   - startups
   - investimento
-image: "https://techcrunch.com/wp-content/uploads/2025/12/yoodli-founders.jpg?resize=1200,800"
-image_source: "rss"
-description: "A Yoodli, startup de um ex-Googler, triplicou a sua avaliação para mais de 275 milhões de euros. Descobre como a sua IA assistencial está a inovar. Uma start..."
-source_url: "https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2025/12/yoodli-founders.jpg?resize=1200,800
+image_source: rss
+description: >-
+  A Yoodli, startup de um ex-Googler, triplicou a sua avaliação para mais de 275
+  milhões de euros. Descobre como a sua IA assistencial está a inovar. Uma
+  start.
+source_url: >-
+  https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people
 draft: false
 needs_review: false
 photographer_name: undefined

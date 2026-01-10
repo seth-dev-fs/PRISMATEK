@@ -1,17 +1,21 @@
 ---
-title: "Samsung Recupera Domínio em Chips HBM e Seduz Gigantes da IA"
-date: "2026-01-02T08:25:37.679Z"
-category: "ai-futuro"
+title: Samsung Recupera Domínio em Chips HBM e Seduz Gigantes da IA
+date: '2026-01-02T08:25:37.679Z'
+category: ai-futuro
 tags:
   - Samsung
   - chips
   - HBM
   - IA
   - semicondutores
-image: "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-15-1200x554.jpg"
-image_source: "rss"
-description: "A Samsung está de volta ao topo no mercado de chips HBM, essenciais para IA. Gigantes da indústria elogiam a inovação da marca sul-coreana. Saiba mais sobre ..."
-source_url: "https://www.sammobile.com/news/samsung-is-back-hail-semiconductor-chip-clients"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-logo-15-1200x554.jpg
+image_source: rss
+description: >-
+  A Samsung está de volta ao topo no mercado de chips HBM, essenciais para IA.
+  Gigantes da indústria elogiam a inovação da marca sul-coreana. Saiba mais
+  sobre.
+source_url: 'https://www.sammobile.com/news/samsung-is-back-hail-semiconductor-chip-clients'
 draft: false
 needs_review: false
 photographer_name: undefined

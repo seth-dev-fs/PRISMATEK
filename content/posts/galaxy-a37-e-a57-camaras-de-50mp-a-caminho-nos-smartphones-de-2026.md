@@ -1,17 +1,22 @@
 ---
-title: "Galaxy A37 e A57: Câmaras de 50MP a caminho nos smartphones de 2026"
-date: "2025-12-23T10:20:02.289Z"
-category: "smartphones"
+title: 'Galaxy A37 e A57: Câmaras de 50MP a caminho nos smartphones de 2026'
+date: '2025-12-23T10:20:02.289Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy A37
   - Galaxy A57
   - smartphones
   - câmaras
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a37-a57-camera-specs-leak/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Rumores sobre os Samsung Galaxy A37 e A57 revelam câmaras de 50MP e novos chipsets. Descobre o que esperar dos gama média de 2026 da Samsung. A Samsung prepa..."
-source_url: "https://www.gsmarena.com/samsung_galaxy_a37_and_galaxy_a57_camera_specs_leak-news-70833.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/galaxy-a37-a57-camera-specs-leak/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Rumores sobre os Samsung Galaxy A37 e A57 revelam câmaras de 50MP e novos
+  chipsets. Descobre o que esperar dos gama média de 2026 da Samsung. A Samsung
+  prepa.
+source_url: >-
+  https://www.gsmarena.com/samsung_galaxy_a37_and_galaxy_a57_camera_specs_leak-news-70833.php
 draft: false
 needs_review: false
 photographer_name: undefined

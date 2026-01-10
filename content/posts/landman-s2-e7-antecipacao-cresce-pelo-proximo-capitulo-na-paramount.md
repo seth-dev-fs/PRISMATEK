@@ -1,17 +1,21 @@
 ---
-title: "Landman S2 E7: Antecipação Cresce pelo Próximo Capítulo na Paramount+"
-date: "2025-12-26T03:22:16.411Z"
-category: "entretenimento-gaming"
+title: 'Landman S2 E7: Antecipação Cresce pelo Próximo Capítulo na Paramount+'
+date: '2025-12-26T03:22:16.411Z'
+category: entretenimento-gaming
 tags:
   - Landman
   - Paramount+
   - séries
   - streaming
   - drama
-image: "https://cdn.mos.cms.futurecdn.net/uB7LJhyjbqgwiBcngNKvqH-1280-80.jpg"
-image_source: "rss"
-description: "Os fãs de Landman aguardam com expetativa o sétimo episódio da segunda temporada. Conheça a trama e o impacto da série na Paramount+ em Portugal. A série “La..."
-source_url: "https://www.techradar.com/streaming/paramount-plus/landman-season-2-episode-7-release-date-time"
+image: 'https://cdn.mos.cms.futurecdn.net/uB7LJhyjbqgwiBcngNKvqH-1280-80.jpg'
+image_source: rss
+description: >-
+  Os fãs de Landman aguardam com expetativa o sétimo episódio da segunda
+  temporada. Conheça a trama e o impacto da série na Paramount+ em Portugal. A
+  série “La.
+source_url: >-
+  https://www.techradar.com/streaming/paramount-plus/landman-season-2-episode-7-release-date-time
 draft: false
 needs_review: false
 photographer_name: undefined

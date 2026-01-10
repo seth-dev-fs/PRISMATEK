@@ -1,17 +1,22 @@
 ---
-title: "Na era digital, a distração pode ser a chave da criatividade"
-date: "2025-11-30T18:51:34.353Z"
-category: "internet-apps"
+title: 'Na era digital, a distração pode ser a chave da criatividade'
+date: '2025-11-30T18:51:34.353Z'
+category: internet-apps
 tags:
   - saúde mental
   - produtividade
   - era digital
   - atenção plena
   - Manoush Zomorodi
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bored-and-Brilliant.jpg?quality=90&strip=all&crop=7.7837514934289%2C0%2C84.432497013142%2C100&w=1200"
-image_source: "rss"
-description: "Manoush Zomorodi, autora de 'Bored and Brilliant', defende que deixar a mente divagar é crucial na era digital. Descubra como a distração pode impulsionar a ..."
-source_url: "https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-%20brilliant-manoush-zomorodi"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bored-and-Brilliant.jpg?quality=90&strip=all&crop=7.7837514934289%2C0%2C84.432497013142%2C100&w=1200
+image_source: rss
+description: >-
+  Manoush Zomorodi, autora de 'Bored and Brilliant', defende que deixar a mente
+  divagar é crucial na era digital. Descubra como a distração pode impulsionar
+  a.
+source_url: >-
+  https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-%20brilliant-manoush-zomorodi
 draft: false
 needs_review: false
 photographer_name: undefined

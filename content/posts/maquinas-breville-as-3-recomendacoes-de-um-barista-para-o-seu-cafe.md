@@ -1,17 +1,21 @@
 ---
-title: "Máquinas Breville: as 3 recomendações de um barista para o seu café"
-date: "2025-12-07T20:18:03.465Z"
-category: "home"
+title: 'Máquinas Breville: as 3 recomendações de um barista para o seu café'
+date: '2025-12-07T20:18:03.465Z'
+category: home
 tags:
   - Breville
   - máquinas de café
   - espresso
   - barista
   - cozinha
-image: "https://cdn.mos.cms.futurecdn.net/9XceLNbujstPDysnS6wmVS-1280-80.jpg"
-image_source: "rss"
-description: "Um barista certificado partilha as suas três escolhas de topo em máquinas de café espresso Breville. Descubra a ideal para a sua cozinha. No mundo do café, a..."
-source_url: "https://www.techradar.com/home/coffee-machines/looking-for-a-breville-espresso-machine-im-a-certified-barista-and-these-are-my-3-top-recommendations"
+image: 'https://cdn.mos.cms.futurecdn.net/9XceLNbujstPDysnS6wmVS-1280-80.jpg'
+image_source: rss
+description: >-
+  Um barista certificado partilha as suas três escolhas de topo em máquinas de
+  café espresso Breville. Descubra a ideal para a sua cozinha. No mundo do café,
+  a.
+source_url: >-
+  https://www.techradar.com/home/coffee-machines/looking-for-a-breville-espresso-machine-im-a-certified-barista-and-these-are-my-3-top-recommendations
 draft: false
 needs_review: true
 photographer_name: undefined

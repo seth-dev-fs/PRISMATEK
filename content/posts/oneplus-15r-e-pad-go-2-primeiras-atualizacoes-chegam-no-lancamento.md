@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15R e Pad Go 2: Primeiras atualizações chegam no lançamento"
-date: "2025-12-19T08:26:25.677Z"
-category: "mobilidade"
+title: 'OnePlus 15R e Pad Go 2: Primeiras atualizações chegam no lançamento'
+date: '2025-12-19T08:26:25.677Z'
+category: mobilidade
 tags:
   - OnePlus
   - smartphones
   - tablets
   - atualização software
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-pad-go-2-first-update/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A OnePlus já disponibiliza as primeiras atualizações de software para o recém-lançado 15R e o Pad Go 2, melhorando estabilidade e performance. A OnePlus, con..."
-source_url: "https://www.gsmarena.com/oneplus_15r_and_oneplus_pad_go_2_both_get_their_first_software_update_already-news-70786.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-pad-go-2-first-update/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A OnePlus já disponibiliza as primeiras atualizações de software para o
+  recém-lançado 15R e o Pad Go 2, melhorando estabilidade e performance. A
+  OnePlus, con.
+source_url: >-
+  https://www.gsmarena.com/oneplus_15r_and_oneplus_pad_go_2_both_get_their_first_software_update_already-news-70786.php
 draft: false
 needs_review: false
 photographer_name: undefined

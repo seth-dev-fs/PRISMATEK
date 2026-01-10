@@ -1,17 +1,21 @@
 ---
-title: "A Decoração da Casa: O Novo 'Street Style' Ditado Pelas Redes Sociais"
-date: "2025-12-20T14:15:19.626Z"
-category: "home"
+title: 'A Decoração da Casa: O Novo ''Street Style'' Ditado Pelas Redes Sociais'
+date: '2025-12-20T14:15:19.626Z'
+category: home
 tags:
   - decoração
   - interiores
   - redes sociais
   - lifestyle
   - tendências
-image: "https://i.blogs.es/a42e7a/salon/840_560.jpeg"
-image_source: "rss"
-description: "A decoração do lar ultrapassa a moda como símbolo de status, impulsionada por redes sociais e o mercado de luxo. Descubra como esta tendência molda a nossa f..."
-source_url: "https://www.xataka.com/magnet/cuando-salon-nuevo-street-style-que-interiorismo-ocupa-hoy-lugar-moda"
+image: 'https://i.blogs.es/a42e7a/salon/840_560.jpeg'
+image_source: rss
+description: >-
+  A decoração do lar ultrapassa a moda como símbolo de status, impulsionada por
+  redes sociais e o mercado de luxo. Descubra como esta tendência molda a nossa
+  f.
+source_url: >-
+  https://www.xataka.com/magnet/cuando-salon-nuevo-street-style-que-interiorismo-ocupa-hoy-lugar-moda
 draft: false
 needs_review: true
 photographer_name: undefined

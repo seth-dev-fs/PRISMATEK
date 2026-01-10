@@ -1,17 +1,22 @@
 ---
-title: "Fraude de Identidade: O Risco de Contratos de Telemóvel em Seu Nome"
-date: "2025-12-04T20:44:34.236Z"
-category: "internet-apps"
+title: 'Fraude de Identidade: O Risco de Contratos de Telemóvel em Seu Nome'
+date: '2025-12-04T20:44:34.236Z'
+category: internet-apps
 tags:
   - fraude de identidade
   - segurança digital
   - telecomunicações
   - cibersegurança
   - proteção de dados
-image: "https://m-cdn.phonearena.com/images/article/176351-two/Consumer-victimized-when-thief-opened-a-Verizon-account-in-his-name.jpg"
-image_source: "rss"
-description: "Descubra os perigos da fraude de identidade e como criminosos podem abrir contas de telemóvel no seu nome. Saiba como se proteger em Portugal. A vida digital..."
-source_url: "https://www.phonearena.com/news/verizon-account-opened-using-victims-name-without-consent_id176351"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176351-two/Consumer-victimized-when-thief-opened-a-Verizon-account-in-his-name.jpg
+image_source: rss
+description: >-
+  Descubra os perigos da fraude de identidade e como criminosos podem abrir
+  contas de telemóvel no seu nome. Saiba como se proteger em Portugal. A vida
+  digital.
+source_url: >-
+  https://www.phonearena.com/news/verizon-account-opened-using-victims-name-without-consent_id176351
 draft: false
 needs_review: false
 photographer_name: undefined

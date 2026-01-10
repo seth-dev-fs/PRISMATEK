@@ -1,17 +1,21 @@
 ---
-title: "CachyOS: Nova ISO de novembro 2025 otimiza a instalação"
-date: "2025-11-29T18:52:49.866Z"
-category: "computadores"
+title: 'CachyOS: Nova ISO de novembro 2025 otimiza a instalação'
+date: '2025-11-29T18:52:49.866Z'
+category: computadores
 tags:
   - CachyOS
   - Linux
   - computadores
   - instalação
   - sistema operativo
-image: "https://9to5linux.com/wp-content/uploads/2025/11/cos1125.webp"
-image_source: "rss"
-description: "A mais recente snapshot ISO do CachyOS para novembro de 2025 promete uma experiência de instalação simplificada e deteção de hardware melhorada para utilizad..."
-source_url: "https://9to5linux.com/cachyos-iso-snapshot-for-november-2025-improves-the-installation-experience"
+image: 'https://9to5linux.com/wp-content/uploads/2025/11/cos1125.webp'
+image_source: rss
+description: >-
+  A mais recente snapshot ISO do CachyOS para novembro de 2025 promete uma
+  experiência de instalação simplificada e deteção de hardware melhorada para
+  utilizad.
+source_url: >-
+  https://9to5linux.com/cachyos-iso-snapshot-for-november-2025-improves-the-installation-experience
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,24 @@
 ---
-title: "Samsung Galaxy Z TriFold: O futuro dobrável em vídeo revela potencial e desafios"
-date: "2025-12-02T04:55:26.808Z"
-category: "smartphones"
+title: >-
+  Samsung Galaxy Z TriFold: O futuro dobrável em vídeo revela potencial e
+  desafios
+date: '2025-12-02T04:55:26.808Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones dobráveis
   - tecnologia
   - protótipo
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/galaxy-z-trifold-crafted-black-open-back.jpg"
-image_source: "rss"
-description: "Um vídeo de apresentação do Samsung Galaxy Z TriFold mostra o protótipo inovador com ecrã tripartido, revelando os seus pontos fortes e desafios. Uma visão d..."
-source_url: "https://www.androidauthority.com/samsung-galaxy-z-trifold-hands-on-video-3621144"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/galaxy-z-trifold-crafted-black-open-back.jpg
+image_source: rss
+description: >-
+  Um vídeo de apresentação do Samsung Galaxy Z TriFold mostra o protótipo
+  inovador com ecrã tripartido, revelando os seus pontos fortes e desafios. Uma
+  visão d.
+source_url: >-
+  https://www.androidauthority.com/samsung-galaxy-z-trifold-hands-on-video-3621144
 draft: false
 needs_review: false
 photographer_name: undefined

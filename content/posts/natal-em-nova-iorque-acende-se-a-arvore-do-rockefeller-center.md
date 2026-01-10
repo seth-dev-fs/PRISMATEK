@@ -1,17 +1,22 @@
 ---
-title: "Natal em Nova Iorque: Acende-se a árvore do Rockefeller Center"
-date: "2025-12-03T18:57:57.971Z"
-category: "entretenimento-gaming"
+title: 'Natal em Nova Iorque: Acende-se a árvore do Rockefeller Center'
+date: '2025-12-03T18:57:57.971Z'
+category: entretenimento-gaming
 tags:
   - Natal
   - Nova Iorque
   - Rockefeller Center
   - tradições
   - entretenimento
-image: "https://s.yimg.com/ny/api/res/1.2/CLlSk1N8jqyQG9yTuInSeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/fcfde610-cfba-11f0-bf6f-d3b802b91449"
-image_source: "rss"
-description: "A icónica cerimónia de iluminação da árvore de Natal do Rockefeller Center é um marco nas festividades dos EUA. Saiba mais sobre este evento anual. A magia d..."
-source_url: "https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/CLlSk1N8jqyQG9yTuInSeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/fcfde610-cfba-11f0-bf6f-d3b802b91449
+image_source: rss
+description: >-
+  A icónica cerimónia de iluminação da árvore de Natal do Rockefeller Center é
+  um marco nas festividades dos EUA. Saiba mais sobre este evento anual. A magia
+  d.
+source_url: >-
+  https://www.engadget.com/entertainment/streaming/how-to-watch-the-christmas-in-rockefeller-center-tree-lighting-special-tonight-111504725.html?src=rss
 draft: false
 needs_review: true
 photographer_name: undefined

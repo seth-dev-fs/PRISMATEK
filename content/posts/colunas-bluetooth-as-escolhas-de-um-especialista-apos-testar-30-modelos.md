@@ -1,17 +1,21 @@
 ---
-title: "Colunas Bluetooth: As escolhas de um especialista após testar 30 modelos"
-date: "2025-11-25T13:46:52.260Z"
-category: "audio"
+title: 'Colunas Bluetooth: As escolhas de um especialista após testar 30 modelos'
+date: '2025-11-25T13:46:52.260Z'
+category: audio
 tags:
   - colunas Bluetooth
   - áudio
   - altifalantes
   - gadgets
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/GocvjFyPJj59bWhXrzxYtn-1280-80.jpg"
-image_source: "https://cdn.mos.cms.futurecdn.net/GocvjFyPJj59bWhXrzxYtn-1280-80.jpg"
-description: "Um especialista testou mais de 30 colunas Bluetooth e partilha os critérios essenciais para uma boa compra. Descubra o que procurar antes de investir no seu ..."
-source_url: "https://www.techradar.com/audio/wireless-bluetooth-speakers/ive-tested-30-bluetooth-speakers-this-year-here-are-the-only-5-black-friday-deals-id-buy"
+image: 'https://cdn.mos.cms.futurecdn.net/GocvjFyPJj59bWhXrzxYtn-1280-80.jpg'
+image_source: 'https://cdn.mos.cms.futurecdn.net/GocvjFyPJj59bWhXrzxYtn-1280-80.jpg'
+description: >-
+  Um especialista testou mais de 30 colunas Bluetooth e partilha os critérios
+  essenciais para uma boa compra. Descubra o que procurar antes de investir no
+  seu.
+source_url: >-
+  https://www.techradar.com/audio/wireless-bluetooth-speakers/ive-tested-30-bluetooth-speakers-this-year-here-are-the-only-5-black-friday-deals-id-buy
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,22 @@
 ---
-title: "Motorola Razr 2025 ganha edição especial do Mundial FIFA 2026"
-date: "2025-12-19T08:25:56.213Z"
-category: "smartphones"
+title: Motorola Razr 2025 ganha edição especial do Mundial FIFA 2026
+date: '2025-12-19T08:25:56.213Z'
+category: smartphones
 tags:
   - Motorola
   - Razr 2025
   - smartphones
   - FIFA 2026
   - Mundial
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-2025-FIFA-World-Cup-Edition.jpg"
-image_source: "rss"
-description: "Um leak revela que o Motorola Razr 2025 terá uma edição especial alusiva ao Mundial FIFA 2026. Saiba tudo sobre este dobrável de coleção e a sua possível che..."
-source_url: "https://www.notebookcheck.net/Leak-reveals-a-FIFA-2026-World-Cup-Edition-of-the-Motorola-Razr-2025.1188932.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-2025-FIFA-World-Cup-Edition.jpg
+image_source: rss
+description: >-
+  Um leak revela que o Motorola Razr 2025 terá uma edição especial alusiva ao
+  Mundial FIFA 2026. Saiba tudo sobre este dobrável de coleção e a sua possível
+  che.
+source_url: >-
+  https://www.notebookcheck.net/Leak-reveals-a-FIFA-2026-World-Cup-Edition-of-the-Motorola-Razr-2025.1188932.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

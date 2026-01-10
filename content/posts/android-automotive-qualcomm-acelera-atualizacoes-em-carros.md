@@ -1,17 +1,21 @@
 ---
-title: "Android Automotive: Qualcomm acelera atualizações em carros"
-date: "2026-01-08T08:27:00.851Z"
-category: "mobilidade"
+title: 'Android Automotive: Qualcomm acelera atualizações em carros'
+date: '2026-01-08T08:27:00.851Z'
+category: mobilidade
 tags:
   - Android Automotive
   - Qualcomm
   - atualizações
   - automóveis
   - software
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/Cars-with-Google-built-in-hero-image.jpg"
-image_source: "rss"
-description: "Os automóveis com Android Automotive OS terão acesso a atualizações mais rápidas, graças a uma parceria entre a Google e a Qualcomm. Uma novidade essencial p..."
-source_url: "https://www.androidauthority.com/android-automotive-google-qualcomm-3630860"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/Cars-with-Google-built-in-hero-image.jpg
+image_source: rss
+description: >-
+  Os automóveis com Android Automotive OS terão acesso a atualizações mais
+  rápidas, graças a uma parceria entre a Google e a Qualcomm. Uma novidade
+  essencial p.
+source_url: 'https://www.androidauthority.com/android-automotive-google-qualcomm-3630860'
 draft: false
 needs_review: false
 photographer_name: undefined

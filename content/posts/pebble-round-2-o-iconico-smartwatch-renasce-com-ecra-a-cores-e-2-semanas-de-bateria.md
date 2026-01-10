@@ -1,17 +1,24 @@
 ---
-title: "Pebble Round 2: O icónico smartwatch renasce com ecrã a cores e 2 semanas de bateria"
-date: "2026-01-02T22:17:27.172Z"
-category: "wearables"
+title: >-
+  Pebble Round 2: O icónico smartwatch renasce com ecrã a cores e 2 semanas de
+  bateria
+date: '2026-01-02T22:17:27.172Z'
+category: wearables
 tags:
   - Pebble Round 2
   - smartwatch
   - Core Devices
   - wearables
   - ePaper
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pebble-Round-2-featured.jpg"
-image_source: "rss"
-description: "A Core Devices relança o popular smartwatch Pebble Round 2. Conheça o novo ecrã ePaper a cores e a autonomia de duas semanas deste wearable clássico. A Core ..."
-source_url: "https://www.notebookcheck.net/Core-Devices-launches-the-Pebble-Round-2-with-a-color-ePaper-display-and-two-weeks-of-battery-life.1195218.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Pebble-Round-2-featured.jpg
+image_source: rss
+description: >-
+  A Core Devices relança o popular smartwatch Pebble Round 2. Conheça o novo
+  ecrã ePaper a cores e a autonomia de duas semanas deste wearable clássico. A
+  Core.
+source_url: >-
+  https://www.notebookcheck.net/Core-Devices-launches-the-Pebble-Round-2-with-a-color-ePaper-display-and-two-weeks-of-battery-life.1195218.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

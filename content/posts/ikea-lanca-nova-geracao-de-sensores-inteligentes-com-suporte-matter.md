@@ -1,17 +1,21 @@
 ---
-title: "IKEA lança nova geração de sensores inteligentes com suporte Matter"
-date: "2025-12-01T14:52:27.581Z"
-category: "home"
+title: IKEA lança nova geração de sensores inteligentes com suporte Matter
+date: '2025-12-01T14:52:27.581Z'
+category: home
 tags:
   - IKEA
   - casa inteligente
   - sensores
   - Matter
   - domótica
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IKEA-Alpstuga.jpg"
-image_source: "rss"
-description: "A IKEA reforça a sua aposta na casa inteligente com novos sensores que suportam o protocolo Matter. Descobre as funcionalidades dos Myggbett, Timmerflotte e ..."
-source_url: "https://www.notebookcheck.net/New-IKEA-smart-home-sensors-with-Matter-now-available.1174618.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/IKEA-Alpstuga.jpg'
+image_source: rss
+description: >-
+  A IKEA reforça a sua aposta na casa inteligente com novos sensores que
+  suportam o protocolo Matter. Descobre as funcionalidades dos Myggbett,
+  Timmerflotte e.
+source_url: >-
+  https://www.notebookcheck.net/New-IKEA-smart-home-sensors-with-Matter-now-available.1174618.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

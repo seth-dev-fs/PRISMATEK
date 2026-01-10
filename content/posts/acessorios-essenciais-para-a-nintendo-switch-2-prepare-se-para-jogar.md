@@ -1,17 +1,22 @@
 ---
-title: "Acessórios essenciais para a Nintendo Switch 2: prepare-se para jogar"
-date: "2025-12-23T08:25:25.325Z"
-category: "gaming"
+title: 'Acessórios essenciais para a Nintendo Switch 2: prepare-se para jogar'
+date: '2025-12-23T08:25:25.325Z'
+category: gaming
 tags:
   - Nintendo
   - Switch 2
   - acessórios
   - gaming
   - consolas
-image: "https://s.yimg.com/ny/api/res/1.2/BAaRprzo87fCGvPFfO1AZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/56554540-db79-11f0-afd7-b8797c9a9481"
-image_source: "rss"
-description: "Descubra os acessórios indispensáveis para a sua Nintendo Switch 2, desde comandos Pro a câmaras e capas de transporte. Melhore a sua experiência de jogo em ..."
-source_url: "https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-accessories-070011952.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/BAaRprzo87fCGvPFfO1AZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/56554540-db79-11f0-afd7-b8797c9a9481
+image_source: rss
+description: >-
+  Descubra os acessórios indispensáveis para a sua Nintendo Switch 2, desde
+  comandos Pro a câmaras e capas de transporte. Melhore a sua experiência de
+  jogo em.
+source_url: >-
+  https://www.engadget.com/gaming/nintendo/best-nintendo-switch-2-accessories-070011952.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

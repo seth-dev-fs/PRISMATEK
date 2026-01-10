@@ -1,17 +1,22 @@
 ---
-title: "IA Generativa revoluciona desenvolvimento de jogos Xbox, Halo incluído"
-date: "2025-12-27T08:23:33.871Z"
-category: "gaming"
+title: 'IA Generativa revoluciona desenvolvimento de jogos Xbox, Halo incluído'
+date: '2025-12-27T08:23:33.871Z'
+category: gaming
 tags:
   - IA Generativa
   - Xbox
   - Halo
   - desenvolvimento de jogos
   - Microsoft
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HaloCampaignEvolvedBanner.jpg"
-image_source: "rss"
-description: "A inteligência artificial generativa está a redefinir o futuro do desenvolvimento de jogos na Xbox. Descobre como a IA vai impactar títulos como Halo: Campai..."
-source_url: "https://www.notebookcheck.net/Generative-AI-experts-replace-Halo-Campaign-Evolved-staff-to-impact-Xbox-game-development.1192829.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HaloCampaignEvolvedBanner.jpg
+image_source: rss
+description: >-
+  A inteligência artificial generativa está a redefinir o futuro do
+  desenvolvimento de jogos na Xbox. Descobre como a IA vai impactar títulos como
+  Halo: Campai.
+source_url: >-
+  https://www.notebookcheck.net/Generative-AI-experts-replace-Halo-Campaign-Evolved-staff-to-impact-Xbox-game-development.1192829.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

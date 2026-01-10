@@ -1,17 +1,21 @@
 ---
-title: "Deadpool entra em Marvel Rivals na Temporada 6: Caça a Monstros"
-date: "2025-12-12T10:18:54.289Z"
-category: "gaming"
+title: 'Deadpool entra em Marvel Rivals na Temporada 6: Caça a Monstros'
+date: '2025-12-12T10:18:54.289Z'
+category: gaming
 tags:
   - gaming
   - Marvel Rivals
   - Deadpool
   - videojogos
   - Temporada 6
-image: "https://cdn.mos.cms.futurecdn.net/JutWGZEsHRadxJKVyek2k4-1280-80.png"
-image_source: "rss"
-description: "A Temporada 6 de Marvel Rivals foi revelada, e Deadpool será o próximo herói. Prepare-se para a caçada de monstros com o Mercenário Atrevido! Os fãs de video..."
-source_url: "https://www.techradar.com/gaming/deadpool-finally-joins-marvel-rivals-next-season-everything-announced-for-season-6s-monster-hunting-mayhem"
+image: 'https://cdn.mos.cms.futurecdn.net/JutWGZEsHRadxJKVyek2k4-1280-80.png'
+image_source: rss
+description: >-
+  A Temporada 6 de Marvel Rivals foi revelada, e Deadpool será o próximo herói.
+  Prepare-se para a caçada de monstros com o Mercenário Atrevido! Os fãs de
+  video.
+source_url: >-
+  https://www.techradar.com/gaming/deadpool-finally-joins-marvel-rivals-next-season-everything-announced-for-season-6s-monster-hunting-mayhem
 draft: false
 needs_review: false
 photographer_name: undefined

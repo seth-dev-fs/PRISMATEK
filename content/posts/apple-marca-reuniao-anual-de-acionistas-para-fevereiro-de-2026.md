@@ -1,17 +1,22 @@
 ---
-title: "Apple marca reunião anual de acionistas para fevereiro de 2026"
-date: "2026-01-08T22:17:48.792Z"
-category: "home"
+title: Apple marca reunião anual de acionistas para fevereiro de 2026
+date: '2026-01-08T22:17:48.792Z'
+category: home
 tags:
   - Apple
   - acionistas
   - reunião anual
   - governança corporativa
   - eventos empresariais
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-iphone-event-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Apple anunciou a sua reunião anual de acionistas para 24 de fevereiro de 2026. Fique a par dos detalhes sobre este importante evento virtual da gigante tec..."
-source_url: "https://9to5mac.com/2026/01/08/apple-announces-annual-shareholders-meeting-for-next-month"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-iphone-event-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Apple anunciou a sua reunião anual de acionistas para 24 de fevereiro de
+  2026. Fique a par dos detalhes sobre este importante evento virtual da gigante
+  tec.
+source_url: >-
+  https://9to5mac.com/2026/01/08/apple-announces-annual-shareholders-meeting-for-next-month
 draft: false
 needs_review: true
 photographer_name: undefined

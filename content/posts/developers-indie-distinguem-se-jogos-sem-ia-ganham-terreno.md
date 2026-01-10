@@ -1,17 +1,23 @@
 ---
-title: "Developers Indie Distinguem-se: Jogos 'Sem IA' Ganham Terreno"
-date: "2025-11-24T18:57:12.270Z"
-category: "gaming"
+title: 'Developers Indie Distinguem-se: Jogos ''Sem IA'' Ganham Terreno'
+date: '2025-11-24T18:57:12.270Z'
+category: gaming
 tags:
   - jogos
   - indie
   - IA
   - desenvolvimento
   - videojogos
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-image_source: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-description: "Perante a proliferação da IA, muitos criadores de jogos indie estão a adotar o selo 'sem IA' como garantia de autenticidade e criatividade humana. O que sign..."
-source_url: "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+image_source: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200
+description: >-
+  Perante a proliferação da IA, muitos criadores de jogos indie estão a adotar o
+  selo 'sem IA' como garantia de autenticidade e criatividade humana. O que
+  sign.
+source_url: >-
+  https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders
 draft: false
 needs_review: false
 ---

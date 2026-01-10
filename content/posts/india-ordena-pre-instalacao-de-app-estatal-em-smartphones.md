@@ -1,17 +1,22 @@
 ---
-title: "Índia ordena pré-instalação de app estatal em smartphones"
-date: "2025-12-01T16:57:10.914Z"
-category: "smartphones"
+title: Índia ordena pré-instalação de app estatal em smartphones
+date: '2025-12-01T16:57:10.914Z'
+category: smartphones
 tags:
   - Índia
   - smartphones
   - aplicação estatal
   - Apple
   - Samsung
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2235695907.jpg?quality=90&strip=all&crop=0%2C10.84942233035%2C100%2C78.3011553393&w=1200"
-image_source: "rss"
-description: "O governo indiano exige que fabricantes como Apple e Samsung pré-instalem a app estatal Sanchar Saathi em todos os novos smartphones. Saiba o que muda e o de..."
-source_url: "https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2235695907.jpg?quality=90&strip=all&crop=0%2C10.84942233035%2C100%2C78.3011553393&w=1200
+image_source: rss
+description: >-
+  O governo indiano exige que fabricantes como Apple e Samsung pré-instalem a
+  app estatal Sanchar Saathi em todos os novos smartphones. Saiba o que muda e o
+  de.
+source_url: >-
+  https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android
 draft: false
 needs_review: false
 photographer_name: undefined

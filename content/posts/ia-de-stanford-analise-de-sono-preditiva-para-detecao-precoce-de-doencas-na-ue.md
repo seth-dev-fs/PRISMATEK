@@ -1,7 +1,9 @@
 ---
-title: "IA de Stanford: Análise de Sono Preditiva para Deteção Precoce de Doenças na UE"
-date: "2026-01-10T08:22:57.122Z"
-category: "ai-futuro"
+title: >-
+  IA de Stanford: Análise de Sono Preditiva para Deteção Precoce de Doenças na
+  UE
+date: '2026-01-10T08:22:57.122Z'
+category: ai-futuro
 tags:
   - Inteligência Artificial
   - Saúde Digital
@@ -9,10 +11,15 @@ tags:
   - Sono
   - Portugal
   - UE
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-subject-sleeping-Image-source-Vladislav-Muslakov-Unsplash.jpg"
-image_source: "rss"
-description: "Uma nova IA da Universidade de Stanford promete revolucionar a deteção de doenças através da análise de sono. Exploramos o potencial e os desafios desta inov..."
-source_url: "https://www.notebookcheck.net/Stanford-AI-analyses-sleep-data-to-detect-early-disease-risk-indicators-that-appear-while-you-are-sleeping.1201104.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-subject-sleeping-Image-source-Vladislav-Muslakov-Unsplash.jpg
+image_source: rss
+description: >-
+  Uma nova IA da Universidade de Stanford promete revolucionar a deteção de
+  doenças através da análise de sono. Exploramos o potencial e os desafios desta
+  inov.
+source_url: >-
+  https://www.notebookcheck.net/Stanford-AI-analyses-sleep-data-to-detect-early-disease-risk-indicators-that-appear-while-you-are-sleeping.1201104.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

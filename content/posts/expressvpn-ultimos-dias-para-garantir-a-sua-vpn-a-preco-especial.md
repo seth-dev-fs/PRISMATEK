@@ -1,17 +1,21 @@
 ---
-title: "ExpressVPN: Últimos dias para garantir a sua VPN a preço especial"
-date: "2025-11-28T14:43:29.204Z"
-category: "internet-apps"
+title: 'ExpressVPN: Últimos dias para garantir a sua VPN a preço especial'
+date: '2025-11-28T14:43:29.204Z'
+category: internet-apps
 tags:
   - ExpressVPN
   - VPN
   - privacidade
   - segurança online
   - Black Friday
-image: "https://i.blogs.es/e90262/kari-shea-1sanrixw5oy-unsplash-1-/840_560.jpeg"
-image_source: "rss"
-description: "As promoções de Black Friday da ExpressVPN chegam ao fim. Descubra como proteger a sua privacidade online com uma VPN de confiança e aproveite os últimos dia..."
-source_url: "https://www.xataka.com/seleccion/expressvpn-esta-terminando-sus-mejores-ofertas-ano-tenemos-su-vpn-3-99-euros-al-mes-4-meses-regalo"
+image: 'https://i.blogs.es/e90262/kari-shea-1sanrixw5oy-unsplash-1-/840_560.jpeg'
+image_source: rss
+description: >-
+  As promoções de Black Friday da ExpressVPN chegam ao fim. Descubra como
+  proteger a sua privacidade online com uma VPN de confiança e aproveite os
+  últimos dia.
+source_url: >-
+  https://www.xataka.com/seleccion/expressvpn-esta-terminando-sus-mejores-ofertas-ano-tenemos-su-vpn-3-99-euros-al-mes-4-meses-regalo
 draft: false
 needs_review: false
 photographer_name: undefined

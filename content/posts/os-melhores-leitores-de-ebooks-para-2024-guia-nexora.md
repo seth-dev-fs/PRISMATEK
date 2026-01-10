@@ -1,17 +1,21 @@
 ---
-title: "Os Melhores Leitores de Ebooks para 2024: Guia NEXORA"
-date: "2025-11-28T13:39:48.170Z"
-category: "mobilidade"
+title: 'Os Melhores Leitores de Ebooks para 2024: Guia NEXORA'
+date: '2025-11-28T13:39:48.170Z'
+category: mobilidade
 tags:
   - leitores de ebooks
   - Kindle
   - Kobo
   - leitura digital
   - tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832350/257503_e_book_reader_CVirginia_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Procura o leitor de ebooks ideal? Exploramos os melhores modelos de 2024, desde Kindles a alternativas Kobo, com ecrãs a cores e funcionalidades avançadas. D..."
-source_url: "https://www.theverge.com/23769068/best-ebook-readers"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832350/257503_e_book_reader_CVirginia_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Procura o leitor de ebooks ideal? Exploramos os melhores modelos de 2024,
+  desde Kindles a alternativas Kobo, com ecrãs a cores e funcionalidades
+  avançadas. D.
+source_url: 'https://www.theverge.com/23769068/best-ebook-readers'
 draft: false
 needs_review: false
 photographer_name: undefined

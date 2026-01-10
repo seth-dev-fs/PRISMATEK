@@ -1,17 +1,22 @@
 ---
-title: "Pixel Watch: A Google desilude com atualizações sem novidades?"
-date: "2025-12-13T10:16:54.377Z"
-category: "wearables"
+title: 'Pixel Watch: A Google desilude com atualizações sem novidades?'
+date: '2025-12-13T10:16:54.377Z'
+category: wearables
 tags:
   - Google
   - Pixel Watch
   - smartwatch
   - atualizações
   - wearables
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/google-pixel-watch-3-menu-gestures.jpg"
-image_source: "rss"
-description: "O Google Pixel Watch recebe atualizações frequentes, mas a ausência de novas funcionalidades está a desiludir os utilizadores. A Google falha em inovar nos s..."
-source_url: "https://www.androidauthority.com/google-ruining-best-thing-about-pixel-watch-3625032"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/google-pixel-watch-3-menu-gestures.jpg
+image_source: rss
+description: >-
+  O Google Pixel Watch recebe atualizações frequentes, mas a ausência de novas
+  funcionalidades está a desiludir os utilizadores. A Google falha em inovar nos
+  s.
+source_url: >-
+  https://www.androidauthority.com/google-ruining-best-thing-about-pixel-watch-3625032
 draft: false
 needs_review: false
 photographer_name: undefined

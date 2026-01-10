@@ -1,17 +1,21 @@
 ---
-title: "DTG6: O smartwatch robusto com mapas offline que desafia a Garmin"
-date: "2025-12-28T18:23:54.369Z"
-category: "wearables"
+title: 'DTG6: O smartwatch robusto com mapas offline que desafia a Garmin'
+date: '2025-12-28T18:23:54.369Z'
+category: wearables
 tags:
   - DTG6
   - smartwatch
   - mapas offline
   - GPS
   - wearables
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gtg685.jpg"
-image_source: "rss"
-description: "Conheça o DTG6, um novo smartwatch que promete mapas offline e design robusto a um preço acessível. Uma alternativa barata a marcas como Garmin para desporti..."
-source_url: "https://www.notebookcheck.net/Much-cheaper-than-Garmin-smartwatches-DTG6-offers-rugged-design-and-offline-maps.1193165.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gtg685.jpg'
+image_source: rss
+description: >-
+  Conheça o DTG6, um novo smartwatch que promete mapas offline e design robusto
+  a um preço acessível. Uma alternativa barata a marcas como Garmin para
+  desporti.
+source_url: >-
+  https://www.notebookcheck.net/Much-cheaper-than-Garmin-smartwatches-DTG6-offers-rugged-design-and-offline-maps.1193165.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

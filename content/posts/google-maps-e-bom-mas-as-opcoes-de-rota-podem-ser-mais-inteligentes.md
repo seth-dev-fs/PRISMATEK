@@ -1,17 +1,21 @@
 ---
-title: "Google Maps: É bom, mas as opções de rota podem ser mais inteligentes"
-date: "2025-12-01T10:52:45.437Z"
-category: "internet-apps"
+title: 'Google Maps: É bom, mas as opções de rota podem ser mais inteligentes'
+date: '2025-12-01T10:52:45.437Z'
+category: internet-apps
 tags:
   - Google Maps
   - navegação
   - aplicações
   - rotas
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/07/google-maps-showing-a-route-on-a-smartphone-screen-scaled.jpg"
-image_source: "rss"
-description: "O Google Maps é essencial, mas as suas opções de rota podiam ser mais sofisticadas para ir além do mais rápido. Descobre como pode melhorar. O Google Maps é,..."
-source_url: "https://www.androidauthority.com/google-maps-route-options-3620187"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/07/google-maps-showing-a-route-on-a-smartphone-screen-scaled.jpg
+image_source: rss
+description: >-
+  O Google Maps é essencial, mas as suas opções de rota podiam ser mais
+  sofisticadas para ir além do mais rápido. Descobre como pode melhorar. O
+  Google Maps é,.
+source_url: 'https://www.androidauthority.com/google-maps-route-options-3620187'
 draft: false
 needs_review: false
 photographer_name: undefined

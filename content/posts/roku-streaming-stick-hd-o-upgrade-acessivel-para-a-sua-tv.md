@@ -1,17 +1,21 @@
 ---
-title: "Roku Streaming Stick HD: O upgrade acessível para a sua TV"
-date: "2025-11-29T22:38:50.387Z"
-category: "internet-apps"
+title: 'Roku Streaming Stick HD: O upgrade acessível para a sua TV'
+date: '2025-11-29T22:38:50.387Z'
+category: internet-apps
 tags:
   - Roku
   - streaming
   - smart TV
   - conteúdo
   - preço baixo
-image: "https://cdn.mos.cms.futurecdn.net/yQSKXjSd5KFv6oKtPfBJnd-1280-80.jpg"
-image_source: "rss"
-description: "Descubra o Roku Streaming Stick HD, uma solução económica para transformar qualquer televisão em Smart TV. Aceda a serviços de streaming com facilidade e a u..."
-source_url: "https://www.techradar.com/televisions/streaming-devices/no-fire-tv-stick-no-problem-this-roku-streaming-stick-hd-now-costs-as-much-as-my-chipotle-order"
+image: 'https://cdn.mos.cms.futurecdn.net/yQSKXjSd5KFv6oKtPfBJnd-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra o Roku Streaming Stick HD, uma solução económica para transformar
+  qualquer televisão em Smart TV. Aceda a serviços de streaming com facilidade e
+  a u.
+source_url: >-
+  https://www.techradar.com/televisions/streaming-devices/no-fire-tv-stick-no-problem-this-roku-streaming-stick-hd-now-costs-as-much-as-my-chipotle-order
 draft: false
 needs_review: false
 photographer_name: undefined

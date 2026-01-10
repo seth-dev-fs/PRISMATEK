@@ -1,17 +1,21 @@
 ---
-title: "Oppo A6x 5G: Bateria gigante e ecrã de 120 Hz num smartphone acessível"
-date: "2025-12-02T14:52:30.311Z"
-category: "smartphones"
+title: 'Oppo A6x 5G: Bateria gigante e ecrã de 120 Hz num smartphone acessível'
+date: '2025-12-02T14:52:30.311Z'
+category: smartphones
 tags:
   - Oppo
   - smartphones
   - Oppo A6x
   - bateria
   - 5G
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-A6x-5G-.jpg"
-image_source: "rss"
-description: "A Oppo apresentou o novo A6x 5G, um smartphone que promete destacar-se pela autonomia graças à sua bateria de 6.500 mAh e pelo ecrã de 120 Hz. Conheça as esp..."
-source_url: "https://www.notebookcheck.net/Oppo-A6x-Oppo-s-new-budget-friendly-5G-smartphone-lunches-with-6-500-mAh-battery-and-120-Hz-display.1175336.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Oppo-A6x-5G-.jpg'
+image_source: rss
+description: >-
+  A Oppo apresentou o novo A6x 5G, um smartphone que promete destacar-se pela
+  autonomia graças à sua bateria de 6.500 mAh e pelo ecrã de 120 Hz. Conheça as
+  esp.
+source_url: >-
+  https://www.notebookcheck.net/Oppo-A6x-Oppo-s-new-budget-friendly-5G-smartphone-lunches-with-6-500-mAh-battery-and-120-Hz-display.1175336.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

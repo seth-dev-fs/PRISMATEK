@@ -1,17 +1,21 @@
 ---
-title: "El Corte Inglés: Oportunidades Pós-Black Friday em Tecnologia"
-date: "2025-12-11T14:20:12.266Z"
-category: "smartphones"
+title: 'El Corte Inglés: Oportunidades Pós-Black Friday em Tecnologia'
+date: '2025-12-11T14:20:12.266Z'
+category: smartphones
 tags:
   - El Corte Inglés
   - promoções
   - smartphones
   - televisões
   - wearables
-image: "https://i.blogs.es/130ac1/cartagena/840_560.jpeg"
-image_source: "rss"
-description: "Descubra as oportunidades pós-Black Friday no El Corte Inglés. Smartphones, televisões e gadgets com descontos que não vai querer perder. A época das promoçõ..."
-source_url: "https://www.xataka.com/seleccion/corte-ingles-tiene-promo-post-black-friday-se-llama-venta-privada-esta-cargada-ofertas-moviles-televisores"
+image: 'https://i.blogs.es/130ac1/cartagena/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra as oportunidades pós-Black Friday no El Corte Inglés. Smartphones,
+  televisões e gadgets com descontos que não vai querer perder. A época das
+  promoçõ.
+source_url: >-
+  https://www.xataka.com/seleccion/corte-ingles-tiene-promo-post-black-friday-se-llama-venta-privada-esta-cargada-ofertas-moviles-televisores
 draft: false
 needs_review: false
 photographer_name: undefined

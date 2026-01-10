@@ -1,17 +1,22 @@
 ---
-title: "KYY X90E: A produtividade em movimento com o novo monitor triplo"
-date: "2025-12-15T16:25:58.194Z"
-category: "computadores"
+title: 'KYY X90E: A produtividade em movimento com o novo monitor triplo'
+date: '2025-12-15T16:25:58.194Z'
+category: computadores
 tags:
   - KYY
   - monitor portátil
   - produtividade
   - ecrã IPS
   - tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/KYY-X90E-triple-portable-monitor-2.jpg"
-image_source: "rss"
-description: "A KYY acaba de revelar o X90E, um inovador monitor portátil triplo de 15,6 polegadas, ideal para aumentar a produtividade em qualquer lugar. Saiba tudo sobre..."
-source_url: "https://www.notebookcheck.net/KYY-unveils-new-X90E-15-6-inch-triple-portable-monitor-with-IPS-display-and-adjustable-kickstand.1186342.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/KYY-X90E-triple-portable-monitor-2.jpg
+image_source: rss
+description: >-
+  A KYY acaba de revelar o X90E, um inovador monitor portátil triplo de 15,6
+  polegadas, ideal para aumentar a produtividade em qualquer lugar. Saiba tudo
+  sobre.
+source_url: >-
+  https://www.notebookcheck.net/KYY-unveils-new-X90E-15-6-inch-triple-portable-monitor-with-IPS-display-and-adjustable-kickstand.1186342.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

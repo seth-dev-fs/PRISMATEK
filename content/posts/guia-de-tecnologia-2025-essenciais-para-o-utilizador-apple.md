@@ -1,17 +1,22 @@
 ---
-title: "Guia de Tecnologia 2025: Essenciais para o Utilizador Apple"
-date: "2025-11-30T22:39:24.109Z"
-category: "mobilidade"
+title: 'Guia de Tecnologia 2025: Essenciais para o Utilizador Apple'
+date: '2025-11-30T22:39:24.109Z'
+category: mobilidade
 tags:
   - Apple
   - tecnologia
   - gadgets
   - presentes
   - ecossistema
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/2025-tech-gift-guide-apple.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Descobre as melhores recomendações de tecnologia para utilizadores Apple em 2025. Ideias de presentes que realmente fazem a diferença no dia a dia. Com a apr..."
-source_url: "https://9to5mac.com/2025/11/30/2025-tech-gift-guide-for-apple-users-personally-tested-and-recommended"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/2025-tech-gift-guide-apple.webp?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Descobre as melhores recomendações de tecnologia para utilizadores Apple em
+  2025. Ideias de presentes que realmente fazem a diferença no dia a dia. Com a
+  apr.
+source_url: >-
+  https://9to5mac.com/2025/11/30/2025-tech-gift-guide-for-apple-users-personally-tested-and-recommended
 draft: false
 needs_review: false
 photographer_name: undefined

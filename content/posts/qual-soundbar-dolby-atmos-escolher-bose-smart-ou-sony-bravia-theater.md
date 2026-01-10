@@ -1,17 +1,21 @@
 ---
-title: "Qual soundbar Dolby Atmos escolher: Bose Smart ou Sony Bravia Theater?"
-date: "2025-12-06T12:32:13.574Z"
-category: "audio"
+title: 'Qual soundbar Dolby Atmos escolher: Bose Smart ou Sony Bravia Theater?'
+date: '2025-12-06T12:32:13.574Z'
+category: audio
 tags:
   - soundbar
   - Dolby Atmos
   - Bose
   - Sony
   - áudio
-image: "https://cdn.mos.cms.futurecdn.net/AVjntBqu9yZq46bZYfjV4W-1280-80.jpg"
-image_source: "rss"
-description: "Comparativo entre as populares soundbars Dolby Atmos da Bose e da Sony. Descobre qual a ideal para a tua sala e experiência de som imersiva. No mundo do áudi..."
-source_url: "https://www.techradar.com/televisions/soundbars/bose-smart-soundbar-vs-sony-bravia-theater-bar-6-which-dolby-atmos-soundbar-is-right-for-you"
+image: 'https://cdn.mos.cms.futurecdn.net/AVjntBqu9yZq46bZYfjV4W-1280-80.jpg'
+image_source: rss
+description: >-
+  Comparativo entre as populares soundbars Dolby Atmos da Bose e da Sony.
+  Descobre qual a ideal para a tua sala e experiência de som imersiva. No mundo
+  do áudi.
+source_url: >-
+  https://www.techradar.com/televisions/soundbars/bose-smart-soundbar-vs-sony-bravia-theater-bar-6-which-dolby-atmos-soundbar-is-right-for-you
 draft: false
 needs_review: false
 photographer_name: undefined

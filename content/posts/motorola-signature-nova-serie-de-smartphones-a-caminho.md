@@ -1,17 +1,21 @@
 ---
-title: "Motorola Signature: Nova série de smartphones a caminho?"
-date: "2025-12-25T10:21:22.561Z"
-category: "smartphones"
+title: 'Motorola Signature: Nova série de smartphones a caminho?'
+date: '2025-12-25T10:21:22.561Z'
+category: smartphones
 tags:
   - Motorola
   - smartphones
   - série Signature
   - Android
   - lançamento
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/motorola-signature-flipkart-teaser/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "A Motorola prepara-se para lançar uma nova linha de smartphones, a série Signature. Rumores e imagens revelam o design dos primeiros modelos que prometem dar..."
-source_url: "https://www.gsmarena.com/motorola_signature_flipkart_teaser-news-70860.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/motorola-signature-flipkart-teaser/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  A Motorola prepara-se para lançar uma nova linha de smartphones, a série
+  Signature. Rumores e imagens revelam o design dos primeiros modelos que
+  prometem dar.
+source_url: 'https://www.gsmarena.com/motorola_signature_flipkart_teaser-news-70860.php'
 draft: false
 needs_review: false
 photographer_name: undefined

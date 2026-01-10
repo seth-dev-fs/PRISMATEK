@@ -1,17 +1,20 @@
 ---
-title: "Mission Center vs. Resources: O Duelo dos Monitores de Sistema Linux"
-date: "2025-11-29T08:47:44.313Z"
-category: "computadores"
+title: 'Mission Center vs. Resources: O Duelo dos Monitores de Sistema Linux'
+date: '2025-11-29T08:47:44.313Z'
+category: computadores
 tags:
   - Linux
   - monitores de sistema
   - software
   - desempenho PC
   - GUI
-image: "https://itsfoss.com/content/images/2025/11/resources-vs-mission-center.webp"
-image_source: "rss"
-description: "Exploramos Mission Center e Resources, dois dos melhores monitores de sistema para Linux. Descubra qual oferece a melhor experiência e funcionalidade para ge..."
-source_url: "https://itsfoss.com/mission-center-vs-resources"
+image: 'https://itsfoss.com/content/images/2025/11/resources-vs-mission-center.webp'
+image_source: rss
+description: >-
+  Exploramos Mission Center e Resources, dois dos melhores monitores de sistema
+  para Linux. Descubra qual oferece a melhor experiência e funcionalidade para
+  ge.
+source_url: 'https://itsfoss.com/mission-center-vs-resources'
 draft: false
 needs_review: false
 photographer_name: undefined

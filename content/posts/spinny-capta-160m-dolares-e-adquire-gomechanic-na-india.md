@@ -1,17 +1,21 @@
 ---
-title: "Spinny capta 160M dólares e adquire GoMechanic na Índia"
-date: "2025-12-14T04:33:55.002Z"
-category: "mobilidade"
+title: Spinny capta 160M dólares e adquire GoMechanic na Índia
+date: '2025-12-14T04:33:55.002Z'
+category: mobilidade
 tags:
   - Spinny
   - GoMechanic
   - financiamento
   - aquisição
   - mobilidade
-image: "https://techcrunch.com/wp-content/uploads/2025/12/spinny.jpg?resize=1200,800"
-image_source: "rss"
-description: "A Spinny, gigante indiana de carros usados, angariou 160 milhões de dólares para adquirir a GoMechanic. A sua avaliação atingiu 1,8 mil milhões de dólares, u..."
-source_url: "https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say"
+image: 'https://techcrunch.com/wp-content/uploads/2025/12/spinny.jpg?resize=1200,800'
+image_source: rss
+description: >-
+  A Spinny, gigante indiana de carros usados, angariou 160 milhões de dólares
+  para adquirir a GoMechanic. A sua avaliação atingiu 1,8 mil milhões de
+  dólares, u.
+source_url: >-
+  https://techcrunch.com/2025/12/13/indias-spinny-lines-up-160m-funding-to-acquire-gomechanic-sources-say
 draft: false
 needs_review: false
 photographer_name: undefined

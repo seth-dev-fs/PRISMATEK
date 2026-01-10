@@ -1,17 +1,22 @@
 ---
-title: "Jogador perde 15 anos de jogos Xbox após conta Microsoft ser hackeada"
-date: "2025-12-21T03:26:22.674Z"
-category: "gaming"
+title: Jogador perde 15 anos de jogos Xbox após conta Microsoft ser hackeada
+date: '2025-12-21T03:26:22.674Z'
+category: gaming
 tags:
   - Xbox
   - jogos digitais
   - segurança
   - Microsoft
   - contas
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MicrosoftAccountXbox.jpg"
-image_source: "rss"
-description: "A segurança das contas Microsoft está em causa após um jogador perder 15 anos de jogos Xbox. Os riscos do formato digital são evidentes. Fique a par. No mund..."
-source_url: "https://www.notebookcheck.net/Gamer-loses-15-years-worth-of-Xbox-games-as-reports-of-hacked-Microsoft-accounts-grow.1189980.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MicrosoftAccountXbox.jpg
+image_source: rss
+description: >-
+  A segurança das contas Microsoft está em causa após um jogador perder 15 anos
+  de jogos Xbox. Os riscos do formato digital são evidentes. Fique a par. No
+  mund.
+source_url: >-
+  https://www.notebookcheck.net/Gamer-loses-15-years-worth-of-Xbox-games-as-reports-of-hacked-Microsoft-accounts-grow.1189980.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

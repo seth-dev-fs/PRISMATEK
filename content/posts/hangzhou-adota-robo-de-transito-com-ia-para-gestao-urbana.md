@@ -1,17 +1,22 @@
 ---
-title: "Hangzhou Adota Robô de Trânsito com IA para Gestão Urbana"
-date: "2025-12-06T03:32:21.692Z"
-category: "ai-futuro"
+title: Hangzhou Adota Robô de Trânsito com IA para Gestão Urbana
+date: '2025-12-06T03:32:21.692Z'
+category: ai-futuro
 tags:
   - IA
   - robótica
   - gestão urbana
   - Hangzhou
   - trânsito
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Robot-Traffic-Officer-Goes-on-Duty-in-China.jpg"
-image_source: "rss"
-description: "Hangzhou apresenta o seu primeiro robô de trânsito com inteligência artificial, capaz de dirigir o tráfego e detetar infrações, marcando um novo passo na ges..."
-source_url: "https://www.notebookcheck.net/Hangzhou-debuts-first-robot-traffic-officer-powered-by-AI.1178654.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Robot-Traffic-Officer-Goes-on-Duty-in-China.jpg
+image_source: rss
+description: >-
+  Hangzhou apresenta o seu primeiro robô de trânsito com inteligência
+  artificial, capaz de dirigir o tráfego e detetar infrações, marcando um novo
+  passo na ges.
+source_url: >-
+  https://www.notebookcheck.net/Hangzhou-debuts-first-robot-traffic-officer-powered-by-AI.1178654.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

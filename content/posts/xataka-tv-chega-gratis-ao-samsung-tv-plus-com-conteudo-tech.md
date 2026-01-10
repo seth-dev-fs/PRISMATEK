@@ -1,17 +1,21 @@
 ---
-title: "Xataka TV chega grátis ao Samsung TV Plus com conteúdo tech"
-date: "2025-12-05T10:47:30.432Z"
-category: "internet-apps"
+title: Xataka TV chega grátis ao Samsung TV Plus com conteúdo tech
+date: '2025-12-05T10:47:30.432Z'
+category: internet-apps
 tags:
   - Xataka TV
   - Samsung TV Plus
   - streaming
   - tecnologia
   - canais FAST
-image: "https://i.blogs.es/db1016/xataka-samsung-tv/840_560.jpeg"
-image_source: "rss"
-description: "O canal Xataka TV expande a sua presença e já pode ser visto gratuitamente no Samsung TV Plus. Descubra como aceder a análises, dicas e reportagens. A oferta..."
-source_url: "https://www.xataka.com/xataka/xataka-tv-llega-a-televisores-samsung-asi-puedes-ver-nuestro-canal-gratis-contenido-tecnologia-ciencia"
+image: 'https://i.blogs.es/db1016/xataka-samsung-tv/840_560.jpeg'
+image_source: rss
+description: >-
+  O canal Xataka TV expande a sua presença e já pode ser visto gratuitamente no
+  Samsung TV Plus. Descubra como aceder a análises, dicas e reportagens. A
+  oferta.
+source_url: >-
+  https://www.xataka.com/xataka/xataka-tv-llega-a-televisores-samsung-asi-puedes-ver-nuestro-canal-gratis-contenido-tecnologia-ciencia
 draft: false
 needs_review: false
 photographer_name: undefined

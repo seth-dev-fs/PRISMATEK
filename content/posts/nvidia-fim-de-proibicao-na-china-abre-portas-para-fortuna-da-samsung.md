@@ -1,17 +1,22 @@
 ---
-title: "NVIDIA: Fim de proibição na China abre portas para fortuna da Samsung"
-date: "2025-12-11T08:25:19.572Z"
-category: "ai-futuro"
+title: 'NVIDIA: Fim de proibição na China abre portas para fortuna da Samsung'
+date: '2025-12-11T08:25:19.572Z'
+category: ai-futuro
 tags:
   - NVIDIA
   - Samsung
   - chips AI
   - China
   - semicondutores
-image: "https://www.sammobile.com/wp-content/uploads/2025/09/Samsung-logo-1-1200x675.jpg"
-image_source: "rss"
-description: "A NVIDIA volta a poder vender chips H200 de IA à China, um revés que poderá ter implicações significativas para a Samsung e o mercado global de tecnologia. C..."
-source_url: "https://www.sammobile.com/news/as-nvidias-china-ban-lifts-so-does-samsungs-potential-fortunes"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/09/Samsung-logo-1-1200x675.jpg
+image_source: rss
+description: >-
+  A NVIDIA volta a poder vender chips H200 de IA à China, um revés que poderá
+  ter implicações significativas para a Samsung e o mercado global de
+  tecnologia. C.
+source_url: >-
+  https://www.sammobile.com/news/as-nvidias-china-ban-lifts-so-does-samsungs-potential-fortunes
 draft: false
 needs_review: false
 photographer_name: undefined

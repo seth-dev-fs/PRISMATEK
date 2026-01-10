@@ -1,17 +1,22 @@
 ---
-title: "Nintendo Switch 2: Novas Consolas Dão que Falar no Mercado"
-date: "2025-12-06T18:24:16.133Z"
-category: "gaming"
+title: 'Nintendo Switch 2: Novas Consolas Dão que Falar no Mercado'
+date: '2025-12-06T18:24:16.133Z'
+category: gaming
 tags:
   - Nintendo
   - Switch 2
   - gaming
   - consolas
   - tecnologia
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200"
-image_source: "rss"
-description: "A nova Nintendo Switch 2 promete revolucionar o gaming portátil. Descobre as suas inovações e outras tendências tecnológicas que marcam a atualidade. O unive..."
-source_url: "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200
+image_source: rss
+description: >-
+  A nova Nintendo Switch 2 promete revolucionar o gaming portátil. Descobre as
+  suas inovações e outras tendências tecnológicas que marcam a atualidade. O
+  unive.
+source_url: >-
+  https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale
 draft: false
 needs_review: false
 photographer_name: undefined

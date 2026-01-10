@@ -1,17 +1,21 @@
 ---
-title: "O futuro chegou: Óculos XR Android e anéis inteligentes em destaque"
-date: "2025-12-13T08:21:28.403Z"
-category: "wearables"
+title: 'O futuro chegou: Óculos XR Android e anéis inteligentes em destaque'
+date: '2025-12-13T08:21:28.403Z'
+category: wearables
 tags:
   - óculos XR
   - Android
   - anéis inteligentes
   - tecnologia
   - realidade estendida
-image: "https://cdn.mos.cms.futurecdn.net/z3EKNkaF6CpoELUuRNJrgi-1280-80.png"
-image_source: "rss"
-description: "Os óculos XR da Android e anéis inteligentes revolucionários dominaram as notícias da semana, prometendo um futuro mais imersivo e conectado. Conheça as tend..."
-source_url: "https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-testing-android-xr-glasses-to-a-revolutionary-smart-ring"
+image: 'https://cdn.mos.cms.futurecdn.net/z3EKNkaF6CpoELUuRNJrgi-1280-80.png'
+image_source: rss
+description: >-
+  Os óculos XR da Android e anéis inteligentes revolucionários dominaram as
+  notícias da semana, prometendo um futuro mais imersivo e conectado. Conheça as
+  tend.
+source_url: >-
+  https://www.techradar.com/tech/icymi-the-weeks-7-biggest-tech-stories-from-testing-android-xr-glasses-to-a-revolutionary-smart-ring
 draft: false
 needs_review: false
 photographer_name: undefined

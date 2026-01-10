@@ -1,17 +1,22 @@
 ---
-title: "Samsung R95H: TV Micro RGB de 130 polegadas promete revolução"
-date: "2026-01-05T08:30:41.811Z"
-category: "entretenimento-gaming"
+title: 'Samsung R95H: TV Micro RGB de 130 polegadas promete revolução'
+date: '2026-01-05T08:30:41.811Z'
+category: entretenimento-gaming
 tags:
   - Samsung
   - TV
   - Micro RGB
   - R95H
   - CES 2026
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TVs-and-Displays-Samsung-Micro-RGB-TV_Main2_cropped_processed_by_imagy.jpg"
-image_source: "rss"
-description: "A Samsung apresenta a primeira TV Micro RGB de 130 polegadas do mundo. Com BT.2020, IA e HDR10+, o modelo R95H redefine a experiência visual. Fique a conhece..."
-source_url: "https://www.notebookcheck.net/Samsung-announces-the-world-s-first-130-inch-Micro-RGB-TV-with-full-BT-2020-color-coverage.1196386.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-TVs-and-Displays-Samsung-Micro-RGB-TV_Main2_cropped_processed_by_imagy.jpg
+image_source: rss
+description: >-
+  A Samsung apresenta a primeira TV Micro RGB de 130 polegadas do mundo. Com
+  BT.2020, IA e HDR10+, o modelo R95H redefine a experiência visual. Fique a
+  conhece.
+source_url: >-
+  https://www.notebookcheck.net/Samsung-announces-the-world-s-first-130-inch-Micro-RGB-TV-with-full-BT-2020-color-coverage.1196386.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

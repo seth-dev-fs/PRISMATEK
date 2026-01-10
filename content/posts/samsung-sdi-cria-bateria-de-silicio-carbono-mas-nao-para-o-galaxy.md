@@ -1,17 +1,22 @@
 ---
-title: "Samsung SDI cria bateria de Silício-Carbono, mas não para o Galaxy"
-date: "2025-12-25T08:24:29.516Z"
-category: "smartphones"
+title: 'Samsung SDI cria bateria de Silício-Carbono, mas não para o Galaxy'
+date: '2025-12-25T08:24:29.516Z'
+category: smartphones
 tags:
   - Samsung
   - bateria
   - smartphones
   - tecnologia
   - Galaxy
-image: "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-S25-FE-Always-On-Display-1200x675.jpg"
-image_source: "rss"
-description: "A Samsung SDI criou uma bateria de Silício-Carbono, esperada para smartphones, mas que não irá para os próximos Galaxy. Descubra onde esta inovação poderá se..."
-source_url: "https://www.sammobile.com/news/samsung-sdi-makes-silicon-carbon-battery-not-phones"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-S25-FE-Always-On-Display-1200x675.jpg
+image_source: rss
+description: >-
+  A Samsung SDI criou uma bateria de Silício-Carbono, esperada para smartphones,
+  mas que não irá para os próximos Galaxy. Descubra onde esta inovação poderá
+  se.
+source_url: >-
+  https://www.sammobile.com/news/samsung-sdi-makes-silicon-carbon-battery-not-phones
 draft: false
 needs_review: false
 photographer_name: undefined

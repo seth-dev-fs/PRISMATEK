@@ -1,17 +1,23 @@
 ---
-title: "ViewSonic VP2788-5K: Nitidez 5K para Mac abaixo dos 1000€"
-date: "2025-11-24T22:40:04.545Z"
-category: "computadores"
+title: 'ViewSonic VP2788-5K: Nitidez 5K para Mac abaixo dos 1000€'
+date: '2025-11-24T22:40:04.545Z'
+category: computadores
 tags:
   - ViewSonic
   - monitores
   - 5K
   - Mac
   - periféricos
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ViewSonic-5K.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ViewSonic-5K.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-description: "Procura um monitor 5K de alta qualidade para o seu Mac? O ViewSonic VP2788-5K surge como uma opção acessível e nítida, rivalizando com o Studio Display da Ap..."
-source_url: "https://9to5mac.com/2025/11/24/viewsonic-27-5k-display-review-for-mac-retina-display-sharpness-under-1000"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ViewSonic-5K.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ViewSonic-5K.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+description: >-
+  Procura um monitor 5K de alta qualidade para o seu Mac? O ViewSonic VP2788-5K
+  surge como uma opção acessível e nítida, rivalizando com o Studio Display da
+  Ap.
+source_url: >-
+  https://9to5mac.com/2025/11/24/viewsonic-27-5k-display-review-for-mac-retina-display-sharpness-under-1000
 draft: false
 needs_review: false
 ---

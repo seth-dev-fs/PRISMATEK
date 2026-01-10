@@ -1,17 +1,22 @@
 ---
-title: "Frigoríficos Samsung: Abra a porta com a sua voz na cozinha inteligente"
-date: "2026-01-05T10:23:29.304Z"
-category: "ai-futuro"
+title: 'Frigoríficos Samsung: Abra a porta com a sua voz na cozinha inteligente'
+date: '2026-01-05T10:23:29.304Z'
+category: ai-futuro
 tags:
   - Samsung
   - frigoríficos inteligentes
   - casa inteligente
   - controlo por voz
   - eletrodomésticos
-image: "https://www.sammobile.com/wp-content/uploads/2024/04/Samsung-Bespoke-4-Door-Flex-Refrigerator-with-Family-Hub-At-EuroCucina-2024.jpeg"
-image_source: "rss"
-description: "A Samsung eleva a cozinha inteligente com frigoríficos que respondem a comandos de voz, abrindo e fechando portas. Descubra a inovação que facilita o seu dia..."
-source_url: "https://www.sammobile.com/news/samsungs-smart-fridges-now-open-and-close-their-doors-on-voice-commands"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/04/Samsung-Bespoke-4-Door-Flex-Refrigerator-with-Family-Hub-At-EuroCucina-2024.jpeg
+image_source: rss
+description: >-
+  A Samsung eleva a cozinha inteligente com frigoríficos que respondem a
+  comandos de voz, abrindo e fechando portas. Descubra a inovação que facilita o
+  seu dia.
+source_url: >-
+  https://www.sammobile.com/news/samsungs-smart-fridges-now-open-and-close-their-doors-on-voice-commands
 draft: false
 needs_review: false
 photographer_name: undefined

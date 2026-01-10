@@ -1,17 +1,21 @@
 ---
-title: "Google Fotos e a 'Pasta Trancada': Necessidade de Mais Segurança"
-date: "2025-12-31T10:18:41.361Z"
-category: "internet-apps"
+title: 'Google Fotos e a ''Pasta Trancada'': Necessidade de Mais Segurança'
+date: '2025-12-31T10:18:41.361Z'
+category: internet-apps
 tags:
   - Google Fotos
   - privacidade
   - segurança
   - smartphones
   - Android
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg"
-image_source: "rss"
-description: "A 'Pasta Trancada' do Google Fotos é vista por muitos como demasiado básica. Exploramos as suas limitações e o que a Google poderia melhorar para proteger a ..."
-source_url: "https://www.androidauthority.com/google-photos-locked-folder-feature-3628813"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/google-photos-logo-hero-pixel-phone-2-scaled.jpg
+image_source: rss
+description: >-
+  A 'Pasta Trancada' do Google Fotos é vista por muitos como demasiado básica.
+  Exploramos as suas limitações e o que a Google poderia melhorar para proteger
+  a.
+source_url: 'https://www.androidauthority.com/google-photos-locked-folder-feature-3628813'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "One UI 8.5: Samsung lança versão beta da sua próxima grande atualização"
-date: "2025-12-09T10:22:04.206Z"
-category: "smartphones"
+title: 'One UI 8.5: Samsung lança versão beta da sua próxima grande atualização'
+date: '2025-12-09T10:22:04.206Z'
+category: smartphones
 tags:
   - Samsung
   - One UI 8.5
   - Android
   - atualização
   - smartphones
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/samsung-one-ui-8-5-beta-how-to-hero-1-scaled.jpg"
-image_source: "rss"
-description: "A Samsung abriu as portas à beta da One UI 8.5, a próxima grande atualização do Android. Descubra as novidades e como instalar a versão de teste no seu smart..."
-source_url: "https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/samsung-one-ui-8-5-beta-how-to-hero-1-scaled.jpg
+image_source: rss
+description: >-
+  A Samsung abriu as portas à beta da One UI 8.5, a próxima grande atualização
+  do Android. Descubra as novidades e como instalar a versão de teste no seu
+  smart.
+source_url: >-
+  https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185
 draft: false
 needs_review: false
 photographer_name: undefined

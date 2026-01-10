@@ -1,17 +1,21 @@
 ---
-title: "Galaxy Z TriFold: Um smartphone que promete custar caro"
-date: "2025-12-03T04:51:42.131Z"
-category: "smartphones"
+title: 'Galaxy Z TriFold: Um smartphone que promete custar caro'
+date: '2025-12-03T04:51:42.131Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones dobráveis
   - preço
   - tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/R4dVDdLjTHqPGcFV7YwF7Z-1280-80.jpg"
-image_source: "rss"
-description: "Um especialista Samsung prevê o preço do futuro Galaxy Z TriFold. Este dobrável inovador será o mais caro da marca, mas talvez não tanto como o rival Huawei ..."
-source_url: "https://www.techradar.com/phones/samsung-galaxy-phones/how-much-will-the-galaxy-z-trifold-cost-im-a-samsung-expert-and-heres-my-prediction"
+image: 'https://cdn.mos.cms.futurecdn.net/R4dVDdLjTHqPGcFV7YwF7Z-1280-80.jpg'
+image_source: rss
+description: >-
+  Um especialista Samsung prevê o preço do futuro Galaxy Z TriFold. Este
+  dobrável inovador será o mais caro da marca, mas talvez não tanto como o rival
+  Huawei.
+source_url: >-
+  https://www.techradar.com/phones/samsung-galaxy-phones/how-much-will-the-galaxy-z-trifold-cost-im-a-samsung-expert-and-heres-my-prediction
 draft: false
 needs_review: false
 photographer_name: undefined

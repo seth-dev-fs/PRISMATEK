@@ -1,17 +1,22 @@
 ---
-title: "Android 16 QPR2: Adeus ao Desfoque de Fundo nos Google Pixel"
-date: "2025-12-05T10:46:25.181Z"
-category: "smartphones"
+title: 'Android 16 QPR2: Adeus ao Desfoque de Fundo nos Google Pixel'
+date: '2025-12-05T10:46:25.181Z'
+category: smartphones
 tags:
   - Android
   - Google Pixel
   - Android 16 QPR2
   - personalização
   - funcionalidade
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/android-16-qpr2-background-blur-disabled-hero-1-scaled.jpg"
-image_source: "rss"
-description: "Uma futura atualização do Android 16 QPR2 permitirá desativar o desfoque de fundo em smartphones Google Pixel. Mais controlo para os utilizadores! Para muito..."
-source_url: "https://www.androidauthority.com/google-pixel-how-turn-off-background-blur-android-16-qpr2-3621871"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/android-16-qpr2-background-blur-disabled-hero-1-scaled.jpg
+image_source: rss
+description: >-
+  Uma futura atualização do Android 16 QPR2 permitirá desativar o desfoque de
+  fundo em smartphones Google Pixel. Mais controlo para os utilizadores! Para
+  muito.
+source_url: >-
+  https://www.androidauthority.com/google-pixel-how-turn-off-background-blur-android-16-qpr2-3621871
 draft: false
 needs_review: false
 photographer_name: undefined

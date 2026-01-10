@@ -1,17 +1,22 @@
 ---
-title: "Humble Bundle: 9 jogos Steam Deck por 11€ na oferta 'Wholesome Snack 2025'"
-date: "2025-12-10T08:24:59.604Z"
-category: "gaming"
+title: 'Humble Bundle: 9 jogos Steam Deck por 11€ na oferta ''Wholesome Snack 2025'''
+date: '2025-12-10T08:24:59.604Z'
+category: gaming
 tags:
   - Humble Bundle
   - jogos
   - Steam Deck
   - promoção
   - PC Gaming
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Deck-image.jpg"
-image_source: "rss"
-description: "Descobre o novo Humble Bundle Wholesome Snack 2025, com 9 jogos aclamados compatíveis com Steam Deck por cerca de 11€. A não perder! A plataforma Humble Bund..."
-source_url: "https://www.notebookcheck.net/Fast-selling-Humble-Bundle-offers-169-worth-of-Steam-Deck-compatible-games-for-12.1181652.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Deck-image.jpg
+image_source: rss
+description: >-
+  Descobre o novo Humble Bundle Wholesome Snack 2025, com 9 jogos aclamados
+  compatíveis com Steam Deck por cerca de 11€. A não perder! A plataforma Humble
+  Bund.
+source_url: >-
+  https://www.notebookcheck.net/Fast-selling-Humble-Bundle-offers-169-worth-of-Steam-Deck-compatible-games-for-12.1181652.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

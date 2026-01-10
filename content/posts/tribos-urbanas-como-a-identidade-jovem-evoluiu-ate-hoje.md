@@ -1,17 +1,20 @@
 ---
-title: "Tribos Urbanas: Como a Identidade Jovem Evoluiu até Hoje"
-date: "2025-12-05T18:52:41.317Z"
-category: "home"
+title: 'Tribos Urbanas: Como a Identidade Jovem Evoluiu até Hoje'
+date: '2025-12-05T18:52:41.317Z'
+category: home
 tags:
   - tribos urbanas
   - cultura jovem
   - identidade
   - sociologia
   - internet
-image: "https://i.blogs.es/f5aa85/tribus-urbanas/840_560.png"
-image_source: "rss"
-description: "Das ruas aos ecrãs, as tribos urbanas continuam a moldar a identidade jovem. Exploramos a sua evolução, da contracultura dos anos 50 à era digital e às novas..."
-source_url: "https://www.xataka.com/magnet/que-tribus-urbanas-como-han-evolucionado-hoy"
+image: 'https://i.blogs.es/f5aa85/tribus-urbanas/840_560.png'
+image_source: rss
+description: >-
+  Das ruas aos ecrãs, as tribos urbanas continuam a moldar a identidade jovem.
+  Exploramos a sua evolução, da contracultura dos anos 50 à era digital e às
+  novas.
+source_url: 'https://www.xataka.com/magnet/que-tribus-urbanas-como-han-evolucionado-hoy'
 draft: false
 needs_review: true
 photographer_name: undefined

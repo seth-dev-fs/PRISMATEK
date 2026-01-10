@@ -1,17 +1,22 @@
 ---
-title: "Samsung: Patch de Segurança de Dezembro 2025 corrige 57 falhas"
-date: "2025-12-02T03:45:35.517Z"
-category: "smartphones"
+title: 'Samsung: Patch de Segurança de Dezembro 2025 corrige 57 falhas'
+date: '2025-12-02T03:45:35.517Z'
+category: smartphones
 tags:
   - Samsung
   - atualização de segurança
   - Galaxy
   - Android
   - vulnerabilidades
-image: "https://www.sammobile.com/wp-content/uploads/2024/06/Galaxy-A55-seamless-software-updates-3.jpg"
-image_source: "rss"
-description: "A Samsung acaba de divulgar os detalhes da atualização de segurança de dezembro de 2025. Este patch vital para dispositivos Galaxy corrige 57 vulnerabilidade..."
-source_url: "https://www.sammobile.com/news/samsung-monthly-updates-december-2025-security-patch-details"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/06/Galaxy-A55-seamless-software-updates-3.jpg
+image_source: rss
+description: >-
+  A Samsung acaba de divulgar os detalhes da atualização de segurança de
+  dezembro de 2025. Este patch vital para dispositivos Galaxy corrige 57
+  vulnerabilidade.
+source_url: >-
+  https://www.sammobile.com/news/samsung-monthly-updates-december-2025-security-patch-details
 draft: false
 needs_review: false
 photographer_name: undefined

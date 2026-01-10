@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 16: Ecrã com 200Hz e câmara de 200MP prometem revolucionar"
-date: "2026-01-01T06:27:46.436Z"
-category: "smartphones"
+title: 'OnePlus 16: Ecrã com 200Hz e câmara de 200MP prometem revolucionar'
+date: '2026-01-01T06:27:46.436Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - ecrã
   - taxa de atualização
   - câmara
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-16-refresh-rate/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Rumores apontam para que o OnePlus 16 traga um ecrã com taxa de atualização de pelo menos 200Hz, além de uma câmara de 200MP. Conheça as novidades. A OnePlus..."
-source_url: "https://www.gsmarena.com/oneplus_16_might_have_the_highest_refresh_rate_ever-news-70911.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-16-refresh-rate/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Rumores apontam para que o OnePlus 16 traga um ecrã com taxa de atualização de
+  pelo menos 200Hz, além de uma câmara de 200MP. Conheça as novidades. A
+  OnePlus.
+source_url: >-
+  https://www.gsmarena.com/oneplus_16_might_have_the_highest_refresh_rate_ever-news-70911.php
 draft: false
 needs_review: false
 photographer_name: undefined

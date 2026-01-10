@@ -1,17 +1,23 @@
 ---
-title: "Geração Z: estudo alemão revela pragmatismo surpreendente"
-date: "2025-11-24T16:45:14.313Z"
-category: "ciencia"
+title: 'Geração Z: estudo alemão revela pragmatismo surpreendente'
+date: '2025-11-24T16:45:14.313Z'
+category: ciencia
 tags:
   - Geração Z
   - estudo
   - sociedade
   - pragmatismo
   - Alemanha
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fridays_for_Future-_Klimastreik_Duesseldorf_15_Grad_cr.jpg"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fridays_for_Future-_Klimastreik_Duesseldorf_15_Grad_cr.jpg"
-description: "Um novo estudo na Alemanha desvenda que a Geração Z valoriza o pragmatismo sobre o idealismo. Conforto e custo ditam as suas escolhas, contrariando estereóti..."
-source_url: "https://www.notebookcheck.net/German-study-reveals-that-Gen-Z-cares-little-for-collective-issues-pragmatism-reigns-supreme.1169513.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fridays_for_Future-_Klimastreik_Duesseldorf_15_Grad_cr.jpg
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fridays_for_Future-_Klimastreik_Duesseldorf_15_Grad_cr.jpg
+description: >-
+  Um novo estudo na Alemanha desvenda que a Geração Z valoriza o pragmatismo
+  sobre o idealismo. Conforto e custo ditam as suas escolhas, contrariando
+  estereóti.
+source_url: >-
+  https://www.notebookcheck.net/German-study-reveals-that-Gen-Z-cares-little-for-collective-issues-pragmatism-reigns-supreme.1169513.0.html
 draft: false
 needs_review: false
 ---

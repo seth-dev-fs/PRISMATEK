@@ -1,17 +1,22 @@
 ---
-title: "Acemagic Tank M1A Pro+ revoluciona mini PCs com AMD Strix Halo"
-date: "2025-12-28T08:22:46.852Z"
-category: "computadores"
+title: Acemagic Tank M1A Pro+ revoluciona mini PCs com AMD Strix Halo
+date: '2025-12-28T08:22:46.852Z'
+category: computadores
 tags:
   - Acemagic
   - mini PC
   - AMD Strix Halo
   - inteligência artificial
   - gaming
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acemagic-launches-M1A-Pro-Plus-mini-PC.jpg"
-image_source: "rss"
-description: "O novo mini PC Acemagic Tank M1A Pro+ chega com o potente AMD Strix Halo, 128GB de RAM e promete dominar IA e gaming. Conheça este monstro compacto. A Acemag..."
-source_url: "https://www.notebookcheck.net/Acemagic-launches-Tank-M1A-Pro-Plus-mini-PC-with-128GB-of-RAM-and-AMD-Strix-Halo-APU.1193077.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acemagic-launches-M1A-Pro-Plus-mini-PC.jpg
+image_source: rss
+description: >-
+  O novo mini PC Acemagic Tank M1A Pro+ chega com o potente AMD Strix Halo,
+  128GB de RAM e promete dominar IA e gaming. Conheça este monstro compacto. A
+  Acemag.
+source_url: >-
+  https://www.notebookcheck.net/Acemagic-launches-Tank-M1A-Pro-Plus-mini-PC-with-128GB-of-RAM-and-AMD-Strix-Halo-APU.1193077.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

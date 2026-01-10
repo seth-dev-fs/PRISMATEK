@@ -1,17 +1,22 @@
 ---
-title: "MSI lança SBC silencioso com Intel Core Ultra e até 96 GB RAM"
-date: "2026-01-04T10:17:05.803Z"
-category: "computadores"
+title: MSI lança SBC silencioso com Intel Core Ultra e até 96 GB RAM
+date: '2026-01-04T10:17:05.803Z'
+category: computadores
 tags:
   - MSI
   - SBC
   - computadores
   - Intel Core Ultra
   - fanless
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/msi_ms_cf19_sbc_intel_core_ultra_fanless_product.jpg"
-image_source: "rss"
-description: "O novo computador de placa única MS-CF19 da MSI promete potência e operação silenciosa. Equipado com Intel Core Ultra e até 96 GB de RAM, é ideal para divers..."
-source_url: "https://www.notebookcheck.net/MSI-unveils-new-3-5-inch-silent-SBC-with-up-to-12-core-Intel-Core-Ultra-7-265U-96-GB-DDR5-memory-and-plenty-of-ports.1196000.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/msi_ms_cf19_sbc_intel_core_ultra_fanless_product.jpg
+image_source: rss
+description: >-
+  O novo computador de placa única MS-CF19 da MSI promete potência e operação
+  silenciosa. Equipado com Intel Core Ultra e até 96 GB de RAM, é ideal para
+  divers.
+source_url: >-
+  https://www.notebookcheck.net/MSI-unveils-new-3-5-inch-silent-SBC-with-up-to-12-core-Intel-Core-Ultra-7-265U-96-GB-DDR5-memory-and-plenty-of-ports.1196000.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

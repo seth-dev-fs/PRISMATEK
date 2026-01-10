@@ -1,17 +1,22 @@
 ---
-title: "Amazon Luna expande oferta de jogos grátis para dezembro 2025"
-date: "2025-12-12T10:21:44.439Z"
-category: "gaming"
+title: Amazon Luna expande oferta de jogos grátis para dezembro 2025
+date: '2025-12-12T10:21:44.439Z'
+category: gaming
 tags:
   - Amazon Luna
   - jogos grátis
   - cloud gaming
   - streaming de jogos
   - dezembro 2025
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Luna-December-2025-free-games-lineup-expanded.jpg"
-image_source: "rss"
-description: "A Amazon Luna reforça a sua biblioteca de jogos grátis para dezembro de 2025, adicionando dois novos títulos a um catálogo de 14 ofertas. Saiba mais sobre o ..."
-source_url: "https://www.notebookcheck.net/December-2025-free-games-lineup-expands-as-two-freebies-unlock-on-Amazon-Luna.1184122.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Amazon-Luna-December-2025-free-games-lineup-expanded.jpg
+image_source: rss
+description: >-
+  A Amazon Luna reforça a sua biblioteca de jogos grátis para dezembro de 2025,
+  adicionando dois novos títulos a um catálogo de 14 ofertas. Saiba mais sobre
+  o.
+source_url: >-
+  https://www.notebookcheck.net/December-2025-free-games-lineup-expands-as-two-freebies-unlock-on-Amazon-Luna.1184122.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

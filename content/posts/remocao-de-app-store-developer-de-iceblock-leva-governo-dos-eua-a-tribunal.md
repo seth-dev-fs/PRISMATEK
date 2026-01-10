@@ -1,17 +1,21 @@
 ---
-title: "Remoção de App Store: Developer de ICEBlock Leva Governo dos EUA a Tribunal"
-date: "2025-12-08T20:19:55.774Z"
-category: "internet-apps"
+title: 'Remoção de App Store: Developer de ICEBlock Leva Governo dos EUA a Tribunal'
+date: '2025-12-08T20:19:55.774Z'
+category: internet-apps
 tags:
   - App Store
   - ICEBlock
   - Apple
   - processo legal
   - liberdade digital
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/White-House-condemnation-sends-ICEBlock-to-the-top-of-the-App-Store-charts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um developer processa o governo norte-americano após a remoção da sua app ICEBlock da App Store sob pressão política. Quais as implicações para a liberdade d..."
-source_url: "https://9to5mac.com/2025/12/08/iceblock-developer-sues-us-government"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/White-House-condemnation-sends-ICEBlock-to-the-top-of-the-App-Store-charts.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um developer processa o governo norte-americano após a remoção da sua app
+  ICEBlock da App Store sob pressão política. Quais as implicações para a
+  liberdade d.
+source_url: 'https://9to5mac.com/2025/12/08/iceblock-developer-sues-us-government'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Lakshmi Vilas Palace: Luxo Exorbitante para Quatro Pessoas na Índia"
-date: "2025-12-31T14:17:13.462Z"
-category: "home"
+title: 'Lakshmi Vilas Palace: Luxo Exorbitante para Quatro Pessoas na Índia'
+date: '2025-12-31T14:17:13.462Z'
+category: home
 tags:
   - Índia
   - palácios
   - arquitetura
   - luxo
   - história
-image: "https://i.blogs.es/25b368/lakshmi-vilas-palace-_portada/840_560.jpeg"
-image_source: "rss"
-description: "Descubra o opulento Palácio Lakshmi Vilas na Índia, a maior residência privada do mundo com 2,8 milhões de m², habitado por apenas quatro pessoas. Uma maravi..."
-source_url: "https://www.xataka.com/magnet/india-vivir-como-maraja-se-toman-al-pie-letra-palacio-2-8-millones-m2-para-solo-cuatro-personas"
+image: 'https://i.blogs.es/25b368/lakshmi-vilas-palace-_portada/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra o opulento Palácio Lakshmi Vilas na Índia, a maior residência privada
+  do mundo com 2,8 milhões de m², habitado por apenas quatro pessoas. Uma
+  maravi.
+source_url: >-
+  https://www.xataka.com/magnet/india-vivir-como-maraja-se-toman-al-pie-letra-palacio-2-8-millones-m2-para-solo-cuatro-personas
 draft: false
 needs_review: false
 photographer_name: undefined

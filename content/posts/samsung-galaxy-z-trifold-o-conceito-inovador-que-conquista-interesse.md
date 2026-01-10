@@ -1,17 +1,22 @@
 ---
-title: "Samsung Galaxy Z TriFold: O Conceito Inovador que Conquista Interesse"
-date: "2025-12-14T08:22:44.103Z"
-category: "smartphones"
+title: 'Samsung Galaxy Z TriFold: O Conceito Inovador que Conquista Interesse'
+date: '2025-12-14T08:22:44.103Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones dobráveis
   - tecnologia
   - inovação
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/weekly-poll-results-samsung-galaxy-trifold/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Samsung poderá estar a preparar uma revolução nos smartphones dobráveis. Descubra como o inovador Galaxy Z TriFold está a gerar entusiasmo e qual o seu imp..."
-source_url: "https://www.gsmarena.com/weekly_poll_results_the_samsung_galaxy_z_trifold_is_surprisingly_popular-news-70670.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/weekly-poll-results-samsung-galaxy-trifold/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Samsung poderá estar a preparar uma revolução nos smartphones dobráveis.
+  Descubra como o inovador Galaxy Z TriFold está a gerar entusiasmo e qual o seu
+  imp.
+source_url: >-
+  https://www.gsmarena.com/weekly_poll_results_the_samsung_galaxy_z_trifold_is_surprisingly_popular-news-70670.php
 draft: false
 needs_review: false
 photographer_name: undefined

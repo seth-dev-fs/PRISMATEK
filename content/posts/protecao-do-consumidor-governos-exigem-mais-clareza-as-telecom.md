@@ -1,17 +1,21 @@
 ---
-title: "Proteção do consumidor: Governos exigem mais clareza às 'telecom'"
-date: "2025-11-28T10:44:35.929Z"
-category: "internet-apps"
+title: 'Proteção do consumidor: Governos exigem mais clareza às ''telecom'''
+date: '2025-11-28T10:44:35.929Z'
+category: internet-apps
 tags:
   - telecomunicações
   - consumidor
   - transparência
   - preços
   - regulação
-image: "https://cdn.mos.cms.futurecdn.net/LktJXE387rQqDoDnWTEn5a-1280-80.jpg"
-image_source: "rss"
-description: "A pressão sobre as operadoras de telecomunicações aumenta para garantir total transparência nos preços e ofertas. Saiba como esta medida pode beneficiar os c..."
-source_url: "https://www.techradar.com/pro/uk-government-tells-telecoms-to-do-more-to-protect-customers"
+image: 'https://cdn.mos.cms.futurecdn.net/LktJXE387rQqDoDnWTEn5a-1280-80.jpg'
+image_source: rss
+description: >-
+  A pressão sobre as operadoras de telecomunicações aumenta para garantir total
+  transparência nos preços e ofertas. Saiba como esta medida pode beneficiar os
+  c.
+source_url: >-
+  https://www.techradar.com/pro/uk-government-tells-telecoms-to-do-more-to-protect-customers
 draft: false
 needs_review: false
 photographer_name: undefined

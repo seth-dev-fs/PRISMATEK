@@ -1,17 +1,22 @@
 ---
-title: "Garmin Fenix 7 Pro e 7X Pro com descontos recorde na Black Friday"
-date: "2025-11-27T14:45:00.056Z"
-category: "wearables"
+title: Garmin Fenix 7 Pro e 7X Pro com descontos recorde na Black Friday
+date: '2025-11-27T14:45:00.056Z'
+category: wearables
 tags:
   - Garmin
   - Fenix 7 Pro
   - smartwatches
   - Black Friday
   - descontos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Garmin-Black-Friday-Deal.png"
-image_source: "rss"
-description: "Os smartwatches Garmin Fenix 7 Pro e 7X Pro atingem preços mínimos históricos na Black Friday europeia. Descubra os descontos nestes relógios GPS multidespor..."
-source_url: "https://www.notebookcheck.net/Multiple-high-end-Garmin-Fenix-7-and-7X-Pro-smartwatches-hit-lowest-ever-prices-on-Amazon-for-Black-Friday.1172223.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Garmin-Black-Friday-Deal.png
+image_source: rss
+description: >-
+  Os smartwatches Garmin Fenix 7 Pro e 7X Pro atingem preços mínimos históricos
+  na Black Friday europeia. Descubra os descontos nestes relógios GPS
+  multidespor.
+source_url: >-
+  https://www.notebookcheck.net/Multiple-high-end-Garmin-Fenix-7-and-7X-Pro-smartwatches-hit-lowest-ever-prices-on-Amazon-for-Black-Friday.1172223.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

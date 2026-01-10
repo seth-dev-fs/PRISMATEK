@@ -1,17 +1,21 @@
 ---
-title: "Armazenamento Profissional: Drives LTO-10 de 30TB no Mac Mini"
-date: "2025-12-06T20:19:10.175Z"
-category: "computadores"
+title: 'Armazenamento Profissional: Drives LTO-10 de 30TB no Mac Mini'
+date: '2025-12-06T20:19:10.175Z'
+category: computadores
 tags:
   - armazenamento
   - LTO-10
   - Mac Mini
   - Apple
   - segurança de dados
-image: "https://cdn.mos.cms.futurecdn.net/e7w5rtH4z5JPTrf8njscHg-1280-80.jpg"
-image_source: "rss"
-description: "Uma nova solução permite conectar drives de fita LTO-10 de 30TB ao Mac Mini, oferecendo velocidades de SSD, segurança offline e alta capacidade de armazename..."
-source_url: "https://www.techradar.com/pro/you-can-now-buy-a-30tb-tape-drive-and-connect-it-to-your-apple-mac-mini-and-its-almost-as-fast-as-an-ssd"
+image: 'https://cdn.mos.cms.futurecdn.net/e7w5rtH4z5JPTrf8njscHg-1280-80.jpg'
+image_source: rss
+description: >-
+  Uma nova solução permite conectar drives de fita LTO-10 de 30TB ao Mac Mini,
+  oferecendo velocidades de SSD, segurança offline e alta capacidade de
+  armazename.
+source_url: >-
+  https://www.techradar.com/pro/you-can-now-buy-a-30tb-tape-drive-and-connect-it-to-your-apple-mac-mini-and-its-almost-as-fast-as-an-ssd
 draft: false
 needs_review: false
 photographer_name: undefined

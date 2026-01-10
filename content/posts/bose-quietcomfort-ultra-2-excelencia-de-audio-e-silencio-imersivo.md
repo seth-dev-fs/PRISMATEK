@@ -1,17 +1,22 @@
 ---
-title: "Bose QuietComfort Ultra 2: Excelência de áudio e silêncio imersivo"
-date: "2025-12-02T22:36:34.192Z"
-category: "audio"
+title: 'Bose QuietComfort Ultra 2: Excelência de áudio e silêncio imersivo'
+date: '2025-12-02T22:36:34.192Z'
+category: audio
 tags:
   - Bose
   - auscultadores
   - cancelamento de ruído
   - áudio
   - tecnologia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg"
-image_source: "rss"
-description: "Os Bose QuietComfort Ultra 2 mantêm-se como referência em cancelamento de ruído e som imersivo. Descobre as qualidades destes auriculares premium e como os o..."
-source_url: "https://www.androidauthority.com/bose-quietcomfort-ultra-2nd-gen-headphones-deal-3621056"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/12/Bose-QuietComfort-Ultra-2nd-Gen-next-to-other-headphones.jpg
+image_source: rss
+description: >-
+  Os Bose QuietComfort Ultra 2 mantêm-se como referência em cancelamento de
+  ruído e som imersivo. Descobre as qualidades destes auriculares premium e como
+  os o.
+source_url: >-
+  https://www.androidauthority.com/bose-quietcomfort-ultra-2nd-gen-headphones-deal-3621056
 draft: false
 needs_review: false
 photographer_name: undefined

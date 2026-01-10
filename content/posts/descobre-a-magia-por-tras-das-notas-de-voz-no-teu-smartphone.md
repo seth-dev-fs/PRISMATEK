@@ -1,17 +1,21 @@
 ---
-title: "Descobre a Magia por Trás das Notas de Voz no Teu Smartphone"
-date: "2025-12-01T07:02:45.987Z"
-category: "smartphones"
+title: Descobre a Magia por Trás das Notas de Voz no Teu Smartphone
+date: '2025-12-01T07:02:45.987Z'
+category: smartphones
 tags:
   - smartphones
   - gravação de voz
   - tecnologia
   - microfones
   - áudio
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Curioso sobre como o teu telemóvel capta a tua voz e a transforma em notas digitais? Desvendamos a tecnologia de gravação de voz dos smartphones para gravaçõ..."
-source_url: "https://www.sammobile.com/news/how-do-phone-recording-features-work-for-voice-memos"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Curioso sobre como o teu telemóvel capta a tua voz e a transforma em notas
+  digitais? Desvendamos a tecnologia de gravação de voz dos smartphones para
+  gravaçõ.
+source_url: >-
+  https://www.sammobile.com/news/how-do-phone-recording-features-work-for-voice-memos
 draft: false
 needs_review: false
 photographer_name: undefined

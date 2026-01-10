@@ -1,17 +1,22 @@
 ---
-title: "Google Discover: IA Gera Títulos de Notícias Polémicos e Enganosos"
-date: "2025-12-02T22:37:30.458Z"
-category: "ai-futuro"
+title: 'Google Discover: IA Gera Títulos de Notícias Polémicos e Enganosos'
+date: '2025-12-02T22:37:30.458Z'
+category: ai-futuro
 tags:
   - Google
   - Inteligência Artificial
   - Google Discover
   - Notícias
   - Clickbait
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot_20251128_003150_One-UI-Home.jpg?quality=90&strip=all&crop=0,24.575313571133,100,50.849372857735"
-image_source: "rss"
-description: "O Google Discover está a testar títulos de notícias gerados por IA, levantando questões sobre clickbait e desinformação. A nova funcionalidade está a gerar p..."
-source_url: "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot_20251128_003150_One-UI-Home.jpg?quality=90&strip=all&crop=0,24.575313571133,100,50.849372857735
+image_source: rss
+description: >-
+  O Google Discover está a testar títulos de notícias gerados por IA, levantando
+  questões sobre clickbait e desinformação. A nova funcionalidade está a gerar
+  p.
+source_url: >-
+  https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense
 draft: false
 needs_review: false
 photographer_name: undefined

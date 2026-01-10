@@ -1,17 +1,21 @@
 ---
-title: "Chernobil: Escudo do Reator 4 Compromete a Contenção de Radiação"
-date: "2025-12-09T10:22:22.606Z"
-category: "ciencia"
+title: 'Chernobil: Escudo do Reator 4 Compromete a Contenção de Radiação'
+date: '2025-12-09T10:22:22.606Z'
+category: ciencia
 tags:
   - Chernobil
   - segurança nuclear
   - radiação
   - ataque drone
   - Ucrânia
-image: "https://i.blogs.es/c10e37/ps---plantilla-portadas-xtk-559/840_560.jpeg"
-image_source: "rss"
-description: "Um ataque de drone danificou o Novo Confinamento Seguro do reator 4 de Chernobil, comprometendo a sua capacidade de conter radiação. A Europa alerta para os ..."
-source_url: "https://www.xataka.com/magnet/dron-agujereo-escudo-reactor-4-chernobil-ahora-oficialmente-problema-no-puede-contener-radicion"
+image: 'https://i.blogs.es/c10e37/ps---plantilla-portadas-xtk-559/840_560.jpeg'
+image_source: rss
+description: >-
+  Um ataque de drone danificou o Novo Confinamento Seguro do reator 4 de
+  Chernobil, comprometendo a sua capacidade de conter radiação. A Europa alerta
+  para os.
+source_url: >-
+  https://www.xataka.com/magnet/dron-agujereo-escudo-reactor-4-chernobil-ahora-oficialmente-problema-no-puede-contener-radicion
 draft: false
 needs_review: false
 photographer_name: undefined

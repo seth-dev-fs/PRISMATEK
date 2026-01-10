@@ -1,17 +1,22 @@
 ---
-title: "Pequenos Gadgets: Tecnologia Acessível para Simplificar o Seu Dia"
-date: "2025-11-30T14:37:49.923Z"
-category: "home"
+title: 'Pequenos Gadgets: Tecnologia Acessível para Simplificar o Seu Dia'
+date: '2025-11-30T14:37:49.923Z'
+category: home
 tags:
   - gadgets
   - tecnologia acessível
   - casa inteligente
   - entretenimento
   - acessórios
-image: "https://s.yimg.com/ny/api/res/1.2/uaOWbTWkEniPlH48BIL5XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c7602910-ca14-11f0-8fdd-025403e9108e"
-image_source: "rss"
-description: "Descubra gadgets tecnológicos úteis e acessíveis que podem melhorar a sua vida diária, desde a casa inteligente à mobilidade. Pequenos investimentos com gran..."
-source_url: "https://www.engadget.com/deals/the-best-black-friday-deals-for-100-or-less-are-still-on-sale-081912408.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/uaOWbTWkEniPlH48BIL5XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/c7602910-ca14-11f0-8fdd-025403e9108e
+image_source: rss
+description: >-
+  Descubra gadgets tecnológicos úteis e acessíveis que podem melhorar a sua vida
+  diária, desde a casa inteligente à mobilidade. Pequenos investimentos com
+  gran.
+source_url: >-
+  https://www.engadget.com/deals/the-best-black-friday-deals-for-100-or-less-are-still-on-sale-081912408.html?src=rss
 draft: false
 needs_review: true
 photographer_name: undefined

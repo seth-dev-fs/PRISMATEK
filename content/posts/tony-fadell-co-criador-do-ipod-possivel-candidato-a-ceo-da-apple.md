@@ -1,17 +1,22 @@
 ---
-title: "Tony Fadell, co-criador do iPod, possível candidato a CEO da Apple"
-date: "2025-12-05T16:54:06.839Z"
-category: "smartphones"
+title: 'Tony Fadell, co-criador do iPod, possível candidato a CEO da Apple'
+date: '2025-12-05T16:54:06.839Z'
+category: smartphones
 tags:
   - Apple
   - Tony Fadell
   - Tim Cook
   - CEO
   - liderança
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/tony-fadell-arm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Um novo relatório sugere que Tony Fadell, co-criador do iPod, poderá ser um sucessor inesperado de Tim Cook como CEO da Apple. Conheça os detalhes. A questão..."
-source_url: "https://9to5mac.com/2025/12/05/tony-fadell-ipod-co-creator-might-want-to-be-apples-next-ceo-report"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/tony-fadell-arm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Um novo relatório sugere que Tony Fadell, co-criador do iPod, poderá ser um
+  sucessor inesperado de Tim Cook como CEO da Apple. Conheça os detalhes. A
+  questão.
+source_url: >-
+  https://9to5mac.com/2025/12/05/tony-fadell-ipod-co-creator-might-want-to-be-apples-next-ceo-report
 draft: false
 needs_review: false
 photographer_name: undefined

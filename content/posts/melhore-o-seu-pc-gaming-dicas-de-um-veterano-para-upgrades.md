@@ -1,17 +1,21 @@
 ---
-title: "Melhore o seu PC Gaming: dicas de um veterano para upgrades"
-date: "2025-11-29T03:36:48.209Z"
-category: "gaming"
+title: 'Melhore o seu PC Gaming: dicas de um veterano para upgrades'
+date: '2025-11-29T03:36:48.209Z'
+category: gaming
 tags:
   - PC Gaming
   - upgrades
   - hardware
   - jogos
   - Black Friday
-image: "https://cdn.mos.cms.futurecdn.net/eGqmejhrRS8ibwuqoEHjaG-1280-80.jpg"
-image_source: "rss"
-description: "Com 20 anos de experiência em PC gaming, este especialista revela os upgrades essenciais para otimizar a sua máquina. Prepare-se para jogar melhor! A paixão ..."
-source_url: "https://www.techradar.com/computing/ive-been-a-pc-gamer-for-my-entire-life-these-are-the-black-friday-deals-id-buy-to-upgrade-my-setup"
+image: 'https://cdn.mos.cms.futurecdn.net/eGqmejhrRS8ibwuqoEHjaG-1280-80.jpg'
+image_source: rss
+description: >-
+  Com 20 anos de experiência em PC gaming, este especialista revela os upgrades
+  essenciais para otimizar a sua máquina. Prepare-se para jogar melhor! A
+  paixão.
+source_url: >-
+  https://www.techradar.com/computing/ive-been-a-pc-gamer-for-my-entire-life-these-are-the-black-friday-deals-id-buy-to-upgrade-my-setup
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,20 @@
 ---
-title: "Assuma o Controlo: Gerir Permissões de Apps para Maior Privacidade"
-date: "2025-12-05T06:59:27.352Z"
-category: "smartphones"
+title: 'Assuma o Controlo: Gerir Permissões de Apps para Maior Privacidade'
+date: '2025-12-05T06:59:27.352Z'
+category: smartphones
 tags:
   - smartphones
   - privacidade
   - segurança
   - aplicações
   - gestão
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Gerir as permissões das aplicações no seu smartphone é crucial para proteger a sua privacidade e otimizar o desempenho do dispositivo. Saiba como fazê-lo e q..."
-source_url: "https://www.sammobile.com/news/how-do-i-manage-phone-app-permissions"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Gerir as permissões das aplicações no seu smartphone é crucial para proteger a
+  sua privacidade e otimizar o desempenho do dispositivo. Saiba como fazê-lo e
+  q.
+source_url: 'https://www.sammobile.com/news/how-do-i-manage-phone-app-permissions'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,20 @@
 ---
-title: "Kindle em Destaque: Promoções Cyber Monday para Leitores Digitais"
-date: "2025-12-01T08:58:47.370Z"
-category: "entretenimento-gaming"
+title: 'Kindle em Destaque: Promoções Cyber Monday para Leitores Digitais'
+date: '2025-12-01T08:58:47.370Z'
+category: entretenimento-gaming
 tags:
   - Kindle
   - leitores digitais
   - Amazon
   - e-readers
   - promoções
-image: "https://cdn.mos.cms.futurecdn.net/FD9Lzfk2aqg8vHxFBxPqU6-1280-80.jpg"
-image_source: "rss"
-description: "Os populares leitores digitais Kindle estão com descontos significativos nas promoções pós-Black Friday. Descobre os modelos em destaque e qual o ideal para ..."
-source_url: "https://www.techradar.com/seasonal-sales/cyber-monday-amazon-kindle-deals-2025"
+image: 'https://cdn.mos.cms.futurecdn.net/FD9Lzfk2aqg8vHxFBxPqU6-1280-80.jpg'
+image_source: rss
+description: >-
+  Os populares leitores digitais Kindle estão com descontos significativos nas
+  promoções pós-Black Friday. Descobre os modelos em destaque e qual o ideal
+  para.
+source_url: 'https://www.techradar.com/seasonal-sales/cyber-monday-amazon-kindle-deals-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Xiaomi 17 Ultra: Anel de zoom físico na câmara promete inovar"
-date: "2025-12-25T03:24:14.987Z"
-category: "smartphones"
+title: 'Xiaomi 17 Ultra: Anel de zoom físico na câmara promete inovar'
+date: '2025-12-25T03:24:14.987Z'
+category: smartphones
 tags:
   - Xiaomi
   - smartphones
   - Xiaomi 17 Ultra
   - Leica
   - câmara
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/xiaomi-17-ultra-zoom-ring/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "O Xiaomi 17 Ultra chega a 25 de dezembro com uma característica inovadora: um anel de zoom físico na câmara. Descubra o que este topo de gama da Xiaomi tem p..."
-source_url: "https://www.gsmarena.com/xiaomi_17_ultra_has_a_physical_zoom_ring_around_its_camera_island-news-70857.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/xiaomi-17-ultra-zoom-ring/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  O Xiaomi 17 Ultra chega a 25 de dezembro com uma característica inovadora: um
+  anel de zoom físico na câmara. Descubra o que este topo de gama da Xiaomi tem
+  p.
+source_url: >-
+  https://www.gsmarena.com/xiaomi_17_ultra_has_a_physical_zoom_ring_around_its_camera_island-news-70857.php
 draft: false
 needs_review: false
 photographer_name: undefined

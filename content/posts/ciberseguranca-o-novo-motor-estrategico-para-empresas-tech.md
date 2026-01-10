@@ -1,17 +1,21 @@
 ---
-title: "Cibersegurança: O Novo Motor Estratégico para Empresas Tech"
-date: "2025-12-07T10:16:31.113Z"
-category: "ai-futuro"
+title: 'Cibersegurança: O Novo Motor Estratégico para Empresas Tech'
+date: '2025-12-07T10:16:31.113Z'
+category: ai-futuro
 tags:
   - cibersegurança
   - empresas tech
   - estratégia digital
   - investimento
   - segurança cibernética
-image: "https://cdn.mos.cms.futurecdn.net/pNvZnS4EQCoYBG2inqCq5L-1280-80.jpg"
-image_source: "rss"
-description: "A cibersegurança é mais do que proteção; é um catalisador de crescimento e valor para empresas de tecnologia em cenários de incerteza global. No cenário tecn..."
-source_url: "https://www.techradar.com/pro/why-cybersecurity-is-now-a-strategic-lever-for-tech-firms-navigating-uncertainty"
+image: 'https://cdn.mos.cms.futurecdn.net/pNvZnS4EQCoYBG2inqCq5L-1280-80.jpg'
+image_source: rss
+description: >-
+  A cibersegurança é mais do que proteção; é um catalisador de crescimento e
+  valor para empresas de tecnologia em cenários de incerteza global. No cenário
+  tecn.
+source_url: >-
+  https://www.techradar.com/pro/why-cybersecurity-is-now-a-strategic-lever-for-tech-firms-navigating-uncertainty
 draft: false
 needs_review: false
 photographer_name: undefined

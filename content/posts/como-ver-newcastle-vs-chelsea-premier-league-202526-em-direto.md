@@ -1,17 +1,21 @@
 ---
-title: "Como ver Newcastle vs Chelsea: Premier League 2025/26 em direto"
-date: "2025-12-20T10:18:32.151Z"
-category: "entretenimento-gaming"
+title: 'Como ver Newcastle vs Chelsea: Premier League 2025/26 em direto'
+date: '2025-12-20T10:18:32.151Z'
+category: entretenimento-gaming
 tags:
   - Premier League
   - futebol
   - streaming
   - transmissão
   - esportes
-image: "https://cdn.mos.cms.futurecdn.net/7GgAA9QaFRNABmtsbKJTsW-1280-80.jpg"
-image_source: "rss"
-description: "Prepare-se para ver o jogo Newcastle vs Chelsea da Premier League 2025/26. Saiba como acompanhar a partida em direto, via streaming ou canais de TV. A Premie..."
-source_url: "https://www.techradar.com/how-to-watch/football/newcastle-vs-chelsea-premier-league-2025-26"
+image: 'https://cdn.mos.cms.futurecdn.net/7GgAA9QaFRNABmtsbKJTsW-1280-80.jpg'
+image_source: rss
+description: >-
+  Prepare-se para ver o jogo Newcastle vs Chelsea da Premier League 2025/26.
+  Saiba como acompanhar a partida em direto, via streaming ou canais de TV. A
+  Premie.
+source_url: >-
+  https://www.techradar.com/how-to-watch/football/newcastle-vs-chelsea-premier-league-2025-26
 draft: false
 needs_review: false
 photographer_name: undefined

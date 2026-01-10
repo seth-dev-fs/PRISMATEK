@@ -1,17 +1,21 @@
 ---
-title: "Wear OS 6.1 promete novidades nos Samsung Galaxy Watch"
-date: "2025-12-10T08:24:24.962Z"
-category: "wearables"
+title: Wear OS 6.1 promete novidades nos Samsung Galaxy Watch
+date: '2025-12-10T08:24:24.962Z'
+category: wearables
 tags:
   - Wear OS
   - Galaxy Watch
   - Samsung
   - smartwatches
   - atualização
-image: "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-3-1-1200x675.jpg"
-image_source: "rss"
-description: "A próxima atualização Wear OS 6.1, já disponível no Pixel Watch, poderá revolucionar os Galaxy Watch. Descobre o que esperar da Samsung em Portugal. A Google..."
-source_url: "https://www.sammobile.com/news/wear-os-6-1-new-features-galaxy-watches-future"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Watch-8-3-1-1200x675.jpg
+image_source: rss
+description: >-
+  A próxima atualização Wear OS 6.1, já disponível no Pixel Watch, poderá
+  revolucionar os Galaxy Watch. Descobre o que esperar da Samsung em Portugal. A
+  Google.
+source_url: 'https://www.sammobile.com/news/wear-os-6-1-new-features-galaxy-watches-future'
 draft: false
 needs_review: false
 photographer_name: undefined

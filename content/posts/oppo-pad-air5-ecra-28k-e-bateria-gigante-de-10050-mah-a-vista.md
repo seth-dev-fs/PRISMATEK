@@ -1,17 +1,22 @@
 ---
-title: "Oppo Pad Air5: Ecrã 2.8K e bateria gigante de 10.050 mAh à vista"
-date: "2025-12-20T06:25:13.987Z"
-category: "mobilidade"
+title: 'Oppo Pad Air5: Ecrã 2.8K e bateria gigante de 10.050 mAh à vista'
+date: '2025-12-20T06:25:13.987Z'
+category: mobilidade
 tags:
   - Oppo
   - tablet
   - Pad Air5
   - mobilidade
   - tecnologia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oppo-pad-air5-teasers/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Oppo revela o seu novo tablet, o Pad Air5, que promete revolucionar o mercado com um ecrã de alta resolução e uma bateria impressionante de 10.050 mAh. Fiq..."
-source_url: "https://www.gsmarena.com/oppo_pad_air5s_launch_date_is_official_heres_what_it_looks_like-news-70802.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oppo-pad-air5-teasers/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Oppo revela o seu novo tablet, o Pad Air5, que promete revolucionar o
+  mercado com um ecrã de alta resolução e uma bateria impressionante de 10.050
+  mAh. Fiq.
+source_url: >-
+  https://www.gsmarena.com/oppo_pad_air5s_launch_date_is_official_heres_what_it_looks_like-news-70802.php
 draft: false
 needs_review: false
 photographer_name: undefined

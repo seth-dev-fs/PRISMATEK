@@ -1,17 +1,20 @@
 ---
-title: "Streaming: Como Contornar a Subida de Preços em Portugal"
-date: "2025-11-30T10:40:11.013Z"
-category: "entretenimento-gaming"
+title: 'Streaming: Como Contornar a Subida de Preços em Portugal'
+date: '2025-11-30T10:40:11.013Z'
+category: entretenimento-gaming
 tags:
   - streaming
   - serviços
   - entretenimento
   - subscrições
   - poupança
-image: "https://cdn.mos.cms.futurecdn.net/eoFeuXvknpf8qpV3vc6RwA-1280-80.jpg"
-image_source: "rss"
-description: "Com a constante subida dos preços de subscrições, saber como gerir os seus serviços de streaming é crucial. Descubra estratégias eficazes para poupar e desfr..."
-source_url: "https://www.techradar.com/live/news/cyber-monday-streaming-deals-2025"
+image: 'https://cdn.mos.cms.futurecdn.net/eoFeuXvknpf8qpV3vc6RwA-1280-80.jpg'
+image_source: rss
+description: >-
+  Com a constante subida dos preços de subscrições, saber como gerir os seus
+  serviços de streaming é crucial. Descubra estratégias eficazes para poupar e
+  desfr.
+source_url: 'https://www.techradar.com/live/news/cyber-monday-streaming-deals-2025'
 draft: false
 needs_review: false
 photographer_name: undefined

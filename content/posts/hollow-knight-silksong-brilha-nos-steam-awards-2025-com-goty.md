@@ -1,17 +1,22 @@
 ---
-title: "Hollow Knight: Silksong brilha nos Steam Awards 2025 com GOTY"
-date: "2026-01-04T01:28:35.670Z"
-category: "gaming"
+title: 'Hollow Knight: Silksong brilha nos Steam Awards 2025 com GOTY'
+date: '2026-01-04T01:28:35.670Z'
+category: gaming
 tags:
   - Steam Awards
   - Hollow Knight Silksong
   - GOTY
   - Valve
   - jogos PC
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Awards-2025-list-of-winners.jpg"
-image_source: "rss"
-description: "A Valve revelou os vencedores dos Steam Awards 2025, e Hollow Knight: Silksong destacou-se com o prémio de Jogo do Ano. Conhece todos os detalhes. A Valve, g..."
-source_url: "https://www.notebookcheck.net/Valve-announces-2025-Steam-Awards-winners-Hollow-Knight-Silksong-wins-GOTY.1195774.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Awards-2025-list-of-winners.jpg
+image_source: rss
+description: >-
+  A Valve revelou os vencedores dos Steam Awards 2025, e Hollow Knight: Silksong
+  destacou-se com o prémio de Jogo do Ano. Conhece todos os detalhes. A Valve,
+  g.
+source_url: >-
+  https://www.notebookcheck.net/Valve-announces-2025-Steam-Awards-winners-Hollow-Knight-Silksong-wins-GOTY.1195774.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

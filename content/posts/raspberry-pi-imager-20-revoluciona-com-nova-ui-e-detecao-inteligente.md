@@ -1,17 +1,21 @@
 ---
-title: "Raspberry Pi Imager 2.0 revoluciona com nova UI e deteção inteligente"
-date: "2025-11-24T13:48:12.168Z"
-category: "computadores"
+title: Raspberry Pi Imager 2.0 revoluciona com nova UI e deteção inteligente
+date: '2025-11-24T13:48:12.168Z'
+category: computadores
 tags:
   - Raspberry Pi
   - Imager
   - software
   - Linux
   - computadores
-image: "https://9to5linux.com/wp-content/uploads/2025/11/rpi2.webp"
-image_source: "https://9to5linux.com/wp-content/uploads/2025/11/rpi2.webp"
-description: "O Raspberry Pi Imager 2.0 chegou com uma interface de utilizador renovada e deteção automática de dispositivos. Descarregue já e simplifique a configuração d..."
-source_url: "https://9to5linux.com/raspberry-pi-imager-2-0-released-with-revamped-ui-and-device-detection"
+image: 'https://9to5linux.com/wp-content/uploads/2025/11/rpi2.webp'
+image_source: 'https://9to5linux.com/wp-content/uploads/2025/11/rpi2.webp'
+description: >-
+  O Raspberry Pi Imager 2.0 chegou com uma interface de utilizador renovada e
+  deteção automática de dispositivos. Descarregue já e simplifique a
+  configuração d.
+source_url: >-
+  https://9to5linux.com/raspberry-pi-imager-2-0-released-with-revamped-ui-and-device-detection
 draft: false
 needs_review: false
 ---

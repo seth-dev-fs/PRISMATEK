@@ -1,17 +1,22 @@
 ---
-title: "OnePlus Nord 6: Certificações globais apontam para lançamento antecipado"
-date: "2026-01-02T10:19:51.550Z"
-category: "smartphones"
+title: 'OnePlus Nord 6: Certificações globais apontam para lançamento antecipado'
+date: '2026-01-02T10:19:51.550Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - Nord 6
   - lançamento
   - certificações
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/oneplus-nord-6-certified/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O OnePlus Nord 6 pode chegar mais cedo do que o esperado. Certificações globais indicam um lançamento antecipado, aumentando a expectativa para este smartpho..."
-source_url: "https://www.gsmarena.com/oneplus_nord_6_is_coming_soon_global_certifications_reveal-news-70924.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/oneplus-nord-6-certified/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O OnePlus Nord 6 pode chegar mais cedo do que o esperado. Certificações
+  globais indicam um lançamento antecipado, aumentando a expectativa para este
+  smartpho.
+source_url: >-
+  https://www.gsmarena.com/oneplus_nord_6_is_coming_soon_global_certifications_reveal-news-70924.php
 draft: false
 needs_review: false
 photographer_name: undefined

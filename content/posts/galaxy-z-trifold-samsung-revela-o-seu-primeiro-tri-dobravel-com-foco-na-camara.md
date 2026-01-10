@@ -1,17 +1,24 @@
 ---
-title: "Galaxy Z TriFold: Samsung revela o seu primeiro tri-dobrável com foco na câmara"
-date: "2025-12-02T03:47:12.761Z"
-category: "smartphones"
+title: >-
+  Galaxy Z TriFold: Samsung revela o seu primeiro tri-dobrável com foco na
+  câmara
+date: '2025-12-02T03:47:12.761Z'
+category: smartphones
 tags:
   - Samsung
   - Galaxy Z TriFold
   - smartphones
   - câmara
   - teleobjetiva
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold-Display-Cameras-1200x675.jpg"
-image_source: "rss"
-description: "O Galaxy Z TriFold, o primeiro smartphone tri-dobrável da Samsung, foi revelado. Fique a conhecer os detalhes da sua inovadora configuração de câmara tripla ..."
-source_url: "https://www.sammobile.com/news/galaxy-z-trifold-camera-powerful-zoom-part-setup"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold-Display-Cameras-1200x675.jpg
+image_source: rss
+description: >-
+  O Galaxy Z TriFold, o primeiro smartphone tri-dobrável da Samsung, foi
+  revelado. Fique a conhecer os detalhes da sua inovadora configuração de câmara
+  tripla.
+source_url: >-
+  https://www.sammobile.com/news/galaxy-z-trifold-camera-powerful-zoom-part-setup
 draft: false
 needs_review: false
 photographer_name: undefined

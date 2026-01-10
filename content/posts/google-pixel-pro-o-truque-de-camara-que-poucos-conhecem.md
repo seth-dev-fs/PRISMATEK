@@ -1,17 +1,22 @@
 ---
-title: "Google Pixel Pro: O truque de câmara que poucos conhecem"
-date: "2025-11-28T13:42:25.184Z"
-category: "smartphones"
+title: 'Google Pixel Pro: O truque de câmara que poucos conhecem'
+date: '2025-11-28T13:42:25.184Z'
+category: smartphones
 tags:
   - Google Pixel
   - câmara
   - smartphones
   - fotografia
   - focus peaking
-image: "https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-1-scaled.jpg"
-image_source: "rss"
-description: "A câmara dos Google Pixel Pro esconde um segredo para fotografias mais nítidas. O 'focus peaking' é um aliado poderoso para a fotografia móvel. Saiba como at..."
-source_url: "https://www.androidauthority.com/google-pixel-pro-camera-focus-peaking-viewfinder-3620506"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/10/pixel-10-pro-holding-back-of-phone-hero-1-scaled.jpg
+image_source: rss
+description: >-
+  A câmara dos Google Pixel Pro esconde um segredo para fotografias mais
+  nítidas. O 'focus peaking' é um aliado poderoso para a fotografia móvel. Saiba
+  como at.
+source_url: >-
+  https://www.androidauthority.com/google-pixel-pro-camera-focus-peaking-viewfinder-3620506
 draft: false
 needs_review: false
 photographer_name: undefined

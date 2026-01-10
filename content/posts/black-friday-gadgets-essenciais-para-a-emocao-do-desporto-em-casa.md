@@ -1,17 +1,22 @@
 ---
-title: "Black Friday: Gadgets essenciais para a emoção do desporto em casa"
-date: "2025-11-26T10:51:57.636Z"
-category: "entretenimento-gaming"
+title: 'Black Friday: Gadgets essenciais para a emoção do desporto em casa'
+date: '2025-11-26T10:51:57.636Z'
+category: entretenimento-gaming
 tags:
   - Black Friday
   - entretenimento
   - televisões
   - barras de som
   - projetores
-image: "https://www.androidauthority.com/wp-content/uploads/2021/11/Android-Authority-Best-Black-Friday-Deals-Green-Image.jpg"
-image_source: "rss"
-description: "Prepare a sua sala para o máximo de emoção desportiva. Descubra os gadgets essenciais que transformam qualquer jogo numa experiência imersiva com as ofertas ..."
-source_url: "https://www.androidauthority.com/black-friday-tech-gadgets-nfl-viewing-parties-3618650"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2021/11/Android-Authority-Best-Black-Friday-Deals-Green-Image.jpg
+image_source: rss
+description: >-
+  Prepare a sua sala para o máximo de emoção desportiva. Descubra os gadgets
+  essenciais que transformam qualquer jogo numa experiência imersiva com as
+  ofertas.
+source_url: >-
+  https://www.androidauthority.com/black-friday-tech-gadgets-nfl-viewing-parties-3618650
 draft: false
 needs_review: false
 photographer_name: undefined

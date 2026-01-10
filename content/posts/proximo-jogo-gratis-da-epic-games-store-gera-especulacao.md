@@ -1,17 +1,22 @@
 ---
-title: "Próximo jogo grátis da Epic Games Store gera especulação"
-date: "2025-12-21T06:25:24.631Z"
-category: "gaming"
+title: Próximo jogo grátis da Epic Games Store gera especulação
+date: '2025-12-21T06:25:24.631Z'
+category: gaming
 tags:
   - Epic Games Store
   - jogos grátis
   - gaming
   - PC
   - promoções
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fifth-Epic-Games-Store-predictions-are-out.jpg"
-image_source: "rss"
-description: "A Epic Games Store prepara-se para revelar o seu quinto jogo grátis misterioso. Descobre as teorias dos fãs sobre se será um indie ou um título AAA! A Epic G..."
-source_url: "https://www.notebookcheck.net/Fifth-Epic-Games-Store-mystery-free-game-predictions-point-in-conflicting-directions.1190043.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fifth-Epic-Games-Store-predictions-are-out.jpg
+image_source: rss
+description: >-
+  A Epic Games Store prepara-se para revelar o seu quinto jogo grátis
+  misterioso. Descobre as teorias dos fãs sobre se será um indie ou um título
+  AAA! A Epic G.
+source_url: >-
+  https://www.notebookcheck.net/Fifth-Epic-Games-Store-mystery-free-game-predictions-point-in-conflicting-directions.1190043.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

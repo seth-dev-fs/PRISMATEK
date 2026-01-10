@@ -1,17 +1,22 @@
 ---
-title: "Aura Carver Mat: A moldura digital que transforma as suas memórias"
-date: "2025-11-28T20:40:20.032Z"
-category: "home"
+title: 'Aura Carver Mat: A moldura digital que transforma as suas memórias'
+date: '2025-11-28T20:40:20.032Z'
+category: home
 tags:
   - Aura
   - moldura digital
   - smart home
   - fotografias
   - memórias
-image: "https://s.yimg.com/ny/api/res/1.2/H0VhZqGXO6ftw4uYBXItcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/269512f0-cc96-11f0-97df-02f4ff012dec"
-image_source: "rss"
-description: "Conheça a Aura Carver Mat, a moldura digital de 10.1 polegadas que se destaca pela qualidade de imagem e facilidade de partilha de memórias. Numa era digital..."
-source_url: "https://www.engadget.com/home/smart-home/our-favorite-aura-digital-photo-frame-is-40-off-for-black-friday-202715971.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/H0VhZqGXO6ftw4uYBXItcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/269512f0-cc96-11f0-97df-02f4ff012dec
+image_source: rss
+description: >-
+  Conheça a Aura Carver Mat, a moldura digital de 10.1 polegadas que se destaca
+  pela qualidade de imagem e facilidade de partilha de memórias. Numa era
+  digital.
+source_url: >-
+  https://www.engadget.com/home/smart-home/our-favorite-aura-digital-photo-frame-is-40-off-for-black-friday-202715971.html?src=rss
 draft: false
 needs_review: true
 photographer_name: undefined

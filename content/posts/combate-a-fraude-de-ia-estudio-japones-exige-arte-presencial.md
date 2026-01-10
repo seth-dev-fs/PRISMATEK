@@ -1,17 +1,22 @@
 ---
-title: "Combate à fraude de IA: Estúdio japonês exige arte presencial"
-date: "2025-12-03T16:58:25.704Z"
-category: "ai-futuro"
+title: 'Combate à fraude de IA: Estúdio japonês exige arte presencial'
+date: '2025-12-03T16:58:25.704Z'
+category: ai-futuro
 tags:
   - Inteligência Artificial
   - Gaming
   - Recrutamento
   - Fraude IA
   - Desenvolvimento de Jogos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GameDeveloperusingStability.AI.jpg"
-image_source: "rss"
-description: "A fraude com IA no recrutamento, especialmente na área criativa, é um desafio. Um estúdio japonês combate a Inteligência Artificial ao exigir provas de talen..."
-source_url: "https://www.notebookcheck.net/With-generative-AI-fraud-rampant-a-game-developer-forces-job-applicants-to-draw-in-person.1176759.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GameDeveloperusingStability.AI.jpg
+image_source: rss
+description: >-
+  A fraude com IA no recrutamento, especialmente na área criativa, é um desafio.
+  Um estúdio japonês combate a Inteligência Artificial ao exigir provas de
+  talen.
+source_url: >-
+  https://www.notebookcheck.net/With-generative-AI-fraud-rampant-a-game-developer-forces-job-applicants-to-draw-in-person.1176759.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

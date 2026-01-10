@@ -1,17 +1,22 @@
 ---
-title: "Asus sem novos smartphones em 2024? Rumores indicam pausa"
-date: "2026-01-03T10:19:22.916Z"
-category: "smartphones"
+title: Asus sem novos smartphones em 2024? Rumores indicam pausa
+date: '2026-01-03T10:19:22.916Z'
+category: smartphones
 tags:
   - Asus
   - smartphones
   - Zenfone
   - ROG Phone
   - mercado mobile
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/asus-no-smartphone-launches-this-year/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Asus poderá não lançar novos smartphones este ano, afetando as linhas Zenfone e ROG Phone. Saiba o que se espera para o futuro da marca no mercado de telem..."
-source_url: "https://www.gsmarena.com/there_will_be_no_new_asus_phones_this_year_new_report_claims-news-70939.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/asus-no-smartphone-launches-this-year/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Asus poderá não lançar novos smartphones este ano, afetando as linhas
+  Zenfone e ROG Phone. Saiba o que se espera para o futuro da marca no mercado
+  de telem.
+source_url: >-
+  https://www.gsmarena.com/there_will_be_no_new_asus_phones_this_year_new_report_claims-news-70939.php
 draft: false
 needs_review: false
 photographer_name: undefined

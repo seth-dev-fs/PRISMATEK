@@ -1,17 +1,21 @@
 ---
-title: "Nothing Phone (3a) Lite: A Aposta na Acessibilidade e Estilo Único"
-date: "2025-12-02T22:37:47.771Z"
-category: "smartphones"
+title: 'Nothing Phone (3a) Lite: A Aposta na Acessibilidade e Estilo Único'
+date: '2025-12-02T22:37:47.771Z'
+category: smartphones
 tags:
   - Nothing
   - smartphones
   - Android
   - Nothing OS
   - gama média
-image: "https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-lite/-728x314/gsmarena_002.jpg"
-image_source: "rss"
-description: "O Nothing Phone (3a) Lite chega para democratizar o design icónico e a experiência Nothing OS. Descobre se este smartphone é a escolha certa para ti. A Nothi..."
-source_url: "https://www.gsmarena.com/nothing_phone_3a_lite-review-2904.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/reviews/25/nothing-phone-3a-lite/-728x314/gsmarena_002.jpg
+image_source: rss
+description: >-
+  O Nothing Phone (3a) Lite chega para democratizar o design icónico e a
+  experiência Nothing OS. Descobre se este smartphone é a escolha certa para ti.
+  A Nothi.
+source_url: 'https://www.gsmarena.com/nothing_phone_3a_lite-review-2904.php'
 draft: false
 needs_review: false
 photographer_name: undefined

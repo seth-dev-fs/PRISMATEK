@@ -1,17 +1,21 @@
 ---
-title: "Galaxy Watch 4 surpreende com One UI 8 Watch, a sua última grande atualização"
-date: "2025-12-15T10:23:14.623Z"
-category: "wearables"
+title: 'Galaxy Watch 4 surpreende com One UI 8 Watch, a sua última grande atualização'
+date: '2025-12-15T10:23:14.623Z'
+category: wearables
 tags:
   - Samsung
   - Galaxy Watch 4
   - Wear OS
   - smartwatch
   - atualização
-image: "https://www.androidauthority.com/wp-content/uploads/2021/08/samsung-galaxy-watch-4-review-watch-face-display-1-scaled.jpg"
-image_source: "rss"
-description: "O Samsung Galaxy Watch 4 surpreende com a atualização One UI 8 Watch, marcando um final de ciclo digno para este smartwatch crucial. Saiba mais aqui. A Samsu..."
-source_url: "https://www.androidauthority.com/samsung-galaxy-watch-4-one-ui-8-watch-3625204"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2021/08/samsung-galaxy-watch-4-review-watch-face-display-1-scaled.jpg
+image_source: rss
+description: >-
+  O Samsung Galaxy Watch 4 surpreende com a atualização One UI 8 Watch, marcando
+  um final de ciclo digno para este smartwatch crucial. Saiba mais aqui. A
+  Samsu.
+source_url: 'https://www.androidauthority.com/samsung-galaxy-watch-4-one-ui-8-watch-3625204'
 draft: false
 needs_review: false
 photographer_name: undefined

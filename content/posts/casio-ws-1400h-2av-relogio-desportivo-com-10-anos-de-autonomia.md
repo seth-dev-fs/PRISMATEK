@@ -1,17 +1,22 @@
 ---
-title: "Casio WS-1400H-2AV: Relógio desportivo com 10 anos de autonomia"
-date: "2025-12-15T08:29:15.956Z"
-category: "wearables"
+title: 'Casio WS-1400H-2AV: Relógio desportivo com 10 anos de autonomia'
+date: '2025-12-15T08:29:15.956Z'
+category: wearables
 tags:
   - Casio
   - relógio
   - wearables
   - desporto
   - autonomia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-WS-1400H-2AV-deal.png"
-image_source: "rss"
-description: "Descobre o Casio WS-1400H-2AV, um relógio digital desportivo ideal para corredores, com uma impressionante bateria de 10 anos e resistência à água. Perfeito ..."
-source_url: "https://www.notebookcheck.net/Casio-WS-1400H-2AV-watch-with-10-year-battery-life-drops-to-new-record-low-price-on-Amazon.1185964.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-WS-1400H-2AV-deal.png
+image_source: rss
+description: >-
+  Descobre o Casio WS-1400H-2AV, um relógio digital desportivo ideal para
+  corredores, com uma impressionante bateria de 10 anos e resistência à água.
+  Perfeito.
+source_url: >-
+  https://www.notebookcheck.net/Casio-WS-1400H-2AV-watch-with-10-year-battery-life-drops-to-new-record-low-price-on-Amazon.1185964.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

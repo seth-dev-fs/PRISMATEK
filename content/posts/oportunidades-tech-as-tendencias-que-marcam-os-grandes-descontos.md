@@ -1,17 +1,22 @@
 ---
-title: "Oportunidades Tech: As tendências que marcam os grandes descontos"
-date: "2025-12-02T10:50:32.607Z"
-category: "entretenimento-gaming"
+title: 'Oportunidades Tech: As tendências que marcam os grandes descontos'
+date: '2025-12-02T10:50:32.607Z'
+category: entretenimento-gaming
 tags:
   - descontos
   - tecnologia
   - consolas
   - streaming
   - smartphones
-image: "https://s.yimg.com/ny/api/res/1.2/g8hLtN.Ia9Ajsc5Sh1C0yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f48749b0-cf22-11f0-aa77-6ccc690128f2"
-image_source: "rss"
-description: "As campanhas de descontos globais revelam as tendências tecnológicas do momento. Conheça os produtos mais procurados, de consolas a streaming, com uma perspe..."
-source_url: "https://www.engadget.com/deals/cyber-monday-deals-on-tech-for-2025-that-are-still-available-the-best-sales-up-to-75-percent-off-on-streaming-services-gaming-accessories-and-more-170028972.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/g8hLtN.Ia9Ajsc5Sh1C0yg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f48749b0-cf22-11f0-aa77-6ccc690128f2
+image_source: rss
+description: >-
+  As campanhas de descontos globais revelam as tendências tecnológicas do
+  momento. Conheça os produtos mais procurados, de consolas a streaming, com uma
+  perspe.
+source_url: >-
+  https://www.engadget.com/deals/cyber-monday-deals-on-tech-for-2025-that-are-still-available-the-best-sales-up-to-75-percent-off-on-streaming-services-gaming-accessories-and-more-170028972.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

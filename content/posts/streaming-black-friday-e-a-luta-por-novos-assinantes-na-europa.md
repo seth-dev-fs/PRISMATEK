@@ -1,17 +1,23 @@
 ---
-title: "Streaming: Black Friday e a Luta por Novos Assinantes na Europa"
-date: "2025-11-25T18:54:31.071Z"
-category: "internet-apps"
+title: 'Streaming: Black Friday e a Luta por Novos Assinantes na Europa'
+date: '2025-11-25T18:54:31.071Z'
+category: internet-apps
 tags:
   - streaming
   - Paramount+
   - Black Friday
   - plataformas
   - ofertas
-image: "https://s.yimg.com/os/creatr-uploaded-images/2023-02/960f5040-b205-11ed-8237-26729abd3dd7"
-image_source: "https://s.yimg.com/os/creatr-uploaded-images/2023-02/960f5040-b205-11ed-8237-26729abd3dd7"
-description: "Com a Black Friday a impulsionar o mercado, as plataformas de streaming competem por novos utilizadores. Analisamos a oferta da Paramount+ e a dinâmica europ..."
-source_url: "https://www.engadget.com/deals/the-paramount-black-friday-deal-gives-you-two-months-of-access-for-only-6-183036349.html?src=rss"
+image: >-
+  https://s.yimg.com/os/creatr-uploaded-images/2023-02/960f5040-b205-11ed-8237-26729abd3dd7
+image_source: >-
+  https://s.yimg.com/os/creatr-uploaded-images/2023-02/960f5040-b205-11ed-8237-26729abd3dd7
+description: >-
+  Com a Black Friday a impulsionar o mercado, as plataformas de streaming
+  competem por novos utilizadores. Analisamos a oferta da Paramount+ e a
+  dinâmica europ.
+source_url: >-
+  https://www.engadget.com/deals/the-paramount-black-friday-deal-gives-you-two-months-of-access-for-only-6-183036349.html?src=rss
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,23 @@
 ---
-title: "Descontos Apple na Black Friday: MacBook Air M4, iPad Air e AirPods 4"
-date: "2025-11-25T03:39:09.398Z"
-category: "computadores"
+title: 'Descontos Apple na Black Friday: MacBook Air M4, iPad Air e AirPods 4'
+date: '2025-11-25T03:39:09.398Z'
+category: computadores
 tags:
   - Apple
   - MacBook Air M4
   - iPad Air 11
   - AirPods 4
   - Black Friday
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/bf-2025-spotlight-de-apple/-952x498w6/gsmarena_000.jpg"
-image_source: "https://fdn.gsmarena.com/imgroot/news/25/11/bf-2025-spotlight-de-apple/-952x498w6/gsmarena_000.jpg"
-description: "A Black Friday traz oportunidades para os fãs da Apple. Descobre as melhores ofertas em produtos como o MacBook Air M4, iPad Air 11 e os novos AirPods 4 na E..."
-source_url: "https://www.gsmarena.com/black_friday_deal_spotlight_m4_macbook_air_ipad_air_11_and_airpods_4_discounted_on_amazon_germany-news-70425.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/bf-2025-spotlight-de-apple/-952x498w6/gsmarena_000.jpg
+image_source: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/bf-2025-spotlight-de-apple/-952x498w6/gsmarena_000.jpg
+description: >-
+  A Black Friday traz oportunidades para os fãs da Apple. Descobre as melhores
+  ofertas em produtos como o MacBook Air M4, iPad Air 11 e os novos AirPods 4 na
+  E.
+source_url: >-
+  https://www.gsmarena.com/black_friday_deal_spotlight_m4_macbook_air_ipad_air_11_and_airpods_4_discounted_on_amazon_germany-news-70425.php
 draft: false
 needs_review: false
 ---

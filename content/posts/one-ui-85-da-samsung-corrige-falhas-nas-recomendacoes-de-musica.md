@@ -1,17 +1,21 @@
 ---
-title: "One UI 8.5 da Samsung corrige falhas nas recomendações de música"
-date: "2025-11-30T10:42:34.130Z"
-category: "smartphones"
+title: One UI 8.5 da Samsung corrige falhas nas recomendações de música
+date: '2025-11-30T10:42:34.130Z'
+category: smartphones
 tags:
   - Samsung
   - One UI 8.5
   - Galaxy S25
   - smartphones
   - Now Brief
-image: "https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-Now-Brief-Galaxy-AI-1200x675.jpg"
-image_source: "rss"
-description: "A próxima One UI 8.5 da Samsung promete revolucionar as recomendações musicais do Now Brief. Descubra como a gigante sul-coreana vai melhorar a sua experiênc..."
-source_url: "https://www.sammobile.com/news/now-brief-music-recommendations-one-ui-8-5-fix"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/09/Galaxy-S25-FE-Now-Brief-Galaxy-AI-1200x675.jpg
+image_source: rss
+description: >-
+  A próxima One UI 8.5 da Samsung promete revolucionar as recomendações musicais
+  do Now Brief. Descubra como a gigante sul-coreana vai melhorar a sua
+  experiênc.
+source_url: 'https://www.sammobile.com/news/now-brief-music-recommendations-one-ui-8-5-fix'
 draft: false
 needs_review: false
 photographer_name: undefined

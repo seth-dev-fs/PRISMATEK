@@ -1,17 +1,21 @@
 ---
-title: "Radiador De'Longhi: o aliado essencial para aquecer o seu inverno"
-date: "2025-11-27T18:50:58.024Z"
-category: "home"
+title: 'Radiador De''Longhi: o aliado essencial para aquecer o seu inverno'
+date: '2025-11-27T18:50:58.024Z'
+category: home
 tags:
   - De'Longhi
   - radiador elétrico
   - aquecimento
   - eficiência energética
   - casa
-image: "https://cdn.mos.cms.futurecdn.net/dJMpxewnFGTpNfHWSBGaum-1280-80.png"
-image_source: "rss"
-description: "Descubra porque um radiador elétrico De'Longhi pode ser a solução ideal para os dias frios. Uma análise detalhada a um equipamento que promete eficiência e c..."
-source_url: "https://www.techradar.com/seasonal-sales/this-delonghi-electric-radiator-saved-me-from-a-wintery-grave-when-my-heating-broke-and-right-now-its-55-percent-off"
+image: 'https://cdn.mos.cms.futurecdn.net/dJMpxewnFGTpNfHWSBGaum-1280-80.png'
+image_source: rss
+description: >-
+  Descubra porque um radiador elétrico De'Longhi pode ser a solução ideal para
+  os dias frios. Uma análise detalhada a um equipamento que promete eficiência e
+  c.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/this-delonghi-electric-radiator-saved-me-from-a-wintery-grave-when-my-heating-broke-and-right-now-its-55-percent-off
 draft: false
 needs_review: true
 photographer_name: undefined

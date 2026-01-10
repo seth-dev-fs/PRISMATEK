@@ -1,17 +1,22 @@
 ---
-title: "Tecnologia Acessível: Gadgets Práticos para o Dia a Dia"
-date: "2025-12-02T04:56:11.875Z"
-category: "home"
+title: 'Tecnologia Acessível: Gadgets Práticos para o Dia a Dia'
+date: '2025-12-02T04:56:11.875Z'
+category: home
 tags:
   - gadgets
   - tecnologia acessível
   - casa inteligente
   - entretenimento
   - mobilidade
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&strip=all&crop=0%2C11.554469977437%2C100%2C76.891060045127&w=1200"
-image_source: "rss"
-description: "Descobre gadgets e acessórios tecnológicos que provam que não é preciso gastar muito para ter utilidade e inovação no dia a dia. Encontra soluções inteligent..."
-source_url: "https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&strip=all&crop=0%2C11.554469977437%2C100%2C76.891060045127&w=1200
+image_source: rss
+description: >-
+  Descobre gadgets e acessórios tecnológicos que provam que não é preciso gastar
+  muito para ter utilidade e inovação no dia a dia. Encontra soluções
+  inteligent.
+source_url: >-
+  https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025
 draft: false
 needs_review: true
 photographer_name: undefined

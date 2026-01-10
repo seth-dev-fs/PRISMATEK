@@ -1,17 +1,21 @@
 ---
-title: "NordVPN Supera Black Friday com Oferta de Cyber Monday"
-date: "2025-12-01T07:00:47.579Z"
-category: "internet-apps"
+title: NordVPN Supera Black Friday com Oferta de Cyber Monday
+date: '2025-12-01T07:00:47.579Z'
+category: internet-apps
 tags:
   - NordVPN
   - VPN
   - Cyber Monday
   - segurança online
   - privacidade
-image: "https://cdn.mos.cms.futurecdn.net/WJnHPqszEZmvq45qxUYnoW-1280-80.jpg"
-image_source: "rss"
-description: "A NordVPN intensifica as suas promoções com um desconto sem precedentes na Cyber Monday, garantindo mais segurança e privacidade online. Não perca esta oport..."
-source_url: "https://www.techradar.com/vpn/vpn-services/exclusive-nordvpn-betters-its-black-friday-deal-with-75-percent-cyber-monday-special"
+image: 'https://cdn.mos.cms.futurecdn.net/WJnHPqszEZmvq45qxUYnoW-1280-80.jpg'
+image_source: rss
+description: >-
+  A NordVPN intensifica as suas promoções com um desconto sem precedentes na
+  Cyber Monday, garantindo mais segurança e privacidade online. Não perca esta
+  oport.
+source_url: >-
+  https://www.techradar.com/vpn/vpn-services/exclusive-nordvpn-betters-its-black-friday-deal-with-75-percent-cyber-monday-special
 draft: false
 needs_review: false
 photographer_name: undefined

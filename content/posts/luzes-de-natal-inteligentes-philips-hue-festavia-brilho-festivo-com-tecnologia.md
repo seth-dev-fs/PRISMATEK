@@ -1,17 +1,24 @@
 ---
-title: "Luzes de Natal inteligentes Philips Hue Festavia: Brilho festivo com tecnologia"
-date: "2025-11-29T06:54:00.394Z"
-category: "home"
+title: >-
+  Luzes de Natal inteligentes Philips Hue Festavia: Brilho festivo com
+  tecnologia
+date: '2025-11-29T06:54:00.394Z'
+category: home
 tags:
   - Philips Hue
   - luzes inteligentes
   - Natal
   - casa inteligente
   - Govee
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25762360/Philips_Hue_s_Festavia_string_lights_lifestyle_image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "As luzes inteligentes Philips Hue Festavia e Govee trazem magia à sua casa este Natal. Descubra a tecnologia e os preços no mercado europeu. Com a época fest..."
-source_url: "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25762360/Philips_Hue_s_Festavia_string_lights_lifestyle_image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  As luzes inteligentes Philips Hue Festavia e Govee trazem magia à sua casa
+  este Natal. Descubra a tecnologia e os preços no mercado europeu. Com a época
+  fest.
+source_url: >-
+  https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025
 draft: false
 needs_review: true
 photographer_name: undefined

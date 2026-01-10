@@ -1,17 +1,22 @@
 ---
-title: "Google Messages: Novidades Chegam para Simplificar Multimédia e Localização"
-date: "2025-11-25T20:43:15.597Z"
-category: "smartphones"
+title: 'Google Messages: Novidades Chegam para Simplificar Multimédia e Localização'
+date: '2025-11-25T20:43:15.597Z'
+category: smartphones
 tags:
   - Google Messages
   - Android
   - aplicações
   - mensagens
   - multimédia
-image: "https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg"
-description: "A Google prepara atualizações significativas para o Messages, prometendo melhorar a gestão de multimédia e a partilha de localização para uma experiência mai..."
-source_url: "https://www.androidauthority.com/messages-saving-media-3619488"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/07/Google-Messages-Logo-on-Pixel-9a.jpg
+description: >-
+  A Google prepara atualizações significativas para o Messages, prometendo
+  melhorar a gestão de multimédia e a partilha de localização para uma
+  experiência mai.
+source_url: 'https://www.androidauthority.com/messages-saving-media-3619488'
 draft: false
 needs_review: false
 ---

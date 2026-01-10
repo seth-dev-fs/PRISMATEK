@@ -1,17 +1,22 @@
 ---
-title: "iPhone Air: Valor de revenda cai a pique, um sinal de alerta?"
-date: "2025-12-04T16:58:26.082Z"
-category: "smartphones"
+title: 'iPhone Air: Valor de revenda cai a pique, um sinal de alerta?'
+date: '2025-12-04T16:58:26.082Z'
+category: smartphones
 tags:
   - Apple
   - iPhone Air
   - smartphones
   - valor de revenda
   - depreciação
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/iphone-air-losing-record-resale-value/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Um novo relatório revela que o iPhone Air da Apple está a perder valor de revenda a um ritmo recorde. Será um flop de vendas? Analisamos os dados. O iPhone A..."
-source_url: "https://www.gsmarena.com/iphone_air_is_losing_its_resale_value_at_a_record_pace-news-70565.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/iphone-air-losing-record-resale-value/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Um novo relatório revela que o iPhone Air da Apple está a perder valor de
+  revenda a um ritmo recorde. Será um flop de vendas? Analisamos os dados. O
+  iPhone A.
+source_url: >-
+  https://www.gsmarena.com/iphone_air_is_losing_its_resale_value_at_a_record_pace-news-70565.php
 draft: false
 needs_review: false
 photographer_name: undefined

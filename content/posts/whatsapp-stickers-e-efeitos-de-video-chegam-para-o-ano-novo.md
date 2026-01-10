@@ -1,17 +1,22 @@
 ---
-title: "WhatsApp: Stickers e Efeitos de Vídeo Chegam para o Ano Novo"
-date: "2025-12-31T08:24:39.229Z"
-category: "internet-apps"
+title: 'WhatsApp: Stickers e Efeitos de Vídeo Chegam para o Ano Novo'
+date: '2025-12-31T08:24:39.229Z'
+category: internet-apps
 tags:
   - WhatsApp
   - aplicações
   - stickers
   - vídeo chamadas
   - Ano Novo
-image: "https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-One-UI-6.1-Language-Translate-WhatsApp-Galaxy-S24-Ultra.jpg"
-image_source: "rss"
-description: "O WhatsApp atualiza-se para o Ano Novo com novos stickers animados e efeitos de vídeo, tornando as suas conversas mais memoráveis. Celebre em grande! Com a é..."
-source_url: "https://www.sammobile.com/news/get-ready-new-year-calls-with-whatsapps-new-stickers-video-effects"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2024/01/Samsung-One-UI-6.1-Language-Translate-WhatsApp-Galaxy-S24-Ultra.jpg
+image_source: rss
+description: >-
+  O WhatsApp atualiza-se para o Ano Novo com novos stickers animados e efeitos
+  de vídeo, tornando as suas conversas mais memoráveis. Celebre em grande! Com a
+  é.
+source_url: >-
+  https://www.sammobile.com/news/get-ready-new-year-calls-with-whatsapps-new-stickers-video-effects
 draft: false
 needs_review: false
 photographer_name: undefined

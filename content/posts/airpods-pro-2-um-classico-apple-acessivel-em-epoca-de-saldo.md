@@ -1,17 +1,22 @@
 ---
-title: "AirPods Pro 2: Um Clássico Apple Acessível em Época de Saldo"
-date: "2025-11-28T18:57:26.912Z"
-category: "audio"
+title: 'AirPods Pro 2: Um Clássico Apple Acessível em Época de Saldo'
+date: '2025-11-28T18:57:26.912Z'
+category: audio
 tags:
   - AirPods Pro 2
   - Apple
   - auscultadores
   - cancelamento de ruído
   - promoções
-image: "https://s.yimg.com/ny/api/res/1.2/K22lLJ6UAt3ENQWJY3H7mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/8ec72e70-c945-11f0-b5bf-b3f3cf89e80e"
-image_source: "rss"
-description: "Os AirPods Pro 2, mesmo com o Pro 3 no mercado, continuam a ser uma excelente opção. Descobre os seus recursos e por que são uma compra inteligente em promoç..."
-source_url: "https://www.engadget.com/deals/walmart-black-friday-deals-the-airpods-pro-2-are-down-to-their-lowest-price-yet-170032199.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/K22lLJ6UAt3ENQWJY3H7mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/8ec72e70-c945-11f0-b5bf-b3f3cf89e80e
+image_source: rss
+description: >-
+  Os AirPods Pro 2, mesmo com o Pro 3 no mercado, continuam a ser uma excelente
+  opção. Descobre os seus recursos e por que são uma compra inteligente em
+  promoç.
+source_url: >-
+  https://www.engadget.com/deals/walmart-black-friday-deals-the-airpods-pro-2-are-down-to-their-lowest-price-yet-170032199.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

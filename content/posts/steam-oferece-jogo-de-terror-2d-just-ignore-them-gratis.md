@@ -1,17 +1,22 @@
 ---
-title: "Steam oferece jogo de terror 2D 'Just Ignore Them' grátis"
-date: "2025-12-13T10:17:23.580Z"
-category: "gaming"
+title: Steam oferece jogo de terror 2D 'Just Ignore Them' grátis
+date: '2025-12-13T10:17:23.580Z'
+category: gaming
 tags:
   - Steam
   - jogos grátis
   - terror
   - aventura
   - PC gaming
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-offers-a-2D-horror-adventure-game-for-a-limited-time.jpg"
-image_source: "rss"
-description: "Aproveite 'Just Ignore Them', um aclamado jogo de terror e aventura 2D, agora disponível gratuitamente na Steam por tempo limitado. Adicione-o já à sua bibli..."
-source_url: "https://www.notebookcheck.net/Steam-offers-a-2D-horror-adventure-game-for-a-limited-time.1184758.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-offers-a-2D-horror-adventure-game-for-a-limited-time.jpg
+image_source: rss
+description: >-
+  Aproveite 'Just Ignore Them', um aclamado jogo de terror e aventura 2D, agora
+  disponível gratuitamente na Steam por tempo limitado. Adicione-o já à sua
+  bibli.
+source_url: >-
+  https://www.notebookcheck.net/Steam-offers-a-2D-horror-adventure-game-for-a-limited-time.1184758.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

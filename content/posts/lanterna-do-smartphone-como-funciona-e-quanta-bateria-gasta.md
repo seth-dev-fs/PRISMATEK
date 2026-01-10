@@ -1,17 +1,21 @@
 ---
-title: "Lanterna do Smartphone: Como Funciona e Quanta Bateria Gasta?"
-date: "2025-12-02T06:59:04.482Z"
-category: "smartphones"
+title: 'Lanterna do Smartphone: Como Funciona e Quanta Bateria Gasta?'
+date: '2025-12-02T06:59:04.482Z'
+category: smartphones
 tags:
   - smartphones
   - bateria
   - lanterna
   - LED
   - consumo energético
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "Descubra o impacto real da lanterna do seu smartphone na bateria. Explicamos a tecnologia LED e damos dicas para otimizar o consumo sem perder a luz. A lante..."
-source_url: "https://www.sammobile.com/news/how-do-phone-flashlights-work-and-affect-battery"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  Descubra o impacto real da lanterna do seu smartphone na bateria. Explicamos a
+  tecnologia LED e damos dicas para otimizar o consumo sem perder a luz. A
+  lante.
+source_url: >-
+  https://www.sammobile.com/news/how-do-phone-flashlights-work-and-affect-battery
 draft: false
 needs_review: false
 photographer_name: undefined

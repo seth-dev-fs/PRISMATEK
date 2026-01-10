@@ -1,17 +1,22 @@
 ---
-title: "AMD e Intel recuperam terreno no mercado de GPUs, mas NVIDIA domina"
-date: "2025-12-02T08:59:21.253Z"
-category: "computadores"
+title: 'AMD e Intel recuperam terreno no mercado de GPUs, mas NVIDIA domina'
+date: '2025-12-02T08:59:21.253Z'
+category: computadores
 tags:
   - AMD
   - Intel
   - NVIDIA
   - GPUs
   - mercado de placas gráficas
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/The-NVIDIA-GeForce-RTX-3050-4GB-Laptop-GPU-Image-source-Notebookcheck.jpg"
-image_source: "rss"
-description: "AMD e Intel viram a sua quota de mercado em GPUs crescer no Q3 2025, desafiando a NVIDIA. Analisamos a dinâmica de um setor em mudança. O mercado de placas g..."
-source_url: "https://www.notebookcheck.net/AMD-and-Intel-claw-back-GPU-market-share-as-NVIDIA-loses-ground-but-still-dwarfs-both-rivals-with-92.1175018.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/The-NVIDIA-GeForce-RTX-3050-4GB-Laptop-GPU-Image-source-Notebookcheck.jpg
+image_source: rss
+description: >-
+  AMD e Intel viram a sua quota de mercado em GPUs crescer no Q3 2025,
+  desafiando a NVIDIA. Analisamos a dinâmica de um setor em mudança. O mercado
+  de placas g.
+source_url: >-
+  https://www.notebookcheck.net/AMD-and-Intel-claw-back-GPU-market-share-as-NVIDIA-loses-ground-but-still-dwarfs-both-rivals-with-92.1175018.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,23 @@
 ---
-title: "Alldocube iPlay 70 Max Pro: Um tablet 5G acessível e potente"
-date: "2025-11-25T06:56:27.181Z"
-category: "mobilidade"
+title: 'Alldocube iPlay 70 Max Pro: Um tablet 5G acessível e potente'
+date: '2025-11-25T06:56:27.181Z'
+category: mobilidade
 tags:
   - Alldocube
   - tablet
   - 5G
   - acessível
   - tecnologia
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alldocube-intros-iPlay-70-Max-Pro-tablet.jpg"
-image_source: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alldocube-intros-iPlay-70-Max-Pro-tablet.jpg"
-description: "A Alldocube lança o iPlay 70 Max Pro, um tablet 5G com ecrã de alta resolução, bateria robusta e armazenamento expansível. Conheça a aposta para o segmento a..."
-source_url: "https://www.notebookcheck.net/Alldocube-debuts-new-affordable-tablet-with-large-battery-expandable-storage-and-more.1170439.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alldocube-intros-iPlay-70-Max-Pro-tablet.jpg
+image_source: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alldocube-intros-iPlay-70-Max-Pro-tablet.jpg
+description: >-
+  A Alldocube lança o iPlay 70 Max Pro, um tablet 5G com ecrã de alta resolução,
+  bateria robusta e armazenamento expansível. Conheça a aposta para o segmento
+  a.
+source_url: >-
+  https://www.notebookcheck.net/Alldocube-debuts-new-affordable-tablet-with-large-battery-expandable-storage-and-more.1170439.0.html
 draft: false
 needs_review: false
 ---

@@ -1,17 +1,21 @@
 ---
-title: "Chamadas móveis: o que explica a diferença entre operadores?"
-date: "2025-12-06T08:22:31.894Z"
-category: "smartphones"
+title: 'Chamadas móveis: o que explica a diferença entre operadores?'
+date: '2025-12-06T08:22:31.894Z'
+category: smartphones
 tags:
   - qualidade de chamadas
   - redes móveis
   - VoLTE
   - 5G
   - telecomunicações
-image: "/images/placeholder.svg"
-image_source: "placeholder"
-description: "A qualidade das suas chamadas telefónicas pode variar drasticamente entre as diferentes redes móveis. Descubra os fatores tecnológicos e de infraestrutura qu..."
-source_url: "https://www.sammobile.com/news/what-is-the-difference-between-phone-call-quality-on-different-networks"
+image: /images/placeholder.svg
+image_source: placeholder
+description: >-
+  A qualidade das suas chamadas telefónicas pode variar drasticamente entre as
+  diferentes redes móveis. Descubra os fatores tecnológicos e de infraestrutura
+  qu.
+source_url: >-
+  https://www.sammobile.com/news/what-is-the-difference-between-phone-call-quality-on-different-networks
 draft: false
 needs_review: false
 photographer_name: undefined

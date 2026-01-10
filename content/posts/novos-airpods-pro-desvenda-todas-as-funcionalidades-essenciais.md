@@ -1,17 +1,21 @@
 ---
-title: "Novos AirPods Pro? Desvenda todas as funcionalidades essenciais"
-date: "2025-12-26T16:19:59.807Z"
-category: "audio"
+title: Novos AirPods Pro? Desvenda todas as funcionalidades essenciais
+date: '2025-12-26T16:19:59.807Z'
+category: audio
 tags:
   - Apple
   - AirPods Pro
   - áudio
   - dicas
   - auriculares
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "Acabou de adquirir uns novos AirPods Pro? Explore as funcionalidades secretas e dicas essenciais para aproveitar ao máximo os seus auriculares Apple no dia a..."
-source_url: "https://9to5mac.com/2025/12/26/new-airpods-pro-features-tricks-tips"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  Acabou de adquirir uns novos AirPods Pro? Explore as funcionalidades secretas
+  e dicas essenciais para aproveitar ao máximo os seus auriculares Apple no dia
+  a.
+source_url: 'https://9to5mac.com/2025/12/26/new-airpods-pro-features-tricks-tips'
 draft: false
 needs_review: false
 photographer_name: undefined

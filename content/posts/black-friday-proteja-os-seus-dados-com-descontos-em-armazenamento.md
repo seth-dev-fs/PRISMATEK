@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Proteja os Seus Dados com Descontos em Armazenamento"
-date: "2025-11-29T16:46:29.758Z"
-category: "computadores"
+title: 'Black Friday: Proteja os Seus Dados com Descontos em Armazenamento'
+date: '2025-11-29T16:46:29.758Z'
+category: computadores
 tags:
   - armazenamento
   - SSDs
   - HDDs
   - cloud
   - Black Friday
-image: "https://cdn.mos.cms.futurecdn.net/yRReuXh6NDkNoVrBysbrT-1280-80.png"
-image_source: "rss"
-description: "A Black Friday e Cyber Monday trazem oportunidades únicas para proteger os seus dados. Descubra as melhores ofertas em SSDs, HDDs e soluções de armazenamento..."
-source_url: "https://www.techradar.com/pro/create-the-ultimate-backup-all-the-best-black-friday-and-cyber-monday-deals-and-discounts-on-cloud-storage-cloud-backup-ssds-and-hdds"
+image: 'https://cdn.mos.cms.futurecdn.net/yRReuXh6NDkNoVrBysbrT-1280-80.png'
+image_source: rss
+description: >-
+  A Black Friday e Cyber Monday trazem oportunidades únicas para proteger os
+  seus dados. Descubra as melhores ofertas em SSDs, HDDs e soluções de
+  armazenamento.
+source_url: >-
+  https://www.techradar.com/pro/create-the-ultimate-backup-all-the-best-black-friday-and-cyber-monday-deals-and-discounts-on-cloud-storage-cloud-backup-ssds-and-hdds
 draft: false
 needs_review: false
 photographer_name: undefined

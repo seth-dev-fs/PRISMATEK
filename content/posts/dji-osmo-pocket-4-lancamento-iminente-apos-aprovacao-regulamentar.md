@@ -1,17 +1,21 @@
 ---
-title: "DJI Osmo Pocket 4: Lançamento iminente após aprovação regulamentar"
-date: "2025-11-29T16:45:32.481Z"
-category: "mobilidade"
+title: 'DJI Osmo Pocket 4: Lançamento iminente após aprovação regulamentar'
+date: '2025-11-29T16:45:32.481Z'
+category: mobilidade
 tags:
   - DJI
   - Osmo Pocket 4
   - câmara compacta
   - vídeo
   - lançamento
-image: "https://cdn.mos.cms.futurecdn.net/yTwyB6rMhFKjMG2d6Ppowa-1280-80.jpg"
-image_source: "rss"
-description: "A DJI prepara-se para lançar a Osmo Pocket 4, com aprovação da FCC a sinalizar uma chegada global. Descobre os rumores e o que esperar da nova câmara de víde..."
-source_url: "https://www.techradar.com/cameras/video-cameras/the-dji-osmo-pocket-4-just-leaked-again-and-a-launch-could-be-happening-any-day"
+image: 'https://cdn.mos.cms.futurecdn.net/yTwyB6rMhFKjMG2d6Ppowa-1280-80.jpg'
+image_source: rss
+description: >-
+  A DJI prepara-se para lançar a Osmo Pocket 4, com aprovação da FCC a sinalizar
+  uma chegada global. Descobre os rumores e o que esperar da nova câmara de
+  víde.
+source_url: >-
+  https://www.techradar.com/cameras/video-cameras/the-dji-osmo-pocket-4-just-leaked-again-and-a-launch-could-be-happening-any-day
 draft: false
 needs_review: false
 photographer_name: undefined

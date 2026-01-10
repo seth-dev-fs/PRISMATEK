@@ -1,17 +1,21 @@
 ---
-title: "Crystal Palace vs Man Utd: Guia de Streaming e TV em Portugal"
-date: "2025-11-30T08:43:44.142Z"
-category: "internet-apps"
+title: 'Crystal Palace vs Man Utd: Guia de Streaming e TV em Portugal'
+date: '2025-11-30T08:43:44.142Z'
+category: internet-apps
 tags:
   - futebol
   - Premier League
   - streaming
   - Sport TV
   - Eleven Sports
-image: "https://cdn.mos.cms.futurecdn.net/7qdpL6NT847mmYrk3TTJpk-1280-80.jpg"
-image_source: "rss"
-description: "Saiba como acompanhar os jogos da Premier League, incluindo Crystal Palace vs Manchester United, através das plataformas de streaming e canais de TV em Portu..."
-source_url: "https://www.techradar.com/how-to-watch/football/how-to-watch-crystal-palace-vs-manchester-united-live-stream-premier-league-2025-26-game-tv-channels-preview"
+image: 'https://cdn.mos.cms.futurecdn.net/7qdpL6NT847mmYrk3TTJpk-1280-80.jpg'
+image_source: rss
+description: >-
+  Saiba como acompanhar os jogos da Premier League, incluindo Crystal Palace vs
+  Manchester United, através das plataformas de streaming e canais de TV em
+  Portu.
+source_url: >-
+  https://www.techradar.com/how-to-watch/football/how-to-watch-crystal-palace-vs-manchester-united-live-stream-premier-league-2025-26-game-tv-channels-preview
 draft: false
 needs_review: false
 photographer_name: undefined

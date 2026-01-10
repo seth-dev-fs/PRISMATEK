@@ -1,17 +1,21 @@
 ---
-title: "News Tower: Gerir um jornal é um jogo sério no Steam"
-date: "2025-11-29T14:37:30.972Z"
-category: "gaming"
+title: 'News Tower: Gerir um jornal é um jogo sério no Steam'
+date: '2025-11-29T14:37:30.972Z'
+category: gaming
 tags:
   - gaming
   - simulador
   - gestão
   - jornalismo
   - Steam
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Screenshot-2025-11-26-at-12.28.43%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C19.958076544116%2C100%2C60.083846911768&w=1200"
-image_source: "rss"
-description: "Descobre News Tower, o novo simulador de gestão de um jornal nos anos 30 disponível no Steam. Gere finanças, repórteres e rivais para o sucesso. No mundo dos..."
-source_url: "https://www.theverge.com/games/830340/news-tower-indie-game-management-sim"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Screenshot-2025-11-26-at-12.28.43%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C19.958076544116%2C100%2C60.083846911768&w=1200
+image_source: rss
+description: >-
+  Descobre News Tower, o novo simulador de gestão de um jornal nos anos 30
+  disponível no Steam. Gere finanças, repórteres e rivais para o sucesso. No
+  mundo dos.
+source_url: 'https://www.theverge.com/games/830340/news-tower-indie-game-management-sim'
 draft: false
 needs_review: false
 photographer_name: undefined

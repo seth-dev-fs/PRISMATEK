@@ -1,17 +1,22 @@
 ---
-title: "Consumidores querem reguladores a protegê-los, não a operadoras"
-date: "2025-11-27T04:47:26.140Z"
-category: "internet-apps"
+title: 'Consumidores querem reguladores a protegê-los, não a operadoras'
+date: '2025-11-27T04:47:26.140Z'
+category: internet-apps
 tags:
   - reguladores
   - telecomunicações
   - consumidores
   - operadoras
   - política digital
-image: "https://m-cdn.phonearena.com/images/article/176119-two/PhoneArena-readers-prefer-that-FCC-Chairman-Carr-not-protect-T-Mobile-Verizon-AT-T.jpg"
-image_source: "rss"
-description: "Sondagem da PhoneArena revela forte preferência dos consumidores: querem reguladores a protegê-los, não a beneficiar operadoras. Um sinal claro para o setor ..."
-source_url: "https://www.phonearena.com/news/phonearena-readers-prefer-fcc-chairman-Carr-protect-consumers-not-carriers_id176119"
+image: >-
+  https://m-cdn.phonearena.com/images/article/176119-two/PhoneArena-readers-prefer-that-FCC-Chairman-Carr-not-protect-T-Mobile-Verizon-AT-T.jpg
+image_source: rss
+description: >-
+  Sondagem da PhoneArena revela forte preferência dos consumidores: querem
+  reguladores a protegê-los, não a beneficiar operadoras. Um sinal claro para o
+  setor.
+source_url: >-
+  https://www.phonearena.com/news/phonearena-readers-prefer-fcc-chairman-Carr-protect-consumers-not-carriers_id176119
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Exynos 2600: O 2nm da Samsung promete fim dos problemas de aquecimento?"
-date: "2025-12-19T08:25:17.019Z"
-category: "smartphones"
+title: 'Exynos 2600: O 2nm da Samsung promete fim dos problemas de aquecimento?'
+date: '2025-12-19T08:25:17.019Z'
+category: smartphones
 tags:
   - Samsung
   - Exynos 2600
   - smartphones
   - processador
   - tecnologia 2nm
-image: "https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-2600-Gaming-Performance-1200x675.jpg"
-image_source: "rss"
-description: "O novo chip Exynos 2600 da Samsung, o primeiro de 2nm, visa revolucionar o desempenho de smartphones. Será que resolve o aquecimento crónico e otimiza a perf..."
-source_url: "https://www.sammobile.com/news/will-exynos-2600-solve-exynos-cooling-issues"
+image: >-
+  https://www.sammobile.com/wp-content/uploads/2025/12/Samsung-Exynos-2600-Gaming-Performance-1200x675.jpg
+image_source: rss
+description: >-
+  O novo chip Exynos 2600 da Samsung, o primeiro de 2nm, visa revolucionar o
+  desempenho de smartphones. Será que resolve o aquecimento crónico e otimiza a
+  perf.
+source_url: 'https://www.sammobile.com/news/will-exynos-2600-solve-exynos-cooling-issues'
 draft: false
 needs_review: false
 photographer_name: undefined

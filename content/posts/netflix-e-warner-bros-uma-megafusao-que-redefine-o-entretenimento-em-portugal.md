@@ -1,17 +1,23 @@
 ---
-title: "Netflix e Warner Bros.: Uma Megafusão que Redefine o Entretenimento em Portugal"
-date: "2026-01-09T20:41:51.653Z"
-category: "entretenimento-gaming"
+title: >-
+  Netflix e Warner Bros.: Uma Megafusão que Redefine o Entretenimento em
+  Portugal
+date: '2026-01-09T20:41:51.653Z'
+category: entretenimento-gaming
 tags:
   - Netflix
   - Warner Bros
   - Streaming
   - Mercado Português
   - Regulação UE
-image: "https://i.blogs.es/6d66f8/maxresdefault/840_560.jpeg"
-image_source: "rss"
-description: "A potencial compra da Warner Bros. pela Netflix promete revolucionar a indústria do cinema. Saiba o impacto desta megatransação no mercado português, nos pre..."
-source_url: "https://www.xataka.com/crossover/industria-cine-lleva-siglo-estancada-netflix-se-quieren-encargar-cambiarla-crossover-1x34"
+image: 'https://i.blogs.es/6d66f8/maxresdefault/840_560.jpeg'
+image_source: rss
+description: >-
+  A potencial compra da Warner Bros. pela Netflix promete revolucionar a
+  indústria do cinema. Saiba o impacto desta megatransação no mercado português,
+  nos pre.
+source_url: >-
+  https://www.xataka.com/crossover/industria-cine-lleva-siglo-estancada-netflix-se-quieren-encargar-cambiarla-crossover-1x34
 draft: false
 needs_review: false
 photographer_name: undefined

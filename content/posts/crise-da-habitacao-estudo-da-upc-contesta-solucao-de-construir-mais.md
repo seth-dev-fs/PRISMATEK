@@ -1,17 +1,21 @@
 ---
-title: "Crise da Habitação: Estudo da UPC Contesta Solução de Construir Mais"
-date: "2025-11-27T16:50:30.065Z"
-category: "home"
+title: 'Crise da Habitação: Estudo da UPC Contesta Solução de Construir Mais'
+date: '2025-11-27T16:50:30.065Z'
+category: home
 tags:
   - habitação
   - crise imobiliária
   - política de habitação
   - urbanismo
   - estudo UPC
-image: "https://i.blogs.es/3338b1/gab-audiovisuel-s4c5icj4c-k-unsplash/840_560.jpeg"
-image_source: "rss"
-description: "Um estudo da Universitat Politècnica de Catalunya desafia a ideia de que construir mais habitações resolve a crise. Foca-se em habitação social e regulação d..."
-source_url: "https://www.xataka.com/magnet/llevamos-anos-buscando-salida-a-crisis-vivienda-hay-quien-cree-que-hemos-estado-equivocandonos-todo"
+image: 'https://i.blogs.es/3338b1/gab-audiovisuel-s4c5icj4c-k-unsplash/840_560.jpeg'
+image_source: rss
+description: >-
+  Um estudo da Universitat Politècnica de Catalunya desafia a ideia de que
+  construir mais habitações resolve a crise. Foca-se em habitação social e
+  regulação d.
+source_url: >-
+  https://www.xataka.com/magnet/llevamos-anos-buscando-salida-a-crisis-vivienda-hay-quien-cree-que-hemos-estado-equivocandonos-todo
 draft: false
 needs_review: true
 photographer_name: undefined

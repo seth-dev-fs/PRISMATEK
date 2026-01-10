@@ -1,17 +1,21 @@
 ---
-title: "Rokid lança óculos inteligentes que desafiam Ray-Ban Meta"
-date: "2026-01-06T01:20:42.296Z"
-category: "wearables"
+title: Rokid lança óculos inteligentes que desafiam Ray-Ban Meta
+date: '2026-01-06T01:20:42.296Z'
+category: wearables
 tags:
   - Rokid
   - óculos inteligentes
   - smart glasses
   - wearables
   - câmara
-image: "https://www.androidauthority.com/wp-content/uploads/2026/01/Rokid-AI-Glasses-Style-official-image.jpg"
-image_source: "rss"
-description: "A Rokid apresenta novos óculos inteligentes com câmara de 12MP e bateria para 12h, posicionando-se como forte alternativa aos Ray-Ban Meta. Conheça as novida..."
-source_url: "https://www.androidauthority.com/rokid-ai-glasses-style-3628246"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2026/01/Rokid-AI-Glasses-Style-official-image.jpg
+image_source: rss
+description: >-
+  A Rokid apresenta novos óculos inteligentes com câmara de 12MP e bateria para
+  12h, posicionando-se como forte alternativa aos Ray-Ban Meta. Conheça as
+  novida.
+source_url: 'https://www.androidauthority.com/rokid-ai-glasses-style-3628246'
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Flappy Bird: O fenómeno móvel que voou alto e desapareceu"
-date: "2026-01-04T14:15:13.506Z"
-category: "gaming"
+title: 'Flappy Bird: O fenómeno móvel que voou alto e desapareceu'
+date: '2026-01-04T14:15:13.506Z'
+category: gaming
 tags:
   - Flappy Bird
   - jogos móveis
   - fenómeno viral
   - Dong Nguyen
   - história de sucesso
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/FlappyBird_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Relembramos a ascensão e a queda de Flappy Bird, o jogo móvel incrivelmente simples que cativou milhões em 2014 antes de desaparecer misteriosamente. Em 2014..."
-source_url: "https://www.theverge.com/podcast/853824/flappy-bird-game-version-history"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/FlappyBird_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Relembramos a ascensão e a queda de Flappy Bird, o jogo móvel incrivelmente
+  simples que cativou milhões em 2014 antes de desaparecer misteriosamente. Em
+  2014.
+source_url: 'https://www.theverge.com/podcast/853824/flappy-bird-game-version-history'
 draft: false
 needs_review: false
 photographer_name: undefined

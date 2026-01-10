@@ -1,17 +1,21 @@
 ---
-title: "iQOO 15 Inicia Expansão Global: Chega a Novas Regiões"
-date: "2025-11-26T08:56:51.725Z"
-category: "smartphones"
+title: 'iQOO 15 Inicia Expansão Global: Chega a Novas Regiões'
+date: '2025-11-26T08:56:51.725Z'
+category: smartphones
 tags:
   - iQOO
   - smartphones
   - Android
   - lançamento
   - mercado global
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/iqoo-15-india-price-sale-date/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "O aguardado smartphone iQOO 15 começa a sua jornada internacional, prometendo alta performance e novidades. Descobre onde o novo dispositivo estará disponíve..."
-source_url: "https://www.gsmarena.com/iqoo_15_india_price_sale_date-news-70447.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/iqoo-15-india-price-sale-date/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  O aguardado smartphone iQOO 15 começa a sua jornada internacional, prometendo
+  alta performance e novidades. Descobre onde o novo dispositivo estará
+  disponíve.
+source_url: 'https://www.gsmarena.com/iqoo_15_india_price_sale_date-news-70447.php'
 draft: false
 needs_review: false
 photographer_name: undefined

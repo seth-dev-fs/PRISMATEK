@@ -1,17 +1,22 @@
 ---
-title: "OnePlus 15: Taxa de 165Hz chega a WhatsApp, Instagram e X"
-date: "2025-12-05T06:59:43.814Z"
-category: "smartphones"
+title: 'OnePlus 15: Taxa de 165Hz chega a WhatsApp, Instagram e X'
+date: '2025-12-05T06:59:43.814Z'
+category: smartphones
 tags:
   - OnePlus
   - smartphones
   - atualização
   - taxa de atualização
   - OxygenOS
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15-165hz/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A mais recente atualização do OnePlus 15 desbloqueia a taxa de atualização de 165Hz para apps como WhatsApp, Instagram e X. Descobre as melhorias. A OnePlus,..."
-source_url: "https://www.gsmarena.com/oneplus_15_update_enables_165hz_for_these_three_apps-news-70575.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15-165hz/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A mais recente atualização do OnePlus 15 desbloqueia a taxa de atualização de
+  165Hz para apps como WhatsApp, Instagram e X. Descobre as melhorias. A
+  OnePlus,.
+source_url: >-
+  https://www.gsmarena.com/oneplus_15_update_enables_165hz_for_these_three_apps-news-70575.php
 draft: false
 needs_review: false
 photographer_name: undefined

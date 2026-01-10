@@ -1,7 +1,7 @@
 ---
-title: "Black Friday na Europa: Televisores e Streaming em Destaque para 2025"
-date: "2025-11-27T10:47:03.596Z"
-category: "entretenimento-gaming"
+title: 'Black Friday na Europa: Televisores e Streaming em Destaque para 2025'
+date: '2025-11-27T10:47:03.596Z'
+category: entretenimento-gaming
 tags:
   - Black Friday
   - televisores
@@ -9,10 +9,15 @@ tags:
   - OLED
   - Samsung
   - LG
-image: "https://s.yimg.com/ny/api/res/1.2/Wrq_rDncR7ZuRV3gUeUCHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/7375a7b0-c3db-11f0-bca7-d533f213bf22"
-image_source: "rss"
-description: "Com a Black Friday de 2025 a aproximar-se, descubra os televisores e equipamentos de streaming que prometem descontos no mercado europeu. Prepare-se para atu..."
-source_url: "https://www.engadget.com/deals/best-black-friday-tv-deals-for-2025-save-hundreds-on-sets-from-samsung-lg-sony-and-more-during-the-biggest-sales-event-of-the-year-181143212.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/Wrq_rDncR7ZuRV3gUeUCHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/7375a7b0-c3db-11f0-bca7-d533f213bf22
+image_source: rss
+description: >-
+  Com a Black Friday de 2025 a aproximar-se, descubra os televisores e
+  equipamentos de streaming que prometem descontos no mercado europeu.
+  Prepare-se para atu.
+source_url: >-
+  https://www.engadget.com/deals/best-black-friday-tv-deals-for-2025-save-hundreds-on-sets-from-samsung-lg-sony-and-more-during-the-biggest-sales-event-of-the-year-181143212.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Samsung PM9E1: O SSD PCIe Gen5 ultracompacto que redefine o armazenamento"
-date: "2025-12-15T20:19:59.811Z"
-category: "computadores"
+title: 'Samsung PM9E1: O SSD PCIe Gen5 ultracompacto que redefine o armazenamento'
+date: '2025-12-15T20:19:59.811Z'
+category: computadores
 tags:
   - Samsung
   - SSD
   - PCIe Gen5
   - Armazenamento
   - Tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/YoBn8vBUZtZcE5pYAdUFGf-1280-80.png"
-image_source: "rss"
-description: "A Samsung revela o PM9E1, um SSD NVMe PCIe Gen5 ultracompacto (22x42mm) que promete revolucionar o armazenamento. Um salto tecnológico para o futuro dos disp..."
-source_url: "https://www.techradar.com/pro/samsungs-surprising-stealth-superfast-ssd-surfaces-silently-pm9e1-turns-out-to-be-a-mini-9100-pro-measuring-just-22-x-42mm-with-pcie-gen5-capabilities"
+image: 'https://cdn.mos.cms.futurecdn.net/YoBn8vBUZtZcE5pYAdUFGf-1280-80.png'
+image_source: rss
+description: >-
+  A Samsung revela o PM9E1, um SSD NVMe PCIe Gen5 ultracompacto (22x42mm) que
+  promete revolucionar o armazenamento. Um salto tecnológico para o futuro dos
+  disp.
+source_url: >-
+  https://www.techradar.com/pro/samsungs-surprising-stealth-superfast-ssd-surfaces-silently-pm9e1-turns-out-to-be-a-mini-9100-pro-measuring-just-22-x-42mm-with-pcie-gen5-capabilities
 draft: false
 needs_review: false
 photographer_name: undefined

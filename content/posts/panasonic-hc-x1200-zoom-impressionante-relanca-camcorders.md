@@ -1,17 +1,20 @@
 ---
-title: "Panasonic HC-X1200: Zoom impressionante relança camcorders?"
-date: "2025-11-29T13:20:20.223Z"
-category: "home"
+title: 'Panasonic HC-X1200: Zoom impressionante relança camcorders?'
+date: '2025-11-29T13:20:20.223Z'
+category: home
 tags:
   - Panasonic
   - camcorder
   - vídeo 4K
   - zoom
   - HC-X1200
-image: "https://cdn.mos.cms.futurecdn.net/oWyTz9TZQEGnqD5MQmGonk-1280-80.jpg"
-image_source: "rss"
-description: "O Panasonic HC-X1200 redefine o que esperamos de um camcorder, com vídeo 4K 60p, estabilização eficaz e um zoom ótico de 24x. Descubra se este é o regresso d..."
-source_url: "https://www.techradar.com/cameras/video-cameras/panasonic-hc-x1200-review"
+image: 'https://cdn.mos.cms.futurecdn.net/oWyTz9TZQEGnqD5MQmGonk-1280-80.jpg'
+image_source: rss
+description: >-
+  O Panasonic HC-X1200 redefine o que esperamos de um camcorder, com vídeo 4K
+  60p, estabilização eficaz e um zoom ótico de 24x. Descubra se este é o
+  regresso d.
+source_url: 'https://www.techradar.com/cameras/video-cameras/panasonic-hc-x1200-review'
 draft: false
 needs_review: true
 photographer_name: undefined

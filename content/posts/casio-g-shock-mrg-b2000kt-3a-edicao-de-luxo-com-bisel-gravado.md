@@ -1,17 +1,22 @@
 ---
-title: "Casio G-Shock MRG-B2000KT-3A: Edição de luxo com bisel gravado"
-date: "2025-12-04T13:51:21.205Z"
-category: "wearables"
+title: 'Casio G-Shock MRG-B2000KT-3A: Edição de luxo com bisel gravado'
+date: '2025-12-04T13:51:21.205Z'
+category: wearables
 tags:
   - Casio
   - G-Shock
   - relógio
   - edição limitada
   - MRG-B2000KT-3A
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-G-Shock-MRG-B2000KT-3A-UK.jpg"
-image_source: "rss"
-description: "O Casio G-Shock MRG-B2000KT-3A é uma edição de luxo com apenas 800 unidades. O seu bisel de titânio, gravado à mão, confere-lhe exclusividade. Inclui Tough S..."
-source_url: "https://www.notebookcheck.net/Limited-edition-Casio-MRG-B2000-watch-with-hand-engraved-bezel-now-available-in-the-UK.1177233.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-G-Shock-MRG-B2000KT-3A-UK.jpg
+image_source: rss
+description: >-
+  O Casio G-Shock MRG-B2000KT-3A é uma edição de luxo com apenas 800 unidades. O
+  seu bisel de titânio, gravado à mão, confere-lhe exclusividade. Inclui Tough
+  S.
+source_url: >-
+  https://www.notebookcheck.net/Limited-edition-Casio-MRG-B2000-watch-with-hand-engraved-bezel-now-available-in-the-UK.1177233.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

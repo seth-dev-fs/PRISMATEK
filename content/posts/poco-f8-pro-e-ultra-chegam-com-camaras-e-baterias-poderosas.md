@@ -1,17 +1,22 @@
 ---
-title: "Poco F8 Pro e Ultra chegam com câmaras e baterias poderosas"
-date: "2025-11-30T13:18:56.375Z"
-category: "smartphones"
+title: Poco F8 Pro e Ultra chegam com câmaras e baterias poderosas
+date: '2025-11-30T13:18:56.375Z'
+category: smartphones
 tags:
   - Poco
   - smartphones
   - F8 Pro
   - F8 Ultra
   - Android
-image: "https://fdn.gsmarena.com/imgroot/news/25/11/dsjhbfkhsdgfkhgsdkfgdskhf/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "A Poco lança os novos F8 Pro e F8 Ultra, prometendo desempenho topo de gama com chips Snapdragon, baterias massivas e sistemas de som Bose. Descubra os detal..."
-source_url: "https://www.gsmarena.com/poco_f8_pro_and_ultra_sd_8_gen_5_mate_80_honor_500_official_week_48_in_review-news-70494.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/11/dsjhbfkhsdgfkhgsdkfgdskhf/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  A Poco lança os novos F8 Pro e F8 Ultra, prometendo desempenho topo de gama
+  com chips Snapdragon, baterias massivas e sistemas de som Bose. Descubra os
+  detal.
+source_url: >-
+  https://www.gsmarena.com/poco_f8_pro_and_ultra_sd_8_gen_5_mate_80_honor_500_official_week_48_in_review-news-70494.php
 draft: false
 needs_review: false
 photographer_name: undefined

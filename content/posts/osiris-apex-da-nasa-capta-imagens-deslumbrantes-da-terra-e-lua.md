@@ -1,17 +1,22 @@
 ---
-title: "OSIRIS-APEX da NASA capta imagens deslumbrantes da Terra e Lua"
-date: "2025-11-29T20:39:54.537Z"
-category: "ciencia"
+title: OSIRIS-APEX da NASA capta imagens deslumbrantes da Terra e Lua
+date: '2025-11-29T20:39:54.537Z'
+category: ciencia
 tags:
   - NASA
   - OSIRIS-APEX
   - sondas espaciais
   - Terra
   - Lua
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/NASAs-OSIRIS-APEX-probe-has-captured-striking-images-of-Earth.jpg"
-image_source: "rss"
-description: "A sonda OSIRIS-APEX da NASA capturou fotos inéditas da Terra com detalhes únicos e uma perspetiva da Lua que realça a imensidão do sistema solar. Uma visão d..."
-source_url: "https://www.notebookcheck.net/NASA-s-OSIRIS-APEX-probe-has-captured-striking-images-of-Earth-and-the-Moon.1173700.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/NASAs-OSIRIS-APEX-probe-has-captured-striking-images-of-Earth.jpg
+image_source: rss
+description: >-
+  A sonda OSIRIS-APEX da NASA capturou fotos inéditas da Terra com detalhes
+  únicos e uma perspetiva da Lua que realça a imensidão do sistema solar. Uma
+  visão d.
+source_url: >-
+  https://www.notebookcheck.net/NASA-s-OSIRIS-APEX-probe-has-captured-striking-images-of-Earth-and-the-Moon.1173700.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

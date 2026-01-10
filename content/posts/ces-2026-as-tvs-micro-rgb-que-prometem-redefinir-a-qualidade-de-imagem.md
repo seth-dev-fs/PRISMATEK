@@ -1,17 +1,22 @@
 ---
-title: "CES 2026: As TVs Micro RGB que prometem redefinir a qualidade de imagem"
-date: "2026-01-05T18:27:48.826Z"
-category: "entretenimento-gaming"
+title: 'CES 2026: As TVs Micro RGB que prometem redefinir a qualidade de imagem'
+date: '2026-01-05T18:27:48.826Z'
+category: entretenimento-gaming
 tags:
   - TVs
   - Micro RGB
   - CES 2026
   - Samsung
   - LG
-image: "https://s.yimg.com/ny/api/res/1.2/Vpcr9lGo.3HxFq8CR_9GwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f9d18a50-ea5e-11f0-af7c-2803404bdcc9"
-image_source: "rss"
-description: "As TVs Micro RGB são a grande novidade da CES 2026, com Samsung e LG a liderar a aposta. Descubra como esta tecnologia de luxo está a elevar a fasquia da ima..."
-source_url: "https://www.engadget.com/home/home-theater/what-are-micro-rgb-tvs-and-why-are-they-everywhere-at-ces-2026-182441543.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/Vpcr9lGo.3HxFq8CR_9GwA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f9d18a50-ea5e-11f0-af7c-2803404bdcc9
+image_source: rss
+description: >-
+  As TVs Micro RGB são a grande novidade da CES 2026, com Samsung e LG a liderar
+  a aposta. Descubra como esta tecnologia de luxo está a elevar a fasquia da
+  ima.
+source_url: >-
+  https://www.engadget.com/home/home-theater/what-are-micro-rgb-tvs-and-why-are-they-everywhere-at-ces-2026-182441543.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

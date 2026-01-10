@@ -1,17 +1,21 @@
 ---
-title: "Dyson Gen5Outsize: O Aspirador Sem Fios Premium para a Sua Casa"
-date: "2025-12-02T03:44:47.274Z"
-category: "home"
+title: 'Dyson Gen5Outsize: O Aspirador Sem Fios Premium para a Sua Casa'
+date: '2025-12-02T03:44:47.274Z'
+category: home
 tags:
   - Dyson
   - aspirador
   - tecnologia
   - limpeza
   - doméstico
-image: "https://cdn.mos.cms.futurecdn.net/FLTfZhyaJceJi4TU7FcLsg-1280-80.jpg"
-image_source: "rss"
-description: "O Dyson Gen5Outsize destaca-se pela tecnologia de ponta e potência de aspiração, tornando-o um dos aspiradores mais desejados no mercado doméstico europeu. D..."
-source_url: "https://www.techradar.com/home/vacuums/stop-the-presses-dyson-discounts-the-gen5outsize-after-black-friday-by-51-percent-now-just-au799"
+image: 'https://cdn.mos.cms.futurecdn.net/FLTfZhyaJceJi4TU7FcLsg-1280-80.jpg'
+image_source: rss
+description: >-
+  O Dyson Gen5Outsize destaca-se pela tecnologia de ponta e potência de
+  aspiração, tornando-o um dos aspiradores mais desejados no mercado doméstico
+  europeu. D.
+source_url: >-
+  https://www.techradar.com/home/vacuums/stop-the-presses-dyson-discounts-the-gen5outsize-after-black-friday-by-51-percent-now-just-au799
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,16 +1,20 @@
 ---
-title: "W1: O Robot Inspirado em Wall-E Chega para Ajudar em Casa"
-date: "2026-01-10T12:33:11.023Z"
-category: "home"
+title: 'W1: O Robot Inspirado em Wall-E Chega para Ajudar em Casa'
+date: '2026-01-10T12:33:11.023Z'
+category: home
 tags:
   - robotica
   - ces2024
   - assistente domestico
   - automacao
-image: "https://mb.web.sapo.io/fbc22d50beb0dba2089708eb732d60e12e61a343.jpg"
-image_source: "rss"
-description: "A Zeroth Robotics apresentou na CES o W1, um robot assistente doméstico com visual Wall-E. Analisamos o seu potencial e a chegada a Portugal face à regulação..."
-source_url: "https://tek.sapo.pt/multimedia/artigos/w1-e-um-robot-inspirado-no-wall-e-e-foi-criado-para-funcionar-como-um-assistente-domestico-inteligente"
+image: 'https://mb.web.sapo.io/fbc22d50beb0dba2089708eb732d60e12e61a343.jpg'
+image_source: rss
+description: >-
+  A Zeroth Robotics apresentou na CES o W1, um robot assistente doméstico com
+  visual Wall-E. Analisamos o seu potencial e a chegada a Portugal face à
+  regulação.
+source_url: >-
+  https://tek.sapo.pt/multimedia/artigos/w1-e-um-robot-inspirado-no-wall-e-e-foi-criado-para-funcionar-como-um-assistente-domestico-inteligente
 draft: false
 needs_review: false
 photographer_name: undefined

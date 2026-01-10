@@ -1,7 +1,7 @@
 ---
-title: "Hubble desvenda 'quase-galáxia' sem estrelas: Cloud-9 desafia a ciência"
-date: "2026-01-09T10:21:40.402Z"
-category: "ciencia"
+title: 'Hubble desvenda ''quase-galáxia'' sem estrelas: Cloud-9 desafia a ciência'
+date: '2026-01-09T10:21:40.402Z'
+category: ciencia
 tags:
   - Hubble
   - galáxias
@@ -9,10 +9,14 @@ tags:
   - formação estelar
   - espaço
   - Cloud-9
-image: "https://i.blogs.es/6d44bb/cloud-9/840_560.png"
-image_source: "rss"
-description: "O Hubble detetou Cloud-9, um objeto cósmico sem estrelas que desafia a definição de galáxia. Este 'elo perdido' na cosmologia revela segredos da formação est..."
-source_url: "https://www.xataka.com/espacio/hubble-ha-encontrado-algo-inesperado-universo-cercano-galaxia-que-no-llego-a-encenderse"
+image: 'https://i.blogs.es/6d44bb/cloud-9/840_560.png'
+image_source: rss
+description: >-
+  O Hubble detetou Cloud-9, um objeto cósmico sem estrelas que desafia a
+  definição de galáxia. Este 'elo perdido' na cosmologia revela segredos da
+  formação est.
+source_url: >-
+  https://www.xataka.com/espacio/hubble-ha-encontrado-algo-inesperado-universo-cercano-galaxia-que-no-llego-a-encenderse
 draft: false
 needs_review: false
 photographer_name: undefined

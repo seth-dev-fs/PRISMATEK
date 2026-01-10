@@ -1,17 +1,23 @@
 ---
-title: "Ciberataque abala bancos dos EUA: dados em risco e investigação aberta"
-date: "2025-11-24T14:46:57.787Z"
-category: "internet-apps"
+title: 'Ciberataque abala bancos dos EUA: dados em risco e investigação aberta'
+date: '2025-11-24T14:46:57.787Z'
+category: internet-apps
 tags:
   - cibersegurança
   - bancos
   - dados
   - violação de dados
   - JPMorgan Chase
-image: "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-172674485.jpeg?resize=1200,800"
-image_source: "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-172674485.jpeg?resize=1200,800"
-description: "Gigantes bancários dos EUA, como JPMorgan e Citi, enfrentam um ciberataque massivo. Saiba como a violação de uma firma financeira impacta o setor global e a ..."
-source_url: "https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-teft-after-hackers-breach-financial-tech-firm"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-172674485.jpeg?resize=1200,800
+image_source: >-
+  https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-172674485.jpeg?resize=1200,800
+description: >-
+  Gigantes bancários dos EUA, como JPMorgan e Citi, enfrentam um ciberataque
+  massivo. Saiba como a violação de uma firma financeira impacta o setor global
+  e a.
+source_url: >-
+  https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-teft-after-hackers-breach-financial-tech-firm
 draft: false
 needs_review: false
 ---

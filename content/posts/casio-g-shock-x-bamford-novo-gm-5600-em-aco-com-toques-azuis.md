@@ -1,17 +1,22 @@
 ---
-title: "Casio G-Shock x Bamford: Novo GM-5600 em aço com toques azuis"
-date: "2025-11-25T22:42:32.883Z"
-category: "wearables"
+title: 'Casio G-Shock x Bamford: Novo GM-5600 em aço com toques azuis'
+date: '2025-11-25T22:42:32.883Z'
+category: wearables
 tags:
   - Casio
   - G-Shock
   - Bamford
   - relógios
   - colaboração
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-x-Bamford-.png"
-image_source: "rss"
-description: "Descobre as últimas imagens do Casio G-Shock GM-5600, uma colaboração exclusiva com a Bamford. Aço inoxidável e detalhes azuis para o relógio que chega a 9 d..."
-source_url: "https://www.notebookcheck.net/Casio-x-Bamford-More-promo-images-available-for-new-stainless-steel-G-Shock-GM-5600.1170507.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Casio-x-Bamford-.png
+image_source: rss
+description: >-
+  Descobre as últimas imagens do Casio G-Shock GM-5600, uma colaboração
+  exclusiva com a Bamford. Aço inoxidável e detalhes azuis para o relógio que
+  chega a 9 d.
+source_url: >-
+  https://www.notebookcheck.net/Casio-x-Bamford-More-promo-images-available-for-new-stainless-steel-G-Shock-GM-5600.1170507.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,22 @@
 ---
-title: "Anbernic RG477V: Emulação de PS2 e GameCube a alta resolução"
-date: "2025-12-08T10:19:53.265Z"
-category: "gaming"
+title: 'Anbernic RG477V: Emulação de PS2 e GameCube a alta resolução'
+date: '2025-12-08T10:19:53.265Z'
+category: gaming
 tags:
   - Anbernic
   - gaming portátil
   - emulação
   - retro gaming
   - RG477V
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/anbernic-rg477v-showcase-kv.jpg"
-image_source: "rss"
-description: "A Anbernic revela o RG477V, uma consola portátil que promete revolucionar a emulação de PS2, GameCube e Wii com ecrã a 120 Hz e gráficos escalados. A Anberni..."
-source_url: "https://www.notebookcheck.net/Anbernic-RG477V-showcased-with-PS2-GameCube-and-Wii-emulation-performance-at-3x-and-4x-resolution-scaling.1180575.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/anbernic-rg477v-showcase-kv.jpg
+image_source: rss
+description: >-
+  A Anbernic revela o RG477V, uma consola portátil que promete revolucionar a
+  emulação de PS2, GameCube e Wii com ecrã a 120 Hz e gráficos escalados. A
+  Anberni.
+source_url: >-
+  https://www.notebookcheck.net/Anbernic-RG477V-showcased-with-PS2-GameCube-and-Wii-emulation-performance-at-3x-and-4x-resolution-scaling.1180575.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

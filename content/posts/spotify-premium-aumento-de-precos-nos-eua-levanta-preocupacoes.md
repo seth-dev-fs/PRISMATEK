@@ -1,17 +1,22 @@
 ---
-title: "Spotify Premium: Aumento de preços nos EUA levanta preocupações"
-date: "2025-11-25T08:56:02.153Z"
-category: "internet-apps"
+title: 'Spotify Premium: Aumento de preços nos EUA levanta preocupações'
+date: '2025-11-25T08:56:02.153Z'
+category: internet-apps
 tags:
   - Spotify
   - streaming
   - música
   - preços
   - assinatura
-image: "https://www.androidauthority.com/wp-content/uploads/2025/09/spotify-recommendations.jpg"
-image_source: "https://www.androidauthority.com/wp-content/uploads/2025/09/spotify-recommendations.jpg"
-description: "Rumores indicam que o Spotify Premium poderá sofrer um aumento de preços nos EUA. Saiba o que esta mudança poderá significar para os utilizadores europeus e ..."
-source_url: "https://www.androidauthority.com/spotify-us-price-hike-rumor-3619323"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/09/spotify-recommendations.jpg
+image_source: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/09/spotify-recommendations.jpg
+description: >-
+  Rumores indicam que o Spotify Premium poderá sofrer um aumento de preços nos
+  EUA. Saiba o que esta mudança poderá significar para os utilizadores europeus
+  e.
+source_url: 'https://www.androidauthority.com/spotify-us-price-hike-rumor-3619323'
 draft: false
 needs_review: false
 ---

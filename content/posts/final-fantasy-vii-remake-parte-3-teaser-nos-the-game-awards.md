@@ -1,17 +1,22 @@
 ---
-title: "Final Fantasy VII Remake Parte 3: Teaser nos The Game Awards?"
-date: "2025-12-01T16:58:45.336Z"
-category: "gaming"
+title: 'Final Fantasy VII Remake Parte 3: Teaser nos The Game Awards?'
+date: '2025-12-01T16:58:45.336Z'
+category: gaming
 tags:
   - Final Fantasy VII Remake
   - The Game Awards
   - Square Enix
   - Gaming
   - RPG
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FinalFantasy7SnowboardingWallpaper.jpg"
-image_source: "rss"
-description: "Será que Final Fantasy VII Remake Parte 3 fará a sua primeira aparição nos The Game Awards? A Square Enix levanta o véu sobre possíveis novidades do aguardad..."
-source_url: "https://www.notebookcheck.net/Final-Fantasy-7-Remake-Part-3-may-appear-at-The-Game-Awards-after-Square-Enix-posts-calendar.1174712.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/FinalFantasy7SnowboardingWallpaper.jpg
+image_source: rss
+description: >-
+  Será que Final Fantasy VII Remake Parte 3 fará a sua primeira aparição nos The
+  Game Awards? A Square Enix levanta o véu sobre possíveis novidades do
+  aguardad.
+source_url: >-
+  https://www.notebookcheck.net/Final-Fantasy-7-Remake-Part-3-may-appear-at-The-Game-Awards-after-Square-Enix-posts-calendar.1174712.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

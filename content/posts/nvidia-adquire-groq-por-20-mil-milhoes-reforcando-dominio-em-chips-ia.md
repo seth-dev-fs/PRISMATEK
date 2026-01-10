@@ -1,17 +1,22 @@
 ---
-title: "Nvidia adquire Groq por 20 mil milhões, reforçando domínio em chips IA"
-date: "2025-12-24T22:17:06.000Z"
-category: "ai-futuro"
+title: 'Nvidia adquire Groq por 20 mil milhões, reforçando domínio em chips IA'
+date: '2025-12-24T22:17:06.000Z'
+category: ai-futuro
 tags:
   - Nvidia
   - Groq
   - chips IA
   - aquisição
   - inteligência artificial
-image: "https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg?resize=1200,640"
-image_source: "rss"
-description: "A Nvidia reforça a sua liderança no mercado de chips de IA. Conheça os detalhes da aquisição da Groq por 20 mil milhões de dólares e o impacto no futuro da i..."
-source_url: "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg?resize=1200,640
+image_source: rss
+description: >-
+  A Nvidia reforça a sua liderança no mercado de chips de IA. Conheça os
+  detalhes da aquisição da Groq por 20 mil milhões de dólares e o impacto no
+  futuro da i.
+source_url: >-
+  https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says
 draft: false
 needs_review: false
 photographer_name: undefined

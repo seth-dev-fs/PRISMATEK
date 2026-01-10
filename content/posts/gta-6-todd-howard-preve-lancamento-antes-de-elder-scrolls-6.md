@@ -1,17 +1,22 @@
 ---
-title: "GTA 6: Todd Howard prevê lançamento antes de Elder Scrolls 6"
-date: "2025-12-04T04:55:19.610Z"
-category: "gaming"
+title: 'GTA 6: Todd Howard prevê lançamento antes de Elder Scrolls 6'
+date: '2025-12-04T04:55:19.610Z'
+category: gaming
 tags:
   - GTA 6
   - The Elder Scrolls 6
   - Rockstar Games
   - Bethesda
   - lançamento de jogos
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6andTheElderScrollsLogos.jpg"
-image_source: "rss"
-description: "Todd Howard da Bethesda acredita que, mesmo com atrasos, GTA 6 da Rockstar Games chegará antes de The Elder Scrolls 6. Conheça as perspetivas para estes agua..."
-source_url: "https://www.notebookcheck.net/Todd-Howard-thinks-GTA-6-release-date-will-arrive-before-The-Elder-Scrolls-6-even-after-delays.1177133.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6andTheElderScrollsLogos.jpg
+image_source: rss
+description: >-
+  Todd Howard da Bethesda acredita que, mesmo com atrasos, GTA 6 da Rockstar
+  Games chegará antes de The Elder Scrolls 6. Conheça as perspetivas para estes
+  agua.
+source_url: >-
+  https://www.notebookcheck.net/Todd-Howard-thinks-GTA-6-release-date-will-arrive-before-The-Elder-Scrolls-6-even-after-delays.1177133.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

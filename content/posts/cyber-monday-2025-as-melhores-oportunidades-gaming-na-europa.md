@@ -1,7 +1,7 @@
 ---
-title: "Cyber Monday 2025: As Melhores Oportunidades Gaming na Europa"
-date: "2025-12-01T19:03:55.975Z"
-category: "gaming"
+title: 'Cyber Monday 2025: As Melhores Oportunidades Gaming na Europa'
+date: '2025-12-01T19:03:55.975Z'
+category: gaming
 tags:
   - gaming
   - consolas
@@ -10,10 +10,15 @@ tags:
   - nintendo
   - xbox
   - jogos
-image: "https://s.yimg.com/ny/api/res/1.2/aFBtjYQCIT1LMXwXMx30kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/36e51460-cd91-11f0-bd6f-9653db2a0d0c"
-image_source: "rss"
-description: "O Cyber Monday de 2025 trouxe descontos imperdíveis em consolas como Nintendo Switch 2 e PS5, jogos AAA e periféricos. Descubra as melhores ofertas gaming no..."
-source_url: "https://www.engadget.com/deals/the-best-cyber-monday-gaming-deals-for-2025-save-on-the-nintendo-switch-2-ps5-consoles-xbox-controllers-tons-of-games-and-more-172904924.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/aFBtjYQCIT1LMXwXMx30kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/36e51460-cd91-11f0-bd6f-9653db2a0d0c
+image_source: rss
+description: >-
+  O Cyber Monday de 2025 trouxe descontos imperdíveis em consolas como Nintendo
+  Switch 2 e PS5, jogos AAA e periféricos. Descubra as melhores ofertas gaming
+  no.
+source_url: >-
+  https://www.engadget.com/deals/the-best-cyber-monday-gaming-deals-for-2025-save-on-the-nintendo-switch-2-ps5-consoles-xbox-controllers-tons-of-games-and-more-172904924.html?src=rss
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: As Melhores Oportunidades em Tecnologia na Europa"
-date: "2025-11-27T03:39:57.401Z"
-category: "home"
+title: 'Black Friday: As Melhores Oportunidades em Tecnologia na Europa'
+date: '2025-11-27T03:39:57.401Z'
+category: home
 tags:
   - Black Friday
   - tecnologia
   - descontos
   - gadgets
   - eletrónica
-image: "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-image_source: "rss"
-description: "Descubra as tendências de descontos em tecnologia durante a Black Friday no mercado europeu, desde gadgets Apple a wearables e áudio. Prepare-se para as ofer..."
-source_url: "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025"
+image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+image_source: rss
+description: >-
+  Descubra as tendências de descontos em tecnologia durante a Black Friday no
+  mercado europeu, desde gadgets Apple a wearables e áudio. Prepare-se para as
+  ofer.
+source_url: 'https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025'
 draft: false
 needs_review: true
 photographer_name: undefined

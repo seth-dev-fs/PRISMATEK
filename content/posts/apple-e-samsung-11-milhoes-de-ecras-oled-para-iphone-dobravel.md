@@ -1,17 +1,22 @@
 ---
-title: "Apple e Samsung: 11 milhões de ecrãs OLED para iPhone dobrável"
-date: "2025-12-10T10:22:09.662Z"
-category: "smartphones"
+title: 'Apple e Samsung: 11 milhões de ecrãs OLED para iPhone dobrável'
+date: '2025-12-10T10:22:09.662Z'
+category: smartphones
 tags:
   - Apple
   - Samsung
   - iPhone dobrável
   - OLED
   - smartphones
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unofficial-render-of-the-rumored-iPhone-Fold-Image-source-Concept-Creator-via-YouTube.jpg"
-image_source: "rss"
-description: "A Apple prepara-se para lançar o seu primeiro iPhone dobrável e, ao que tudo indica, aposta forte. A Samsung vai fornecer 11 milhões de ecrãs OLED para o pro..."
-source_url: "https://www.notebookcheck.net/Apple-reportedly-taps-Samsung-to-supply-11-million-OLED-panels-for-its-first-foldable-iPhone.1182383.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Unofficial-render-of-the-rumored-iPhone-Fold-Image-source-Concept-Creator-via-YouTube.jpg
+image_source: rss
+description: >-
+  A Apple prepara-se para lançar o seu primeiro iPhone dobrável e, ao que tudo
+  indica, aposta forte. A Samsung vai fornecer 11 milhões de ecrãs OLED para o
+  pro.
+source_url: >-
+  https://www.notebookcheck.net/Apple-reportedly-taps-Samsung-to-supply-11-million-OLED-panels-for-its-first-foldable-iPhone.1182383.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

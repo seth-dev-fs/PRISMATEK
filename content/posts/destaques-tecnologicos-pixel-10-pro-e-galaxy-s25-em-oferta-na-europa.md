@@ -1,17 +1,21 @@
 ---
-title: "Destaques Tecnológicos: Pixel 10 Pro e Galaxy S25 em Oferta na Europa"
-date: "2025-12-13T10:17:53.486Z"
-category: "mobilidade"
+title: 'Destaques Tecnológicos: Pixel 10 Pro e Galaxy S25 em Oferta na Europa'
+date: '2025-12-13T10:17:53.486Z'
+category: mobilidade
 tags:
   - smartphones
   - Google Pixel
   - Samsung Galaxy
   - AirPods Pro
   - ofertas
-image: "https://i.blogs.es/28c9e6/mediamarkt-y-el-corte-ingles/840_560.jpeg"
-image_source: "rss"
-description: "Descubra as mais recentes ofertas em smartphones e áudio. Google Pixel 10 Pro e Samsung Galaxy S25 com preços atraentes em retalhistas europeus, além dos Air..."
-source_url: "https://www.xataka.com/seleccion/cinco-ofertas-tecnologia-entretenimiento-mediamarkt-corte-ingles-hoy-13-diciembre"
+image: 'https://i.blogs.es/28c9e6/mediamarkt-y-el-corte-ingles/840_560.jpeg'
+image_source: rss
+description: >-
+  Descubra as mais recentes ofertas em smartphones e áudio. Google Pixel 10 Pro
+  e Samsung Galaxy S25 com preços atraentes em retalhistas europeus, além dos
+  Air.
+source_url: >-
+  https://www.xataka.com/seleccion/cinco-ofertas-tecnologia-entretenimiento-mediamarkt-corte-ingles-hoy-13-diciembre
 draft: false
 needs_review: false
 photographer_name: undefined

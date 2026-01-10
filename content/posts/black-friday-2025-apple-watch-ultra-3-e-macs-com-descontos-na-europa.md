@@ -1,17 +1,21 @@
 ---
-title: "Black Friday 2025: Apple Watch Ultra 3 e Macs com descontos na Europa"
-date: "2025-11-28T16:49:06.569Z"
-category: "computadores"
+title: 'Black Friday 2025: Apple Watch Ultra 3 e Macs com descontos na Europa'
+date: '2025-11-28T16:49:06.569Z'
+category: computadores
 tags:
   - Apple
   - Black Friday
   - MacBook
   - Apple Watch
   - ofertas
-image: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Black-Friday-deals-apple-Watch-M5-MacBook-AirPods.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-image_source: "rss"
-description: "A Black Friday 2025 promete trazer preços mais competitivos para o Apple Watch Ultra 3, MacBook Pro M5 e MacBook Air M4 no mercado europeu. A Black Friday 20..."
-source_url: "https://9to5mac.com/2025/11/28/black-friday-deals-apple-watch-ultra-m5-macbook"
+image: >-
+  https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Black-Friday-deals-apple-Watch-M5-MacBook-AirPods.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
+image_source: rss
+description: >-
+  A Black Friday 2025 promete trazer preços mais competitivos para o Apple Watch
+  Ultra 3, MacBook Pro M5 e MacBook Air M4 no mercado europeu. A Black Friday
+  20.
+source_url: 'https://9to5mac.com/2025/11/28/black-friday-deals-apple-watch-ultra-m5-macbook'
 draft: false
 needs_review: false
 photographer_name: undefined

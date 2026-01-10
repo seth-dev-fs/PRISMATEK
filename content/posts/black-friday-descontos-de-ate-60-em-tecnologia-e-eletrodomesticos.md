@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Descontos de até 60% em tecnologia e eletrodomésticos"
-date: "2025-11-28T06:58:45.288Z"
-category: "home"
+title: 'Black Friday: Descontos de até 60% em tecnologia e eletrodomésticos'
+date: '2025-11-28T06:58:45.288Z'
+category: home
 tags:
   - Black Friday
   - descontos
   - tecnologia
   - eletrodomésticos
   - consumo
-image: "https://cdn.mos.cms.futurecdn.net/ZwngYpCLZQjBZjaBiQMN8X-1280-80.jpg"
-image_source: "rss"
-description: "A Black Friday traz poupanças até 60% em TVs, portáteis, áudio e eletrodomésticos. Prepare-se para as melhores oportunidades no mercado europeu. A Black Frid..."
-source_url: "https://www.techradar.com/live/news/the-135-best-black-friday-deals-in-the-uk-save-up-to-60-percent-on-tvs-laptops-appliances-headphones-and-more"
+image: 'https://cdn.mos.cms.futurecdn.net/ZwngYpCLZQjBZjaBiQMN8X-1280-80.jpg'
+image_source: rss
+description: >-
+  A Black Friday traz poupanças até 60% em TVs, portáteis, áudio e
+  eletrodomésticos. Prepare-se para as melhores oportunidades no mercado
+  europeu. A Black Frid.
+source_url: >-
+  https://www.techradar.com/live/news/the-135-best-black-friday-deals-in-the-uk-save-up-to-60-percent-on-tvs-laptops-appliances-headphones-and-more
 draft: false
 needs_review: false
 photographer_name: undefined

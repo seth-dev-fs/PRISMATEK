@@ -1,17 +1,22 @@
 ---
-title: "Honor Magic8 Pro: Autonomia promissora com bateria de 6.270 mAh"
-date: "2025-12-07T10:15:45.359Z"
-category: "smartphones"
+title: 'Honor Magic8 Pro: Autonomia promissora com bateria de 6.270 mAh'
+date: '2025-12-07T10:15:45.359Z'
+category: smartphones
 tags:
   - Honor
   - Magic8 Pro
   - smartphones
   - bateria
   - autonomia
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/honor-magic8-pro-battery-life-charging/-952x498w6/gsmarena_001.jpg"
-image_source: "rss"
-description: "O Honor Magic8 Pro chega à Europa com uma bateria de 6.270 mAh, prometendo um desempenho de autonomia sólido. Conheça os primeiros detalhes e testes. O Honor..."
-source_url: "https://www.gsmarena.com/honor_magic8_pro_battery_life_and_charging_speed-news-70596.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/honor-magic8-pro-battery-life-charging/-952x498w6/gsmarena_001.jpg
+image_source: rss
+description: >-
+  O Honor Magic8 Pro chega à Europa com uma bateria de 6.270 mAh, prometendo um
+  desempenho de autonomia sólido. Conheça os primeiros detalhes e testes. O
+  Honor.
+source_url: >-
+  https://www.gsmarena.com/honor_magic8_pro_battery_life_and_charging_speed-news-70596.php
 draft: false
 needs_review: false
 photographer_name: undefined

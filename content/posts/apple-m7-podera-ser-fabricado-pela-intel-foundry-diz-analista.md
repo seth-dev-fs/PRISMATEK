@@ -1,17 +1,21 @@
 ---
-title: "Apple M7 poderá ser fabricado pela Intel Foundry, diz analista"
-date: "2025-11-28T18:55:54.018Z"
-category: "computadores"
+title: 'Apple M7 poderá ser fabricado pela Intel Foundry, diz analista'
+date: '2025-11-28T18:55:54.018Z'
+category: computadores
 tags:
   - Apple
   - Intel
   - chips
   - M7
   - processadores
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-M7.png"
-image_source: "rss"
-description: "Um novo rumor sugere que o chip Apple M7 poderá ser produzido pela Intel Foundry, marcando uma potencial mudança estratégica para a gigante de Cupertino. Sai..."
-source_url: "https://www.notebookcheck.net/Apple-M7-tipped-to-be-manufactured-by-Intel-Foundry.1173260.0.html"
+image: 'https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-M7.png'
+image_source: rss
+description: >-
+  Um novo rumor sugere que o chip Apple M7 poderá ser produzido pela Intel
+  Foundry, marcando uma potencial mudança estratégica para a gigante de
+  Cupertino. Sai.
+source_url: >-
+  https://www.notebookcheck.net/Apple-M7-tipped-to-be-manufactured-by-Intel-Foundry.1173260.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

@@ -1,17 +1,21 @@
 ---
-title: "3 Séries Netflix Canceladas em 2025 que Ainda Merecem a Sua Atenção"
-date: "2025-12-23T10:22:35.461Z"
-category: "entretenimento-gaming"
+title: 3 Séries Netflix Canceladas em 2025 que Ainda Merecem a Sua Atenção
+date: '2025-12-23T10:22:35.461Z'
+category: entretenimento-gaming
 tags:
   - Netflix
   - séries canceladas
   - streaming
   - entretenimento
   - TV
-image: "https://cdn.mos.cms.futurecdn.net/Uw2gU762sZkRqMZFLByxTB-1280-80.jpg"
-image_source: "rss"
-description: "Descubra três séries da Netflix canceladas em 2025 que, apesar do fim, prometem horas de bom entretenimento. De comédias a thrillers, não as perca. A Netflix..."
-source_url: "https://www.techradar.com/streaming/netflix/3-canceled-netflix-shows-in-2025-that-are-still-worth-watching"
+image: 'https://cdn.mos.cms.futurecdn.net/Uw2gU762sZkRqMZFLByxTB-1280-80.jpg'
+image_source: rss
+description: >-
+  Descubra três séries da Netflix canceladas em 2025 que, apesar do fim,
+  prometem horas de bom entretenimento. De comédias a thrillers, não as perca. A
+  Netflix.
+source_url: >-
+  https://www.techradar.com/streaming/netflix/3-canceled-netflix-shows-in-2025-that-are-still-worth-watching
 draft: false
 needs_review: false
 photographer_name: undefined

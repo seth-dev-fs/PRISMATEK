@@ -1,17 +1,22 @@
 ---
-title: "AWS re:Invent 2025: As Novidades em IA e Chips da Amazon"
-date: "2025-12-05T03:45:25.695Z"
-category: "ai-futuro"
+title: 'AWS re:Invent 2025: As Novidades em IA e Chips da Amazon'
+date: '2025-12-05T03:45:25.695Z'
+category: ai-futuro
 tags:
   - AWS
-  - re:Invent
+  - 're:Invent'
   - cloud
   - inteligência artificial
   - semicondutores
-image: "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746"
-image_source: "rss"
-description: "A AWS re:Invent 2025 revelou inovações cruciais, de novos chips para inteligência artificial a serviços na cloud que moldarão o futuro da tecnologia empresar..."
-source_url: "https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746
+image_source: rss
+description: >-
+  A AWS re:Invent 2025 revelou inovações cruciais, de novos chips para
+  inteligência artificial a serviços na cloud que moldarão o futuro da
+  tecnologia empresar.
+source_url: >-
+  https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025
 draft: false
 needs_review: false
 photographer_name: undefined

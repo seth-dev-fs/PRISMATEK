@@ -1,17 +1,22 @@
 ---
-title: "Epic Games Store: Último Jogo Grátis de 2025 Gera Mistério"
-date: "2025-12-31T08:25:57.709Z"
-category: "gaming"
+title: 'Epic Games Store: Último Jogo Grátis de 2025 Gera Mistério'
+date: '2025-12-31T08:25:57.709Z'
+category: gaming
 tags:
   - Epic Games Store
   - jogos grátis
   - PC gaming
   - promoção
   - ofertas digitais
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Epic-Games-Store-December-31-mystery-free-game-hint-shared.jpg"
-image_source: "rss"
-description: "A Epic Games Store prepara-se para revelar o seu último jogo grátis misterioso de 2025. Descobre os rumores e a excitação da comunidade de gaming. A Epic Gam..."
-source_url: "https://www.notebookcheck.net/Epic-Games-Store-shares-cryptic-teaser-for-final-mystery-free-game-of-2025.1194442.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Epic-Games-Store-December-31-mystery-free-game-hint-shared.jpg
+image_source: rss
+description: >-
+  A Epic Games Store prepara-se para revelar o seu último jogo grátis misterioso
+  de 2025. Descobre os rumores e a excitação da comunidade de gaming. A Epic
+  Gam.
+source_url: >-
+  https://www.notebookcheck.net/Epic-Games-Store-shares-cryptic-teaser-for-final-mystery-free-game-of-2025.1194442.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

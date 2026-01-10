@@ -1,17 +1,21 @@
 ---
-title: "vivo Domina Liderança das Câmaras Móveis em 2025"
-date: "2026-01-03T10:18:18.332Z"
-category: "smartphones"
+title: vivo Domina Liderança das Câmaras Móveis em 2025
+date: '2026-01-03T10:18:18.332Z'
+category: smartphones
 tags:
   - vivo
   - smartphones
   - câmaras
   - fotografia
   - X300 Pro
-image: "https://fdn.gsmarena.com/imgroot/news/25/12/top-phones-2025-camera/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "O ano de 2025 viu a vivo emergir como líder incontestável na inovação de câmaras de smartphones, com o X300 Pro a impressionar globalmente. Analisamos os des..."
-source_url: "https://www.gsmarena.com/top_phones_of_2025_camera-news-70831.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/25/12/top-phones-2025-camera/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  O ano de 2025 viu a vivo emergir como líder incontestável na inovação de
+  câmaras de smartphones, com o X300 Pro a impressionar globalmente. Analisamos
+  os des.
+source_url: 'https://www.gsmarena.com/top_phones_of_2025_camera-news-70831.php'
 draft: false
 needs_review: false
 photographer_name: undefined

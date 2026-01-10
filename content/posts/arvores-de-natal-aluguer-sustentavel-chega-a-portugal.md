@@ -1,17 +1,21 @@
 ---
-title: "Árvores de Natal: Aluguer Sustentável Chega a Portugal?"
-date: "2025-12-06T12:33:41.508Z"
-category: "home"
+title: 'Árvores de Natal: Aluguer Sustentável Chega a Portugal?'
+date: '2025-12-06T12:33:41.508Z'
+category: home
 tags:
   - árvore de Natal
   - aluguer
   - decoração
   - Natal
   - sustentabilidade
-image: "https://i.blogs.es/b3a31a/arun-kuchibhotla-crfwuqkr0-s-unsplash/840_560.jpeg"
-image_source: "rss"
-description: "A dificuldade em guardar a árvore de Natal pós-festas impulsiona um novo serviço: o aluguer. Descubra esta tendência em Portugal, cada vez mais popular, que ..."
-source_url: "https://www.xataka.com/magnet/cada-ano-miles-familias-se-enfrentan-al-dilema-donde-guardar-arbol-navidad-hay-empresas-que-alquilan"
+image: 'https://i.blogs.es/b3a31a/arun-kuchibhotla-crfwuqkr0-s-unsplash/840_560.jpeg'
+image_source: rss
+description: >-
+  A dificuldade em guardar a árvore de Natal pós-festas impulsiona um novo
+  serviço: o aluguer. Descubra esta tendência em Portugal, cada vez mais
+  popular, que.
+source_url: >-
+  https://www.xataka.com/magnet/cada-ano-miles-familias-se-enfrentan-al-dilema-donde-guardar-arbol-navidad-hay-empresas-que-alquilan
 draft: false
 needs_review: true
 photographer_name: undefined

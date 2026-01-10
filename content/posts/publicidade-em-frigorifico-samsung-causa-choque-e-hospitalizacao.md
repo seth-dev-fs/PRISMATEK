@@ -1,17 +1,22 @@
 ---
-title: "Publicidade em frigorífico Samsung causa choque e hospitalização"
-date: "2025-12-06T14:15:55.334Z"
-category: "internet-apps"
+title: Publicidade em frigorífico Samsung causa choque e hospitalização
+date: '2025-12-06T14:15:55.334Z'
+category: internet-apps
 tags:
   - Samsung
   - frigorífico inteligente
   - publicidade
   - saúde mental
   - ética tecnológica
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Reddit-Samsung-Fridge.png"
-image_source: "rss"
-description: "Um incidente envolvendo um anúncio num frigorífico inteligente Samsung resultou na hospitalização de uma mulher, gerando um debate sobre publicidade e saúde ..."
-source_url: "https://www.notebookcheck.net/Woman-with-schizophrenia-hospitalized-after-seeing-an-advert-on-Samsung-smart-fridge.1179479.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Reddit-Samsung-Fridge.png
+image_source: rss
+description: >-
+  Um incidente envolvendo um anúncio num frigorífico inteligente Samsung
+  resultou na hospitalização de uma mulher, gerando um debate sobre publicidade
+  e saúde.
+source_url: >-
+  https://www.notebookcheck.net/Woman-with-schizophrenia-hospitalized-after-seeing-an-advert-on-Samsung-smart-fridge.1179479.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

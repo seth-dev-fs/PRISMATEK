@@ -1,17 +1,20 @@
 ---
-title: "Autoalojamento em Crescimento: Utilizadores Linux na Liderança"
-date: "2025-11-28T08:55:58.889Z"
-category: "internet-apps"
+title: 'Autoalojamento em Crescimento: Utilizadores Linux na Liderança'
+date: '2025-11-28T08:55:58.889Z'
+category: internet-apps
 tags:
   - autoalojamento
   - self-hosting
   - Linux
   - privacidade
   - controlo de dados
-image: "https://itsfoss.com/content/images/2025/11/self-hosting-is-rising.webp"
-image_source: "rss"
-description: "O autoalojamento de serviços e dados está a ganhar terreno em Portugal e na Europa. Saiba como os utilizadores Linux lideram este movimento pela autonomia di..."
-source_url: "https://itsfoss.com/self-hosting-rising"
+image: 'https://itsfoss.com/content/images/2025/11/self-hosting-is-rising.webp'
+image_source: rss
+description: >-
+  O autoalojamento de serviços e dados está a ganhar terreno em Portugal e na
+  Europa. Saiba como os utilizadores Linux lideram este movimento pela autonomia
+  di.
+source_url: 'https://itsfoss.com/self-hosting-rising'
 draft: false
 needs_review: false
 photographer_name: undefined

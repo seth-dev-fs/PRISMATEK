@@ -1,17 +1,21 @@
 ---
-title: "Xbox em 2025: Os jogos que prometem brilhar e o Game Pass"
-date: "2025-12-02T10:51:51.983Z"
-category: "gaming"
+title: 'Xbox em 2025: Os jogos que prometem brilhar e o Game Pass'
+date: '2025-12-02T10:51:51.983Z'
+category: gaming
 tags:
   - Xbox
   - jogos
   - gaming
   - Game Pass
   - Microsoft
-image: "https://s.yimg.com/ny/api/res/1.2/_PRcKr14fOarzNjnzRCRzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/e15eb440-b97f-11ef-bfff-c06a3a111e7d"
-image_source: "rss"
-description: "A seleção de jogos para Xbox em 2025 é vasta, impulsionada pelas aquisições da Microsoft e o Game Pass. Descobre o que esperar e como escolher os melhores tí..."
-source_url: "https://www.engadget.com/gaming/xbox/best-xbox-games-140022399.html?src=rss"
+image: >-
+  https://s.yimg.com/ny/api/res/1.2/_PRcKr14fOarzNjnzRCRzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/e15eb440-b97f-11ef-bfff-c06a3a111e7d
+image_source: rss
+description: >-
+  A seleção de jogos para Xbox em 2025 é vasta, impulsionada pelas aquisições da
+  Microsoft e o Game Pass. Descobre o que esperar e como escolher os melhores
+  tí.
+source_url: 'https://www.engadget.com/gaming/xbox/best-xbox-games-140022399.html?src=rss'
 draft: false
 needs_review: false
 photographer_name: undefined

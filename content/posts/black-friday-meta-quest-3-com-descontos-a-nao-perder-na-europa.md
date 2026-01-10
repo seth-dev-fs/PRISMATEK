@@ -1,17 +1,21 @@
 ---
-title: "Black Friday: Meta Quest 3 com descontos a não perder na Europa"
-date: "2025-11-28T18:55:04.636Z"
-category: "wearables"
+title: 'Black Friday: Meta Quest 3 com descontos a não perder na Europa'
+date: '2025-11-28T18:55:04.636Z'
+category: wearables
 tags:
   - Meta Quest 3
   - Black Friday
   - VR
   - Realidade Mista
   - Tecnologia
-image: "https://cdn.mos.cms.futurecdn.net/fQ4c7rrxChMbHULy3rKHY3-1280-80.png"
-image_source: "rss"
-description: "A Black Friday traz finalmente os tão esperados descontos para o Meta Quest 3 e Meta Quest 3S. Uma oportunidade única para mergulhar na realidade mista a pre..."
-source_url: "https://www.techradar.com/seasonal-sales/black-friday-meta-quest-3-deals-are-finally-here-and-theyre-as-good-as-i-hoped-they-would-be"
+image: 'https://cdn.mos.cms.futurecdn.net/fQ4c7rrxChMbHULy3rKHY3-1280-80.png'
+image_source: rss
+description: >-
+  A Black Friday traz finalmente os tão esperados descontos para o Meta Quest 3
+  e Meta Quest 3S. Uma oportunidade única para mergulhar na realidade mista a
+  pre.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/black-friday-meta-quest-3-deals-are-finally-here-and-theyre-as-good-as-i-hoped-they-would-be
 draft: false
 needs_review: false
 photographer_name: undefined

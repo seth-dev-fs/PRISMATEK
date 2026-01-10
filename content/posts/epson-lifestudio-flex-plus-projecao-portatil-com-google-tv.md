@@ -1,17 +1,21 @@
 ---
-title: "Epson Lifestudio Flex Plus: Projeção portátil com Google TV"
-date: "2025-12-05T10:48:08.862Z"
-category: "entretenimento-gaming"
+title: 'Epson Lifestudio Flex Plus: Projeção portátil com Google TV'
+date: '2025-12-05T10:48:08.862Z'
+category: entretenimento-gaming
 tags:
   - projetor
   - Epson
   - Google TV
   - entretenimento
   - portátil
-image: "https://www.androidauthority.com/wp-content/uploads/2025/11/Epson-Lifestudio-Flex-Plus-scaled.jpg"
-image_source: "rss"
-description: "O projetor portátil Epson Lifestudio Flex Plus promete ecrãs grandes sem complicações. Descobre como este dispositivo Google TV pode ser a tua nova tela secu..."
-source_url: "https://www.androidauthority.com/epson-lifestudio-flex-plus-review-3619610"
+image: >-
+  https://www.androidauthority.com/wp-content/uploads/2025/11/Epson-Lifestudio-Flex-Plus-scaled.jpg
+image_source: rss
+description: >-
+  O projetor portátil Epson Lifestudio Flex Plus promete ecrãs grandes sem
+  complicações. Descobre como este dispositivo Google TV pode ser a tua nova
+  tela secu.
+source_url: 'https://www.androidauthority.com/epson-lifestudio-flex-plus-review-3619610'
 draft: false
 needs_review: false
 photographer_name: undefined

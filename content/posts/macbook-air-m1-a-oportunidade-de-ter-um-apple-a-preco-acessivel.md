@@ -1,7 +1,7 @@
 ---
-title: "MacBook Air M1: A Oportunidade de Ter um Apple a Preço Acessível"
-date: "2025-12-02T07:00:02.085Z"
-category: "computadores"
+title: 'MacBook Air M1: A Oportunidade de Ter um Apple a Preço Acessível'
+date: '2025-12-02T07:00:02.085Z'
+category: computadores
 tags:
   - Apple
   - MacBook Air
@@ -9,10 +9,14 @@ tags:
   - portátil
   - promoção
   - macOS
-image: "https://cdn.mos.cms.futurecdn.net/TCXz6yRybQ9vU3odqbw4x4-1280-80.jpg"
-image_source: "rss"
-description: "O MacBook Air com chip M1 mantém-se uma opção de ouro para quem procura um portátil Apple. Descubra porque este modelo ainda vale a pena em 2023. O MacBook A..."
-source_url: "https://www.techradar.com/seasonal-sales/cyber-monday-isnt-over-yet-the-m1-macbook-air-is-just-usd499"
+image: 'https://cdn.mos.cms.futurecdn.net/TCXz6yRybQ9vU3odqbw4x4-1280-80.jpg'
+image_source: rss
+description: >-
+  O MacBook Air com chip M1 mantém-se uma opção de ouro para quem procura um
+  portátil Apple. Descubra porque este modelo ainda vale a pena em 2023. O
+  MacBook A.
+source_url: >-
+  https://www.techradar.com/seasonal-sales/cyber-monday-isnt-over-yet-the-m1-macbook-air-is-just-usd499
 draft: false
 needs_review: false
 photographer_name: undefined

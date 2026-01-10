@@ -1,7 +1,7 @@
 ---
-title: "Futuro de Lynley na BBC Incerto: Atores Veem Potencial para Mais"
-date: "2026-01-10T10:24:15.959Z"
-category: "entretenimento-gaming"
+title: 'Futuro de Lynley na BBC Incerto: Atores Veem Potencial para Mais'
+date: '2026-01-10T10:24:15.959Z'
+category: entretenimento-gaming
 tags:
   - Lynley
   - BBC
@@ -9,10 +9,14 @@ tags:
   - Crime
   - Streaming Portugal
   - Temporada 2
-image: "https://cdn.mos.cms.futurecdn.net/Z2bRGoVYsMpqcJBCcFEvA9-1280-80.jpg"
-image_source: "rss"
-description: "A série criminal da BBC, Lynley, aguarda confirmação para a 2ª temporada. Com atores a pedir mais, exploramos quando e onde os fãs portugueses poderão ver a ..."
-source_url: "https://www.techradar.com/streaming/entertainment/lynley-season-2-hasnt-been-confirmed-but-its-cast-think-theres-scope-for-even-more-than-that"
+image: 'https://cdn.mos.cms.futurecdn.net/Z2bRGoVYsMpqcJBCcFEvA9-1280-80.jpg'
+image_source: rss
+description: >-
+  A série criminal da BBC, Lynley, aguarda confirmação para a 2ª temporada. Com
+  atores a pedir mais, exploramos quando e onde os fãs portugueses poderão ver
+  a.
+source_url: >-
+  https://www.techradar.com/streaming/entertainment/lynley-season-2-hasnt-been-confirmed-but-its-cast-think-theres-scope-for-even-more-than-that
 draft: false
 needs_review: false
 photographer_name: undefined

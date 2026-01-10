@@ -1,17 +1,22 @@
 ---
-title: "Oppo Find X9 Ultra: Detalhes da câmara revelam sensores de topo"
-date: "2026-01-04T08:24:23.379Z"
-category: "smartphones"
+title: 'Oppo Find X9 Ultra: Detalhes da câmara revelam sensores de topo'
+date: '2026-01-04T08:24:23.379Z'
+category: smartphones
 tags:
   - Oppo
   - Find X9 Ultra
   - smartphones
   - câmara
   - sensores
-image: "https://fdn.gsmarena.com/imgroot/news/26/01/oppo-find-x9-ultra-camera-sensors/-952x498w6/gsmarena_000.jpg"
-image_source: "rss"
-description: "Novos rumores desvendam os impressionantes sensores de câmara do Oppo Find X9 Ultra, incluindo o Sony Lytia 901 de 200MP. Conheça os detalhes. A Oppo, conhec..."
-source_url: "https://www.gsmarena.com/oppo_find_x9_ultras_camera_sensors_get_detailed_in_new_leak-news-70938.php"
+image: >-
+  https://fdn.gsmarena.com/imgroot/news/26/01/oppo-find-x9-ultra-camera-sensors/-952x498w6/gsmarena_000.jpg
+image_source: rss
+description: >-
+  Novos rumores desvendam os impressionantes sensores de câmara do Oppo Find X9
+  Ultra, incluindo o Sony Lytia 901 de 200MP. Conheça os detalhes. A Oppo,
+  conhec.
+source_url: >-
+  https://www.gsmarena.com/oppo_find_x9_ultras_camera_sensors_get_detailed_in_new_leak-news-70938.php
 draft: false
 needs_review: false
 photographer_name: undefined

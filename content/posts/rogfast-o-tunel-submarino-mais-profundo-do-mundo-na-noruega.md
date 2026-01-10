@@ -1,17 +1,22 @@
 ---
-title: "Rogfast: O túnel submarino mais profundo do mundo na Noruega"
-date: "2025-12-13T16:19:51.148Z"
-category: "mobilidade"
+title: 'Rogfast: O túnel submarino mais profundo do mundo na Noruega'
+date: '2025-12-13T16:19:51.148Z'
+category: mobilidade
 tags:
   - Rogfast
   - engenharia
   - túnel submarino
   - Noruega
   - infraestruturas
-image: "https://i.blogs.es/63a8d9/norconsult-image-of-rogfast-undersea-tunnel/840_560.jpeg"
-image_source: "rss"
-description: "A Noruega constrói o túnel subaquático Rogfast, uma proeza de engenharia de 27 km de extensão e 400 m de profundidade. Será o mais longo e profundo do mundo,..."
-source_url: "https://www.xataka.com/ingenieria-y-megaconstrucciones/tunel-profundo-planeta-unira-dos-puntos-separados-1-000-km-estan-cada-vez-cerca-margen-error-solo-5-cm"
+image: >-
+  https://i.blogs.es/63a8d9/norconsult-image-of-rogfast-undersea-tunnel/840_560.jpeg
+image_source: rss
+description: >-
+  A Noruega constrói o túnel subaquático Rogfast, uma proeza de engenharia de 27
+  km de extensão e 400 m de profundidade. Será o mais longo e profundo do
+  mundo,.
+source_url: >-
+  https://www.xataka.com/ingenieria-y-megaconstrucciones/tunel-profundo-planeta-unira-dos-puntos-separados-1-000-km-estan-cada-vez-cerca-margen-error-solo-5-cm
 draft: false
 needs_review: false
 photographer_name: undefined
