@@ -31,7 +31,7 @@ const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ARTICLES_DIR = path.join(__dirname, '../content/posts');
 const LOGS_DIR = path.join(__dirname, '../content/logs');
 const RSS_FEEDS = [
-    // International Sources
+    // === INTERNATIONAL SOURCES (EN) ===
     'http://feeds.arstechnica.com/arstechnica/gadgets',
     'https://www.theverge.com/rss/index.xml',
     'https://techcrunch.com/feed/',
@@ -48,10 +48,31 @@ const RSS_FEEDS = [
     'https://www.xataka.com/feedburner.xml',
     'https://www.notebookcheck.net/News.152.100.html',
 
-    // Portuguese Sources - PRIORITY (better PT context)
-    'https://pplware.sapo.pt/feed/',
-    'https://tek.sapo.pt/feed',
-    'https://4gnews.pt/feed/',
+    // === FRANCE (FR) ===
+    'https://www.frandroid.com/feed',
+    'https://www.clubic.com/feed/',
+    'https://www.lesnumeriques.com/rss.xml',
+    'https://www.journaldugeek.com/feed/',
+    'https://www.01net.com/rss/actualites/',
+
+    // === GERMANY (DE) ===
+    'https://www.heise.de/rss/heise-atom.xml',
+    'https://www.golem.de/rss.php?feed=ATOM1.0',
+    'https://t3n.de/feed/',
+    'https://www.computerbase.de/rss/news.xml',
+
+    // === ITALY (IT) ===
+    'https://www.tomshw.it/feed/',
+    'https://www.hdblog.it/feed/',
+    'https://www.hwupgrade.it/rss/hwupgrade.xml',
+    'https://www.androidworld.it/feed/',
+
+    // === UK (EN - European perspective) ===
+    'https://www.trustedreviews.com/feed',
+    'https://www.pocket-lint.com/feed/',
+    'https://www.t3.com/feeds/all',
+    'https://www.stuff.tv/feed',
+    'https://www.expertreviews.co.uk/feed',
 ];
 
 // --- NORMALIZED CATEGORIES (CRITICAL: Use slugs only) ---
@@ -93,6 +114,88 @@ const CATEGORY_MAP = {
     'sound': 'audio',
     'headphones': 'audio'
 };
+
+/**
+ * Detects the source language based on the URL
+ * @param {string} url - The article URL
+ * @returns {string} - The detected language (English, French, German, Italian, Spanish)
+ */
+function detectLanguage(url) {
+    const urlLower = url.toLowerCase();
+
+    if (urlLower.includes('.fr') || urlLower.includes('frandroid') || urlLower.includes('clubic') ||
+        urlLower.includes('lesnumeriques') || urlLower.includes('journaldugeek') || urlLower.includes('01net')) {
+        return 'French';
+    }
+    if (urlLower.includes('.de') || urlLower.includes('heise') || urlLower.includes('golem') ||
+        urlLower.includes('t3n') || urlLower.includes('computerbase')) {
+        return 'German';
+    }
+    if (urlLower.includes('.it') || urlLower.includes('tomshw') || urlLower.includes('hdblog') ||
+        urlLower.includes('hwupgrade') || urlLower.includes('androidworld')) {
+        return 'Italian';
+    }
+    if (urlLower.includes('.es') || urlLower.includes('xataka')) {
+        return 'Spanish';
+    }
+    return 'English';
+}
+
+/**
+ * Detects if article is promotional/spam content
+ * @param {string} title - Article title
+ * @param {string} content - Article content
+ * @returns {boolean} - true if promotional
+ */
+function isPromotionalContent(title, content) {
+    const promotionalKeywords = [
+        'sponsored', 'parceria', 'publicidade', 'anúncio',
+        'compre agora', 'oferta exclusiva', 'desconto especial',
+        'affiliate', 'código promocional', 'cupom', 'cupão',
+        'black friday deals', 'best price', 'buy now',
+        'limited time offer', 'deal of the day'
+    ];
+
+    const combinedText = `${title} ${content}`.toLowerCase();
+
+    // If 2+ promotional keywords → skip
+    const matchCount = promotionalKeywords.filter(kw => combinedText.includes(kw)).length;
+
+    return matchCount >= 2;
+}
+
+/**
+ * Validates if article has sufficient content
+ * @param {string} content - Article content
+ * @returns {boolean} - true if has minimum content
+ */
+function hasMinimumContent(content) {
+    const wordCount = content.split(/\s+/).length;
+    return wordCount >= 50; // Minimum 50 words
+}
+
+/**
+ * Default image search queries by category
+ * @param {string} category - Article category
+ * @returns {string} - Unsplash search query
+ */
+function getCategoryDefaultQuery(category) {
+    const defaults = {
+        'smartphones': 'smartphone technology',
+        'ai-futuro': 'artificial intelligence',
+        'computadores': 'computer technology',
+        'gaming': 'gaming setup',
+        'audio': 'headphones audio',
+        'wearables': 'smartwatch wearable',
+        'mobilidade': 'electric vehicle',
+        'entretenimento-gaming': 'gaming entertainment',
+        'internet-apps': 'mobile apps',
+        'ciencia': 'science technology',
+        'home': 'smart home'
+    };
+
+    return defaults[category] || 'technology';
+}
 
 // --- HELPER FUNCTIONS ---
 function normalizeTitle(title) {
@@ -327,24 +430,26 @@ async function triggerUnsplashDownload(downloadLocation) {
 /**
  * Fetches a fallback image from Unsplash based on keywords
  * @param {string} keywords - Search keywords for Unsplash
+ * @param {string} category - Article category for fallback query
  * @returns {Promise<Object|null>} - Unsplash image data with attribution or null
  * @returns {Object.imageUrl} - The image URL
  * @returns {Object.photographerName} - Photographer's name
  * @returns {Object.photographerUrl} - Photographer's Unsplash profile URL with UTM
  * @returns {Object.downloadLocation} - Download trigger endpoint
  */
-async function getUnsplashImage(keywords) {
+async function getUnsplashImage(keywords, category = 'home') {
     if (!UNSPLASH_ACCESS_KEY) {
-        log('[WARN] UNSPLASH_ACCESS_KEY not configured. Skipping Unsplash fallback.', 'warn');
+        log('[WARN] UNSPLASH_ACCESS_KEY not configured. Using placeholder.', 'warn');
         return null;
     }
 
     try {
-        const searchQuery = keywords || 'technology';
+        const searchQuery = keywords || getCategoryDefaultQuery(category);
         const response = await axios.get('https://api.unsplash.com/photos/random', {
             params: {
                 query: searchQuery,
                 orientation: 'landscape',
+                content_filter: 'high', // Avoid sensitive content
                 client_id: UNSPLASH_ACCESS_KEY
             },
             timeout: 8000
@@ -353,13 +458,16 @@ async function getUnsplashImage(keywords) {
         if (response.data?.urls?.regular) {
             const data = response.data;
 
-            // Build photographer URL with required UTM parameters
-            const photographerUrl = `${data.user.links.html}?utm_source=nexora_news&utm_medium=referral`;
+            // Build photographer URL with required UTM parameters (updated branding)
+            const photographerUrl = `${data.user.links.html}?utm_source=prismatek&utm_medium=referral`;
+
+            // Optimize image size
+            const optimizedImageUrl = `${data.urls.regular}&w=1200&h=630&fit=crop`;
 
             log(`[INFO] Fetched Unsplash image for keywords: "${searchQuery}" by ${data.user.name}`);
 
             return {
-                imageUrl: data.urls.regular,
+                imageUrl: optimizedImageUrl,
                 photographerName: data.user.name,
                 photographerUrl: photographerUrl,
                 downloadLocation: data.links.download_location,
@@ -508,58 +616,75 @@ async function generateArticleFromItem(item) {
 
     log(`Processing article: "${title}"`);
 
+    // Detect source language
+    const detectedLanguage = detectLanguage(link);
+    log(`[INFO] Detected source language: ${detectedLanguage}`);
+
     // Fetch image with robust fallback system
     const image = await getImageUrl(item, title);
 
-    const prompt = `És jornalista tech para PRISMATEK. Escreve artigos CURTOS e DIRETOS para leitura rápida.
+    const prompt = `You are PRISMATEK, a leading European technology news platform focused on bringing international tech news to Portuguese-speaking audiences.
 
-FONTE:
-Título: "${title}"
-Conteúdo: "${contentSnippet}"
-URL: "${link}"
+IMPORTANT CONTEXT:
+- Source article is in ${detectedLanguage}
+- You are TRANSLATING and ADAPTING for Portuguese (PT-PT) readers
+- Focus on European perspective (not USA-centric)
+- Adapt prices, availability, dates to European/Portuguese context
 
-TAREFA: Artigo 300-400 palavras MÁXIMO em português PT-PT.
+TASK:
+Transform the following ${detectedLanguage} tech article into Portuguese (PT-PT):
 
-ESTRUTURA (SIMPLES):
-1. Intro (1 parágrafo: resumo do que aconteceu)
-2. Desenvolvimento (2 secções curtas com ## headings)
-3. Conclusão (1 parágrafo: impacto para PT)
+Title: ${title}
+Content: ${contentSnippet}
+Source URL: ${link}
 
-CONTEXTO PT OBRIGATÓRIO:
-✓ Preço em EUR (se aplicável, converter USD com ratio ~0.92)
-✓ Disponibilidade em PT/Europa (quando/onde)
-✓ Impacto local (comparação com mercado PT, regulação UE)
+GUIDELINES:
+1. Language: European Portuguese (PT-PT), NOT Brazilian Portuguese
+2. Length: 300-400 words maximum, conversational and informative
+3. Tone: Professional but approachable, tech-savvy audience
+4. Perspective: Adapt for European/Portuguese readers
+   - Convert prices to EUR (if mentioned, approximate conversion)
+   - Mention availability in Portugal/Europe when relevant
+   - Reference European regulations (GDPR, DMA, DSA) when applicable
+   - Compare with Portuguese market context when relevant
 
-EXEMPLOS:
-✓ "Chegará a Portugal em Março por €999 (Worten, Fnac)"
-✓ "Vs. Galaxy S24 (€849 PT), é 18% mais caro"
-✓ "GDPR obriga X a fazer Y na UE"
-✗ "Available at Best Buy for $799"
+5. Structure (SIMPLE):
+   - Engaging introduction (1 paragraph: what happened)
+   - Main content (2 short sections with ## headings)
+   - Conclusion (1 paragraph: what it means for Portuguese users)
 
-TOM:
-✓ Direto e factual
-✓ Sem fluff ou enchimento
-✓ Crítico quando relevante
-✗ Sem hype ou clickbait
-✗ SEM imagens intercaladas no texto
+6. Context Examples:
+   ✓ "Chegará a Portugal em Março por €999 (Worten, Fnac)"
+   ✓ "Vs. Galaxy S24 (€849 em Portugal), é 18% mais caro"
+   ✓ "GDPR obriga X a fazer Y na União Europeia"
+   ✗ "Available at Best Buy for $799" (too USA-centric)
 
-RESPONDE APENAS COM JSON (sem \`\`\`json):
+7. Categories: Choose ONE from [${NORMALIZED_CATEGORIES.join(', ')}]
+8. SEO: Natural keyword integration without keyword stuffing
+9. Avoid: Promotional language, direct quotes from source (rephrase), exact translations (be creative)
+10. NO images in the article text
+11. Prices: Convert to EUR if needed (approximate), use € symbol
+
+CRITICAL: This is NOT a translation - it's an ADAPTATION. Add context for Portuguese readers, explain acronyms, make it feel like original PRISMATEK content written by a Portuguese tech journalist who understands European market.
+
+Return ONLY valid JSON (no \`\`\`json markers):
 {
-  "title": "Título SEO 50-70 chars",
-  "description": "RESUMO COMPLETO da notícia em 2-3 frases. Deve fazer sentido completo, não truncar. Termina sempre com ponto final após ideia completa.",
-  "category": "uma de: ${NORMALIZED_CATEGORIES.join(', ')}",
+  "title": "Engaging Portuguese title SEO-optimized (50-70 chars)",
+  "description": "Complete summary in PT-PT (2-3 sentences, must end with complete idea and final period)",
+  "category": "one-slug-from-list",
   "tags": ["tag1", "tag2", "tag3", "tag4"],
   "source_url": "${link}",
   "needs_review": false,
-  "content": "ARTIGO 300-400 palavras em markdown com ## headings e contexto PT"
+  "content": "Full article in markdown format (300-400 words) with ## headings and Portuguese context"
 }
 
 CHECKLIST:
-☐ 300-400 palavras (NÃO MAIS)
-☐ 2 secções com ## headings
-☐ Contexto PT presente
-☐ JSON válido
-☐ Description: 2-3 frases completas (termina com ideia completa)`;
+☐ 300-400 words (NO MORE)
+☐ 2 sections with ## headings
+☐ Portuguese/European context present
+☐ Valid JSON
+☐ Description: 2-3 complete sentences ending with period
+☐ Not a literal translation - adapted content`;
 
 
     try {
@@ -780,8 +905,23 @@ async function main() {
         const filteredArticles = uniqueArticles.filter(shouldGenerateArticle);
         log(`After quality filtering: ${filteredArticles.length} articles passed (${uniqueArticles.length - filteredArticles.length} rejected)`);
 
+        // Apply promotional content filter
+        const nonPromotionalArticles = filteredArticles.filter(item => {
+            const cleanContent = item.contentSnippet || '';
+            if (isPromotionalContent(item.title, cleanContent)) {
+                log(`[FILTER] ❌ PROMOTIONAL: "${item.title}"`);
+                return false;
+            }
+            if (!hasMinimumContent(cleanContent)) {
+                log(`[FILTER] ❌ INSUFFICIENT CONTENT: "${item.title}" (${cleanContent.split(/\s+/).length} words)`);
+                return false;
+            }
+            return true;
+        });
+        log(`After promotional/content filtering: ${nonPromotionalArticles.length} articles passed (${filteredArticles.length - nonPromotionalArticles.length} rejected)`);
+
         // Limit to 8 high-quality articles (better than 10 mediocre ones)
-        const articlesToGenerate = filteredArticles.slice(0, 8);
+        const articlesToGenerate = nonPromotionalArticles.slice(0, 8);
 
         log(`Selected ${articlesToGenerate.length} unique articles for generation.`);
 
