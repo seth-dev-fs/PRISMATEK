@@ -16,7 +16,7 @@ description: >-
   O OnePlus 15 é o smartphone mais resistente à venda? Testes rigorosos de
   JerryRigEverything provam que o flagship não dobra, mesmo com uma câmara de
   vapor. D.
-source_url: 'https://www.nexoranews.pt/tecnologia/oneplus-15-durabilidade-extrema'
+source_url: 'https://www.prismatek.com/tecnologia/oneplus-15-durabilidade-extrema'
 draft: false
 needs_review: false
 ---

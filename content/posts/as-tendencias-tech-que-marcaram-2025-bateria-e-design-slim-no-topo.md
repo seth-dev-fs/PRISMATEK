@@ -25,7 +25,7 @@ photographer_url: undefined
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-02T08:26:10.181Z -->
 
-À medida que nos aproximamos do final de mais um ano, a NEXORA News faz um balanço das notícias que mais cativaram os nossos leitores em 2025. Uma análise aprofundada das 100 histórias mais populares revela tendências claras e o que realmente importa para os entusiastas da tecnologia. De facto, a autonomia da bateria e o design cada vez mais fino dos dispositivos foram os temas que mais ressoaram, ditando a agenda de inovação no segmento dos smartphones.
+À medida que nos aproximamos do final de mais um ano, a PRISMATEK faz um balanço das notícias que mais cativaram os nossos leitores em 2025. Uma análise aprofundada das 100 histórias mais populares revela tendências claras e o que realmente importa para os entusiastas da tecnologia. De facto, a autonomia da bateria e o design cada vez mais fino dos dispositivos foram os temas que mais ressoaram, ditando a agenda de inovação no segmento dos smartphones.
 
 ## Bateria: A Prioridade Número Um para os Consumidores
 

@@ -26,7 +26,7 @@ photographer_url: undefined
 
 A época de promoções, como a Black Friday, é de facto uma excelente oportunidade para adquirir tecnologia a preços mais competitivos. E quando se fala em otimizar o desempenho do seu computador, os SSDs externos USB4 e Thunderbolt são, sem dúvida, soluções que merecem toda a atenção. Se é daqueles que procura o que há de melhor em velocidade e eficiência para o seu trabalho ou entretenimento, o mercado europeu oferece várias opções para tirar partido destas tecnologias.
 
-Contrariamente a um foco exclusivo em ofertas específicas de mercados como o norte-americano, a NEXORA News prefere destacar a inovação e o valor intrínseco destas tecnologias. Afinal, a disponibilidade e os preços podem variar significativamente, e o nosso foco é orientar os leitores portugueses sobre o que realmente importa: a qualidade e o potencial dos produtos.
+Contrariamente a um foco exclusivo em ofertas específicas de mercados como o norte-americano, a PRISMATEK prefere destacar a inovação e o valor intrínseco destas tecnologias. Afinal, a disponibilidade e os preços podem variar significativamente, e o nosso foco é orientar os leitores portugueses sobre o que realmente importa: a qualidade e o potencial dos produtos.
 
 ## O Poder da Conectividade: USB4 e Thunderbolt
 

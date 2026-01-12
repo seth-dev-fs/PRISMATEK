@@ -105,13 +105,13 @@ export default function ContactoPage() {
               Redes Sociais
             </h3>
             <div className="flex space-x-4">
-              <a href="https://twitter.com/nexoranews" className="text-muted hover:text-primary transition-colors">
+              <a href="https://twitter.com/prismatek" className="text-muted hover:text-primary transition-colors">
                 Twitter
               </a>
-              <a href="https://facebook.com/nexoranews" className="text-muted hover:text-primary transition-colors">
+              <a href="https://facebook.com/prismatek" className="text-muted hover:text-primary transition-colors">
                 Facebook
               </a>
-              <a href="https://linkedin.com/company/nexoranews" className="text-muted hover:text-primary transition-colors">
+              <a href="https://linkedin.com/company/prismatek" className="text-muted hover:text-primary transition-colors">
                 LinkedIn
               </a>
             </div>

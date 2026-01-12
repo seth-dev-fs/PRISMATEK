@@ -25,7 +25,7 @@ photographer_url: undefined
 
 No universo da fotografia, escolher a câmara certa pode ser tão desafiador quanto capturar a imagem perfeita. Com a constante evolução tecnológica, as marcas esforçam-se por inovar, e a Canon, um nome incontornável no setor, não é exceção. À medida que nos aproximamos de 2025, a gama de câmaras Canon continua a expandir-se, oferecendo opções para todos, desde o fotógrafo amador que procura qualidade para as suas memórias diárias, até ao profissional que exige o máximo desempenho e fiabilidade.
 
-Este ano, a Canon promete continuar a ser uma referência, com modelos que se destacam em várias categorias. Mas, com tantas opções – desde as robustas DSLRs, às versáteis mirrorless e às práticas compactas –, como saber qual a melhor câmara Canon para si? A NEXORA News preparou um guia para o ajudar a navegar por esta escolha crucial, focando-se nas principais tendências e nos modelos que mais darão que falar em 2025 no mercado europeu.
+Este ano, a Canon promete continuar a ser uma referência, com modelos que se destacam em várias categorias. Mas, com tantas opções – desde as robustas DSLRs, às versáteis mirrorless e às práticas compactas –, como saber qual a melhor câmara Canon para si? A PRISMATEK preparou um guia para o ajudar a navegar por esta escolha crucial, focando-se nas principais tendências e nos modelos que mais darão que falar em 2025 no mercado europeu.
 
 ## A Ascensão das Mirrorless: O Futuro da Fotografia
 

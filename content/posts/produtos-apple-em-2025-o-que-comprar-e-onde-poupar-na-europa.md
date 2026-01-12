@@ -26,7 +26,7 @@ photographer_url: undefined
 
 Com a época festiva a aproximar-se rapidamente, muitos consumidores portugueses e europeus começam a pensar nos presentes tecnológicos ideais, e os produtos Apple estão, de facto, no topo da lista de desejos. Se está a ponderar adquirir um novo dispositivo da marca da maçã, é crucial estar bem informado para fazer a escolha certa e, acima de tudo, aproveitar as melhores oportunidades que o mercado europeu pode oferecer.
 
-Este guia Nexora News explora os produtos Apple mais cobiçados em 2025, destacando as suas caraterísticas e onde poderá encontrar os preços mais competitivos, tendo em conta as dinâmicas do mercado europeu e não ofertas exclusivas de outros continentes. O foco recai sobre as recentes atualizações que incluem o MacBook Pro com chip M5, os AirPods 4 e os AirPods Max, que prometem ser as estrelas desta temporada.
+Este guia Prismatek explora os produtos Apple mais cobiçados em 2025, destacando as suas caraterísticas e onde poderá encontrar os preços mais competitivos, tendo em conta as dinâmicas do mercado europeu e não ofertas exclusivas de outros continentes. O foco recai sobre as recentes atualizações que incluem o MacBook Pro com chip M5, os AirPods 4 e os AirPods Max, que prometem ser as estrelas desta temporada.
 
 ## MacBook Pro M5: O Poder do Futuro ao seu Alcance
 

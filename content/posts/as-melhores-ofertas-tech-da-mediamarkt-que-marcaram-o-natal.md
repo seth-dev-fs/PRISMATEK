@@ -20,7 +20,7 @@ photographer_url: undefined
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-12-21T10:17:57.293Z -->
 
-A quadra festiva que recentemente terminou é, de facto, uma época propícia a descontos e promoções que nos permitem adquirir aquele gadget há muito desejado. Lojas de eletrónica, como a MediaMarkt, aproveitam este período para lançar campanhas agressivas. A NEXORA News fez um balanço de algumas das ofertas mais interessantes que surgiram no mercado europeu em meados de dezembro, oferecendo uma oportunidade de olhar para as tendências de preços e os produtos que mais deram que falar. Desde consolas a eReaders, a tecnologia esteve em destaque com propostas bastante competitivas.
+A quadra festiva que recentemente terminou é, de facto, uma época propícia a descontos e promoções que nos permitem adquirir aquele gadget há muito desejado. Lojas de eletrónica, como a MediaMarkt, aproveitam este período para lançar campanhas agressivas. A PRISMATEK fez um balanço de algumas das ofertas mais interessantes que surgiram no mercado europeu em meados de dezembro, oferecendo uma oportunidade de olhar para as tendências de preços e os produtos que mais deram que falar. Desde consolas a eReaders, a tecnologia esteve em destaque com propostas bastante competitivas.
 
 ## Nintendo Switch: Diversão em Pacote de Luxo
 

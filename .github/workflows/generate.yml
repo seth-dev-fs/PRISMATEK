@@ -1,4 +1,4 @@
-name: Generate NEXORA Articles
+name: Generate PRISMATEK Articles
 
 on:
   schedule:

@@ -27,7 +27,7 @@ photographer_url: undefined
 
 A cada nova edição da Consumer Electronics Show (CES), uma tecnologia emerge como a grande promessa para o futuro da imagem. Em 2026, essa estrela é, sem dúvida, o Micro RGB. Após uma estreia discreta no ano passado, esta inovadora tecnologia de ecrãs de luxo está agora em todo o lado na CES, gerando um entusiasmo considerável no seio da indústria e entre os entusiastas.
 
-Mas o que são, de facto, as TVs Micro RGB e o que as distingue das já conhecidas tecnologias OLED, Mini LED ou Micro LED? A NEXORA News mergulha nos detalhes para explicar porque é que esta nova geração de ecrãs promete redefinir a experiência de visualização em casa.
+Mas o que são, de facto, as TVs Micro RGB e o que as distingue das já conhecidas tecnologias OLED, Mini LED ou Micro LED? A PRISMATEK mergulha nos detalhes para explicar porque é que esta nova geração de ecrãs promete redefinir a experiência de visualização em casa.
 
 ## A Trajetória dos Ecrãs Planos: Um Preâmbulo ao Micro RGB
 

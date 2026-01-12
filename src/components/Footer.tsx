@@ -39,7 +39,7 @@ export default function Footer() {
             {/* Social Links */}
             <div className="flex items-center gap-3">
               <a
-                href="https://twitter.com/nexoranews"
+                href="https://twitter.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-full bg-background hover:bg-primary/10 text-muted hover:text-primary transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
@@ -50,7 +50,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://facebook.com/nexoranews"
+                href="https://facebook.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-full bg-background hover:bg-primary/10 text-muted hover:text-primary transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
@@ -61,7 +61,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://youtube.com/nexoranews"
+                href="https://youtube.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-full bg-background hover:bg-primary/10 text-muted hover:text-primary transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
@@ -72,7 +72,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/company/nexoranews"
+                href="https://linkedin.com/company/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-full bg-background hover:bg-primary/10 text-muted hover:text-primary transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"

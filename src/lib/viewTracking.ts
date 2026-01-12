@@ -1,6 +1,6 @@
 'use client';
 
-const STORAGE_KEY = 'nexora_article_views';
+const STORAGE_KEY = 'prismatek_article_views';
 
 /**
  * Interface for view tracking data

@@ -26,7 +26,7 @@ photographer_url: undefined
 
 No universo tecnológico, a distinção entre software proprietário e software de código aberto (ou *open source*) é fulcral, mas nem sempre clara. De facto, muitos utilizadores, até mesmo os mais experientes da comunidade Linux, utilizam diariamente programas populares na crença de que são *open source* quando, na realidade, não o são. Esta confusão pode ter implicações significativas para a privacidade, segurança e liberdade do utilizador.
 
-A NEXORA News explora este fenómeno, destacando alguns dos programas mais notórios que, ao que parece, enganam pela sua natureza e disponibilidade, e sublinha a importância de compreender o que se está realmente a usar.
+A PRISMATEK explora este fenómeno, destacando alguns dos programas mais notórios que, ao que parece, enganam pela sua natureza e disponibilidade, e sublinha a importância de compreender o que se está realmente a usar.
 
 ## A Ilusão do Código Aberto: Gratuito Não É Livre
 

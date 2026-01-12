@@ -46,4 +46,4 @@ Para os entusiastas de videojogos em Portugal e na Europa, esta é uma excelente
 
 Embora a lista completa continue a ser um mistério, a inclusão de um título como *Hogwarts Legacy* desde o início eleva bastante as expectativas para o que virá a seguir. Aconselhamos os nossos leitores a estarem atentos e a marcarem as datas no calendário para não perderem nenhuma destas ofertas.
 
-Com a Epic Games a preparar-se para mais uma ronda de presentes natalícios, resta-nos aguardar pelas revelações diárias e desfrutar do que, ao que tudo indica, será um Natal generoso para os jogadores de PC. A NEXORA News continuará a acompanhar e a divulgar todas as novidades.
+Com a Epic Games a preparar-se para mais uma ronda de presentes natalícios, resta-nos aguardar pelas revelações diárias e desfrutar do que, ao que tudo indica, será um Natal generoso para os jogadores de PC. A PRISMATEK continuará a acompanhar e a divulgar todas as novidades.

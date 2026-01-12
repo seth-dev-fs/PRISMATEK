@@ -18,6 +18,6 @@ yarn-error.log*
 content/logs/errors.log
 
 # WordPress theme (não pertence ao repo)
-nexora-wp-theme/
-nexora-wp-theme.zip
+prismatek-wp-theme/
+prismatek-wp-theme.zip
 \n# Helper Scripts\n*.sh\n\n# Logs\ncontent/logs/

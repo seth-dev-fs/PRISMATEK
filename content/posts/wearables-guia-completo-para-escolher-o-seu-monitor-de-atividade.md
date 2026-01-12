@@ -13,7 +13,7 @@ image: >-
 image_source: rss
 description: >-
   Descubra os melhores monitores de atividade física e smartwatches de 2025
-  avaliados pela NEXORA News. Encontre o wearable ideal para as suas
+  avaliados pela PRISMATEK. Encontre o wearable ideal para as suas
   necessidades. Sa.
 source_url: 'https://www.theverge.com/22985108/best-fitness-tracker'
 draft: false
@@ -24,7 +24,7 @@ photographer_url: undefined
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-12-03T18:59:24.577Z -->
 
-Os monitores de atividade física e os smartwatches percorreram um longo caminho desde as simples pulseiras que contavam apenas passos. Hoje em dia, estes dispositivos de vestir, ou 'wearables', são ferramentas sofisticadas capazes de monitorizar desde a saúde cardíaca à recuperação pós-treino, oferecendo dados preciosos para otimizar a performance. Com a vasta oferta no mercado, escolher o ideal pode ser um desafio. A NEXORA News mergulhou nas opções mais recentes para ajudar a encontrar o parceiro tecnológico perfeito para os seus objetivos de fitness.
+Os monitores de atividade física e os smartwatches percorreram um longo caminho desde as simples pulseiras que contavam apenas passos. Hoje em dia, estes dispositivos de vestir, ou 'wearables', são ferramentas sofisticadas capazes de monitorizar desde a saúde cardíaca à recuperação pós-treino, oferecendo dados preciosos para otimizar a performance. Com a vasta oferta no mercado, escolher o ideal pode ser um desafio. A PRISMATEK mergulhou nas opções mais recentes para ajudar a encontrar o parceiro tecnológico perfeito para os seus objetivos de fitness.
 
 ## Amazfit Active 2 – O Valor Inesperado
 

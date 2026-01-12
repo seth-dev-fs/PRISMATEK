@@ -26,7 +26,7 @@ photographer_url: undefined
 
 A época natalícia aproxima-se a passos largos e, com ela, a eterna questão: o que oferecer? Para os entusiastas de videojogos, escolher o presente ideal pode ser um desafio, especialmente quando se procura algo que seja útil, divertido e que não custe os olhos da cara. Felizmente, o mercado de tecnologia gaming está repleto de opções acessíveis que prometem fazer as delícias de qualquer jogador.
 
-Antecipar as compras de Natal é, de facto, uma excelente estratégia para evitar o stress de última hora e, mais importante, para encontrar as melhores ofertas. Seja para complementar a experiência de jogo ou para introduzir um novo gadget, existem inúmeras ideias que cabem em qualquer orçamento. A NEXORA News reuniu algumas sugestões de prendas tecnológicas que certamente farão sucesso.
+Antecipar as compras de Natal é, de facto, uma excelente estratégia para evitar o stress de última hora e, mais importante, para encontrar as melhores ofertas. Seja para complementar a experiência de jogo ou para introduzir um novo gadget, existem inúmeras ideias que cabem em qualquer orçamento. A PRISMATEK reuniu algumas sugestões de prendas tecnológicas que certamente farão sucesso.
 
 ## Periféricos Essenciais e Acessórios de Qualidade
 

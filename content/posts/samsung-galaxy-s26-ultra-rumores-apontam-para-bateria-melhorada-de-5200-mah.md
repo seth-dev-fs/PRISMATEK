@@ -11,7 +11,7 @@ tags:
 image: "https://cdn.mos.cms.futurecdn.net/C98KqY8JWF82qZf2wWGCWE-1280-80.jpg"
 image_source: "https://cdn.mos.cms.futurecdn.net/C98KqY8JWF82qZf2wWGCWE-1280-80.jpg"
 description: "Novos rumores sugerem que o próximo Samsung Galaxy S26 Ultra poderá vir equipado com uma bateria de 5.200 mAh, prometendo uma autonomia superior para o telemóvel topo de gama. Esta potencial atualização visa responder às crescentes exigências dos utilizadores de smartphones premium."
-source_url: "https://www.nexoranews.pt/noticias/samsung-galaxy-s26-ultra-bateria-rumor"
+source_url: "https://www.prismatek.com/noticias/samsung-galaxy-s26-ultra-bateria-rumor"
 draft: false
 needs_review: false
 ---

@@ -1,34 +1,49 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="1200" height="630" fill="#1a1a2e"/>
-
-  <!-- Gradient overlay -->
+  <!-- Background gradient -->
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0071e3;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#0071e3;stop-opacity:0.05" />
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E293B;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="overlayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06B6D4;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#06B6D4;stop-opacity:0.05" />
     </linearGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#grad)"/>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <rect width="1200" height="630" fill="url(#overlayGrad)"/>
 
   <!-- Grid pattern -->
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#eaeaea" stroke-width="0.5" opacity="0.1"/>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#06B6D4" stroke-width="0.5" opacity="0.08"/>
     </pattern>
   </defs>
   <rect width="1200" height="630" fill="url(#grid)"/>
 
-  <!-- Logo/Icon -->
-  <circle cx="600" cy="260" r="60" fill="none" stroke="#0071e3" stroke-width="3" opacity="0.6"/>
-  <circle cx="600" cy="260" r="45" fill="none" stroke="#0071e3" stroke-width="2" opacity="0.4"/>
-  <path d="M 580 260 L 600 240 L 620 260 L 600 280 Z" fill="#0071e3" opacity="0.8"/>
+  <!-- PRISMATEK Logo (scaled up) -->
+  <g transform="translate(600, 240)">
+    <!-- Left triangle (Cyan) -->
+    <path d="M -40 80 L 0 -40 L 0 80 Z" fill="#06B6D4" opacity="0.9"/>
+    <!-- Right triangle (White for placeholder) -->
+    <path d="M 0 -40 L 40 80 L 0 80 Z" fill="#FFFFFF" opacity="0.85"/>
 
-  <!-- Text -->
-  <text x="600" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="64" font-weight="700" fill="#eaeaea" text-anchor="middle">
-    NEXORA News
+    <!-- Glow effect -->
+    <ellipse cx="0" cy="20" rx="50" ry="60" fill="#06B6D4" opacity="0.15" filter="blur(20px)"/>
+  </g>
+
+  <!-- PRISMATEK Text -->
+  <text x="600" y="380" font-family="system-ui, -apple-system, 'Inter', sans-serif" font-size="72" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="-2">
+    PRISMATEK
   </text>
-  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#eaeaea" text-anchor="middle" opacity="0.6">
-    Tecnologia em Português
+
+  <!-- Tagline -->
+  <text x="600" y="425" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" text-anchor="middle" opacity="0.7">
+    Múltiplas Perspectivas sobre Tecnologia
   </text>
+
+  <!-- Accent line -->
+  <line x1="400" y1="450" x2="800" y2="450" stroke="#06B6D4" stroke-width="2" opacity="0.5"/>
 </svg>

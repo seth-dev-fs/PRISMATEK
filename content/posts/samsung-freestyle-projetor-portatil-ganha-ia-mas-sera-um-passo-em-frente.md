@@ -27,7 +27,7 @@ photographer_url: undefined
 
 A Samsung surpreendeu no CES 2026 em Las Vegas com a apresentação do Freestyle+, o sucessor há muito aguardado do seu popular projetor portátil. Este novo modelo chega com um design renovado e uma série de funcionalidades inteligentes alimentadas por inteligência artificial, prometendo elevar a experiência de projeção. De facto, a capacidade de projetar imagens perfeitamente retas em superfícies irregulares e até mesmo em cantos é, à primeira vista, impressionante e chamou a atenção dos observadores.
 
-No entanto, e apesar de todas estas inovações, a questão que paira no ar é se a gigante sul-coreana conseguiu manter a essência que tornou o Freestyle original num sucesso, ou se a aposta em novas tecnologias o desviou do seu propósito inicial. A NEXORA News mergulha nos detalhes para analisar o que este novo Freestyle+ traz de novo e o que poderá ter sido deixado para trás.
+No entanto, e apesar de todas estas inovações, a questão que paira no ar é se a gigante sul-coreana conseguiu manter a essência que tornou o Freestyle original num sucesso, ou se a aposta em novas tecnologias o desviou do seu propósito inicial. A PRISMATEK mergulha nos detalhes para analisar o que este novo Freestyle+ traz de novo e o que poderá ter sido deixado para trás.
 
 ## Inteligência Artificial ao Serviço da Projeção
 

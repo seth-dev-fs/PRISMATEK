@@ -14,7 +14,7 @@ tags:
 image: "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-1280-80.png"
 image_source: "https://cdn.mos.cms.futurecdn.net/cJwCzahwRcWWKn8F8NYm25-1280-80.png"
 description: "As empresas estão a investir cada vez mais em Inteligência Artificial, mas o verdadeiro desafio reside em demonstrar o valor tangível e o retorno sobre o investimento (ROI) destas tecnologias. Compreender como equilibrar a inovação com os custos e riscos associados é crucial para o sucesso a longo prazo."
-source_url: "https://www.nexoranews.pt/ai-roi-challenge"
+source_url: "https://www.prismatek.com/ai-roi-challenge"
 draft: false
 needs_review: false
 ---

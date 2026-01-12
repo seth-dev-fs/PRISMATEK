@@ -25,7 +25,7 @@ photographer_url: undefined
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-10T03:22:06.431Z -->
 
-Com o novo ano a dar os primeiros passos, a Oppo não perdeu tempo e lançou globalmente, e também na Índia, a sua nova família de smartphones Reno15. Esta série, que inclui o Reno15, o Reno15 Pro e o Reno15 Pro Max, promete dar que falar num segmento de mercado cada vez mais competitivo. Na NEXORA News, tivemos a oportunidade de conhecer de perto estes dispositivos, e hoje focamo-nos especificamente no modelo "standard", o Oppo Reno15, que se posiciona de forma interessante no que toca a dimensões e, surpreendentemente, a autonomia.
+Com o novo ano a dar os primeiros passos, a Oppo não perdeu tempo e lançou globalmente, e também na Índia, a sua nova família de smartphones Reno15. Esta série, que inclui o Reno15, o Reno15 Pro e o Reno15 Pro Max, promete dar que falar num segmento de mercado cada vez mais competitivo. Na PRISMATEK, tivemos a oportunidade de conhecer de perto estes dispositivos, e hoje focamo-nos especificamente no modelo "standard", o Oppo Reno15, que se posiciona de forma interessante no que toca a dimensões e, surpreendentemente, a autonomia.
 
 Para o mercado português e europeu, a chegada de mais um interveniente de peso no segmento médio-alto é sempre uma notícia relevante. A Oppo tem vindo a cimentar a sua presença na Europa, e Portugal não é exceção, oferecendo alternativas robustas a marcas já estabelecidas. O Reno15, em particular, com as suas características distintivas, poderá conquistar uma fatia de mercado de utilizadores que procuram um equilíbrio entre performance, design e, crucialmente, uma bateria de longa duração, sem ter de optar pelas versões mais dispendiosas dos seus irmãos da série.
 

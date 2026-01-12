@@ -161,7 +161,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
                   </a>
                   {' / '}
                   <a
-                    href="https://unsplash.com?utm_source=nexora_news&utm_medium=referral"
+                    href="https://unsplash.com?utm_source=prismatek&utm_medium=referral"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-white underline transition-colors"

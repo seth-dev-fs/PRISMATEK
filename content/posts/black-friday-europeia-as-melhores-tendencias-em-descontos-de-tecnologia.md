@@ -20,7 +20,7 @@ needs_review: true
 
 Com a Black Friday a aquecer o mercado europeu, os consumidores portugueses preparam-se para uma época de compras intensas, com a tecnologia a ser, como sempre, um dos segmentos mais procurados. De facto, esta é uma altura crucial para adquirir gadgets, eletrodomésticos e outros equipamentos que prometem otimizar o nosso dia a dia ou simplesmente proporcionar mais entretenimento. 
 
-Embora as promoções específicas variem entre os diferentes mercados e retalhistas, a NEXORA News analisou as tendências globais para antecipar as categorias que mais darão que falar em Portugal e na Europa. A expectativa é que, tal como noutros anos, marcas de renome e emergentes apresentem propostas aliciantes, desde smartphones de topo a pequenos eletrodomésticos que se tornaram indispensáveis na casa moderna.
+Embora as promoções específicas variem entre os diferentes mercados e retalhistas, a PRISMATEK analisou as tendências globais para antecipar as categorias que mais darão que falar em Portugal e na Europa. A expectativa é que, tal como noutros anos, marcas de renome e emergentes apresentem propostas aliciantes, desde smartphones de topo a pequenos eletrodomésticos que se tornaram indispensáveis na casa moderna.
 
 ## Tendências em Mobilidade e Áudio Pessoal
 

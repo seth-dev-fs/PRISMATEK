@@ -25,7 +25,7 @@ photographer_url: undefined
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2025-11-28T03:38:22.517Z -->
 
-Ainda a recuperar do banquete ou a pensar nos próximos, mas o mundo da tecnologia já ferve com as primeiras ofertas de Black Friday para 2025. Ao que parece, a tradicional corrida de um dia pela melhor pechincha é coisa do passado, com os descontos a surgirem mais cedo em lojas online um pouco por todo o lado. De facto, quem pretender garantir os melhores gadgets ou aquela consola de sonho, deve estar atento desde já, pois os stocks podem esgotar rapidamente. A NEXORA News preparou um resumo das promoções mais apetecíveis que já se fazem sentir no mercado europeu.
+Ainda a recuperar do banquete ou a pensar nos próximos, mas o mundo da tecnologia já ferve com as primeiras ofertas de Black Friday para 2025. Ao que parece, a tradicional corrida de um dia pela melhor pechincha é coisa do passado, com os descontos a surgirem mais cedo em lojas online um pouco por todo o lado. De facto, quem pretender garantir os melhores gadgets ou aquela consola de sonho, deve estar atento desde já, pois os stocks podem esgotar rapidamente. A PRISMATEK preparou um resumo das promoções mais apetecíveis que já se fazem sentir no mercado europeu.
 
 ## O Ecossistema Apple em Destaque
 

@@ -1,5 +1,5 @@
 ---
-title: "NEXORA News: Como Resumir Vídeos com Inteligência Artificial e Poupar Tempo Precioso"
+title: "PRISMATEK: Como Resumir Vídeos com Inteligência Artificial e Poupar Tempo Precioso"
 date: "2025-11-17T12:50:58+00:00"
 category: "ai-futuro"
 tags:
@@ -20,7 +20,7 @@ needs_review: false
 
 No mundo digital acelerado de hoje, onde a informação está em todo o lado, mas o tempo é um bem escasso, a ideia de ter de ver um vídeo de 40 minutos para encontrar uma pequena porção de informação pode ser desanimadora. Seja para um tutorial, uma receita, um guia ou simplesmente para pesquisar dados específicos, a extensão de muitos conteúdos em vídeo pode tornar-se um obstáculo à produtividade.
 
-A boa notícia é que a inteligência artificial veio revolucionar a forma como interagimos com este tipo de conteúdo. Graças a ferramentas avançadas, é agora possível resumir vídeos e extrair o seu essencial sem ter de os ver na íntegra. Nesta reportagem da NEXORA News, exploramos como o Google Gemini se destaca nesta área, oferecendo uma solução prática e acessível.
+A boa notícia é que a inteligência artificial veio revolucionar a forma como interagimos com este tipo de conteúdo. Graças a ferramentas avançadas, é agora possível resumir vídeos e extrair o seu essencial sem ter de os ver na íntegra. Nesta reportagem da PRISMATEK, exploramos como o Google Gemini se destaca nesta área, oferecendo uma solução prática e acessível.
 
 ### O Poder da IA ao Seu Dispor: Gemini no Resumo de Vídeos
 

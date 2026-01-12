@@ -29,7 +29,7 @@ export default function ViewCount({ slug, className = '', showIcon = true }: Vie
 
     // Listen for storage changes (if user opens multiple tabs)
     const handleStorageChange = (e: StorageEvent) => {
-      if (e.key === 'nexora_article_views') {
+      if (e.key === 'prismatek_article_views') {
         updateViewCount();
       }
     };
