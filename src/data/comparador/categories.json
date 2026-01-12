@@ -1,0 +1,14 @@
+[
+  {
+    "id": "telemoveis",
+    "name": "Telemóveis",
+    "icon": "📱",
+    "description": "Smartphones Android e iPhone"
+  },
+  {
+    "id": "headphones",
+    "name": "Headphones",
+    "icon": "🎧",
+    "description": "Auriculares e auscultadores"
+  }
+]
