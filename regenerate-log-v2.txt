@@ -1,0 +1,1145 @@
+Found 989 articles to check
+
+[SKIP] 3-series-netflix-canceladas-em-2025-que-ainda-merecem-a-sua-atencao.md - description looks OK
+[SKIP] 4mlinux-500-nova-versao-da-distro-linux-aposta-em-compilacoes-reproduziveis.md - description looks OK
+[SKIP] 5-gadgets-originais-para-o-entusiasta-de-tecnologia-em-portugal.md - description looks OK
+[SKIP] 50-obras-essenciais-um-mergulho-profundo-na-literatura-espanhola.md - description looks OK
+[SKIP] a-anomalia-escocesa-421-proprietarios-detem-metade-do-solo-rural.md - description looks OK
+[SKIP] a-aplicacao-misteriosa-que-promete-revolucionar-o-seu-pc-windows-instantaneamente.md - description looks OK
+[SKIP] a-aplicacao-panels-de-mkbhd-encerra-portas-o-que-aconteceu.md - description looks OK
+[SKIP] a-decoracao-da-casa-o-novo-street-style-ditado-pelas-redes-sociais.md - description looks OK
+[SKIP] a-era-da-aprovacao-como-a-ia-nos-transforma-em-editores-da-nossa-propria-comunicacao.md - description looks OK
+[SKIP] a-ermida-no-coracao-de-um-vulcao-um-tesouro-geografico-e-historico.md - description looks OK
+[SKIP] a-estrategia-infallivel-para-superar-desafios-o-poder-transformador-da-autoimagem-e-do-dialogo-interno.md - description looks OK
+[SKIP] a-ia-em-debate-trump-e-a-controversia-da-regulacao-nos-eua.md - description looks OK
+[SKIP] a-ilusao-dos-10000-passos-por-que-o-treino-de-forca-e-essencial-para-a-velhice-ativa.md - description looks OK
+[SKIP] acemagic-tank-m1a-pro-revoluciona-mini-pcs-com-amd-strix-halo.md - description looks OK
+[PROCESSING] acer-swift-16-ai-ecra-oled-e-lunar-lake-a-preco-competitivo.md
+  Old description: "O Acer Swift 16 AI posiciona-se como um portátil premium que combina um ecrã OLED de alta qualidade com os processadores Intel Lunar Lake de última geração e inovações em inteligência artificial. Este modelo surge no mercado com um preço competitivo, tornando-o uma opção atrativa para utilizadores que procuram um equipamento potente e focado na produtividade impulsionada por IA."
+  New description: "O Acer Swift 16 AI é um portátil premium que se destaca pelo seu ecrã OLED de alta qualidade e pelo processador Intel Lunar Lake de última geração, integrando inovações em inteligência artificial. Este modelo posiciona-se no mercado com um preço competitivo, tornando-o atrativo para utilizadores que procuram um equipamento potente focado na produtividade impulsionada por IA."
+[SKIP] acer-veriton-ra100-mini-pc-potente-com-ryzen-ai-max-e-128-gb-ram.md - description looks OK
+[PROCESSING] acessorios-essenciais-para-a-nintendo-switch-2-prepare-se-para-jogar.md
+  Old description: "Descubra os acessórios indispensáveis para a sua Nintendo Switch 2, desde comandos Pro a câmaras e capas de transporte. Melhore a sua experiência de jogo em."
+  New description: "A Nintendo Switch 2 chega acompanhada de uma nova gama de acessórios, concebidos para elevar a experiência de jogo. Estes incluem comandos aprimorados, bem como soluções inteligentes de transporte e proteção, que visam tornar cada sessão mais imersiva e conveniente. Assim, os acessórios tornam-se cruciais para personalizar e otimizar a forma como os jogadores interagem com os seus títulos favoritos."
+[PROCESSING] acessorios-essenciais-para-iphone-otimize-a-sua-experiencia-diaria.md
+  Old description: "Descubra os acessórios indispensáveis que elevam o seu iPhone, oferecendo proteção, maior autonomia e capacidades fotográficas avançadas. Escolhas práticas p."
+  New description: "Os acessórios são essenciais para otimizar e personalizar a experiência com o iPhone, protegendo o investimento e expandindo as suas capacidades em áreas como fotografia ou autonomia. Este artigo explora os complementos práticos que beneficiam todos os modelos, tornando o iPhone mais pessoal e funcional."
+[SKIP] acordo-apple-samsung-para-camaras-do-iphone-pode-ser-maior.md - description looks OK
+[SKIP] adeus-panels-as-melhores-alternativas-para-personalizar-o-seu-smartphone.md - description looks OK
+[SKIP] aetina-lanca-modulos-gpu-nvidia-blackwell-para-solucoes-embedded.md - description looks OK
+[PROCESSING] ai-e-apple-watch-dados-cardiacos-mais-profundos-a-vista.md
+  Old description: "Um novo estudo revela como a IA pode aprofundar a análise de dados cardíacos do Apple Watch, abrindo portas a diagnósticos mais precisos e prevenção. Fique a."
+  New description: "A Apple está a explorar como a inteligência artificial pode usar o sensor ótico do Apple Watch para desvendar *insights* ainda mais profundos sobre a saúde cardíaca. Esta investigação sugere um futuro onde o pulso será uma janela para uma compreensão sem precedentes do coração, solidificando a aposta da Apple na saúde através da IA nos seus *wearables*."
+[SKIP] airbus-ordena-correcao-de-software-em-6000-avioes-por-risco-solar.md - description looks OK
+[SKIP] airpods-4-e-macbooks-precos-competitivos-no-pos-promocao.md - description looks OK
+[PROCESSING] airpods-com-descontos-historicos-na-black-friday-europeia.md
+  Old description: "A Black Friday traz os AirPods da Apple a preços nunca antes vistos na Europa. Descobre como podes aproveitar estas ofertas imperdíveis para os teus novos au."
+  New description: "A Black Friday de 2024 apresenta descontos históricos nos populares AirPods da Apple, oferecendo uma oportunidade sem precedentes para os adquirir a um preço mais convidativo. Estas promoções não se limitam ao mercado norte-americano, estendendo-se com grande força por toda a Europa, incluindo Portugal."
+[SKIP] airpods-da-apple-podem-vir-a-ler-sinais-cerebrais-com-nova-ia.md - description looks OK
+[SKIP] airpods-max-descontos-de-black-friday-tornam-luxo-apple-mais-acessivel.md - description looks OK
+[SKIP] airpods-max-e-macbook-pro-m5-descontos-black-friday-chegam-mais-cedo.md - description looks OK
+[PROCESSING] airpods-pro-2-geracao-descontos-na-europa-e-o-hype-do-pro-3.md
+  Old description: "Procura os AirPods Pro (2.ª geração)? Boas notícias: estes aclamados auriculares sem fios da Apple estão a aparecer com descontos interessantes no mercado eu."
+  New description: "Os AirPods Pro são auriculares muito cobiçados, apesar dos rumores sobre uma "3.ª geração" serem infundados, pois a 2.ª geração é a mais recente disponível. Atualmente, esta versão encontra-se com descontos interessantes no mercado europeu, tornando-se uma oportunidade para os adquirir."
+[SKIP] airpods-pro-2-um-classico-apple-acessivel-em-epoca-de-saldo.md - description looks OK
+[SKIP] ajuste-automatico-de-potencia-em-aspiradores-e-mesmo-essencial.md - description looks OK
+[SKIP] alexa-em-casa-5-gadgets-essenciais-para-um-lar-mais-inteligente.md - description looks OK
+[PROCESSING] alldocube-iplay-70-max-pro-um-tablet-5g-acessivel-e-potente.md
+  Old description: "A Alldocube lança o iPlay 70 Max Pro, um tablet 5G com ecrã de alta resolução, bateria robusta e armazenamento expansível. Conheça a aposta para o segmento a."
+  New description: "A Alldocube lançou o iPlay 70 Max Pro, um tablet 5G acessível e potente que se posiciona como uma alternativa interessante no mercado europeu de dispositivos versáteis. Este novo modelo destaca-se pela conectividade 5G, um ecrã de alta resolução, uma bateria de grande capacidade e um processador Unisoc S715 adequado para o uso diário."
+[PROCESSING] altruismo-animal-um-debate-entre-egoismo-e-compaixao-na-natureza.md
+  Old description: "Serão os animais capazes de altruísmo genuíno ou cada ato de ajuda esconde um interesse próprio? Uma questão filosófica e biológica complexa que continua a d."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] altruismo-animal-um-debate-entre-egoismo-e-compaixao-na-natureza.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 28.982264926s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"28s"}]
+[SKIP] amazon-desafia-starlink-com-internet-satelite-de-1-gbps.md - description looks OK
+[SKIP] amazon-echo-auto-leve-a-alexa-para-dentro-do-seu-carro.md - description looks OK
+[SKIP] amazon-echo-frames-a-conveniencia-dos-oculos-inteligentes.md - description looks OK
+[SKIP] amazon-luna-14-jogos-gratis-para-membros-prime-em-dezembro-de-2025.md - description looks OK
+[PROCESSING] amazon-luna-expande-oferta-de-jogos-gratis-para-dezembro-2025.md
+  Old description: "A Amazon Luna reforça a sua biblioteca de jogos grátis para dezembro de 2025, adicionando dois novos títulos a um catálogo de 14 ofertas. Saiba mais sobre o."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] amazon-luna-expande-oferta-de-jogos-gratis-para-dezembro-2025.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 28.109364308s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"28s"}]
+[PROCESSING] amazon-luna-os-ultimos-jogos-gratis-de-novembro-de-2025-ja-estao-disponiveis.md
+  Old description: "A Amazon revela os jogos gratuitos finais de novembro de 2025 para o serviço Luna. Descubra os títulos de ação e aventura que pode descarregar já. A Amazon e."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] amazon-luna-os-ultimos-jogos-gratis-de-novembro-de-2025-ja-estao-disponiveis.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.196488126s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"27s"}]
+[PROCESSING] amazon-ofertas-imperdiveis-airpods-black-friday-melhoram.md
+  Old description: ""
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] amazon-ofertas-imperdiveis-airpods-black-friday-melhoram.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 26.474269058s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"26s"}]
+[SKIP] amc-os-melhores-filmes-e-series-de-terror-a-um-clique-de-distancia.md - description looks OK
+[PROCESSING] amd-e-intel-recuperam-terreno-no-mercado-de-gpus-mas-nvidia-domina.md
+  Old description: "AMD e Intel viram a sua quota de mercado em GPUs crescer no Q3 2025, desafiando a NVIDIA. Analisamos a dinâmica de um setor em mudança. O mercado de placas g."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] amd-e-intel-recuperam-terreno-no-mercado-de-gpus-mas-nvidia-domina.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.681294219s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"25s"}]
+[SKIP] amd-podera-seguir-apple-e-tesla-na-aposta-em-chips-2nm-da-samsung.md - description looks OK
+[SKIP] amd-ryzen-7-9850x3d-geekbench-revela-frequencias-ate-56-ghz.md - description looks OK
+[SKIP] amd-zen-5-x3d-cpus-ryzen-testados-com-ddr5-9800-antes-da-ces-2026.md - description looks OK
+[PROCESSING] analise-as-oportunidades-tecnologicas-pos-saldos-globais.md
+  Old description: "Descubra as tendências e os dispositivos que mais se destacaram nas recentes campanhas de descontos, da Apple a wearables, com impacto no mercado português."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] analise-as-oportunidades-tecnologicas-pos-saldos-globais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.807525718s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"24s"}]
+[SKIP] anbernic-rg-477v-a-consola-portatil-que-evoca-a-nostalgia-game-boy.md - description looks OK
+[SKIP] anbernic-rg477v-emulacao-de-ps2-e-gamecube-a-alta-resolucao.md - description looks OK
+[SKIP] android-16-qpr2-adeus-ao-desfoque-de-fundo-nos-google-pixel.md - description looks OK
+[SKIP] android-16-qpr2-codigo-fonte-aberto-impulsiona-roms-personalizadas.md - description looks OK
+[SKIP] android-16-qpr2-cores-dinamicas-prometem-revolucionar-widgets.md - description looks OK
+[PROCESSING] android-automotive-qualcomm-acelera-atualizacoes-em-carros.md
+  Old description: "Os automóveis com Android Automotive OS terão acesso a atualizações mais rápidas, graças a uma parceria entre a Google e a Qualcomm. Uma novidade essencial p."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] android-automotive-qualcomm-acelera-atualizacoes-em-carros.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.739144309s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"23s"}]
+[SKIP] android-otimiza-hotspot-com-wi-fi-6-ghz-para-melhor-conectividade.md - description looks OK
+[SKIP] anker-acessorios-de-carregamento-essenciais-com-descontos.md - description looks OK
+[SKIP] anker-dl7400-estacao-de-ancoragem-14-em-1-para-maxima-produtividade.md - description looks OK
+[SKIP] anker-prime-67w-o-carregador-essencial-para-viagens-e-multitarefas.md - description looks OK
+[SKIP] antares-capta-96m-para-microreatores-nucleares-na-terra-e-espaco.md - description looks OK
+[SKIP] antartida-o-inseto-mais-resiliente-do-mundo-ingere-microplasticos.md - description looks OK
+[SKIP] antecipe-o-natal-gadgets-e-presentes-originais-para-entusiastas-tech.md - description looks OK
+[SKIP] antutu-11-no-ios-relevancia-e-desafios-para-o-mercado-europeu-de-smartphones.md - description looks OK
+[SKIP] apple-anuncia-novas-e-impactantes-mudancas-na-lideranca-executiva.md - description looks OK
+[SKIP] apple-continua-danca-das-cadeiras-na-sua-cupula-de-lideranca.md - description looks OK
+[SKIP] apple-e-o-caso-iceblock-um-precedente-perigoso-para-a-europa.md - description looks OK
+[SKIP] apple-e-samsung-11-milhoes-de-ecras-oled-para-iphone-dobravel.md - description looks OK
+[SKIP] apple-e-tim-cook-apoiam-hong-kong-apos-incendio-devastador.md - description looks OK
+[PROCESSING] apple-garante-extensao-para-mega-campus-na-carolina-do-norte.md
+  Old description: "A Apple assegurou uma rara extensão de prazo para o seu ambicioso campus na Carolina do Norte, mantendo um incentivo de $845 milhões. O que significa para o."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-garante-extensao-para-mega-campus-na-carolina-do-norte.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 22.898172968s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"22s"}]
+[PROCESSING] apple-glasses-os-oculos-inteligentes-que-prometem-marcar-2026.md
+  Old description: "Os rumores sobre os Apple Glasses intensificam-se, apontando para um lançamento em 2026 que promete revolucionar o mercado dos wearables. Saiba tudo sobre es."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-glasses-os-oculos-inteligentes-que-prometem-marcar-2026.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 22.157867967s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"22s"}]
+[PROCESSING] apple-ios-27-focara-performance-e-recursos-essenciais-de-ia.md
+  Old description: ""
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-ios-27-focara-performance-e-recursos-essenciais-de-ia.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.284256668s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"21s"}]
+[SKIP] apple-ipad-pro-m4-macbook-pro-m5-e-acessorios-em-destaque.md - description looks OK
+[SKIP] apple-m7-podera-ser-fabricado-pela-intel-foundry-diz-analista.md - description looks OK
+[SKIP] apple-marca-reuniao-anual-de-acionistas-para-fevereiro-de-2026.md - description looks OK
+[SKIP] apple-prestes-a-ultrapassar-samsung-na-lideranca-de-smartphones.md - description looks OK
+[SKIP] apple-reorganizacao-na-cupula-com-saidas-chave-e-novas-entradas.md - description looks OK
+[PROCESSING] apple-sob-escrutinio-nos-eua-por-apps-de-rastreio-de-oficiais.md
+  Old description: "Legisladores norte-americanos questionam a Apple sobre as medidas para evitar o retorno de apps de rastreio como o ICEBlock na App Store, reacendendo a polém."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-sob-escrutinio-nos-eua-por-apps-de-rastreio-de-oficiais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.524409142s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"20s"}]
+[PROCESSING] apple-tv-o-servico-de-streaming-premium-que-conquistou-o-publico.md
+  Old description: "Descubra o que torna a Apple TV+ uma plataforma de streaming de excelência, desde o seu catálogo de originais premiados à experiência de utilização fluida. S."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-tv-o-servico-de-streaming-premium-que-conquistou-o-publico.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 19.699591334s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"19s"}]
+[PROCESSING] apple-watch-descontos-de-black-friday-na-linha-completa.md
+  Old description: "Aproveite a Black Friday para adquirir um Apple Watch. Descontos em toda a gama, do SE ao Ultra 3, para acompanhar a sua saúde e conectividade. Descubra as m."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] apple-watch-descontos-de-black-friday-na-linha-completa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 18.877069209s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"18s"}]
+[SKIP] apple-watch-se-2-com-lte-o-smartwatch-essencial-a-preco-acessivel.md - description looks OK
+[SKIP] apple-watch-ultra-3-tres-meses-depois-vale-a-pena-o-investimento.md - description looks OK
+[SKIP] apps-linux-indispensaveis-em-2025-a-escolha-de-um-especialista.md - description looks OK
+[PROCESSING] aprimore-o-seu-mac-acessorios-essenciais-para-maior-produtividade.md
+  Old description: "Descubra os acessórios indispensáveis para elevar a sua experiência Mac. De hubs a monitores, saiba como otimizar o seu setup para máxima produtividade no di."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] aprimore-o-seu-mac-acessorios-essenciais-para-maior-produtividade.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 18.147260113s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"18s"}]
+[SKIP] aquecedor-eletrico-dreo-conforto-e-eficiencia-para-o-inverno.md - description looks OK
+[SKIP] aquecimento-em-casa-a-temperatura-secreta-para-poupar-na-fatura.md - description looks OK
+[SKIP] arch-linux-inicia-2026-com-iso-fresca-e-kernel-618-lts.md - description looks OK
+[SKIP] arlo-essential-2k-vigilancia-inteligente-e-acessivel-para-a-sua-casa.md - description looks OK
+[SKIP] armazenamento-cloud-para-empresas-oportunidades-na-black-friday.md - description looks OK
+[SKIP] armazenamento-de-dados-em-adn-13tb-numa-gota-de-agua-ate-2026.md - description looks OK
+[SKIP] armazenamento-em-destaque-ssds-e-microsds-pos-periodo-de-saldos.md - description looks OK
+[SKIP] armazenamento-na-nuvem-o-guia-essencial-para-o-seu-smartphone.md - description looks OK
+[SKIP] armazenamento-profissional-drives-lto-10-de-30tb-no-mac-mini.md - description looks OK
+[SKIP] arvores-de-natal-aluguer-sustentavel-chega-a-portugal.md - description looks OK
+[SKIP] aryaag-agritech-indiana-prospera-com-investimento-apesar-de-crise-agricola.md - description looks OK
+[SKIP] as-melhores-air-fryers-de-2025-guia-essencial-nexora-news.md - description looks OK
+[SKIP] as-melhores-alternativas-ao-mint-para-gestao-financeira-pessoal.md - description looks OK
+[SKIP] as-melhores-compras-tech-de-2025-valeu-cada-centimo.md - description looks OK
+[SKIP] as-melhores-ofertas-tech-da-mediamarkt-que-marcaram-o-natal.md - description looks OK
+[PROCESSING] as-tendencias-tech-que-marcaram-2025-bateria-e-design-slim-no-topo.md
+  Old description: "Análise das notícias tech mais populares de 2025 revela foco em autonomia e design. Baterias de silício-carbono revolucionam smartphones chineses. À medida q."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] as-tendencias-tech-que-marcaram-2025-bateria-e-design-slim-no-topo.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 17.382851495s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"17s"}]
+[SKIP] ascensao-da-google-na-ia-impulsiona-larry-page-ao-podio-dos-bilionarios.md - description looks OK
+[SKIP] asics-corre-na-frente-ultrapassa-nike-e-adidas-em-sapatilhas-premium.md - description looks OK
+[SKIP] aspirador-robo-a-perder-conexao-dicas-para-restaurar-o-controlo.md - description looks OK
+[SKIP] aspirador-samsung-o-gadget-de-casa-que-conquistou-o-ano.md - description looks OK
+[PROCESSING] assuma-o-controlo-gerir-permissoes-de-apps-para-maior-privacidade.md
+  Old description: "Gerir as permissões das aplicações no seu smartphone é crucial para proteger a sua privacidade e otimizar o desempenho do dispositivo. Saiba como fazê-lo e q."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] assuma-o-controlo-gerir-permissoes-de-apps-para-maior-privacidade.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.590827172s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"16s"}]
+[SKIP] astronomos-descobrem-53-quasares-com-jatos-maiores-que-a-via-lactea.md - description looks OK
+[SKIP] asus-core-i3-a-preco-irrisorio-nos-eua-um-benchmark-para-a-europa.md - description looks OK
+[SKIP] asus-sem-novos-smartphones-em-2024-rumores-indicam-pausa.md - description looks OK
+[SKIP] ataque-de-ransomware-expoe-dados-de-centenas-de-milhar-de-clientes-bancarios.md - description looks OK
+[SKIP] atrasos-em-consolas-portateis-de-gaming-financiamento-coletivo-em-xeque.md - description looks OK
+[SKIP] atualizacao-de-voz-do-chatgpt-antecipa-futuro-da-siri-e-assistentes-inteligentes.md - description looks OK
+[PROCESSING] atualizacao-quick-share-no-pixel-10-traz-bug-inesperado-ao-wi-fi.md
+  Old description: "Utilizadores de smartphones Pixel 10 estão a reportar um bug no Wi-Fi após a mais recente atualização do Quick Share. Fique a par dos detalhes e possíveis so."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] atualizacao-quick-share-no-pixel-10-traz-bug-inesperado-ao-wi-fi.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.820823354s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"15s"}]
+[SKIP] audible-o-universo-dos-audiolivros-e-podcasts-na-era-digital.md - description looks OK
+[SKIP] aura-carver-mat-a-moldura-digital-que-transforma-as-suas-memorias.md - description looks OK
+[SKIP] auriculares-o-que-procurar-para-um-bom-negocio-em-portugal.md - description looks OK
+[SKIP] auscultadores-bose-anc-de-referencia-agora-mais-acessiveis-no-mercado.md - description looks OK
+[SKIP] auscultadores-com-cancelamento-de-ruido-o-guia-para-2025.md - description looks OK
+[PROCESSING] auscultadores-com-fios-do-ano-2025-da-techradar-em-foco.md
+  Old description: "Descubra os auscultadores com fios eleitos pela TechRadar como os melhores de 2025. Saiba porque este modelo se destaca no mercado e as oportunidades de o ad."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] auscultadores-com-fios-do-ano-2025-da-techradar-em-foco.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.043167474s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"15s"}]
+[PROCESSING] autoalojamento-em-crescimento-utilizadores-linux-na-lideranca.md
+  Old description: "O autoalojamento de serviços e dados está a ganhar terreno em Portugal e na Europa. Saiba como os utilizadores Linux lideram este movimento pela autonomia di."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] autoalojamento-em-crescimento-utilizadores-linux-na-lideranca.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.238984541s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"14s"}]
+[PROCESSING] aviot-te-q3r-os-auriculares-mais-pequenos-com-hi-res-audio.md
+  Old description: "Apresentamos os Aviot TE-Q3R, os mais compactos auriculares com certificação Hi-Res Audio, ANC e áudio espacial 360 graus. Descubra a nova aposta da Aviot pa."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] aviot-te-q3r-os-auriculares-mais-pequenos-com-hi-res-audio.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 13.428720575s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"13s"}]
+[SKIP] aws-aposta-forte-em-agentes-de-ia-para-desafiar-lideres-do-setor.md - description looks OK
+[SKIP] aws-reinvent-2025-as-novidades-em-ia-e-chips-da-amazon.md - description looks OK
+[SKIP] aws-reinvent-2025-novidades-em-chips-e-o-futuro-da-ia-na-cloud.md - description looks OK
+[PROCESSING] ayaneo-next-2-o-novo-portatil-de-gaming-com-ecra-oled-e-bateria-massiva.md
+  Old description: "A Ayaneo lança o Next 2, um potente portátil de gaming Windows com ecrã OLED de 9.06 polegadas e uma bateria impressionante de 115Wh. Conheça as especificações."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] ayaneo-next-2-o-novo-portatil-de-gaming-com-ecra-oled-e-bateria-massiva.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 12.648145075s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"12s"}]
+[SKIP] ayaneo-next-ii-portatil-gaming-com-bateria-de-115wh-a-vista.md - description looks OK
+[SKIP] ayaneo-pocket-play-o-regresso-dos-sliders-ao-gaming-movel.md - description looks OK
+[SKIP] backbone-one-edicao-limitada-kith-chega-ao-mercado.md - description looks OK
+[SKIP] balizas-v16-com-app-seguranca-conectada-para-a-estrada.md - description looks OK
+[SKIP] ball-x-pit-tres-atualizacoes-gratuitas-em-2026-para-mais-caos.md - description looks OK
+[SKIP] banda-larga-em-portugal-como-encontrar-os-melhores-precos.md - description looks OK
+[SKIP] baterias-de-bicicletas-eletricas-rad-power-bikes-cpsc-alerta-para-risco-de-incendio.md - description looks OK
+[SKIP] battle-brothers-rpg-tatico-elogiado-na-steam-regressa-por-menos-de-10.md - description looks OK
+[PROCESSING] battlefield-6-atualizacao-ofensiva-de-inverno-em-meio-a-criticas.md
+  Old description: "A nova atualização 'Ofensiva de Inverno' de Battlefield 6 já tem data, mas a comunidade mantém-se cética. Descobre as novidades e os desafios da EA. Os fãs d."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] battlefield-6-atualizacao-ofensiva-de-inverno-em-meio-a-criticas.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 11.796227609s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"11s"}]
+[PROCESSING] beelink-gti15-ultra-mini-pc-chega-ao-mercado-com-precos-inflacionados.md
+  Old description: "O novo mini PC Beelink GTI15 Ultra, com processador Arrow Lake-H, chega ao mercado europeu com preços superiores devido à subida de componentes. Descubra os."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] beelink-gti15-ultra-mini-pc-chega-ao-mercado-com-precos-inflacionados.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 10.960721132s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"10s"}]
+[PROCESSING] belkin-connectair-hdmi-sem-fios-que-dispensa-wi-fi-e-bluetooth.md
+  Old description: "A Belkin apresenta o ConnectAir, um adaptador HDMI sem fios inovador que permite partilhar ecrãs a 1080p/60Hz, sem precisar de Wi-Fi. Ideal para trabalho e l."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] belkin-connectair-hdmi-sem-fios-que-dispensa-wi-fi-e-bluetooth.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 10.101746233s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"10s"}]
+[PROCESSING] belkin-lanca-carregador-gan-de-70w-compacto-e-com-3-portas.md
+  Old description: "A Belkin apresenta um novo carregador GaN de 70W, compacto e com três portas USB-C, perfeito para carregar múltiplos dispositivos em viagem. Já disponível na."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] belkin-lanca-carregador-gan-de-70w-compacto-e-com-3-portas.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 9.264992952s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"9s"}]
+[SKIP] belkin-reforca-lideranca-com-acessorios-magsafe-e-qi2-para-iphone.md - description looks OK
+[SKIP] big-bash-league-202526-cricket-t20-e-a-era-do-streaming-global.md - description looks OK
+[SKIP] bixby-20-a-revolucao-da-ia-da-samsung-prepara-se-para-chegar-a-europa.md - description looks OK
+[PROCESSING] black-friday-2025-apple-watch-ultra-3-e-macs-com-descontos-na-europa.md
+  Old description: "A Black Friday 2025 promete trazer preços mais competitivos para o Apple Watch Ultra 3, MacBook Pro M5 e MacBook Air M4 no mercado europeu. A Black Friday 20."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-2025-apple-watch-ultra-3-e-macs-com-descontos-na-europa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 8.490823144s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"8s"}]
+[SKIP] black-friday-2025-as-melhores-ofertas-de-tecnologia-a-nao-perder.md - description looks OK
+[PROCESSING] black-friday-2025-as-melhores-ofertas-em-tecnologia-chegam-mais-cedo.md
+  Old description: "A Black Friday 2025 promete trazer descontos imperdíveis em AirPods, consolas PlayStation 5 e muito mais. Prepare-se para as melhores ofertas tech. Ainda a r."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-2025-as-melhores-ofertas-em-tecnologia-chegam-mais-cedo.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 7.576908641s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"7s"}]
+[SKIP] black-friday-2025-as-melhores-ofertas-em-tecnologia-na-europa.md - description looks OK
+[SKIP] black-friday-2025-as-melhores-promocoes-de-tecnologia-ja-disponiveis-na-nexora-news.md - description looks OK
+[SKIP] black-friday-2025-as-melhores-tvs-e-dispositivos-de-streaming-em-destaque.md - description looks OK
+[PROCESSING] black-friday-2025-descontos-em-servicos-de-streaming-a-vista.md
+  Old description: "A Black Friday de 2025 promete trazer poupanças notáveis em serviços de streaming populares. Saiba como aproveitar os melhores descontos para subscrever as p."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-2025-descontos-em-servicos-de-streaming-a-vista.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 6.816199951s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"6s"}]
+[SKIP] black-friday-2025-guia-para-as-melhores-ofertas-em-televisoes-e-streaming.md - description looks OK
+[SKIP] black-friday-2025-mac-mini-m4-e-apple-watch-com-descontos-esperados-nos-eua.md - description looks OK
+[PROCESSING] black-friday-2025-na-t-mobile-descontos-inacreditaveis-em-iphone-17-galaxy-s25-e-pixel-10.md
+  Old description: "Prepare-se para a Black Friday de 2025! A T-Mobile anuncia ofertas sem precedentes, incluindo até 1000 dólares de desconto em smartphones de ponta como o iPhone 17, Galaxy S25 e Pixel 10, com a possibilidade de obter até quatro iPhone 17 gratuitamente com um plano. A NEXORA News traz-lhe todos os detalhes e o que esperar desta época de poupança."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-2025-na-t-mobile-descontos-inacreditaveis-em-iphone-17-galaxy-s25-e-pixel-10.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 6.056360146s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"6s"}]
+[SKIP] black-friday-2025-o-que-esperar-das-promocoes-em-streaming.md - description looks OK
+[SKIP] black-friday-2025-os-descontos-esperados-nos-servicos-de-streaming.md - description looks OK
+[SKIP] black-friday-2025-os-melhores-altifalantes-em-destaque-na-europa.md - description looks OK
+[SKIP] black-friday-airpods-apple-watch-e-ipad-com-descontos-recorde.md - description looks OK
+[PROCESSING] black-friday-antecipada-cronografo-solar-seiko-prospex-speedtimer-mostrador-bege-com-desconto-de-21-na-amazon.md
+  Old description: "Aproveite a Black Friday antecipada e adquira o cronógrafo solar Seiko Prospex Speedtimer SSC817P1, com mostrador bege e construção em aço inoxidável, agora com um desconto de 21% na Amazon US."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-antecipada-cronografo-solar-seiko-prospex-speedtimer-mostrador-bege-com-desconto-de-21-na-amazon.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 5.315852021s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"5s"}]
+[SKIP] black-friday-apple-descontos-de-sonho-em-iphone-16-pro-e-mais.md - description looks OK
+[SKIP] black-friday-aproveite-os-descontos-nos-samsung-galaxy-tab.md - description looks OK
+[SKIP] black-friday-as-melhores-ofertas-em-tablets-chegam-com-descontos-inacreditaveis.md - description looks OK
+[SKIP] black-friday-as-melhores-ofertas-em-tecnologia-para-o-mercado-europeu.md - description looks OK
+[SKIP] black-friday-as-melhores-oportunidades-em-tecnologia-na-europa-1.md - description looks OK
+[SKIP] black-friday-as-melhores-oportunidades-em-tecnologia-na-europa.md - description looks OK
+[PROCESSING] black-friday-as-melhores-promocoes-de-vpn-que-ainda-pode-agarrar.md
+  Old description: "Um especialista em VPNs revela as melhores oportunidades para garantir a sua privacidade e segurança online na Black Friday europeia. Não perca as últimas of."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-as-melhores-promocoes-de-vpn-que-ainda-pode-agarrar.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 4.458248333s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"4s"}]
+[SKIP] black-friday-auriculares-sem-fios-as-melhores-ofertas-na-europa.md - description looks OK
+[SKIP] black-friday-auscultadores-e-auriculares-de-topo-com-precos-atrativos.md - description looks OK
+[SKIP] black-friday-cartoes-microsd-express-essenciais-para-a-nintendo-switch-2-a-precos-recorde.md - description looks OK
+[SKIP] black-friday-como-aproveitar-as-promocoes-de-internet-em-portugal.md - description looks OK
+[PROCESSING] black-friday-currys-mais-de-30-ofertas-imperdiveis-em-tecnologia-selecionadas-por-especialistas.md
+  Old description: "Descubra as mais de 30 melhores ofertas tecnológicas da Black Friday da Currys, cuidadosamente selecionadas por um especialista em caça a pechinchas. Desde TVs a portáteis e eletrodomésticos, não perca estas oportunidades de poupança."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-currys-mais-de-30-ofertas-imperdiveis-em-tecnologia-selecionadas-por-especialistas.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 3.728478231s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"3s"}]
+[SKIP] black-friday-descontos-de-ate-60-em-tecnologia-e-eletrodomesticos.md - description looks OK
+[SKIP] black-friday-descontos-imperdiveis-nos-modelos-ipad-chegam-a-europa.md - description looks OK
+[PROCESSING] black-friday-digital-oportunidades-em-streaming-vpns-e-apps.md
+  Old description: "A Black Friday traz ofertas imperdíveis em serviços digitais. Descubra como poupar em plataformas de streaming, VPNs de segurança e apps de produtividade na."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-digital-oportunidades-em-streaming-vpns-e-apps.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.888726851s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"2s"}]
+[SKIP] black-friday-europeia-as-melhores-tendencias-em-descontos-de-tecnologia.md - description looks OK
+[SKIP] black-friday-europeia-portateis-em-destaque-e-oportunidades-unicas.md - description looks OK
+[PROCESSING] black-friday-gadgets-e-acessorios-tech-essenciais-por-menos-de-50.md
+  Old description: "Aproveite a Black Friday para descobrir gadgets e acessórios de tecnologia que valem a pena por menos de 50 euros. Há opções para todos os gostos. A época da."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-gadgets-e-acessorios-tech-essenciais-por-menos-de-50.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 2.101020218s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"2s"}]
+[SKIP] black-friday-gadgets-essenciais-para-a-emocao-do-desporto-em-casa.md - description looks OK
+[SKIP] black-friday-gastos-online-disparam-e-batem-recorde-nos-eua.md - description looks OK
+[PROCESSING] black-friday-gastos-online-nos-eua-batem-recorde-de-118-mil-m.md
+  Old description: "A Black Friday de 2025 estabeleceu um novo recorde nos EUA, com consumidores a gastarem 11,8 mil milhões de dólares online. Conheça as implicações para o e-c."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-gastos-online-nos-eua-batem-recorde-de-118-mil-m.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 1.270920253s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"1s"}]
+[PROCESSING] black-friday-grandes-descontos-ate-60-em-auscultadores-de-topo.md
+  Old description: "A Black Friday é a altura ideal para adquirir auscultadores de topo. Descubra as melhores oportunidades e poupe até 60% em modelos de referência no mercado e."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-grandes-descontos-ate-60-em-auscultadores-de-topo.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 355.470726ms. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"0s"}]
+[SKIP] black-friday-masterclass-oferece-ate-50-em-subscricoes-anuais.md - description looks OK
+[SKIP] black-friday-meta-quest-3-com-descontos-a-nao-perder-na-europa.md - description looks OK
+[SKIP] black-friday-na-europa-descontos-imperdiveis-em-streaming-e-vpn.md - description looks OK
+[SKIP] black-friday-na-europa-televisores-e-streaming-em-destaque-para-2025.md - description looks OK
+[SKIP] black-friday-o-guia-completo-da-nexora-news-para-a-pen-usb-perfeita-do-mais-barato-ao-mais-rapido.md - description looks OK
+[SKIP] black-friday-oportunidades-de-streaming-para-o-mercado-portugues.md - description looks OK
+[SKIP] black-friday-oportunidades-em-assinaturas-e-servicos-digitais.md - description looks OK
+[SKIP] black-friday-oportunidades-em-streaming-para-o-mercado-europeu.md - description looks OK
+[SKIP] black-friday-oportunidades-em-tablets-portateis-e-e-readers-na-europa.md - description looks OK
+[SKIP] black-friday-os-produtos-apple-mais-desejados-com-descontos.md - description looks OK
+[SKIP] black-friday-playstation-5-com-descontos-ate-100-euros-na-europa.md - description looks OK
+[SKIP] black-friday-proteja-os-seus-dados-com-descontos-em-armazenamento.md - description looks OK
+[SKIP] black-friday-ps5-com-descontos-atractivos-para-gamers-europeus.md - description looks OK
+[SKIP] black-friday-samsung-reforca-presenca-global-com-ofertas-estrategicas.md - description looks OK
+[PROCESSING] black-friday-sennheiser-com-auscultadores-a--55-na-europa.md
+  Old description: "Aproveite a Black Friday para adquirir auscultadores Sennheiser com descontos impressionantes de até 55%. Prepare-se para uma experiência de áudio premium se."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-sennheiser-com-auscultadores-a--55-na-europa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.602968922s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"59s"}]
+[SKIP] black-friday-subscricoes-e-streaming-com-grandes-descontos-na-europa.md - description looks OK
+[PROCESSING] black-friday-tablet-lenovo-idea-tab-com-desconto-de-36.md
+  Old description: ""
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-tablet-lenovo-idea-tab-com-desconto-de-36.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.79571449s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"58s"}]
+[PROCESSING] black-friday-tecnologia-para-a-cozinha-com-precos-imperdiveis.md
+  Old description: "Descubra as melhores oportunidades em eletrodomésticos de cozinha de marcas como Ninja, Breville e KitchenAid durante a Black Friday europeia. É o momento de."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] black-friday-tecnologia-para-a-cozinha-com-precos-imperdiveis.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.026482253s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"58s"}]
+[SKIP] bloqueada-lei-de-verificacao-de-idade-em-lojas-de-apps-no-texas.md - description looks OK
+[SKIP] bluetooth-em-cassete-invencao-insolita-traz-o-analogico-de-volta.md - description looks OK
+[SKIP] bombas-de-calor-europa-lider-na-producao-mas-os-europeus-nao-as-usam.md - description looks OK
+[SKIP] bonus-de-desempenho-samsung-premeia-colaboradores-de-semicondutores.md - description looks OK
+[PROCESSING] bose-quietcomfort-ultra-2-excelencia-de-audio-e-silencio-imersivo.md
+  Old description: "Os Bose QuietComfort Ultra 2 mantêm-se como referência em cancelamento de ruído e som imersivo. Descobre as qualidades destes auriculares premium e como os o."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] bose-quietcomfort-ultra-2-excelencia-de-audio-e-silencio-imersivo.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 57.230483564s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"57s"}]
+[SKIP] breville-barista-express-excelencia-no-cafe-a-distancia-de-um-botao.md - description looks OK
+[SKIP] bruxelas-decide-aquisicao-da-wiz-pela-google-em-fevereiro.md - description looks OK
+[SKIP] bug-no-windows-11-prejudica-gpus-nvidia-em-assassins-creed-shadows.md - description looks OK
+[SKIP] cachyos-nova-iso-de-novembro-2025-otimiza-a-instalacao.md - description looks OK
+[PROCESSING] calculadora-no-smartphone-vs-fisica-qual-a-melhor-ferramenta-para-si.md
+  Old description: "A escolha entre uma calculadora no smartphone e uma física divide opiniões. Exploramos as vantagens e desvantagens de cada para uso diário e profissional em."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] calculadora-no-smartphone-vs-fisica-qual-a-melhor-ferramenta-para-si.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 56.40498965s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"56s"}]
+[PROCESSING] calibre-816-gestor-de-e-books-abraca-a-inteligencia-artificial.md
+  Old description: "A nova versão do popular Calibre 8.16 já está disponível, trazendo mais funcionalidades de Inteligência Artificial e correções. Descubra as novidades deste g."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] calibre-816-gestor-de-e-books-abraca-a-inteligencia-artificial.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 55.631968086s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"55s"}]
+[PROCESSING] camara-compacta-evoca-sony-cyber-shot-com-64mp-e-usb-c.md
+  Old description: "Uma nova câmara compacta promete reviver a estética icónica da Sony Cyber-shot, equipada com um sensor de 64MP e porta USB-C. A nostalgia encontra a inovação."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] camara-compacta-evoca-sony-cyber-shot-com-64mp-e-usb-c.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 54.812928062s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"54s"}]
+[SKIP] camaras-de-200mp-da-samsung-conquistam-smartphones-chineses-de-topo.md - description looks OK
+[PROCESSING] camaras-de-2026-iphone-18-e-drone-dji-360-prometem-inovar.md
+  Old description: "As inovações no mundo da fotografia não param. Descobre o que esperar das câmaras de 2026, do iPhone 18 ao drone DJI 360, no mercado europeu. O ano de 2026 p."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] camaras-de-2026-iphone-18-e-drone-dji-360-prometem-inovar.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 54.02939762s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"54s"}]
+[SKIP] camaras-tapo-4k-vigilancia-inteligente-com-reconhecimento-facial-gratuito.md - description looks OK
+[SKIP] cambridge-audio-deslumbra-na-ces-2026-com-novas-colunas-lr.md - description looks OK
+[SKIP] campainhas-de-video-a-seguranca-domestica-inteligente-em-2025.md - description looks OK
+[SKIP] canon-em-2025-a-escolha-perfeita-para-cada-fotografo.md - description looks OK
+[SKIP] canon-eos-r100-a-mirrorless-acessivel-para-iniciados-no-mercado.md - description looks OK
+[SKIP] cansado-do-google-meet-5-alternativas-essenciais-para-experimentar.md - description looks OK
+[SKIP] capas-mujjo-para-iphone-17-pro-luxo-e-protecao-em-couro-premium.md - description looks OK
+[PROCESSING] cardpointers-atualiza-se-para-ios-26-com-ia-da-apple-e-liquid-glass.md
+  Old description: "A app CardPointers recebe uma grande atualização para iOS 26, integrando a Apple Intelligence e um design Liquid Glass, otimizando as recompensas dos seus ca."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] cardpointers-atualiza-se-para-ios-26-com-ia-da-apple-e-liquid-glass.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 53.208637511s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"53s"}]
+[SKIP] carregador-anker-140w-potencia-e-portabilidade-sem-compromissos.md - description looks OK
+[SKIP] carregador-portatil-de-10000-mah-essencial-para-a-autonomia-diaria.md - description looks OK
+[SKIP] carregador-retratil-lisen-fim-a-desordem-de-cabos-no-carro.md - description looks OK
+[SKIP] carregador-samsung-sem-fios-15w-um-classico-que-perdura.md - description looks OK
+[PROCESSING] carregador-ugreen-nexode-65w-redefine-a-mobilidade-da-carga.md
+  Old description: "O Ugreen Nexode 65W é um carregador GaN compacto com três portas, ideal para múltiplos dispositivos. Descubra a eficiência e versatilidade deste acessório es."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] carregador-ugreen-nexode-65w-redefine-a-mobilidade-da-carga.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 52.370017848s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"52s"}]
+[SKIP] cartoes-microsd-em-2026-escolha-o-ideal-para-switch-2-e-mais.md - description looks OK
+[SKIP] cartoes-presente-apple-a-escolha-inteligente-para-ofertas-tecnologicas.md - description looks OK
+[SKIP] casa-inteligente-as-ofertas-mais-atraentes-no-mercado-europeu.md - description looks OK
+[SKIP] casio-edifice-sospensione-relogios-inspirados-na-f1-chegam-a-europa.md - description looks OK
+[SKIP] casio-g-shock-awg-m100fp-1a2-robustez-e-autonomia-solar.md - description looks OK
+[SKIP] casio-g-shock-frogman-gw-8200tpf-1jr-design-neon-e-preto-ja-disponivel.md - description looks OK
+[PROCESSING] casio-g-shock-mrg-b2000kt-3a-edicao-de-luxo-com-bisel-gravado.md
+  Old description: "O Casio G-Shock MRG-B2000KT-3A é uma edição de luxo com apenas 800 unidades. O seu bisel de titânio, gravado à mão, confere-lhe exclusividade. Inclui Tough S."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] casio-g-shock-mrg-b2000kt-3a-edicao-de-luxo-com-bisel-gravado.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 51.63931681s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"51s"}]
+[SKIP] casio-g-shock-x-ana-edicao-especial-de-aviacao-chega-ao-japao.md - description looks OK
+[PROCESSING] casio-g-shock-x-bamford-novo-gm-5600-em-aco-com-toques-azuis.md
+  Old description: "Descobre as últimas imagens do Casio G-Shock GM-5600, uma colaboração exclusiva com a Bamford. Aço inoxidável e detalhes azuis para o relógio que chega a 9 d."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] casio-g-shock-x-bamford-novo-gm-5600-em-aco-com-toques-azuis.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.881633082s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"50s"}]
+[SKIP] casio-g-shock-x-sole-dxb-um-relogio-com-alma-do-deserto.md - description looks OK
+[SKIP] casio-mtg-b4000d-1ajf-inovacao-e-robustez-num-relogio-de-luxo.md - description looks OK
+[SKIP] casio-ws-1400h-2av-relogio-desportivo-com-10-anos-de-autonomia.md - description looks OK
+[SKIP] cearvol-revela-wave-liberte-e-lyra-audicao-assistida-por-ia.md - description looks OK
+[SKIP] ces-2026-as-tvs-micro-rgb-que-prometem-redefinir-a-qualidade-de-imagem.md - description looks OK
+[PROCESSING] chamadas-moveis-o-que-explica-a-diferenca-entre-operadores.md
+  Old description: "A qualidade das suas chamadas telefónicas pode variar drasticamente entre as diferentes redes móveis. Descubra os fatores tecnológicos e de infraestrutura qu."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] chamadas-moveis-o-que-explica-a-diferenca-entre-operadores.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.053318216s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"50s"}]
+[SKIP] champions-cup-de-rugby-202526-guia-para-ver-jogos-via-streaming.md - description looks OK
+[SKIP] chatgpt-celebra-3-anos-de-experiencia-a-ia-multimodal-poderosa.md - description looks OK
+[SKIP] chatgpt-integra-assistente-de-compras-inteligente-para-poupar-tempo.md - description looks OK
+[SKIP] chatgpt-modo-de-voz-integrado-para-conversas-mais-fluidas.md - description looks OK
+[SKIP] chatgpt-podera-em-breve-exibir-publicidade-aos-utilizadores.md - description looks OK
+[SKIP] chaves-digitais-no-apple-wallet-13-marcas-reforcam-ecossistema.md - description looks OK
+[SKIP] cheques-minimos-o-inesperado-experimento-com-milionarios.md - description looks OK
+[PROCESSING] chernobil-escudo-do-reator-4-compromete-a-contencao-de-radiacao.md
+  Old description: "Um ataque de drone danificou o Novo Confinamento Seguro do reator 4 de Chernobil, comprometendo a sua capacidade de conter radiação. A Europa alerta para os."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] chernobil-escudo-do-reator-4-compromete-a-contencao-de-radiacao.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.262371338s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"49s"}]
+[SKIP] china-desafia-limites-maior-vao-de-aco-em-ponte-impressiona.md - description looks OK
+[SKIP] china-governo-intervem-para-travar-guerra-de-precos-no-automovel.md - description looks OK
+[SKIP] china-lanca-humanoides-ubtech-na-fronteira-com-o-vietname.md - description looks OK
+[SKIP] china-liga-jupiter-i-a-turbina-de-hidrogenio-que-combate-o-desperdicio.md - description looks OK
+[PROCESSING] china-o-primeiro-carro-que-navega-apenas-com-o-sistema-beidou.md
+  Old description: "A China lança o seu primeiro carro de passageiros que usa exclusivamente o sistema de navegação BeiDou. Autonomia tecnológica e privacidade de dados são as p."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] china-o-primeiro-carro-que-navega-apenas-com-o-sistema-beidou.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 48.497678372s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"48s"}]
+[PROCESSING] china-planeia-o-primeiro-navio-porta-contentores-a-torio-ate-2035.md
+  Old description: "A China quer construir o primeiro navio porta-contentores a tório do mundo até 2035. Saiba como esta tecnologia nuclear pode revolucionar o transporte maríti."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] china-planeia-o-primeiro-navio-porta-contentores-a-torio-ate-2035.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 47.735933256s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"47s"}]
+[SKIP] chips-exynos-da-samsung-chegam-aos-automoveis-bmw.md - description looks OK
+[PROCESSING] chrome-android-modo-de-leitura-fica-mais-fiavel-com-nova-ui.md
+  Old description: "A Google prepara-se para corrigir uma das maiores frustrações do Modo de Leitura do Chrome para Android com uma pequena, mas crucial, alteração na UI."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] chrome-android-modo-de-leitura-fica-mais-fiavel-com-nova-ui.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.933522208s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"46s"}]
+[SKIP] chuwi-corebook-x-7430u-portatil-amd-acessivel-com-potencial-de-melhoria.md - description looks OK
+[SKIP] ciber-resiliencia-imperativo-para-negocios-face-a-ameacas-crescentes.md - description looks OK
+[PROCESSING] ciberataque-abala-bancos-dos-eua-dados-em-risco-e-investigacao-aberta.md
+  Old description: "Gigantes bancários dos EUA, como JPMorgan e Citi, enfrentam um ciberataque massivo. Saiba como a violação de uma firma financeira impacta o setor global e a."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] ciberataque-abala-bancos-dos-eua-dados-em-risco-e-investigacao-aberta.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 46.193206347s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"46s"}]
+[SKIP] ciberataque-de-ransomware-afeta-mais-de-70-bancos-nos-eua.md - description looks OK
+[SKIP] ciberataque-expondo-quase-meio-milhao-de-pacientes-em-saude.md - description looks OK
+[SKIP] ciberataques-impulsionados-por-ia-milhoes-roubados-em-2025.md - description looks OK
+[SKIP] ciberseguranca-o-novo-motor-estrategico-para-empresas-tech.md - description looks OK
+[SKIP] cinnamon-66-a-base-para-o-proximo-linux-mint-mais-intuitivo.md - description looks OK
+[SKIP] circle-to-search-nos-pixel-ganha-rolagem-continua-o-futuro-da-pesquisa-mobile.md - description looks OK
+[SKIP] citizen-lanca-novos-eco-drive-em-aco-com-disney-magia-no-pulso.md - description looks OK
+[SKIP] citizen-lanca-relogio-eco-drive-boba-fett-com-design-de-mandalorian.md - description looks OK
+[SKIP] citizen-promaster-sky-novo-relogio-eco-drive-com-estilo-e-precisao.md - description looks OK
+[SKIP] citizen-revela-tres-novos-relogios-eco-drive-com-design-em-aco.md - description looks OK
+[SKIP] clicks-o-android-com-teclado-fisico-que-resgata-a-nostalgia-blackberry.md - description looks OK
+[PROCESSING] clicks-power-keyboard-o-regresso-do-blackberry-no-pixel-10-pro.md
+  Old description: "Um novo teclado físico, o Clicks Power Keyboard, promete transformar o futuro Pixel 10 Pro, trazendo a nostalgia e eficiência dos teclados BlackBerry. Uma re."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] clicks-power-keyboard-o-regresso-do-blackberry-no-pixel-10-pro.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 45.388883582s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"45s"}]
+[PROCESSING] colecao-de-jogos-warner-bros-para-steam-deck-regressa-a-humble-bundle.md
+  Old description: "Uma popular coleção de jogos da Warner Bros. para o Steam Deck está de volta na Humble Bundle. Descobre os títulos aclamados pela crítica e aproveita esta of."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] colecao-de-jogos-warner-bros-para-steam-deck-regressa-a-humble-bundle.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 44.474802396s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"44s"}]
+[SKIP] colunas-bluetooth-as-escolhas-de-um-especialista-apos-testar-30-modelos.md - description looks OK
+[PROCESSING] comando-game-boy-para-android-o-regresso-ao-gaming-retro.md
+  Old description: "Um novo comando transforma o teu smartphone Android numa autêntica consola Game Boy. Redescobre a nostalgia dos jogos clássicos, onde quer que estejas, de fo."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] comando-game-boy-para-android-o-regresso-ao-gaming-retro.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 43.614859649s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"43s"}]
+[PROCESSING] comando-pro-da-nintendo-switch-2-ganha-suporte-oficial-no-steam.md
+  Old description: "A Valve surpreende a comunidade gaming ao adicionar suporte para o comando Pro da Nintendo Switch 2 no Steam. Uma excelente notícia para jogos PC."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] comando-pro-da-nintendo-switch-2-ganha-suporte-oficial-no-steam.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 42.793203262s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"42s"}]
+[SKIP] comando-pro-da-nintendo-switch-2-ja-funciona-no-steam-para-pc.md - description looks OK
+[SKIP] comando-thrustmaster-heart-xbox-a-experiencia-gaming-aprimorada.md - description looks OK
+[SKIP] comandos-legion-go-2-chegam-com-melhorias-e-compatibilidade.md - description looks OK
+[SKIP] combate-a-fraude-de-ia-estudio-japones-exige-arte-presencial.md - description looks OK
+[PROCESSING] combustiveis-renovaveis-a-solucao-para-carros-a-combustao.md
+  Old description: ""
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] combustiveis-renovaveis-a-solucao-para-carros-a-combustao.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.991172022s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"41s"}]
+[SKIP] combustiveis-renovaveis-uma-ponte-para-o-futuro-automovel.md - description looks OK
+[SKIP] como-a-inteligencia-artificial-transforma-despesas-de-viagem-numa-vantagem-estrategica.md - description looks OK
+[PROCESSING] como-assistir-ao-derbi-tyne-wear-streaming-global-e-vpn.md
+  Old description: "O dérbi Tyne-Wear Sunderland vs Newcastle está de volta. Saiba como aceder a transmissões globais da Premier League e outros desportos com VPNs e serviços de."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] como-assistir-ao-derbi-tyne-wear-streaming-global-e-vpn.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 41.254126667s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"41s"}]
+[SKIP] como-evitar-o-sobreaquecimento-do-smartphone-e-prolongar-a-vida-util.md - description looks OK
+[SKIP] como-ver-newcastle-vs-chelsea-premier-league-202526-em-direto.md - description looks OK
+[PROCESSING] como-ver-os-especiais-de-natal-de-call-the-midwife-2025-online.md
+  Old description: "Prepare-se para os especiais de Natal de Call the Midwife em 2025. Saiba como acompanhar a missão do Nonnatus em Hong Kong através do streaming, onde quer qu."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] como-ver-os-especiais-de-natal-de-call-the-midwife-2025-online.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 40.461530778s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"40s"}]
+[SKIP] como-ver-yeh-rishta-kya-kehlata-hai-online-em-qualquer-lugar.md - description looks OK
+[SKIP] como-ver-youtube-sem-anuncios-e-interrupcoes-5-metodos-eficazes.md - description looks OK
+[SKIP] compras-de-natal-como-evitar-burlas-online-nesta-epoca-festiva.md - description looks OK
+[PROCESSING] constance-aventura-2d-em-promocao-na-steam-preco-minimo-historico.md
+  Old description: "Descubra Constance, o aclamado jogo de aventura 2D, agora disponível com um desconto imperdível na plataforma Steam. Uma oportunidade única para mergulhar ne."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] constance-aventura-2d-em-promocao-na-steam-preco-minimo-historico.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 39.653781528s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"39s"}]
+[SKIP] consumidores-querem-reguladores-a-protege-los-nao-a-operadoras.md - description looks OK
+[SKIP] controlo-parental-nos-smartphones-guia-para-proteger-os-seus-filhos.md - description looks OK
+[PROCESSING] corsair-vanguard-pro-96-precisao-hall-effect-redefine-o-gaming.md
+  Old description: "O teclado Corsair Vanguard Pro 96 com tecnologia Hall Effect oferece precisão e durabilidade ímpares. Descobre as inovações que o tornam ideal para gamers ex."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] corsair-vanguard-pro-96-precisao-hall-effect-redefine-o-gaming.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 38.892033918s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"38s"}]
+[SKIP] crescimento-de-utilizadores-do-chatgpt-abranda-gemini-ganha-terreno.md - description looks OK
+[PROCESSING] crise-da-habitacao-estudo-da-upc-contesta-solucao-de-construir-mais.md
+  Old description: "Um estudo da Universitat Politècnica de Catalunya desafia a ideia de que construir mais habitações resolve a crise. Foca-se em habitação social e regulação d."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] crise-da-habitacao-estudo-da-upc-contesta-solucao-de-construir-mais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 38.139436601s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"38s"}]
+[PROCESSING] crise-de-componentes-pc-agrava-se-com-ram-mais-escassa-e-cpus-mais-caros.md
+  Old description: "A crise de componentes PC agrava-se. Um gigante da RAM abandona o mercado de consumo, e rumores de aumento de preços nos CPUs circulam. O futuro dos PCs em P."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] crise-de-componentes-pc-agrava-se-com-ram-mais-escassa-e-cpus-mais-caros.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 37.321713732s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"37s"}]
+[SKIP] crystal-palace-vs-man-utd-guia-de-streaming-e-tv-em-portugal.md - description looks OK
+[SKIP] cuidado-apps-falsas-de-gemini-e-chatgpt-proliferam-na-mac-store.md - description looks OK
+[PROCESSING] cyber-monday-2025-as-melhores-oportunidades-gaming-na-europa.md
+  Old description: "O Cyber Monday de 2025 trouxe descontos imperdíveis em consolas como Nintendo Switch 2 e PS5, jogos AAA e periféricos. Descubra as melhores ofertas gaming no."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] cyber-monday-2025-as-melhores-oportunidades-gaming-na-europa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 36.447407848s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"36s"}]
+[SKIP] cyber-monday-estende-descontos-em-tecnologia-na-europa.md - description looks OK
+[SKIP] cyber-monday-grandes-oportunidades-em-televisores-de-alta-qualidade.md - description looks OK
+[PROCESSING] cyber-monday-oportunidades-em-subscricoes-e-servicos-digitais.md
+  Old description: "A Cyber Monday é uma excelente altura para poupar em streaming, VPNs e apps. Descubra como aproveitar os descontos significativos nos serviços digitais na Eu."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] cyber-monday-oportunidades-em-subscricoes-e-servicos-digitais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 35.481606731s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"35s"}]
+[PROCESSING] darktable-54-editor-raw-de-codigo-aberto-com-novas-camaras.md
+  Old description: "A nova versão 5.4 do Darktable, o popular editor de imagem RAW de código aberto, já está disponível, trazendo melhorias no suporte a câmaras e perfis de ruído."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] darktable-54-editor-raw-de-codigo-aberto-com-novas-camaras.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 34.660844609s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"34s"}]
+[SKIP] de-uma-nova-vida-ao-seu-kindle-antigo-com-o-apoio-da-comunidade.md - description looks OK
+[SKIP] deadpool-entra-em-marvel-rivals-na-temporada-6-caca-a-monstros.md - description looks OK
+[PROCESSING] dell-14-plus-hibrido-com-intel-core-ultra-aposta-na-versatilidade.md
+  Old description: "O Dell 14 Plus surge como um portátil híbrido que promete desempenho e versatilidade. Equipado com Intel Core Ultra, ecrã tátil e SSD de 1TB, é ideal para o."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dell-14-plus-hibrido-com-intel-core-ultra-aposta-na-versatilidade.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 33.845320892s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"33s"}]
+[SKIP] dell-16-plus-mais-potencia-grafica-e-ia-que-o-hp-omnibook.md - description looks OK
+[SKIP] dell-e-lenovo-preveem-aumento-de-precos-nos-pcs-ate-20.md - description looks OK
+[SKIP] dell-empresas-tardam-na-adocao-do-windows-11-e-vendas-de-pcs-estagnam.md - description looks OK
+[PROCESSING] dell-inspiron-com-snapdragon-x-o-portatil-copilot-mais-acessivel.md
+  Old description: "O novo Dell Inspiron Copilot+ PC, equipado com processador Snapdragon X, estabelece um novo patamar de preço. Descubra as implicações desta inovação para o m."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dell-inspiron-com-snapdragon-x-o-portatil-copilot-mais-acessivel.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 33.077877416s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"33s"}]
+[SKIP] dell-xps-13-com-snapdragon-elite-ameaca-aos-surface-abaixo-dos-1200.md - description looks OK
+[SKIP] descobre-a-magia-por-tras-das-notas-de-voz-no-teu-smartphone.md - description looks OK
+[PROCESSING] descontos-apple-na-black-friday-macbook-air-m4-ipad-air-e-airpods-4.md
+  Old description: "A Black Friday traz oportunidades para os fãs da Apple. Descobre as melhores ofertas em produtos como o MacBook Air M4, iPad Air 11 e os novos AirPods 4 na E."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] descontos-apple-na-black-friday-macbook-air-m4-ipad-air-e-airpods-4.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 32.300689278s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"32s"}]
+[PROCESSING] descontos-de-fim-de-ano-oportunidades-em-gadgets-apple-e-android.md
+  Old description: "Descubra as melhores oportunidades em smartphones, computadores e wearables no mercado europeu. De iPhones a Pixels, poupe em tecnologia de ponta este fim de."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] descontos-de-fim-de-ano-oportunidades-em-gadgets-apple-e-android.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 31.436957826s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"31s"}]
+[SKIP] deskmate-da-yoona-transforma-o-seu-iphone-num-assistente-de-ia.md - description looks OK
+[SKIP] desporto-online-como-ver-o-boxing-day-horse-racing-2025-na-era-do-streaming.md - description looks OK
+[SKIP] destaques-tecnologicos-pixel-10-pro-e-galaxy-s25-em-oferta-na-europa.md - description looks OK
+[SKIP] developers-indie-distinguem-se-jogos-sem-ia-ganham-terreno.md - description looks OK
+[SKIP] dezctop-revon-elite-secretaria-elevatoria-inovadora-com-organizacao-magnetica.md - description looks OK
+[SKIP] discord-revoluciona-compras-em-jogos-itens-listas-e-presentes.md - description looks OK
+[SKIP] dji-mic-mini-o-microfone-sem-fios-que-cativa-criadores-de-conteudo.md - description looks OK
+[SKIP] dji-neo-2-controle-o-seu-drone-diretamente-do-apple-watch.md - description looks OK
+[SKIP] dji-osmo-pocket-3-mais-acessivel-a-camara-de-acao-ideal-para-criadores.md - description looks OK
+[PROCESSING] dji-osmo-pocket-4-lancamento-iminente-apos-aprovacao-regulamentar.md
+  Old description: "A DJI prepara-se para lançar a Osmo Pocket 4, com aprovação da FCC a sinalizar uma chegada global. Descobre os rumores e o que esperar da nova câmara de víde."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dji-osmo-pocket-4-lancamento-iminente-apos-aprovacao-regulamentar.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 30.554643474s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"30s"}]
+[SKIP] documento-fundador-da-apple-pode-atingir-4-milhoes-de-dolares.md - description looks OK
+[SKIP] dominar-o-som-como-os-smartphones-gerem-varios-niveis-de-volume.md - description looks OK
+[PROCESSING] dreame-airpursue-pm20-purificador-de-ar-inteligente-chega-a-europa.md
+  Old description: "O Dreame AirPursue PM20, um purificador de ar compacto e potente, promete ar mais puro em casa. Descubra as suas tecnologias avançadas e disponibilidade no m."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dreame-airpursue-pm20-purificador-de-ar-inteligente-chega-a-europa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 29.737602674s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"29s"}]
+[SKIP] dreame-e1-fabricante-de-robos-aspiradores-entra-no-mercado-de-smartphones.md - description looks OK
+[SKIP] dreame-e1-o-smartphone-que-quer-replicar-o-ecossistema-xiaomi.md - description looks OK
+[SKIP] dreame-v20-pro-a-revolucao-na-limpeza-de-bordas-sem-esforco.md - description looks OK
+[SKIP] dtg6-o-smartwatch-robusto-com-mapas-offline-que-desafia-a-garmin.md - description looks OK
+[PROCESSING] durov-ceo-da-telegram-revela-truque-insolito-para-a-produtividade.md
+  Old description: "Pavel Durov, líder da Telegram, adota uma rotina invulgar para ser produtivo: dormir 12 horas e evitar o telemóvel. Um contraste no mundo tech. Enquanto o ep."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] durov-ceo-da-telegram-revela-truque-insolito-para-a-produtividade.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 28.941893972s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"28s"}]
+[SKIP] dynabook-lanca-portateis-tecra-a45-m-e-a65-m-com-amd-ryzen-pro.md - description looks OK
+[SKIP] dyson-a-filosofia-de-design-entre-robustez-e-conforto.md - description looks OK
+[PROCESSING] dyson-airwrap-descontos-a-vista-para-o-seu-look-de-festa-perfeito.md
+  Old description: "O Dyson Airwrap, um dos aparelhos de beleza mais desejados, promete transformar o seu cabelo. Descubra como este multieastilizador pode ser seu por um preço."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dyson-airwrap-descontos-a-vista-para-o-seu-look-de-festa-perfeito.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 28.177088283s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"28s"}]
+[SKIP] dyson-aspiradores-robo-e-sem-fios-com-precos-mais-competitivos.md - description looks OK
+[SKIP] dyson-cleanwash-hygiene-o-aspirador-2-em-1-chega-a-europa.md - description looks OK
+[PROCESSING] dyson-gen5outsize-o-aspirador-sem-fios-premium-para-a-sua-casa.md
+  Old description: "O Dyson Gen5Outsize destaca-se pela tecnologia de ponta e potência de aspiração, tornando-o um dos aspiradores mais desejados no mercado doméstico europeu. D."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dyson-gen5outsize-o-aspirador-sem-fios-premium-para-a-sua-casa.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.478961502s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"27s"}]
+[SKIP] dyson-na-mira-airwrap-supersonic-e-airstrait-para-um-cabelo-perfeito.md - description looks OK
+[PROCESSING] dyson-oportunidades-em-aspiradores-airwraps-e-fas-neste-cyber-monday.md
+  Old description: "As promoções de Cyber Monday são uma excelente altura para adquirir tecnologia Dyson. Descubra aspiradores, Airwraps e fãs com preços reduzidos no mercado eu."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] dyson-oportunidades-em-aspiradores-airwraps-e-fas-neste-cyber-monday.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 26.72118061s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"26s"}]
+[SKIP] e-reader-pioneiro-com-android-16-mais-acessivel-no-mercado.md - description looks OK
+[SKIP] earfun-wave-pro-x-auscultadores-com-audio-lossless-e-anc-de-topo.md - description looks OK
+[SKIP] echo-dot-edicoes-tematicas-de-pesadelo-antes-do-natal-cativam-fas.md - description looks OK
+[SKIP] ecoflow-lanca-power-bank-qi22-com-carregamento-de-25w-e-cabo-integrado.md - description looks OK
+[SKIP] el-corte-ingles-ofertas-de-natal-em-tecnologia-e-entretenimento.md - description looks OK
+[SKIP] el-corte-ingles-oportunidades-pos-black-friday-em-tecnologia.md - description looks OK
+[SKIP] elden-ring-na-switch-2-performance-ja-supera-a-da-steam-deck.md - description looks OK
+[SKIP] emulator-shadps4-bloodborne-brilha-no-pc-superando-a-ps5.md - description looks OK
+[PROCESSING] engenheiro-recria-leitor-de-fita-perfurada-para-pcs-retro.md
+  Old description: "Um entusiasta de computadores retro construiu um novo leitor de fita perfurada óptico com componentes simples. Descobre como funciona esta engenhosa criação."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] engenheiro-recria-leitor-de-fita-perfurada-para-pcs-retro.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.966771237s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"25s"}]
+[SKIP] enphase-iq-powerpack-1500-potencia-portatil-refem-do-software.md - description looks OK
+[SKIP] epic-games-store-nova-leva-de-jogos-indie-gratuitos-a-vista.md - description looks OK
+[SKIP] epic-games-store-ultimo-jogo-gratis-de-2025-gera-misterio.md - description looks OK
+[SKIP] epson-lifestudio-flex-plus-projecao-portatil-com-google-tv.md - description looks OK
+[SKIP] escolher-a-tv-ideal-para-a-sua-ps5-eleve-a-experiencia-de-jogo.md - description looks OK
+[PROCESSING] escolher-o-smartphone-ideal-para-o-natal-guia-completo-para-presentes.md
+  Old description: "Com a época natalícia a aproximar-se, descubra o guia definitivo para escolher o smartphone perfeito como presente. Encontre o modelo ideal para cada tipo de."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] escolher-o-smartphone-ideal-para-o-natal-guia-completo-para-presentes.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.161148554s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"25s"}]
+[SKIP] especialistas-desvendam-o-papel-da-ia-em-ameacas-de-ciberseguranca.md - description looks OK
+[SKIP] estacoes-de-energia-portateis-o-guia-essencial-para-2025.md - description looks OK
+[SKIP] estafeta-doordash-enfrenta-acusacoes-por-alegadamente-adulterar-comida.md - description looks OK
+[SKIP] europol-desmantela-cryptomixer-branqueamento-de-13-mil-milhoes-de-euros-travado.md - description looks OK
+[SKIP] expedicao-franklin-ciencia-desvenda-misterio-apos-170-anos.md - description looks OK
+[SKIP] explora-o-fundo-do-mar-simulador-de-colonia-com-desconto-no-steam.md - description looks OK
+[SKIP] expressvpn-ultimos-dias-para-garantir-a-sua-vpn-a-preco-especial.md - description looks OK
+[SKIP] exynos-2600-da-samsung-para-galaxy-s26-primeiros-detalhes-revelados.md - description looks OK
+[SKIP] exynos-2600-o-2nm-da-samsung-promete-fim-dos-problemas-de-aquecimento.md - description looks OK
+[SKIP] exynos-2600-samsung-confirma-novo-chip-topo-de-gama-para-a-serie-galaxy-s26.md - description looks OK
+[PROCESSING] fairbuds-xl-auscultadores-fairphone-levam-sustentabilidade-e-som-mais-longe.md
+  Old description: "Os novos auscultadores Fairbuds XL da Fairphone redefinem o áudio sustentável. Com design modular e som melhorado, são um exemplo para a indústria. Conheça-o."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] fairbuds-xl-auscultadores-fairphone-levam-sustentabilidade-e-som-mais-longe.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 24.232115743s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"24s"}]
+[PROCESSING] falhas-de-seguranca-em-whatsapp-e-signal-permitem-rastreamento.md
+  Old description: "Investigadores da Universidade de Viena expõem falhas em WhatsApp e Signal que permitem rastrear utilizadores. Saiba como esta vulnerabilidade funciona e o q."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] falhas-de-seguranca-em-whatsapp-e-signal-permitem-rastreamento.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.474465724s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"23s"}]
+[SKIP] fevm-lanca-mini-pc-de-1-litro-com-amd-strix-halo-e-oculink.md - description looks OK
+[SKIP] fibra-otica-a-150mbps-o-que-esperar-dos-precos-na-europa.md - description looks OK
+[SKIP] final-fantasy-vii-remake-parte-3-teaser-nos-the-game-awards.md - description looks OK
+[SKIP] financiamento-de-startups-na-india-cai-para-11-mil-milhoes-em-2025.md - description looks OK
+[SKIP] firebat-a8-mini-pc-renovado-com-amd-ryzen-ai-9-e-porta-oculink.md - description looks OK
+[SKIP] firefox-testa-vista-dividida-para-separadores-como-ativar.md - description looks OK
+[SKIP] flappy-bird-o-fenomeno-movel-que-voou-alto-e-desapareceu.md - description looks OK
+[PROCESSING] fornecedor-tecnologico-do-nhs-atingido-por-ataque-ransomware.md
+  Old description: "A DXS International, fornecedora de tecnologia do NHS em Inglaterra, revelou ter sido alvo de um ataque ransomware. Saiba mais sobre o impacto e os riscos de."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] fornecedor-tecnologico-do-nhs-atingido-por-ataque-ransomware.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 22.566824s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"22s"}]
+[SKIP] fossibot-f113-o-smartphone-robusto-com-camara-noturna-de-64-mp.md - description looks OK
+[SKIP] fotografia-movel-gama-media-brilha-no-inicio-de-2026.md - description looks OK
+[SKIP] fractal-scape-o-headset-gaming-que-surpreende-com-som-e-design.md - description looks OK
+[PROCESSING] framework-aumenta-precos-de-portateis-devido-a-ram-ddr5.md
+  Old description: "A Framework anunciou novos aumentos de preço para os seus portáteis, devido à escalada dos custos da memória RAM DDR5. Saiba o que significa para o mercado e."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] framework-aumenta-precos-de-portateis-devido-a-ram-ddr5.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.757456469s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"21s"}]
+[SKIP] fraude-de-identidade-o-risco-de-contratos-de-telemovel-em-seu-nome.md - description looks OK
+[SKIP] frigorificos-samsung-abra-a-porta-com-a-sua-voz-na-cozinha-inteligente.md - description looks OK
+[SKIP] frio-extremo-na-europa-klm-cancela-milhares-de-voos-por-falta-de-anticongelante.md - description looks OK
+[SKIP] fritadeira-de-ar-mantenha-a-impecavel-e-a-cozinhar-como-nova.md - description looks OK
+[PROCESSING] fungos-de-chernobil-o-escudo-biologico-inesperado-para-viagens-a-marte.md
+  Old description: "Descoberta em Chernobil, a radiosíntese de fungos oferece uma solução inovadora para o desafio da radiação em viagens espaciais a Marte. Em maio de 1997, a b."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] fungos-de-chernobil-o-escudo-biologico-inesperado-para-viagens-a-marte.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 21.015899124s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"21s"}]
+[PROCESSING] futuro-de-lynley-na-bbc-incerto-atores-veem-potencial-para-mais.md
+  Old description: "A série criminal da BBC, Lynley, aguarda confirmação para a 2ª temporada. Com atores a pedir mais, exploramos quando e onde os fãs portugueses poderão ver a."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] futuro-de-lynley-na-bbc-incerto-atores-veem-potencial-para-mais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.282801849s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"20s"}]
+[SKIP] gadgets-acessiveis-oportunidades-pos-saldos-abaixo-dos-100.md - description looks OK
+[SKIP] galaxy-a07-5g-samsung-revela-especificacoes-no-geekbench.md - description looks OK
+[SKIP] galaxy-a37-e-a57-camaras-de-50mp-a-caminho-nos-smartphones-de-2026.md - description looks OK
+[PROCESSING] galaxy-a56-o-campeao-de-vendas-que-domina-o-mercado-em-2025.md
+  Old description: "O Samsung Galaxy A56 surpreendeu ao tornar-se um dos smartphones mais vendidos no terceiro trimestre de 2025. Descubra como a Samsung e a Apple continuam a l."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-a56-o-campeao-de-vendas-que-domina-o-mercado-em-2025.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 19.373094862s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"model":"gemini-2.5-flash","location":"global"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"19s"}]
+[PROCESSING] galaxy-a57-samsung-podera-usar-ecras-oled-da-csot.md
+  Old description: "O próximo Samsung Galaxy A57 pode vir com um ecrã OLED fornecido pela chinesa CSOT, sinalizando uma mudança estratégica. Descobre o impacto desta decisão."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-a57-samsung-podera-usar-ecras-oled-da-csot.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 18.488513502s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"18s"}]
+[PROCESSING] galaxy-books-snapdragon-melhor-desempenho-gaming-na-samsung.md
+  Old description: "A Samsung aposta nos processadores Snapdragon X da Qualcomm para os seus Galaxy Books, prometendo melhorias significativas no desempenho de gaming para os se."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-books-snapdragon-melhor-desempenho-gaming-na-samsung.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 17.711520347s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"17s"}]
+[PROCESSING] galaxy-buds4-pro-e-buds4-fugas-revelam-especificacoes-da-bateria.md
+  Old description: "As especificações da bateria dos próximos Samsung Galaxy Buds4 Pro e Buds4 foram reveladas em novas fugas. Descubra as novidades que prometem na autonomia do."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-buds4-pro-e-buds4-fugas-revelam-especificacoes-da-bateria.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.902550581s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"16s"}]
+[SKIP] galaxy-s21-seguranca-garantida-ate-dezembro-de-2025.md - description looks OK
+[PROCESSING] galaxy-s25-recebe-segunda-beta-da-one-ui-85-com-otimizacoes.md
+  Old description: "A Samsung acaba de lançar a segunda versão beta da One UI 8.5 para os Galaxy S25, S25+ e S25 Ultra, focada em otimizar a experiência de utilizador. Fique a p."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-s25-recebe-segunda-beta-da-one-ui-85-com-otimizacoes.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 16.101842002s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"16s"}]
+[SKIP] galaxy-s25-ultra-descontos-nos-eua-e-o-futuro-do-s26-ultra.md - description looks OK
+[SKIP] galaxy-s25-ultra-e-s25-fe-descontos-de-black-friday-na-europa.md - description looks OK
+[SKIP] galaxy-s25-ultra-o-topo-de-gama-android-e-os-seus-potenciais-descontos.md - description looks OK
+[SKIP] galaxy-s26-lancamento-dos-topos-de-gama-samsung-pode-atrasar.md - description looks OK
+[SKIP] galaxy-s26-samsung-acelera-carregamento-sem-fios-para-25w.md - description looks OK
+[SKIP] galaxy-s26-samsung-enfrenta-desafios-na-definicao-de-precos.md - description looks OK
+[PROCESSING] galaxy-s26-samsung-pode-manter-preco-para-desafiar-rivais.md
+  Old description: "Contrariando as expectativas, a linha Galaxy S26 da Samsung poderá chegar ao mercado com preços inalterados. Descobre como a Samsung pretende manter a sua qu."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-s26-samsung-pode-manter-preco-para-desafiar-rivais.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 15.230096936s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"15s"}]
+[SKIP] galaxy-s26-samsung-podera-reutilizar-camaras-do-antecessor-s25.md - description looks OK
+[SKIP] galaxy-s26-samsung-pondera-aumento-de-preco-e-fim-de-regalias-pre-venda.md - description looks OK
+[SKIP] galaxy-s26-ultra-maquetas-revelam-o-design-da-proxima-geracao-samsung.md - description looks OK
+[SKIP] galaxy-s26-ultra-podera-ter-snapdragon-exclusivo-em-todos-os-mercados.md - description looks OK
+[SKIP] galaxy-s27-ultra-samsung-prepara-grande-salto-na-camara-fotografica.md - description looks OK
+[PROCESSING] galaxy-s27-ultra-sensor-sony-de-200-mp-pode-nao-chegar-ao-topo-de-gama.md
+  Old description: "O futuro Galaxy S27 Ultra da Samsung poderá desapontar fãs de fotografia. Novos rumores indicam que o topo de gama de 2027 não terá o sensor Sony de 200 MP."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] galaxy-s27-ultra-sensor-sony-de-200-mp-pode-nao-chegar-ao-topo-de-gama.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 14.330882317s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"14s"}]
+[SKIP] galaxy-store-samsung-revela-apps-mais-populares-do-outono-de-2025.md - description looks OK
+[SKIP] galaxy-tab-a11-5g-samsung-lanca-tablet-a-pensar-no-uso-diario.md - description looks OK
+[SKIP] galaxy-tab-a9-recebe-finalmente-o-one-ui-8-novidades-a-vista.md - description looks OK
+[SKIP] galaxy-tab-s10-recebe-patch-de-seguranca-de-dezembro-de-2025.md - description looks OK
+[SKIP] galaxy-watch-4-one-ui-8-watch-chega-finalmente-a-nivel-global.md - description looks OK
+[SKIP] galaxy-watch-4-surpreende-com-one-ui-8-watch-a-sua-ultima-grande-atualizacao.md - description looks OK
+[SKIP] galaxy-watch-6-one-ui-8-watch-traz-ia-avancada-a-saude.md - description looks OK
+[PROCESSING] galaxy-watch-8-as-expectativas-para-o-smartwatch-de-2025.md
+  Old description: "O Samsung Galaxy Watch 8 poderá ser um dos destaques de 2025. Descubra as inovações esperadas e o que o tornará num dos melhores do ano. A Samsung continua a."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+  New description: "O Galaxy Watch 8 da Samsung é um dos smartwatches mais aguardados para 2025, com expectativas de inovações significativas. Apesar da escassez de detalhes, espera-se que responda às crescentes exigências dos utilizadores portugueses e europeus, priorizando a saúde, o bem-estar e a integração perfeita com outros dispositivos."
+[PROCESSING] galaxy-watch-8-da-samsung-descontos-atraem-interesse-no-mercado.md
+  Old description: "Os descontos no Samsung Galaxy Watch 8 têm atraído atenção no mercado europeu. Descubra as características que tornam este smartwatch uma escolha popular. Fi."
+  New description: "O Galaxy Watch 8 da Samsung tem atraído o interesse do mercado, especialmente devido aos descontos oferecidos em períodos de promoções. Esta estratégia torna o smartwatch, que combina tecnologia de ponta com funcionalidades de saúde, mais acessível aos consumidores europeus, incluindo Portugal, onde a procura por wearables está em crescimento."
+[PROCESSING] galaxy-watch-8-precos-agressivos-agitam-o-mercado-de-smartwatches.md
+  Old description: "O Samsung Galaxy Watch 8, em versões de 40mm e 44mm, está a dinamizar o segmento dos smartwatches com preços mais acessíveis e design aprimorado. Conheça as."
+[ERROR] galaxy-watch-8-precos-agressivos-agitam-o-mercado-de-smartwatches.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] galaxy-watch-o-que-torna-os-smartwatches-samsung-tao-atrativos.md - description looks OK
+[PROCESSING] galaxy-z-flip-7-one-ui-85-eleva-a-privacidade-nas-chamadas.md
+  Old description: "A Samsung prepara uma novidade para o Galaxy Z Flip 7. A One UI 8.5 trará uma funcionalidade de privacidade para o ecrã exterior, ideal para chamadas. Fica a."
+  New description: "O Galaxy Z Flip 7, com a chegada da One UI 8.5, melhorará significativamente a gestão da privacidade nas chamadas. Esta funcionalidade permitirá aos utilizadores interagir com as opções de privacidade diretamente a partir do ecrã exterior, realçando a crescente utilidade dos ecrãs secundários para tarefas essenciais sem abrir o dispositivo."
+
+✓ Processed 10 articles...
+
+[SKIP] galaxy-z-fold-7-consolida-lideranca-da-samsung-nos-dobraveis.md - description looks OK
+[SKIP] galaxy-z-fold8-samsung-promete-revolucao-na-fotografia-dobravel.md - description looks OK
+[SKIP] galaxy-z-trifold-o-ecra-de-10-polegadas-redefine-a-multitarefa.md - description looks OK
+[SKIP] galaxy-z-trifold-o-preco-esperado-do-dobravel-de-tres-ecras.md - description looks OK
+[SKIP] galaxy-z-trifold-o-proximo-nivel-da-inovacao-dobravel-da-samsung.md - description looks OK
+[PROCESSING] galaxy-z-trifold-o-tri-dobravel-da-samsung-esgota-em-tempo-recorde.md
+  Old description: "O Samsung Galaxy Z TriFold, o primeiro smartphone tri-dobrável da marca, esgotou em menos de 24 horas no seu lançamento. Descobre o impacto desta inovação."
+[ERROR] galaxy-z-trifold-o-tri-dobravel-da-samsung-esgota-em-tempo-recorde.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] galaxy-z-trifold-samsung-aposta-em-produtividade-com-ia.md - description looks OK
+[SKIP] galaxy-z-trifold-samsung-revela-o-seu-primeiro-tri-dobravel-com-foco-na-camara.md - description looks OK
+[SKIP] galaxy-z-trifold-um-smartphone-que-promete-custar-caro.md - description looks OK
+[PROCESSING] gamesir-pocket-1-vertical-o-comando-retro-ideal-para-o-seu-smartphone.md
+  Old description: "O GameSir Pocket 1 Vertical é o novo comando sem fios que transforma o seu smartphone numa consola retro portátil. Com design Game Boy, é ideal para jogos cl."
+  New description: "A GameSir revelou o Pocket 1 Vertical, um comando compacto e sem fios concebido para oferecer uma autêntica experiência retro de jogos em smartphones. Inspirado nas consolas portáteis clássicas, como o Game Boy, este acessório combina a nostalgia com a precisão dos botões físicos e um design ergonómico de orientação vertical."
+[SKIP] garmin-2025-de-inovacoes-e-grandes-planos-para-2026.md - description looks OK
+[SKIP] garmin-em-2026-que-inovacoes-queremos-ver-nos-smartwatches.md - description looks OK
+[SKIP] garmin-fenix-7-pro-e-7x-pro-com-descontos-recorde-na-black-friday.md - description looks OK
+[SKIP] garmin-forerunner-265-smartwatch-de-corrida-com-gps-multibanda-e-musica.md - description looks OK
+[SKIP] garmin-modelos-de-eleicao-com-descontos-em-epoca-de-promocoes.md - description looks OK
+[SKIP] garmin-prepara-novidade-para-o-health-status-saude-a-longo-prazo.md - description looks OK
+[PROCESSING] garmin-venu-4-o-smartwatch-que-eleva-o-teu-treino-a-outro-nivel.md
+  Old description: "O Garmin Venu 4 é o smartwatch ideal para quem busca funcionalidades avançadas de fitness e bem-estar. Descobre as suas capacidades e por que se destaca no m."
+[ERROR] garmin-venu-4-o-smartwatch-que-eleva-o-teu-treino-a-outro-nivel.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] gasoleo-perde-vantagem-preco-aproxima-se-do-da-gasolina-na-ue.md - description looks OK
+[SKIP] geekom-geekbook-x14-pro-leveza-e-potencia-com-ecra-oled.md - description looks OK
+[PROCESSING] gemini-da-google-adota-ui-do-chatgpt-e-novas-funcoes-no-maps.md
+  Old description: "O Google Gemini adota interface similar ao ChatGPT e integra novas funcionalidades no Google Maps. Descubra como estas atualizações irão simplificar a sua in."
+[ERROR] gemini-da-google-adota-ui-do-chatgpt-e-novas-funcoes-no-maps.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[PROCESSING] geracao-z-estudo-alemao-revela-pragmatismo-surpreendente.md
+  Old description: "Um novo estudo na Alemanha desvenda que a Geração Z valoriza o pragmatismo sobre o idealismo. Conforto e custo ditam as suas escolhas, contrariando estereóti."
+  New description: "Um novo estudo alemão desafia a imagem idealizada da Geração Z como predominantemente ativista e ideológica, revelando um pragmatismo surpreendente. Contrariamente à perceção comum, fatores como o conforto, o custo e a conveniência parecem guiar as suas decisões e prioridades mais do que visões de mundo idealistas."
+[SKIP] gestao-de-projetos-a-chave-para-a-sustentabilidade-com-ia.md - description looks OK
+[SKIP] gigantesca-jazida-de-litio-a-revolucao-tech-escondida-num-vulcao.md - description looks OK
+[PROCESSING] gmk-nucbox-k15-mini-pc-acessivel-com-intel-core-ultra-e-egpu.md
+  Old description: "O GMK NucBox K15 chega ao mercado global. Este mini PC compacto, com Intel Core Ultra 5 e suporte para eGPUs, oferece desempenho e versatilidade a um preço c."
+  New description: "O GMK NucBox K15 é um novo mini PC acessível da GMKtec, projetado para oferecer versatilidade no trabalho, estudo e entretenimento. Equipado com o processador Intel Core Ultra 5 125U e portas OCuLink/USB4, destaca-se pelo seu suporte nativo a placas gráficas externas (eGPUs)."
+[SKIP] gmktec-k12-mini-pc-gaming-com-ryzen-7-e-oculink-em-destaque.md - description looks OK
+[PROCESSING] google-discover-ia-gera-titulos-de-noticias-polemicos-e-enganosos.md
+  Old description: "O Google Discover está a testar títulos de notícias gerados por IA, levantando questões sobre clickbait e desinformação. A nova funcionalidade está a gerar p."
+  New description: "O Google Discover está a substituir os títulos originais de notícias por versões geradas por inteligência artificial, numa experiência silenciosa para otimizar o engagement. Contudo, esta iniciativa tem gerado sérias preocupações devido à natureza sensacionalista e, por vezes, enganosa dos títulos produzidos pela IA."
+[SKIP] google-e-meta-desafiam-dominio-da-nvidia-nos-chips-de-ia.md - description looks OK
+[PROCESSING] google-fotos-e-a-pasta-trancada-necessidade-de-mais-seguranca.md
+  Old description: "A 'Pasta Trancada' do Google Fotos é vista por muitos como demasiado básica. Exploramos as suas limitações e o que a Google poderia melhorar para proteger a."
+[ERROR] google-fotos-e-a-pasta-trancada-necessidade-de-mais-seguranca.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] google-fotos-testa-novo-editor-de-rosto-com-ia-para-retouch-facial.md - description looks OK
+[SKIP] google-gemini-domina-pesquisas-de-2025-e-prova-forca-da-ia.md - description looks OK
+[SKIP] google-maps-e-bom-mas-as-opcoes-de-rota-podem-ser-mais-inteligentes.md - description looks OK
+[SKIP] google-maps-poupanca-de-bateria-chega-a-mais-smartphones-pixel.md - description looks OK
+[SKIP] google-messages-novidades-chegam-para-simplificar-multimedia-e-localizacao.md - description looks OK
+[SKIP] google-pixel-10-o-que-esperar-da-proxima-geracao-android.md - description looks OK
+[SKIP] google-pixel-10-pro-a-aposta-na-ia-e-os-descontos-futuros.md - description looks OK
+[SKIP] google-pixel-10-rumores-revelam-tensor-g5-e-android-16.md - description looks OK
+[PROCESSING] google-pixel-pro-o-truque-de-camara-que-poucos-conhecem.md
+  Old description: "A câmara dos Google Pixel Pro esconde um segredo para fotografias mais nítidas. O 'focus peaking' é um aliado poderoso para a fotografia móvel. Saiba como at."
+[ERROR] google-pixel-pro-o-truque-de-camara-que-poucos-conhecem.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] google-pixel-watch-o-segredo-de-um-design-que-resiste-ao-tempo.md - description looks OK
+[SKIP] google-play-livros-15-anos-a-transformar-a-leitura-digital.md - description looks OK
+[SKIP] google-pode-desativar-watch-unlock-no-pixel-watch-com-android-16.md - description looks OK
+[SKIP] grand-seiko-sbgh375-o-relogio-de-luxo-exclusivo-para-o-japao.md - description looks OK
+[SKIP] grandes-descontos-de-fim-de-ano-agitam-o-mercado-europeu-da-tecnologia.md - description looks OK
+[SKIP] grandes-descontos-em-tvs-samsung-lg-e-sony-na-epoca-festiva.md - description looks OK
+[SKIP] gstreamer-128-rc-novidades-e-o-impacto-da-linguagem-rust.md - description looks OK
+[SKIP] gta-6-todd-howard-preve-lancamento-antes-de-elder-scrolls-6.md - description looks OK
+[SKIP] guia-de-tecnologia-2025-essenciais-para-o-utilizador-apple.md - description looks OK
+[PROCESSING] hacker-da-bitfinex-libertado-mais-cedo-agradece-a-donald-trump.md
+  Old description: "Ilya Lichtenstein, o hacker responsável pelo roubo massivo da Bitfinex, foi libertado precocemente da prisão. Agradece a Donald Trump pela sua saída. Ilya Li."
+  New description: "Ilya Lichtenstein, o hacker implicado no roubo da Bitfinex, foi libertado da prisão mais cedo do que o esperado. Numa declaração pública, ele agradeceu a Donald Trump pela sua soltura antecipada. Este facto levanta sérias questões sobre o sistema judicial norte-americano e a influência política em casos mediáticos."
+[SKIP] hangzhou-adota-robo-de-transito-com-ia-para-gestao-urbana.md - description looks OK
+[SKIP] harbin-o-maior-parque-de-gelo-do-mundo-desafia-o-inverno-chines.md - description looks OK
+[SKIP] harvey-a-startup-de-ia-legal-atinge-avaliacao-de-8-mil-milhoes.md - description looks OK
+[SKIP] hbo-max-o-catalogo-de-conteudos-que-conquista-o-mercado-europeu.md - description looks OK
+[SKIP] headspace-acesso-a-bem-estar-mental-com-descontos-anuais.md - description looks OK
+[SKIP] helloyellow-mensagens-de-voz-chegam-a-peculiar-consola-playdate.md - description looks OK
+[SKIP] hispasat-falha-na-espanha-rural-starlink-prevalece-na-conectividade.md - description looks OK
+[PROCESSING] hollow-knight-silksong-brilha-nos-steam-awards-2025-com-goty.md
+  Old description: "A Valve revelou os vencedores dos Steam Awards 2025, e Hollow Knight: Silksong destacou-se com o prémio de Jogo do Ano. Conhece todos os detalhes. A Valve, g."
+  New description: "Os Steam Awards de 2025, que refletem as escolhas da comunidade de jogadores PC, elegeram Hollow Knight: Silksong como Jogo do Ano (GOTY). A sequela do aclamado metroidvania da Team Cherry garantiu ainda outra distinção de peso, solidificando o seu estatuto entre os melhores lançamentos."
+[SKIP] honor-magic-8-pro-chega-ao-mercado-global-com-snapdragon-8-elite-gen-5.md - description looks OK
+[SKIP] honor-magic-v6-pode-trazer-camara-de-200mp-para-o-mundo-dos-dobraveis.md - description looks OK
+[SKIP] honor-magic8-pro-autonomia-promissora-com-bateria-de-6270-mah.md - description looks OK
+[SKIP] honor-magic8-pro-expansao-global-com-chegada-a-europa-iminente.md - description looks OK
+[SKIP] honor-magic8-pro-novo-flagship-expande-se-globalmente.md - description looks OK
+[PROCESSING] honor-x8d-bateria-massiva-de-7000-mah-e-ecra-amoled-a-vista.md
+  Old description: "O Honor X8d foi revelado e promete impressionar com uma bateria de 7.000 mAh e ecrã AMOLED. Conheça as especificações deste novo smartphone 4G que chega ao m."
+  New description: "O Honor X8d é o mais recente smartphone da marca, destacando-se pela sua bateria massiva de 7.000 mAh e ecrã AMOLED. Já listado oficialmente em alguns mercados como o Quirguistão, este dispositivo foca-se na conectividade 4G e promete grande autonomia, apesar de ainda não ter um anúncio global formal."
+[SKIP] horses-o-polemico-videojogo-que-desafia-a-censura-digital.md - description looks OK
+[SKIP] hoto-pixeldrive-a-aparafusadora-eletrica-inteligente-chega-ao-mercado.md - description looks OK
+[SKIP] hp-surpreende-com-pc-de-madeira-rtx-4060-e-core-ultra-7-a-vista.md - description looks OK
+[SKIP] huawei-mate-80-e-80-pro-chegam-com-ecras-recorde-e-bateria-gigante.md - description looks OK
+[SKIP] huawei-x3-pro-o-router-wi-fi-7-com-design-de-peca-de-arte.md - description looks OK
+[SKIP] hub-usb-c-anker-7-em-1-a-solucao-completa-para-a-sua-produtividade.md - description looks OK
+[SKIP] hubble-desvenda-quase-galaxia-sem-estrelas-cloud-9-desafia-a-ciencia.md - description looks OK
+[SKIP] humble-bundle-9-jogos-steam-deck-por-11-na-oferta-wholesome-snack-2025.md - description looks OK
+[SKIP] humble-bundle-quase-200-em-jogos-steam-deck-por-um-preco-bombastico.md - description looks OK
+[SKIP] humble-bundle-traz-jogos-anime-para-steam-deck-a-precos-irresistiveis-na-europa.md - description looks OK
+[SKIP] hyperos-3-da-xiaomi-atualizacao-prejudica-emulacao-de-jogos.md - description looks OK
+[SKIP] hyperos-3-da-xiaomi-chega-a-mais-telefones-novidades-a-caminho.md - description looks OK
+[SKIP] hyperos-3-estavel-chega-ao-redmi-note-14-4g-da-xiaomi.md - description looks OK
+[PROCESSING] hyperos-3-poco-revela-calendario-de-atualizacao-para-os-seus-smartphones.md
+  Old description: "A Poco divulgou o plano de rollout do aguardado HyperOS 3 para os seus dispositivos. Descobre quando o teu smartphone Poco receberá esta nova atualização. Fi."
+[ERROR] hyperos-3-poco-revela-calendario-de-atualizacao-para-os-seus-smartphones.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] hyperx-quadcast-2-s-o-microfone-essencial-para-criadores-de-conteudo.md - description looks OK
+[SKIP] ia-de-stanford-analise-de-sono-preditiva-para-detecao-precoce-de-doencas-na-ue.md - description looks OK
+[SKIP] ia-generativa-revoluciona-desenvolvimento-de-jogos-xbox-halo-incluido.md - description looks OK
+[SKIP] ia-nas-empresas-o-desafio-de-harmonizar-inovacao-com-custo-risco-e-retorno-do-investimento.md - description looks OK
+[PROCESSING] ia-nos-negocios-23-dos-retalhistas-europeus-ja-usam-agentes-para-eficiencia.md
+  Old description: "Mais de dois terços dos retalhistas europeus já implementaram agentes de IA para otimizar operações e serviço ao cliente. Descubra o futuro do retalho com IA."
+  [QUOTA] Waiting 60s...
+[ERROR] ia-nos-negocios-23-dos-retalhistas-europeus-ja-usam-agentes-para-eficiencia.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[PROCESSING] icq-como-o-pioneiro-das-mensagens-instantaneas-nao-conseguiu-manter-o-ritmo-dos-tempos-modernos.md
+  Old description: "ICQ foi uma plataforma revolucionária nas mensagens instantâneas, pavimentando o caminho para a comunicação online. Este artigo explora o seu impacto inicial e as razões por detrás do seu eventual declínio, apesar das tentativas de adaptação."
+[ERROR] icq-como-o-pioneiro-das-mensagens-instantaneas-nao-conseguiu-manter-o-ritmo-dos-tempos-modernos.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] ikea-lanca-carregador-usb-c-de-20w-a-preco-muito-acessivel.md - description looks OK
+[PROCESSING] ikea-lanca-nova-geracao-de-sensores-inteligentes-com-suporte-matter.md
+  Old description: "A IKEA reforça a sua aposta na casa inteligente com novos sensores que suportam o protocolo Matter. Descobre as funcionalidades dos Myggbett, Timmerflotte e."
+  New description: "A IKEA lançou uma nova geração de sensores inteligentes, com nomes como Myggbett e Timmerflotte, que já estão disponíveis no mercado europeu para expandir o seu ecossistema de casa inteligente. O principal destaque destes dispositivos é a sua compatibilidade com o protocolo Matter, que visa unificar a comunicação entre aparelhos de diferentes fabricantes, prometendo revolucionar a conectividade nas casas."
+[SKIP] impressionante-doom-ganha-nova-vida-numa-impressora-de-tickets.md - description looks OK
+[SKIP] india-equaciona-vigilancia-247-em-iphones-via-a-gps.md - description looks OK
+[PROCESSING] india-ordena-pre-instalacao-de-app-estatal-em-smartphones.md
+  Old description: "O governo indiano exige que fabricantes como Apple e Samsung pré-instalem a app estatal Sanchar Saathi em todos os novos smartphones. Saiba o que muda e o de."
+[ERROR] india-ordena-pre-instalacao-de-app-estatal-em-smartphones.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [503 Service Unavailable] The model is overloaded. Please try again later.
+[SKIP] india-recua-na-exigencia-de-app-estatal-em-smartphones.md - description looks OK
+[PROCESSING] india-trabalhadores-da-gig-economy-com-novo-estatuto-legal.md
+  Old description: "A Índia reestrutura a sua gig economy com nova legislação, mas o acesso à segurança social para os trabalhadores continua um desafio. O que isto significa gl."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] india-trabalhadores-da-gig-economy-com-novo-estatuto-legal.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 33.161614989s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"33s"}]
+[SKIP] intel-core-ultra-3-gaming-de-alta-performance-em-portateis-ultrafinos.md - description looks OK
+[SKIP] intel-e-gelsinger-o-plano-ambicioso-para-salvar-a-lei-de-moore-ate-2029.md - description looks OK
+[PROCESSING] intel-e-nvidia-serpent-lake-com-graficos-rtx-para-portateis.md
+  Old description: "Rumores apontam para uma colaboração inédita entre Intel e Nvidia, com a arquitetura Serpent Lake a integrar uma iGPU RTX para rivalizar com a AMD em portáte."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...
+[ERROR] intel-e-nvidia-serpent-lake-com-graficos-rtx-para-portateis.md: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent: [429 Too Many Requests] You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 31.832106656s. [{"@type":"type.googleapis.com/google.rpc.Help","links":[{"description":"Learn more about Gemini API quotas","url":"https://ai.google.dev/gemini-api/docs/rate-limits"}]},{"@type":"type.googleapis.com/google.rpc.QuotaFailure","violations":[{"quotaMetric":"generativelanguage.googleapis.com/generate_content_free_tier_requests","quotaId":"GenerateRequestsPerDayPerProjectPerModel-FreeTier","quotaDimensions":{"location":"global","model":"gemini-2.5-flash"},"quotaValue":"20"}]},{"@type":"type.googleapis.com/google.rpc.RetryInfo","retryDelay":"31s"}]
+[SKIP] intel-mantem-divisao-de-redes-e-comunicacoes-na-sua-estrategia.md - description looks OK
+[SKIP] intel-panther-lake-cpus-personalizadas-para-pcs-portateis-gaming.md - description looks OK
+[SKIP] intel-xeon-6-plataforma-w890-antecipa-chips-granite-rapids.md - description looks OK
+[SKIP] ios-26-mensagens-em-grupo-do-iphone-recebem-5-novidades-essenciais.md - description looks OK
+[PROCESSING] ios-26-os-desafios-da-disrupcao-e-o-impacto-no-mercado-europeu.md
+  Old description: "O iOS 26, com a sua identidade gráfica disruptiva, está a desiludir as expectativas. Analisamos o impacto destas mudanças no mercado português e europeu, e a."
+  [QUOTA] Waiting 60s...
+  [QUOTA] Waiting 60s...

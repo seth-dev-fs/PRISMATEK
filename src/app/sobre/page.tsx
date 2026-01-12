@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Sobre Nós',
-  description: 'Conheça a NEXORA News - o seu portal de tecnologia em Portugal com notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
+  description: 'Conheça a PRISMATEK - o seu portal de tecnologia em Portugal com notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
 };
 
 export default function SobrePage() {
@@ -8,12 +8,12 @@ export default function SobrePage() {
     <div className="container mx-auto px-4 sm:px-6 py-12 sm:py-16">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl sm:text-5xl font-extrabold text-foreground mb-6 leading-tight">
-          Sobre a NEXORA News
+          Sobre a PRISMATEK
         </h1>
 
         <div className="prose prose-lg max-w-none">
           <p className="text-xl text-muted mb-8 leading-relaxed">
-            A NEXORA News é o seu portal de tecnologia em Portugal, dedicado a trazer-lhe as últimas notícias,
+            A PRISMATEK é o seu portal de tecnologia em Portugal, dedicado a trazer-lhe as últimas notícias,
             análises aprofundadas e reviews sobre o mundo da tecnologia.
           </p>
 

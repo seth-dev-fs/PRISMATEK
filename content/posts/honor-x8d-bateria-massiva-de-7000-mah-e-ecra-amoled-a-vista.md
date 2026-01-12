@@ -12,9 +12,10 @@ image: >-
   https://fdn.gsmarena.com/imgroot/news/25/12/honor-x8d-official/-952x498w6/gsmarena_000.jpg
 image_source: rss
 description: >-
-  O Honor X8d foi revelado e promete impressionar com uma bateria de 7.000 mAh e
-  ecrã AMOLED. Conheça as especificações deste novo smartphone 4G que chega ao
-  m.
+  O Honor X8d é o mais recente smartphone da marca, destacando-se pela sua
+  bateria massiva de 7.000 mAh e ecrã AMOLED. Já listado oficialmente em alguns
+  mercados como o Quirguistão, este dispositivo foca-se na conectividade 4G e
+  promete grande autonomia, apesar de ainda não ter um anúncio global formal.
 source_url: >-
   https://www.gsmarena.com/honor_x8d_is_official_with_a_big_battery_and_a_4gonly_chipset-news-70672.php
 draft: false

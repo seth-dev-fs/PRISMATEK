@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Termos de Uso',
-  description: 'Termos e Condições de Uso da NEXORA News. Leia os termos que regem a utilização do nosso website.',
+  description: 'Termos e Condições de Uso da PRISMATEK. Leia os termos que regem a utilização do nosso website.',
 };
 
 export default function TermosPage() {
@@ -19,7 +19,7 @@ export default function TermosPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">1. Aceitação dos Termos</h2>
             <p className="text-foreground leading-relaxed">
-              Ao aceder e utilizar o website NEXORA News, você aceita e concorda em ficar vinculado a estes Termos e
+              Ao aceder e utilizar o website PRISMATEK, você aceita e concorda em ficar vinculado a estes Termos e
               Condições de Uso. Se não concordar com estes termos, não deve utilizar este website.
             </p>
           </section>
@@ -48,13 +48,13 @@ export default function TermosPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">3. Propriedade Intelectual</h2>
             <p className="text-foreground leading-relaxed mb-4">
-              Todo o conteúdo no website NEXORA News, incluindo mas não limitado a textos, gráficos, logos, imagens e
-              software, é propriedade da NEXORA News ou dos seus fornecedores de conteúdo e está protegido por leis
+              Todo o conteúdo no website PRISMATEK, incluindo mas não limitado a textos, gráficos, logos, imagens e
+              software, é propriedade da PRISMATEK ou dos seus fornecedores de conteúdo e está protegido por leis
               de direitos de autor portuguesas e internacionais.
             </p>
             <p className="text-foreground leading-relaxed">
-              A marca "NEXORA News" e todos os logos relacionados são marcas registadas ou marcas comerciais da
-              NEXORA News.
+              A marca "PRISMATEK" e todos os logos relacionados são marcas registadas ou marcas comerciais da
+              PRISMATEK.
             </p>
           </section>
 
@@ -91,7 +91,7 @@ export default function TermosPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">7. Limitação de Responsabilidade</h2>
             <p className="text-foreground leading-relaxed">
-              Na medida máxima permitida por lei, a NEXORA News não será responsável por quaisquer danos diretos,
+              Na medida máxima permitida por lei, a PRISMATEK não será responsável por quaisquer danos diretos,
               indiretos, incidentais, especiais ou consequenciais resultantes do uso ou incapacidade de usar o website.
             </p>
           </section>
@@ -99,7 +99,7 @@ export default function TermosPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">8. Indemnização</h2>
             <p className="text-foreground leading-relaxed">
-              Você concorda em indemnizar e isentar a NEXORA News de quaisquer reclamações, danos ou despesas
+              Você concorda em indemnizar e isentar a PRISMATEK de quaisquer reclamações, danos ou despesas
               (incluindo honorários advocatícios) decorrentes do seu uso do website ou violação destes termos.
             </p>
           </section>
@@ -127,8 +127,8 @@ export default function TermosPage() {
               Para questões sobre estes Termos de Uso, contacte-nos:
             </p>
             <ul className="list-none space-y-2 text-foreground ml-4 mt-4">
-              <li>Email: <a href="mailto:legal@nexora-news.com" className="text-primary hover:underline">legal@nexora-news.com</a></li>
-              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.nexora-news.com/contacto</a></li>
+              <li>Email: <a href="mailto:legal@prismatek.com" className="text-primary hover:underline">legal@prismatek.com</a></li>
+              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.com/contacto</a></li>
             </ul>
           </section>
         </div>

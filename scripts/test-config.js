@@ -1,5 +1,5 @@
 /**
- * NEXORA News - Configuration Test Script
+ * PRISMATEK - Configuration Test Script
  *
  * Quick validation of environment variables and API connectivity
  * Run with: node scripts/test-config.js
@@ -12,7 +12,7 @@ const REQUIRED_ENV = ['GEMINI_API_KEY', 'REVALIDATE_TOKEN'];
 const OPTIONAL_ENV = ['UNSPLASH_ACCESS_KEY', 'NEXT_PUBLIC_VERCEL_URL'];
 
 console.log('\n===================================');
-console.log('NEXORA News - Configuration Test');
+console.log('PRISMATEK - Configuration Test');
 console.log('===================================\n');
 
 // Test 1: Environment Variables

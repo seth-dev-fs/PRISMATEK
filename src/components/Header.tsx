@@ -62,10 +62,16 @@ export default function Header() {
             {/* Logo */}
             <Link
               href="/"
-              className="text-xl sm:text-2xl font-extrabold text-foreground hover:text-primary transition-colors duration-200 focus:outline-none"
-              aria-label="NEXORA News - Página Inicial"
+              className="flex items-center gap-2 focus:outline-none hover:opacity-80 transition-opacity duration-200"
+              aria-label="PRISMATEK - Página Inicial"
             >
-              NEXORA News
+              <svg width="32" height="32" viewBox="0 0 100 100" className="flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20 80 L50 20 L50 80 Z" fill="#06B6D4"/>
+                <path d="M50 20 L80 80 L50 80 Z" className="fill-foreground"/>
+              </svg>
+              <span className="text-xl sm:text-2xl font-extrabold text-foreground tracking-tight">
+                PRISMATEK
+              </span>
             </Link>
 
             {/* Desktop Navigation */}
@@ -155,11 +161,17 @@ export default function Header() {
             <div className="flex justify-between items-center p-4 sm:p-6 border-b border-border">
               <Link
                 href="/"
-                className="text-xl sm:text-2xl font-extrabold text-foreground"
+                className="flex items-center gap-2"
                 onClick={() => setIsMenuOpen(false)}
-                aria-label="NEXORA News - Página Inicial"
+                aria-label="PRISMATEK - Página Inicial"
               >
-                NEXORA News
+                <svg width="28" height="28" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M20 80 L50 20 L50 80 Z" fill="#06B6D4"/>
+                  <path d="M50 20 L80 80 L50 80 Z" className="fill-foreground"/>
+                </svg>
+                <span className="text-xl sm:text-2xl font-extrabold text-foreground tracking-tight">
+                  PRISMATEK
+                </span>
               </Link>
               <button
                 onClick={() => setIsMenuOpen(false)}
@@ -191,7 +203,7 @@ export default function Header() {
               {/* Mobile Menu Footer */}
               <div className="mt-8 pt-8 border-t border-border">
                 <p className="text-sm text-muted text-center">
-                  &copy; {new Date().getFullYear()} NEXORA News
+                  &copy; {new Date().getFullYear()} PRISMATEK
                 </p>
               </div>
             </nav>

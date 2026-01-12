@@ -15,16 +15,16 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://nexora-news.com'),
+  metadataBase: new URL('https://prismatek.com'),
   title: {
-    default: 'NEXORA News - Portal de Tecnologia em Portugal',
-    template: '%s | NEXORA News',
+    default: 'PRISMATEK - Portal de Tecnologia em Portugal',
+    template: '%s | PRISMATEK',
   },
   description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação. Mantenha-se atualizado com as últimas tendências tecnológicas.',
   keywords: ['tecnologia', 'Portugal', 'smartphones', 'wearables', 'gaming', 'IA', 'inteligência artificial', 'inovação', 'notícias tech', 'reviews', 'análises'],
-  authors: [{ name: 'Equipa NEXORA News' }],
-  creator: 'NEXORA News',
-  publisher: 'NEXORA News',
+  authors: [{ name: 'Equipa PRISMATEK' }],
+  creator: 'PRISMATEK',
+  publisher: 'PRISMATEK',
   formatDetection: {
     email: false,
     address: false,
@@ -33,9 +33,9 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'pt_PT',
-    url: 'https://nexora-news.com',
-    siteName: 'NEXORA News',
-    title: 'NEXORA News - Portal de Tecnologia em Portugal',
+    url: 'https://prismatek.com',
+    siteName: 'PRISMATEK',
+    title: 'PRISMATEK - Portal de Tecnologia em Portugal',
     description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
     // TODO: Add OG image (1200x630px) to public/og-image.jpg
     // images: [
@@ -43,15 +43,15 @@ export const metadata: Metadata = {
     //     url: '/og-image.jpg',
     //     width: 1200,
     //     height: 630,
-    //     alt: 'NEXORA News - Portal de Tecnologia',
+    //     alt: 'PRISMATEK - Portal de Tecnologia',
     //   },
     // ],
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@nexoranews',
-    creator: '@nexoranews',
-    title: 'NEXORA News - Portal de Tecnologia em Portugal',
+    site: '@prismatek',
+    creator: '@prismatek',
+    title: 'PRISMATEK - Portal de Tecnologia em Portugal',
     description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',
     // TODO: Add Twitter image (1200x630px) to public/twitter-image.jpg
     // images: ['/twitter-image.jpg'],

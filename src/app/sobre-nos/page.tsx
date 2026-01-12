@@ -2,12 +2,12 @@ export default function SobreNosPage() {
   return (
     <div className="container mx-auto px-4 py-8">
       <article className="max-w-3xl mx-auto bg-card p-6 md:p-8 rounded-lg shadow-lg">
-        <h1 className="text-4xl font-extrabold text-foreground leading-tight mb-6">Sobre a NEXORA News</h1>
+        <h1 className="text-4xl font-extrabold text-foreground leading-tight mb-6">Sobre a PRISMATEK</h1>
 
         <section className="mb-8">
           <h2 className="text-3xl font-bold text-primary mb-4">Missão</h2>
           <p className="text-foreground leading-relaxed">
-            A nossa missão na NEXORA News é ser a principal fonte de informação e análise tecnológica em Portugal, 
+            A nossa missão na PRISMATEK é ser a principal fonte de informação e análise tecnológica em Portugal, 
             proporcionando aos nossos leitores conteúdos de alta qualidade, relevantes e inspiradores. 
             Queremos descomplicar o mundo da tecnologia e torná-lo acessível a todos, desde o entusiasta 
             mais experiente ao utilizador ocasional.
@@ -35,16 +35,16 @@ export default function SobreNosPage() {
             Tem questões, sugestões ou gostaria de colaborar? Não hesite em contactar-nos:
           </p>
           <ul className="list-disc list-inside text-foreground space-y-2 mt-4">
-            <li><strong>Geral:</strong> <a href="mailto:info@nexoranews.pt" className="text-primary hover:underline">info@nexoranews.pt</a></li>
-            <li><strong>Editorial:</strong> <a href="mailto:redacao@nexoranews.pt" className="text-primary hover:underline">redacao@nexoranews.pt</a></li>
-            <li><strong>Publicidade:</strong> <a href="mailto:publicidade@nexoranews.pt" className="text-primary hover:underline">publicidade@nexoranews.pt</a></li>
+            <li><strong>Geral:</strong> <a href="mailto:info@prismatek.pt" className="text-primary hover:underline">info@prismatek.pt</a></li>
+            <li><strong>Editorial:</strong> <a href="mailto:redacao@prismatek.pt" className="text-primary hover:underline">redacao@prismatek.pt</a></li>
+            <li><strong>Publicidade:</strong> <a href="mailto:publicidade@prismatek.pt" className="text-primary hover:underline">publicidade@prismatek.pt</a></li>
           </ul>
         </section>
 
         <section>
           <h2 className="text-3xl font-bold text-primary mb-4">Política de Transparência</h2>
           <p className="text-foreground leading-relaxed">
-            Na NEXORA News, a transparência é um pilar fundamental. Comprometemo-nos a:
+            Na PRISMATEK, a transparência é um pilar fundamental. Comprometemo-nos a:
           </p>
           <ul className="list-disc list-inside text-foreground space-y-2 mt-4">
             <li>Declarar quaisquer conflitos de interesse dos nossos autores.</li>

@@ -1,17 +1,24 @@
 ---
-title: "5 Gadgets Originais para o Entusiasta de Tecnologia em Portugal"
-date: "2025-12-14T10:18:26.332Z"
-category: "home"
+title: 5 Gadgets Originais para o Entusiasta de Tecnologia em Portugal
+date: '2025-12-14T10:18:26.332Z'
+category: home
 tags:
   - gadgets
   - presentes tech
   - tecnologia
   - nostalgia
   - robótica
-image: "https://i.blogs.es/96c686/regalos/840_560.jpeg"
-image_source: "rss"
-description: "Descubra cinco ideias de presentes tecnológicos únicos, do nostálgico leitor de cassetes ao cão robô com IA, perfeitos para qualquer techie português."
-source_url: "https://www.xataka.com/seleccion/cinco-dispositivos-accesorios-originales-para-regalar-a-techie-navidad"
+image: 'https://i.blogs.es/96c686/regalos/840_560.jpeg'
+image_source: rss
+description: >-
+  Este artigo explora a dificuldade de escolher presentes originais para
+  entusiastas de tecnologia, enfatizando que a inovação aliada à diversão ou
+  nostalgia é valorizada. Apresenta, então, cinco sugestões de gadgets e
+  acessórios inovadores, prontamente disponíveis no mercado europeu. O leitor de
+  cassetes Muse M-132 WM é destacado como um exemplo que proporciona um regresso
+  ao passado.
+source_url: >-
+  https://www.xataka.com/seleccion/cinco-dispositivos-accesorios-originales-para-regalar-a-techie-navidad
 draft: false
 needs_review: true
 photographer_name: undefined

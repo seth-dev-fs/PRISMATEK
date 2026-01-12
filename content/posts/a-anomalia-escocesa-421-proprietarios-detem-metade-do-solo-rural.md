@@ -11,9 +11,11 @@ tags:
 image: 'https://i.blogs.es/a4d02c/tierras-de-escocia/840_560.jpeg'
 image_source: rss
 description: >-
-  Na Escócia, a concentração de terras é uma herança medieval: apenas 421
-  proprietários controlam 50% do solo rural. Uma anomalia única na Europa que
-  molda o f.
+  A Escócia destaca-se na Europa por uma anomalia secular na propriedade da
+  terra, onde apenas 421 proprietários controlam cerca de metade de todo o solo
+  rural privado. Esta estrutura de posse, que parece congelada no tempo e com
+  raízes medievais, representa uma concentração de poder territorial quase sem
+  paralelo no continente europeu.
 source_url: >-
   https://www.xataka.com/magnet/escocia-mantiene-anomalia-unica-europa-edad-media-sus-tierras-estan-manos-solo-421-terratenientes
 draft: false

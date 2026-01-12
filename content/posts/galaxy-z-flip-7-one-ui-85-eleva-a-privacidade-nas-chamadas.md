@@ -12,9 +12,11 @@ image: >-
   https://www.sammobile.com/wp-content/uploads/2025/07/Galaxy-Z-Flip-7-review-15-1200x675.jpg
 image_source: rss
 description: >-
-  A Samsung prepara uma novidade para o Galaxy Z Flip 7. A One UI 8.5 trará uma
-  funcionalidade de privacidade para o ecrã exterior, ideal para chamadas. Fica
-  a.
+  O Galaxy Z Flip 7, com a chegada da One UI 8.5, melhorará significativamente a
+  gestão da privacidade nas chamadas. Esta funcionalidade permitirá aos
+  utilizadores interagir com as opções de privacidade diretamente a partir do
+  ecrã exterior, realçando a crescente utilidade dos ecrãs secundários para
+  tarefas essenciais sem abrir o dispositivo.
 source_url: >-
   https://www.sammobile.com/news/one-ui-8-5-useful-call-privacy-feature-galaxy-z-flip-7-cover-display
 draft: false

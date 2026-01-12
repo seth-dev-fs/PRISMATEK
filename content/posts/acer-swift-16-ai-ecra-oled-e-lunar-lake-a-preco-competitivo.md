@@ -1,17 +1,24 @@
 ---
-title: "Acer Swift 16 AI: Ecrã OLED e Lunar Lake a preço competitivo"
-date: "2025-11-30T03:51:24.985Z"
-category: "computadores"
+title: 'Acer Swift 16 AI: Ecrã OLED e Lunar Lake a preço competitivo'
+date: '2025-11-30T03:51:24.985Z'
+category: computadores
 tags:
   - Acer
   - portátil
   - Swift 16 AI
   - OLED
   - Intel Lunar Lake
-image: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-Swift-16-AI-with-2.8K-120-Hz-OLED-touchscreen-and-Core-Ultra-256V-drops-under-750-1_6.jpg"
-image_source: "rss"
-description: "O Acer Swift 16 AI impressiona com ecrã OLED 2.8K a 120 Hz e processador Intel Lunar Lake. Descubra este portátil potente e as suas capacidades de IA."
-source_url: "https://www.notebookcheck.net/Acer-Swift-16-AI-with-2-8K-120-Hz-OLED-touchscreen-and-Core-Ultra-256V-drops-under-750.1173815.0.html"
+image: >-
+  https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-Swift-16-AI-with-2.8K-120-Hz-OLED-touchscreen-and-Core-Ultra-256V-drops-under-750-1_6.jpg
+image_source: rss
+description: >-
+  O Acer Swift 16 AI é um portátil premium que se destaca pelo seu ecrã OLED de
+  alta qualidade e pelo processador Intel Lunar Lake de última geração,
+  integrando inovações em inteligência artificial. Este modelo posiciona-se no
+  mercado com um preço competitivo, tornando-o atrativo para utilizadores que
+  procuram um equipamento potente focado na produtividade impulsionada por IA.
+source_url: >-
+  https://www.notebookcheck.net/Acer-Swift-16-AI-with-2-8K-120-Hz-OLED-touchscreen-and-Core-Ultra-256V-drops-under-750.1173815.0.html
 draft: false
 needs_review: false
 photographer_name: undefined

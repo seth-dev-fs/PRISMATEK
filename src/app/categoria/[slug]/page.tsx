@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const categoryName = getCategoryDisplayName(slug);
   return {
-    title: `${categoryName} - NEXORA News`,
+    title: `${categoryName} - PRISMATEK`,
     description: `Últimas notícias e artigos sobre ${categoryName} em Portugal.`,
   };
 }

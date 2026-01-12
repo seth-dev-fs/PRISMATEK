@@ -12,9 +12,11 @@ image: >-
   https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-watch-health-sensors-blood-glucose.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1
 image_source: rss
 description: >-
-  Um novo estudo revela como a IA pode aprofundar a análise de dados cardíacos
-  do Apple Watch, abrindo portas a diagnósticos mais precisos e prevenção. Fique
-  a.
+  A Apple está a explorar como a inteligência artificial pode usar o sensor
+  ótico do Apple Watch para desvendar *insights* ainda mais profundos sobre a
+  saúde cardíaca. Esta investigação sugere um futuro onde o pulso será uma
+  janela para uma compreensão sem precedentes do coração, solidificando a aposta
+  da Apple na saúde através da IA nos seus *wearables*.
 source_url: 'https://9to5mac.com/2025/12/02/apple-watch-study-ai-health-data-optical-sensor'
 draft: false
 needs_review: false

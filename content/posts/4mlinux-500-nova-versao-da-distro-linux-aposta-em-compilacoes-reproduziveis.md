@@ -1,17 +1,24 @@
 ---
-title: "4MLinux 50.0: Nova versão da distro Linux aposta em compilações reproduzíveis"
-date: "2025-11-29T14:36:59.088Z"
-category: "computadores"
+title: '4MLinux 50.0: Nova versão da distro Linux aposta em compilações reproduzíveis'
+date: '2025-11-29T14:36:59.088Z'
+category: computadores
 tags:
   - 4MLinux
   - Linux
   - distribuição
   - software livre
   - computadores
-image: "https://9to5linux.com/wp-content/uploads/2025/11/4ml50.webp"
-image_source: "rss"
-description: "A mais recente versão do 4MLinux, a 50.0, já está disponível para download. Descubra as novidades, desde compilações reproduzíveis a novas aplicações."
-source_url: "https://9to5linux.com/4mlinux-50-0-linux-distro-released-with-reproducible-builds-new-apps-and-more"
+image: 'https://9to5linux.com/wp-content/uploads/2025/11/4ml50.webp'
+image_source: rss
+description: >-
+  O 4MLinux 50.0, uma distribuição Linux leve e singular, foi lançado com
+  destaque para a introdução de compilações reproduzíveis, um passo
+  significativo para a segurança e transparência. Baseado nas premissas de
+  Manutenção, Multimédia, Minisservidor e Mistério, continua a ser uma opção
+  robusta e versátil, ideal para PCs mais antigos e utilizadores de ambientes
+  minimalistas.
+source_url: >-
+  https://9to5linux.com/4mlinux-50-0-linux-distro-released-with-reproducible-builds-new-apps-and-more
 draft: false
 needs_review: false
 photographer_name: undefined

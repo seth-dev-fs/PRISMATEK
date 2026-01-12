@@ -1,6 +1,6 @@
-# NEXORA News
+# PRISMATEK
 
-NEXORA News is a modern, automated news website built with Next.js and deployed on Vercel. It leverages the power of the Google Gemini API to generate engaging technology news articles by pulling and reimagining content from a curated list of high-quality RSS feeds.
+PRISMATEK is a modern, automated news website built with Next.js and deployed on Vercel. It leverages the power of the Google Gemini API to generate engaging technology news articles by pulling and reimagining content from a curated list of high-quality RSS feeds.
 
 ## ✨ Features
 
@@ -23,8 +23,8 @@ To get a local copy up and running, follow these steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/seth-dev-fs/NEXORA-News.git
-    cd NEXORA-News
+    git clone https://github.com/seth-dev-fs/PRISMATEK.git
+    cd PRISMATEK
     ```
 
 2.  **Install dependencies:**

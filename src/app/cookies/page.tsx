@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Política de Cookies',
-  description: 'Política de Cookies da NEXORA News. Saiba como utilizamos cookies e tecnologias semelhantes no nosso website.',
+  description: 'Política de Cookies da PRISMATEK. Saiba como utilizamos cookies e tecnologias semelhantes no nosso website.',
 };
 
 export default function CookiesPage() {
@@ -28,7 +28,7 @@ export default function CookiesPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">2. Como Usamos Cookies</h2>
             <p className="text-foreground leading-relaxed mb-4">
-              A NEXORA News utiliza cookies para:
+              A PRISMATEK utiliza cookies para:
             </p>
             <ul className="list-disc list-inside space-y-2 text-foreground ml-4">
               <li>Garantir que o website funciona corretamente</li>
@@ -164,8 +164,8 @@ export default function CookiesPage() {
               Para questões sobre esta Política de Cookies, contacte-nos:
             </p>
             <ul className="list-none space-y-2 text-foreground ml-4 mt-4">
-              <li>Email: <a href="mailto:privacidade@nexora-news.com" className="text-primary hover:underline">privacidade@nexora-news.com</a></li>
-              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.nexora-news.com/contacto</a></li>
+              <li>Email: <a href="mailto:privacidade@prismatek.com" className="text-primary hover:underline">privacidade@prismatek.com</a></li>
+              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.com/contacto</a></li>
             </ul>
           </section>
         </div>

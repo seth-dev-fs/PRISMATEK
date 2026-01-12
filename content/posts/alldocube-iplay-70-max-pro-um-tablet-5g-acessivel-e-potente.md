@@ -13,9 +13,11 @@ image: >-
 image_source: >-
   https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Alldocube-intros-iPlay-70-Max-Pro-tablet.jpg
 description: >-
-  A Alldocube lança o iPlay 70 Max Pro, um tablet 5G com ecrã de alta resolução,
-  bateria robusta e armazenamento expansível. Conheça a aposta para o segmento
-  a.
+  A Alldocube lançou o iPlay 70 Max Pro, um tablet 5G acessível e potente que se
+  posiciona como uma alternativa interessante no mercado europeu de dispositivos
+  versáteis. Este novo modelo destaca-se pela conectividade 5G, um ecrã de alta
+  resolução, uma bateria de grande capacidade e um processador Unisoc S715
+  adequado para o uso diário.
 source_url: >-
   https://www.notebookcheck.net/Alldocube-debuts-new-affordable-tablet-with-large-battery-expandable-storage-and-more.1170439.0.html
 draft: false

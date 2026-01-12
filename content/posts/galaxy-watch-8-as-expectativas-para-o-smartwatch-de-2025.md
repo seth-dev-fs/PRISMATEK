@@ -12,9 +12,11 @@ image: >-
   https://m-cdn.phonearena.com/images/article/176327-two/Stunning-new-Galaxy-Watch-8-deal-saves-you-a-hefty-160-on-one-of-2025s-best-smartwatches.jpg
 image_source: rss
 description: >-
-  O Samsung Galaxy Watch 8 poderá ser um dos destaques de 2025. Descubra as
-  inovações esperadas e o que o tornará num dos melhores do ano. A Samsung
-  continua a.
+  O Galaxy Watch 8 da Samsung é um dos smartwatches mais aguardados para 2025,
+  com expectativas de inovações significativas. Apesar da escassez de detalhes,
+  espera-se que responda às crescentes exigências dos utilizadores portugueses e
+  europeus, priorizando a saúde, o bem-estar e a integração perfeita com outros
+  dispositivos.
 source_url: >-
   https://www.phonearena.com/news/samsung-galaxy-watch-8-woot-deal-huge-discount-one-of-2025-best-smartwatches_id176327
 draft: false

@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Equipa',
-  description: 'Conheça a equipa por detrás da NEXORA News - jornalistas, editores e especialistas em tecnologia dedicados a trazer-lhe as melhores notícias tech.',
+  description: 'Conheça a equipa por detrás da PRISMATEK - jornalistas, editores e especialistas em tecnologia dedicados a trazer-lhe as melhores notícias tech.',
 };
 
 export default function EquipaPage() {
@@ -25,7 +25,7 @@ export default function EquipaPage() {
             <h3 className="text-xl font-bold text-foreground mb-2">Editor-Chefe</h3>
             <p className="text-primary font-semibold mb-3">Redação</p>
             <p className="text-muted text-sm leading-relaxed">
-              Responsável pela direção editorial e qualidade do conteúdo publicado na NEXORA News.
+              Responsável pela direção editorial e qualidade do conteúdo publicado na PRISMATEK.
             </p>
           </div>
 

@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  const canonicalUrl = `https://nexora-news.com/noticias/${article.slug}`;
+  const canonicalUrl = `https://prismatek.com/noticias/${article.slug}`;
 
   return {
     title: article.title,
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       type: 'article',
       locale: 'pt_PT',
       url: canonicalUrl,
-      siteName: 'NEXORA News',
+      siteName: 'PRISMATEK',
       title: article.title,
       description: article.description,
       images: article.image ? [
@@ -52,12 +52,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         },
       ] : [],
       publishedTime: article.date,
-      authors: ['Equipa NEXORA News'],
+      authors: ['Equipa PRISMATEK'],
     },
     twitter: {
       card: 'summary_large_image',
-      site: '@nexoranews',
-      creator: '@nexoranews',
+      site: '@prismatek',
+      creator: '@prismatek',
       title: article.title,
       description: article.description,
       images: article.image ? [article.image] : [],
@@ -89,25 +89,25 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.description,
-    image: article.image || 'https://nexora-news.com/og-image.jpg',
+    image: article.image || 'https://prismatek.com/og-image.jpg',
     datePublished: article.date,
     dateModified: article.date,
     author: {
       '@type': 'Organization',
-      name: 'NEXORA News',
-      url: 'https://nexora-news.com',
+      name: 'PRISMATEK',
+      url: 'https://prismatek.com',
     },
     publisher: {
       '@type': 'Organization',
-      name: 'NEXORA News',
+      name: 'PRISMATEK',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://nexora-news.com/logo.png',
+        url: 'https://prismatek.com/logo.png',
       },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://nexora-news.com/noticias/${article.slug}`,
+      '@id': `https://prismatek.com/noticias/${article.slug}`,
     },
     articleSection: getCategoryDisplayName(article.category),
     keywords: article.tags.join(', '),
@@ -313,7 +313,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
               {/* Share Buttons */}
               <ShareButtons
                 title={article.title}
-                url={`https://nexora-news.com/noticias/${article.slug}`}
+                url={`https://prismatek.com/noticias/${article.slug}`}
                 description={article.description}
               />
             </div>

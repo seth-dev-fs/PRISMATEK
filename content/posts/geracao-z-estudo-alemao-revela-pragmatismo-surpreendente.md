@@ -13,9 +13,11 @@ image: >-
 image_source: >-
   https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Fridays_for_Future-_Klimastreik_Duesseldorf_15_Grad_cr.jpg
 description: >-
-  Um novo estudo na Alemanha desvenda que a Geração Z valoriza o pragmatismo
-  sobre o idealismo. Conforto e custo ditam as suas escolhas, contrariando
-  estereóti.
+  Um novo estudo alemão desafia a imagem idealizada da Geração Z como
+  predominantemente ativista e ideológica, revelando um pragmatismo
+  surpreendente. Contrariamente à perceção comum, fatores como o conforto, o
+  custo e a conveniência parecem guiar as suas decisões e prioridades mais do
+  que visões de mundo idealistas.
 source_url: >-
   https://www.notebookcheck.net/German-study-reveals-that-Gen-Z-cares-little-for-collective-issues-pragmatism-reigns-supreme.1169513.0.html
 draft: false

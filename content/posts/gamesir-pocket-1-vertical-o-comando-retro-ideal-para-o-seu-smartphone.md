@@ -12,9 +12,11 @@ image: >-
   https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GameSir-Pocket-1-Vertical-20.jpg
 image_source: rss
 description: >-
-  O GameSir Pocket 1 Vertical é o novo comando sem fios que transforma o seu
-  smartphone numa consola retro portátil. Com design Game Boy, é ideal para
-  jogos cl.
+  A GameSir revelou o Pocket 1 Vertical, um comando compacto e sem fios
+  concebido para oferecer uma autêntica experiência retro de jogos em
+  smartphones. Inspirado nas consolas portáteis clássicas, como o Game Boy, este
+  acessório combina a nostalgia com a precisão dos botões físicos e um design
+  ergonómico de orientação vertical.
 source_url: >-
   https://www.notebookcheck.net/GameSir-s-new-Pocket-1-Vertical-controller-offers-Game-Boy-style-controls-in-a-compact-design.1191645.0.html
 draft: false

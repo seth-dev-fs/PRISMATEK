@@ -6,7 +6,7 @@ import { getCategoryDisplayName } from '@/lib/categories';
 
 export const metadata = {
   title: 'Todas as Notícias',
-  description: 'Explore todas as notícias de tecnologia da NEXORA News - smartphones, wearables, gaming, IA e inovação.',
+  description: 'Explore todas as notícias de tecnologia da PRISMATEK - smartphones, wearables, gaming, IA e inovação.',
 };
 
 export default async function NoticiasPage() {

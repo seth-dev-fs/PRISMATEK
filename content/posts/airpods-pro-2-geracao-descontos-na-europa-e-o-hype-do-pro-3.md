@@ -12,9 +12,10 @@ image: >-
   https://www.androidauthority.com/wp-content/uploads/2025/12/Apple-AirPods-Pro-3-featured-image.jpg
 image_source: rss
 description: >-
-  Procura os AirPods Pro (2.ª geração)? Boas notícias: estes aclamados
-  auriculares sem fios da Apple estão a aparecer com descontos interessantes no
-  mercado eu.
+  Os AirPods Pro são auriculares muito cobiçados, apesar dos rumores sobre uma
+  "3.ª geração" serem infundados, pois a 2.ª geração é a mais recente
+  disponível. Atualmente, esta versão encontra-se com descontos interessantes no
+  mercado europeu, tornando-se uma oportunidade para os adquirir.
 source_url: 'https://www.androidauthority.com/apple-airpods-pro-3-deal-2-3625651'
 draft: false
 needs_review: false

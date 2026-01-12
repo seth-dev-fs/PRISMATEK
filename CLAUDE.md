@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-NEXORA News is an automated news website built with Next.js 14+ that generates technology news articles in Portuguese using the Google Gemini API. Articles are automatically generated from RSS feeds every 2 hours via GitHub Actions and committed directly to the main branch as drafts.
+PRISMATEK is an automated news website built with Next.js 14+ that generates technology news articles in Portuguese using the Google Gemini API. Articles are automatically generated from RSS feeds every 2 hours via GitHub Actions and committed directly to the main branch as drafts.
 
 ## Development Commands
 
@@ -185,8 +185,8 @@ Categories are defined in `scripts/generate-articles.js` in the `NORMALIZED_CATE
 #### Manual Article Generation Workflow
 Run GitHub Action manually via:
 ```bash
-gh workflow run "Generate NEXORA Articles"
-# Or use GitHub UI: Actions → Generate NEXORA Articles → Run workflow
+gh workflow run "Generate PRISMATEK Articles"
+# Or use GitHub UI: Actions → Generate PRISMATEK Articles → Run workflow
 ```
 
 The action will:

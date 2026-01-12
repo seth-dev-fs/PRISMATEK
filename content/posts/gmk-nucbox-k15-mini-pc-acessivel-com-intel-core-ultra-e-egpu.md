@@ -12,9 +12,10 @@ image: >-
   https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GMKtec-launches-NucBox-K15-globally.jpg
 image_source: rss
 description: >-
-  O GMK NucBox K15 chega ao mercado global. Este mini PC compacto, com Intel
-  Core Ultra 5 e suporte para eGPUs, oferece desempenho e versatilidade a um
-  preço c.
+  O GMK NucBox K15 é um novo mini PC acessível da GMKtec, projetado para
+  oferecer versatilidade no trabalho, estudo e entretenimento. Equipado com o
+  processador Intel Core Ultra 5 125U e portas OCuLink/USB4, destaca-se pelo seu
+  suporte nativo a placas gráficas externas (eGPUs).
 source_url: >-
   https://www.notebookcheck.net/GMK-NucBox-K15-goes-global-as-affordable-mini-PC-with-OCuLink-and-24-TB-storage-support.1189724.0.html
 draft: false

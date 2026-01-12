@@ -8,32 +8,32 @@ import { getCategoryDisplayName } from '@/lib/categories';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'NEXORA News - As Últimas Notícias de Tecnologia em Português',
+  title: 'PRISMATEK - As Últimas Notícias de Tecnologia em Português',
   description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais. Conteúdo automatizado de qualidade em português para entusiastas de tech.',
   keywords: ['tecnologia', 'notícias tech', 'inovação', 'Portugal', 'smartphones', 'IA', 'software'],
   openGraph: {
     type: 'website',
     locale: 'pt_PT',
-    url: 'https://nexora-news.com',
-    siteName: 'NEXORA News',
-    title: 'NEXORA News - As Últimas Notícias de Tecnologia',
+    url: 'https://prismatek.com',
+    siteName: 'PRISMATEK',
+    title: 'PRISMATEK - As Últimas Notícias de Tecnologia',
     description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
     images: [
       {
-        url: 'https://nexora-news.com/og-image.jpg',
+        url: 'https://prismatek.com/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'NEXORA News',
+        alt: 'PRISMATEK',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@nexoranews',
-    creator: '@nexoranews',
-    title: 'NEXORA News - As Últimas Notícias de Tecnologia',
+    site: '@prismatek',
+    creator: '@prismatek',
+    title: 'PRISMATEK - As Últimas Notícias de Tecnologia',
     description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
-    images: ['https://nexora-news.com/og-image.jpg'],
+    images: ['https://prismatek.com/og-image.jpg'],
   },
 };
 
@@ -48,7 +48,7 @@ export default async function Home() {
       <div className="container mx-auto px-4 sm:px-6 py-12 sm:py-16 text-center">
         <div className="max-w-2xl mx-auto">
           <h1 className="text-4xl sm:text-5xl font-extrabold text-foreground mb-6 leading-tight">
-            Bem-vindo à NEXORA News
+            Bem-vindo à PRISMATEK
           </h1>
           <p className="text-lg sm:text-xl text-muted mb-12">
             Ainda não há artigos publicados.

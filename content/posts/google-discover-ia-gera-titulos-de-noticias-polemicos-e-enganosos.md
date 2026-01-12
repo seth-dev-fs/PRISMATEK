@@ -12,9 +12,11 @@ image: >-
   https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot_20251128_003150_One-UI-Home.jpg?quality=90&strip=all&crop=0,24.575313571133,100,50.849372857735
 image_source: rss
 description: >-
-  O Google Discover está a testar títulos de notícias gerados por IA, levantando
-  questões sobre clickbait e desinformação. A nova funcionalidade está a gerar
-  p.
+  O Google Discover está a substituir os títulos originais de notícias por
+  versões geradas por inteligência artificial, numa experiência silenciosa para
+  otimizar o engagement. Contudo, esta iniciativa tem gerado sérias preocupações
+  devido à natureza sensacionalista e, por vezes, enganosa dos títulos
+  produzidos pela IA.
 source_url: >-
   https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense
 draft: false

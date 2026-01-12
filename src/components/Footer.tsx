@@ -30,7 +30,7 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="sm:col-span-2 lg:col-span-1">
             <h2 className="text-2xl font-extrabold text-foreground mb-4">
-              NEXORA News
+              PRISMATEK
             </h2>
             <p className="text-sm text-muted leading-relaxed mb-6">
               O seu portal de tecnologia. Notícias, reviews e análises sobre smartphones, wearables, gaming e muito mais.
@@ -153,7 +153,7 @@ export default function Footer() {
               <span className="text-sm font-semibold text-primary">Transparência IA</span>
             </div>
             <p className="text-sm text-muted leading-relaxed">
-              NEXORA News é o primeiro site de notícias tech 100% gerado por IA em português.
+              PRISMATEK é o primeiro site de notícias tech 100% gerado por IA em português.
               Todos os artigos são escritos por <span className="font-medium text-foreground">Gemini 2.5 Flash</span>,
               curados e adaptados para o mercado português e europeu.
             </p>
@@ -169,7 +169,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-muted">
             <p>
-              &copy; {currentYear} NEXORA News. Todos os direitos reservados.
+              &copy; {currentYear} PRISMATEK. Todos os direitos reservados.
             </p>
             <p className="flex items-center gap-1">
               Feito com

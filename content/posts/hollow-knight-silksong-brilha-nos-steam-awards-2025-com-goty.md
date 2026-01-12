@@ -12,9 +12,10 @@ image: >-
   https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Steam-Awards-2025-list-of-winners.jpg
 image_source: rss
 description: >-
-  A Valve revelou os vencedores dos Steam Awards 2025, e Hollow Knight: Silksong
-  destacou-se com o prémio de Jogo do Ano. Conhece todos os detalhes. A Valve,
-  g.
+  Os Steam Awards de 2025, que refletem as escolhas da comunidade de jogadores
+  PC, elegeram Hollow Knight: Silksong como Jogo do Ano (GOTY). A sequela do
+  aclamado metroidvania da Team Cherry garantiu ainda outra distinção de peso,
+  solidificando o seu estatuto entre os melhores lançamentos.
 source_url: >-
   https://www.notebookcheck.net/Valve-announces-2025-Steam-Awards-winners-Hollow-Knight-Silksong-wins-GOTY.1195774.0.html
 draft: false

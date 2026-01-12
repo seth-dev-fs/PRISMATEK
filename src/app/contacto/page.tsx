@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Contacto',
-  description: 'Entre em contacto com a equipa NEXORA News. Envie-nos as suas questões, sugestões ou feedback.',
+  description: 'Entre em contacto com a equipa PRISMATEK. Envie-nos as suas questões, sugestões ou feedback.',
 };
 
 export default function ContactoPage() {
@@ -94,8 +94,8 @@ export default function ContactoPage() {
               Email
             </h3>
             <p className="text-muted">
-              <a href="mailto:contato@nexora-news.com" className="text-primary hover:underline">
-                contato@nexora-news.com
+              <a href="mailto:contato@prismatek.com" className="text-primary hover:underline">
+                contato@prismatek.com
               </a>
             </p>
           </div>

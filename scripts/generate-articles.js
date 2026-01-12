@@ -511,7 +511,7 @@ async function generateArticleFromItem(item) {
     // Fetch image with robust fallback system
     const image = await getImageUrl(item, title);
 
-    const prompt = `És jornalista tech para NEXORA News. Escreve artigos CURTOS e DIRETOS para leitura rápida.
+    const prompt = `És jornalista tech para PRISMATEK. Escreve artigos CURTOS e DIRETOS para leitura rápida.
 
 FONTE:
 Título: "${title}"

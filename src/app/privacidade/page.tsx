@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Política de Privacidade',
-  description: 'Política de Privacidade da NEXORA News. Saiba como protegemos e tratamos os seus dados pessoais.',
+  description: 'Política de Privacidade da PRISMATEK. Saiba como protegemos e tratamos os seus dados pessoais.',
 };
 
 export default function PrivacidadePage() {
@@ -19,7 +19,7 @@ export default function PrivacidadePage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">1. Introdução</h2>
             <p className="text-foreground leading-relaxed">
-              A NEXORA News ("nós", "nosso" ou "nos") está comprometida em proteger a sua privacidade. Esta Política
+              A PRISMATEK ("nós", "nosso" ou "nos") está comprometida em proteger a sua privacidade. Esta Política
               de Privacidade explica como recolhemos, usamos, divulgamos e protegemos as suas informações quando
               visita o nosso website.
             </p>
@@ -99,8 +99,8 @@ export default function PrivacidadePage() {
             </ul>
             <p className="text-foreground leading-relaxed mt-4">
               Para exercer qualquer destes direitos, contacte-nos em{' '}
-              <a href="mailto:privacidade@nexora-news.com" className="text-primary hover:underline">
-                privacidade@nexora-news.com
+              <a href="mailto:privacidade@prismatek.com" className="text-primary hover:underline">
+                privacidade@prismatek.com
               </a>
             </p>
           </section>
@@ -135,8 +135,8 @@ export default function PrivacidadePage() {
               Se tiver questões sobre esta Política de Privacidade, contacte-nos:
             </p>
             <ul className="list-none space-y-2 text-foreground ml-4 mt-4">
-              <li>Email: <a href="mailto:privacidade@nexora-news.com" className="text-primary hover:underline">privacidade@nexora-news.com</a></li>
-              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.nexora-news.com/contacto</a></li>
+              <li>Email: <a href="mailto:privacidade@prismatek.com" className="text-primary hover:underline">privacidade@prismatek.com</a></li>
+              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.com/contacto</a></li>
             </ul>
           </section>
         </div>

@@ -1,17 +1,24 @@
 ---
-title: "A aplicação Panels de MKBHD encerra portas: o que aconteceu?"
-date: "2025-12-01T20:37:28.426Z"
-category: "internet-apps"
+title: 'A aplicação Panels de MKBHD encerra portas: o que aconteceu?'
+date: '2025-12-01T20:37:28.426Z'
+category: internet-apps
 tags:
   - MKBHD
   - aplicação
   - Panels
   - wallpapers
   - tecnologia
-image: "https://techcrunch.com/wp-content/uploads/2024/09/mkbhd-panels.jpg?resize=1200,675"
-image_source: "rss"
-description: "Marques Brownlee, o popular YouTuber MKBHD, anunciou o encerramento da sua aplicação de wallpapers, Panels. Descobre os motivos por trás desta decisão."
-source_url: "https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down"
+image: >-
+  https://techcrunch.com/wp-content/uploads/2024/09/mkbhd-panels.jpg?resize=1200,675
+image_source: rss
+description: >-
+  A aplicação Panels, de wallpapers curados e criada por Marques Brownlee
+  (MKBHD), uma das maiores referências tecnológicas do YouTube, vai encerrar as
+  suas operações, surpreendendo a comunidade. O próprio MKBHD admitiu que o
+  projeto era um nicho e que não conseguiram atingir a visão original,
+  evidenciando as dificuldades inerentes à manutenção de aplicações num mercado
+  tão competitivo.
+source_url: 'https://techcrunch.com/2025/12/01/mkbhds-wallpaper-app-panels-is-shutting-down'
 draft: false
 needs_review: false
 photographer_name: undefined

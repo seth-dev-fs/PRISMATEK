@@ -11,9 +11,11 @@ tags:
 image: 'https://i.blogs.es/a42e7a/salon/840_560.jpeg'
 image_source: rss
 description: >-
-  A decoração do lar ultrapassa a moda como símbolo de status, impulsionada por
-  redes sociais e o mercado de luxo. Descubra como esta tendência molda a nossa
-  f.
+  A decoração da casa suplantou a moda como principal forma de expressão de
+  identidade e estatuto social, tornando-se o novo 'street style' ditado pelas
+  redes sociais. Os espaços domésticos são agora cuidadosamente encenados e
+  partilhados online, transformando-se em autênticos palcos digitais onde se
+  projeta quem somos.
 source_url: >-
   https://www.xataka.com/magnet/cuando-salon-nuevo-street-style-que-interiorismo-ocupa-hoy-lugar-moda
 draft: false

@@ -12,9 +12,11 @@ image: >-
   https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1088376802-e1682686681720.jpg?resize=1200,675
 image_source: rss
 description: >-
-  Ilya Lichtenstein, o hacker responsável pelo roubo massivo da Bitfinex, foi
-  libertado precocemente da prisão. Agradece a Donald Trump pela sua saída. Ilya
-  Li.
+  Ilya Lichtenstein, o hacker implicado no roubo da Bitfinex, foi libertado da
+  prisão mais cedo do que o esperado. Numa declaração pública, ele agradeceu a
+  Donald Trump pela sua soltura antecipada. Este facto levanta sérias questões
+  sobre o sistema judicial norte-americano e a influência política em casos
+  mediáticos.
 source_url: >-
   https://techcrunch.com/2026/01/03/bitfinex-hacker-ilya-lichtenstein-credits-trump-for-early-release-from-prison
 draft: false
