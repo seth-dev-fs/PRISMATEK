@@ -4,7 +4,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-PRISMATEK is an automated news website built with Next.js 14+ that generates technology news articles in Portuguese using the Google Gemini API. Articles are automatically generated from RSS feeds every 2 hours via GitHub Actions and committed directly to the main branch as drafts.
+**PRISMATEK** (formerly NEXORA News) is an automated news website built with Next.js 14+ that generates technology news articles in Portuguese using the Google Gemini API. Articles are automatically generated from RSS feeds every 2 hours via GitHub Actions and committed directly to the main branch as drafts.
+
+**Brand:** PRISMATEK = Prisma (múltiplas perspectivas) + TEK (tecnologia)
+**Tagline:** "Múltiplas Perspectivas sobre Tecnologia"
+**Production URL:** https://prismatek-pt.vercel.app
+**Repository:** https://github.com/seth-dev-fs/PRISMATEK
 
 ## Development Commands
 
