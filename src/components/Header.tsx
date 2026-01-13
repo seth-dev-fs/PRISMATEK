@@ -32,23 +32,37 @@ export default function Header() {
     };
   }, [isMenuOpen]);
 
-  const navLinks = [
-    { name: 'Home', href: '/' },
+  // News categories (Notícias)
+  const newsCategories = [
+    { name: 'Todas as Notícias', href: '/' },
     { name: 'Smartphones', href: '/categoria/smartphones' },
     { name: 'Wearables', href: '/categoria/wearables' },
     { name: 'Audio', href: '/categoria/audio' },
     { name: 'Computadores', href: '/categoria/computadores' },
     { name: 'Internet & Apps', href: '/categoria/internet-apps' },
-  ];
-
-  const moreLinks = [
     { name: 'Mobilidade', href: '/categoria/mobilidade' },
     { name: 'Ciência', href: '/categoria/ciencia' },
     { name: 'Gaming', href: '/categoria/gaming' },
     { name: 'AI & Futuro', href: '/categoria/ai-futuro' },
   ];
 
-  const allLinks = [...navLinks, ...moreLinks];
+  // Comparador categories
+  const comparadorCategories = [
+    { name: 'Telemóveis', href: '/comparador/telemoveis' },
+    { name: 'Headphones', href: '/comparador/headphones' },
+    { name: 'TV', href: '/comparador/tv' },
+    { name: 'Tablets', href: '/comparador/tablets' },
+    { name: 'Smartwatches', href: '/comparador/smartwatches' },
+    { name: 'Laptops', href: '/comparador/laptops' },
+  ];
+
+  // All links for mobile menu
+  const allLinks: Array<{ name: string; href: string; disabled?: boolean }> = [
+    { name: 'Home', href: '/' },
+    ...newsCategories.slice(1), // Skip "Todas as Notícias" in mobile
+    { name: '--- Comparador ---', href: '#', disabled: true },
+    ...comparadorCategories,
+  ];
 
   return (
     <>
@@ -76,35 +90,65 @@ export default function Header() {
 
             {/* Desktop Navigation */}
             <ul className="hidden lg:flex items-center gap-1 xl:gap-2 text-sm font-medium">
-              {navLinks.map((link) => (
-                <li key={link.name}>
-                  <Link
-                    href={link.href}
-                    className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
-                  >
-                    {link.name}
-                  </Link>
-                </li>
-              ))}
+              {/* Home Link */}
+              <li>
+                <Link
+                  href="/"
+                  className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                >
+                  Home
+                </Link>
+              </li>
 
-              {/* More Dropdown */}
+              {/* Notícias Dropdown */}
               <li className="relative group">
                 <button
                   className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 flex items-center gap-1 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
-                  aria-label="Mais categorias"
+                  aria-label="Notícias"
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Mais
+                  📰 Notícias
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                   </svg>
                 </button>
 
-                {/* Dropdown Menu */}
-                <div className="absolute top-full right-0 mt-2 w-48 bg-background border border-border rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                {/* Notícias Dropdown Menu */}
+                <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
                   <ul className="py-2">
-                    {moreLinks.map((link) => (
+                    {newsCategories.map((link) => (
+                      <li key={link.name}>
+                        <Link
+                          href={link.href}
+                          className="block px-4 py-2 text-sm text-muted hover:text-primary hover:bg-primary/5 transition-colors duration-200"
+                        >
+                          {link.name}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </li>
+
+              {/* Comparador Dropdown */}
+              <li className="relative group">
+                <button
+                  className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 flex items-center gap-1 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                  aria-label="Comparador"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  🔍 Comparador
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                  </svg>
+                </button>
+
+                {/* Comparador Dropdown Menu */}
+                <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                  <ul className="py-2">
+                    {comparadorCategories.map((link) => (
                       <li key={link.name}>
                         <Link
                           href={link.href}
@@ -187,17 +231,30 @@ export default function Header() {
             {/* Menu Links */}
             <nav className="overflow-y-auto h-[calc(100vh-5rem)] p-4 sm:p-6">
               <ul className="space-y-2">
-                {allLinks.map((link) => (
-                  <li key={link.name}>
-                    <Link
-                      href={link.href}
-                      onClick={() => setIsMenuOpen(false)}
-                      className="block px-4 py-3 text-base font-semibold text-foreground hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
-                    >
-                      {link.name}
-                    </Link>
-                  </li>
-                ))}
+                {allLinks.map((link) => {
+                  // Handle separator
+                  if (link.disabled) {
+                    return (
+                      <li key={link.name} className="pt-4 pb-2">
+                        <div className="text-xs font-bold text-muted uppercase tracking-wide px-4">
+                          {link.name.replace(/---/g, '').trim()}
+                        </div>
+                      </li>
+                    );
+                  }
+
+                  return (
+                    <li key={link.name}>
+                      <Link
+                        href={link.href}
+                        onClick={() => setIsMenuOpen(false)}
+                        className="block px-4 py-3 text-base font-semibold text-foreground hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
+                      >
+                        {link.name}
+                      </Link>
+                    </li>
+                  );
+                })}
               </ul>
 
               {/* Mobile Menu Footer */}

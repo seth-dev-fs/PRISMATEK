@@ -350,12 +350,43 @@ function hasLogoInImageUrl(imageUrl) {
 
     const urlLower = imageUrl.toLowerCase();
     const logoPatterns = [
+        // Generic watermark indicators
         'logo', 'watermark', 'brand', 'badge', 'icon',
+        'header', 'banner', 'favicon', 'avatar',
+        '/wp-content/', '-logo', '_logo',
+        '/brand/', '/watermark/', '/overlay/',
+        'press-image', 'hero-image', 'masthead',
+
+        // English sources
         'techcrunch', 'theverge', 'engadget',
         'arstechnica', 'wired', 'cnet', 'zdnet',
         'gizmodo', 'verge', 'mashable',
         'gsmarena', 'phonearena', 'androidauthority',
-        'sammobile', 'notebookcheck', 'header', 'banner'
+        'sammobile', 'notebookcheck',
+        '9to5mac', '9to5google', '9to5linux',
+        'itsfoss', 'omgubuntu', 'techradar',
+
+        // French sources (FR)
+        'frandroid', 'clubic', 'lesnumeriques',
+        'journaldugeek', '01net', 'numerama',
+
+        // German sources (DE)
+        'heise', 'golem', 't3n', 'computerbase',
+        'chip', 'pcwelt',
+
+        // Italian sources (IT)
+        'tomshw', 'hdblog', 'hwupgrade',
+        'androidworld', 'tecnologia',
+
+        // Spanish sources (ES)
+        'xataka', 'elconfidencial',
+
+        // UK sources
+        'trustedreviews', 'pocket-lint', 'stuff',
+        'expertreviews', 't3.com',
+
+        // Portuguese sources (to avoid)
+        'pplware', 'tek.sapo', '4gnews'
     ];
 
     for (const pattern of logoPatterns) {
