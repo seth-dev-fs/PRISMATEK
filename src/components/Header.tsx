@@ -322,11 +322,11 @@ export default function Header() {
             aria-hidden="true"
           />
 
-          {/* Mobile Menu Panel - BRANCO em light, ESCURO em dark */}
+          {/* Mobile Menu Panel - GLASS EFFECT EM AMBOS OS MODOS */}
           <div
             className="
               fixed inset-y-0 right-0 w-full max-w-sm
-              bg-white dark:bg-dark-secondary/98 backdrop-blur-2xl
+              bg-white/98 dark:bg-dark-secondary/98 backdrop-blur-2xl
               border-l border-border dark:border-dark-border
               z-modal lg:hidden
               shadow-elevation-5 dark:shadow-dark-elevation-5
