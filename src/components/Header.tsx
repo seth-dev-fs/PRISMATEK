@@ -66,104 +66,224 @@ export default function Header() {
 
   return (
     <>
+      {/* === PREMIUM HEADER === */}
       <header
-        className={`bg-background/95 backdrop-blur-md sticky top-0 z-50 border-b transition-all duration-300 ${
-          isScrolled ? 'border-border shadow-md' : 'border-transparent'
-        }`}
+        className={`
+          sticky top-0 z-fixed
+          bg-dark-primary/80 backdrop-blur-xl
+          border-b transition-all duration-400 ease-apple
+          ${isScrolled
+            ? 'border-dark-border shadow-dark-elevation-3 backdrop-blur-2xl'
+            : 'border-transparent backdrop-blur-xl'
+          }
+        `}
       >
         <nav className="container mx-auto px-4 sm:px-6" aria-label="Main navigation">
           <div className="flex justify-between items-center h-16 sm:h-20">
-            {/* Logo */}
+
+            {/* === LOGO (Purple + Gold Gradient) === */}
             <Link
               href="/"
-              className="flex items-center gap-2 focus:outline-none hover:opacity-80 transition-opacity duration-200"
+              className="flex items-center gap-2.5 group focus:outline-none"
               aria-label="PRISMATEK - Página Inicial"
             >
-              <svg width="32" height="32" viewBox="0 0 100 100" className="flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
-                <path d="M20 80 L50 20 L50 80 Z" fill="#06B6D4"/>
-                <path d="M50 20 L80 80 L50 80 Z" className="fill-foreground"/>
-              </svg>
-              <span className="text-xl sm:text-2xl font-extrabold text-foreground tracking-tight">
+              {/* Animated Prisma Logo */}
+              <div className="relative">
+                <svg
+                  width="36"
+                  height="36"
+                  viewBox="0 0 100 100"
+                  className="transform transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  {/* Left face - Purple with gradient */}
+                  <defs>
+                    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#8B5CF6" />
+                      <stop offset="100%" stopColor="#7c3aed" />
+                    </linearGradient>
+                    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#D4AF37" />
+                      <stop offset="100%" stopColor="#B8941F" />
+                    </linearGradient>
+                  </defs>
+
+                  {/* Purple face (left) */}
+                  <path
+                    d="M20 80 L50 20 L50 80 Z"
+                    fill="url(#purpleGradient)"
+                    className="drop-shadow-glow-purple-sm"
+                  />
+
+                  {/* Gold face (right) */}
+                  <path
+                    d="M50 20 L80 80 L50 80 Z"
+                    fill="url(#goldGradient)"
+                    className="drop-shadow-glow-gold-sm"
+                  />
+                </svg>
+
+                {/* Glow effect on hover */}
+                <div className="absolute inset-0 bg-gradient-purple opacity-0 group-hover:opacity-20 blur-xl transition-opacity duration-300 rounded-full" />
+              </div>
+
+              {/* Brand name */}
+              <span className="text-xl sm:text-2xl font-extrabold bg-gradient-to-r from-purple-400 to-gold-400 bg-clip-text text-transparent tracking-tight">
                 PRISMATEK
               </span>
             </Link>
 
-            {/* Desktop Navigation */}
+            {/* === DESKTOP NAVIGATION === */}
             <ul className="hidden lg:flex items-center gap-1 xl:gap-2 text-sm font-medium">
+
               {/* Home Link */}
               <li>
                 <Link
                   href="/"
-                  className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                  className="
+                    px-3 py-2 rounded-lg
+                    text-text-secondary hover:text-text-primary
+                    hover:bg-purple-600/10
+                    transition-all duration-250 ease-smooth
+                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    relative group
+                  "
                 >
                   Home
+                  <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-250" />
                 </Link>
               </li>
 
-              {/* Notícias Dropdown */}
+              {/* === NOTÍCIAS DROPDOWN === */}
               <li className="relative group">
                 <button
-                  className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 flex items-center gap-1 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                  className="
+                    px-3 py-2 rounded-lg flex items-center gap-1
+                    text-text-secondary group-hover:text-text-primary
+                    hover:bg-purple-600/10
+                    transition-all duration-250 ease-smooth
+                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    relative
+                  "
                   aria-label="Notícias"
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  📰 Notícias
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <span className="relative z-10">📰 Notícias</span>
+                  <svg className="w-4 h-4 transform group-hover:rotate-180 transition-transform duration-250" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                   </svg>
+
+                  {/* Hover gradient */}
+                  <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-250" />
                 </button>
 
-                {/* Notícias Dropdown Menu */}
-                <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
-                  <ul className="py-2">
-                    {newsCategories.map((link) => (
-                      <li key={link.name}>
-                        <Link
-                          href={link.href}
-                          className="block px-4 py-2 text-sm text-muted hover:text-primary hover:bg-primary/5 transition-colors duration-200"
-                        >
-                          {link.name}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
+                {/* Dropdown Menu - PREMIUM */}
+                <div className="
+                  absolute top-full left-0 mt-2 w-64
+                  opacity-0 invisible
+                  group-hover:opacity-100 group-hover:visible
+                  transition-all duration-250 ease-smooth
+                  transform group-hover:translate-y-0 translate-y-2
+                ">
+                  {/* Glass card with elevation */}
+                  <div className="
+                    bg-dark-secondary/95 backdrop-blur-xl
+                    border border-dark-border
+                    rounded-xl
+                    shadow-dark-elevation-4 shadow-glow-purple-sm
+                    overflow-hidden
+                  ">
+                    <ul className="py-2">
+                      {newsCategories.map((link) => (
+                        <li key={link.name}>
+                          <Link
+                            href={link.href}
+                            className="
+                              block px-4 py-2.5
+                              text-sm text-text-secondary hover:text-text-primary
+                              hover:bg-purple-600/10
+                              transition-all duration-200
+                              relative group/item
+                            "
+                          >
+                            <span className="relative z-10">{link.name}</span>
+                            {/* Hover effect */}
+                            <span className="absolute left-0 top-0 h-full w-1 bg-gradient-purple scale-y-0 group-hover/item:scale-y-100 transition-transform duration-200 origin-top" />
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </li>
 
-              {/* Comparador Dropdown */}
+              {/* === COMPARADOR DROPDOWN === */}
               <li className="relative group">
                 <button
-                  className="px-3 py-2 text-muted hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 flex items-center gap-1 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                  className="
+                    px-3 py-2 rounded-lg flex items-center gap-1
+                    text-text-secondary group-hover:text-text-primary
+                    hover:bg-gold-600/10
+                    transition-all duration-250 ease-smooth
+                    focus:outline-none focus:ring-2 focus:ring-gold-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    relative
+                  "
                   aria-label="Comparador"
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  🔍 Comparador
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <span className="relative z-10">🔍 Comparador</span>
+                  <svg className="w-4 h-4 transform group-hover:rotate-180 transition-transform duration-250" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                   </svg>
+
+                  {/* Hover gradient - Gold */}
+                  <span className="absolute inset-0 rounded-lg bg-gradient-gold opacity-0 group-hover:opacity-5 transition-opacity duration-250" />
                 </button>
 
-                {/* Comparador Dropdown Menu */}
-                <div className="absolute top-full left-0 mt-2 w-56 bg-background border border-border rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
-                  <ul className="py-2">
-                    {comparadorCategories.map((link) => (
-                      <li key={link.name}>
-                        <Link
-                          href={link.href}
-                          className="block px-4 py-2 text-sm text-muted hover:text-primary hover:bg-primary/5 transition-colors duration-200"
-                        >
-                          {link.name}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
+                {/* Dropdown Menu - PREMIUM (Gold accent) */}
+                <div className="
+                  absolute top-full left-0 mt-2 w-64
+                  opacity-0 invisible
+                  group-hover:opacity-100 group-hover:visible
+                  transition-all duration-250 ease-smooth
+                  transform group-hover:translate-y-0 translate-y-2
+                ">
+                  {/* Glass card with gold glow */}
+                  <div className="
+                    bg-dark-secondary/95 backdrop-blur-xl
+                    border border-dark-border
+                    rounded-xl
+                    shadow-dark-elevation-4 shadow-glow-gold-sm
+                    overflow-hidden
+                  ">
+                    <ul className="py-2">
+                      {comparadorCategories.map((link) => (
+                        <li key={link.name}>
+                          <Link
+                            href={link.href}
+                            className="
+                              block px-4 py-2.5
+                              text-sm text-text-secondary hover:text-text-primary
+                              hover:bg-gold-600/10
+                              transition-all duration-200
+                              relative group/item
+                            "
+                          >
+                            <span className="relative z-10">{link.name}</span>
+                            {/* Hover effect - Gold */}
+                            <span className="absolute left-0 top-0 h-full w-1 bg-gradient-gold scale-y-0 group-hover/item:scale-y-100 transition-transform duration-200 origin-top" />
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </li>
             </ul>
 
-            {/* Search, Dark Mode Toggle & Mobile Menu Button */}
+            {/* === ACTIONS (Search, Dark Mode, Mobile Menu) === */}
             <div className="flex items-center gap-2">
               <SearchBar />
               <DarkModeToggle />
@@ -171,38 +291,53 @@ export default function Header() {
               {/* Mobile Menu Button */}
               <button
                 onClick={() => setIsMenuOpen(true)}
-                className="lg:hidden p-2 text-foreground hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+                className="
+                  lg:hidden p-2 rounded-lg
+                  text-text-secondary hover:text-text-primary
+                  hover:bg-purple-600/10
+                  transition-all duration-200
+                  focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                  relative group
+                "
                 aria-label="Abrir menu de navegação"
                 aria-expanded={isMenuOpen}
               >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
                 </svg>
+                <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
               </button>
             </div>
           </div>
         </nav>
       </header>
 
-      {/* Mobile Menu Overlay */}
+      {/* === MOBILE MENU === */}
       {isMenuOpen && (
         <>
-          {/* Backdrop */}
+          {/* Backdrop with blur */}
           <div
-            className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 lg:hidden animate-fade-in"
+            className="fixed inset-0 bg-black/60 backdrop-blur-sm z-modal-backdrop lg:hidden animate-fade-in"
             onClick={() => setIsMenuOpen(false)}
             aria-hidden="true"
           />
 
-          {/* Mobile Menu Panel */}
+          {/* Mobile Menu Panel - PREMIUM */}
           <div
-            className="fixed inset-y-0 right-0 w-full max-w-sm bg-background z-50 lg:hidden shadow-2xl animate-slide-in-right"
+            className="
+              fixed inset-y-0 right-0 w-full max-w-sm
+              bg-dark-secondary/98 backdrop-blur-2xl
+              border-l border-dark-border
+              z-modal lg:hidden
+              shadow-dark-elevation-5
+              animate-slide-left
+            "
             role="dialog"
             aria-modal="true"
             aria-label="Menu de navegação"
           >
             {/* Menu Header */}
-            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-border">
+            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-dark-border bg-gradient-purple-gold/5">
               <Link
                 href="/"
                 className="flex items-center gap-2"
@@ -210,19 +345,36 @@ export default function Header() {
                 aria-label="PRISMATEK - Página Inicial"
               >
                 <svg width="28" height="28" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M20 80 L50 20 L50 80 Z" fill="#06B6D4"/>
-                  <path d="M50 20 L80 80 L50 80 Z" className="fill-foreground"/>
+                  <defs>
+                    <linearGradient id="purpleGradientMobile" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#8B5CF6" />
+                      <stop offset="100%" stopColor="#7c3aed" />
+                    </linearGradient>
+                    <linearGradient id="goldGradientMobile" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stopColor="#D4AF37" />
+                      <stop offset="100%" stopColor="#B8941F" />
+                    </linearGradient>
+                  </defs>
+                  <path d="M20 80 L50 20 L50 80 Z" fill="url(#purpleGradientMobile)" />
+                  <path d="M50 20 L80 80 L50 80 Z" fill="url(#goldGradientMobile)" />
                 </svg>
-                <span className="text-xl sm:text-2xl font-extrabold text-foreground tracking-tight">
+                <span className="text-xl font-extrabold bg-gradient-to-r from-purple-400 to-gold-400 bg-clip-text text-transparent">
                   PRISMATEK
                 </span>
               </Link>
+
               <button
                 onClick={() => setIsMenuOpen(false)}
-                className="p-2 text-foreground hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
+                className="
+                  p-2 rounded-lg
+                  text-text-secondary hover:text-text-primary
+                  hover:bg-purple-600/10
+                  transition-all duration-200
+                  focus:outline-none focus:ring-2 focus:ring-purple-600
+                "
                 aria-label="Fechar menu"
               >
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
                 </svg>
               </button>
@@ -230,14 +382,18 @@ export default function Header() {
 
             {/* Menu Links */}
             <nav className="overflow-y-auto h-[calc(100vh-5rem)] p-4 sm:p-6">
-              <ul className="space-y-2">
+              <ul className="space-y-1">
                 {allLinks.map((link) => {
                   // Handle separator
                   if (link.disabled) {
                     return (
-                      <li key={link.name} className="pt-4 pb-2">
-                        <div className="text-xs font-bold text-muted uppercase tracking-wide px-4">
-                          {link.name.replace(/---/g, '').trim()}
+                      <li key={link.name} className="pt-6 pb-2">
+                        <div className="flex items-center gap-2">
+                          <div className="h-px flex-1 bg-gradient-gold" />
+                          <span className="text-xs font-bold text-gold-400 uppercase tracking-wider px-2">
+                            {link.name.replace(/---/g, '').trim()}
+                          </span>
+                          <div className="h-px flex-1 bg-gradient-gold" />
                         </div>
                       </li>
                     );
@@ -248,9 +404,18 @@ export default function Header() {
                       <Link
                         href={link.href}
                         onClick={() => setIsMenuOpen(false)}
-                        className="block px-4 py-3 text-base font-semibold text-foreground hover:text-primary hover:bg-primary/5 rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary"
+                        className="
+                          block px-4 py-3 rounded-lg
+                          text-base font-semibold text-text-secondary hover:text-text-primary
+                          hover:bg-purple-600/10
+                          transition-all duration-200
+                          focus:outline-none focus:ring-2 focus:ring-purple-600
+                          relative group
+                        "
                       >
-                        {link.name}
+                        <span className="relative z-10">{link.name}</span>
+                        {/* Subtle gradient on hover */}
+                        <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
                       </Link>
                     </li>
                   );
@@ -258,43 +423,18 @@ export default function Header() {
               </ul>
 
               {/* Mobile Menu Footer */}
-              <div className="mt-8 pt-8 border-t border-border">
-                <p className="text-sm text-muted text-center">
+              <div className="mt-8 pt-8 border-t border-dark-border">
+                <p className="text-sm text-text-muted text-center">
                   &copy; {new Date().getFullYear()} PRISMATEK
+                </p>
+                <p className="text-xs text-text-muted text-center mt-1">
+                  Múltiplas Perspectivas sobre Tecnologia
                 </p>
               </div>
             </nav>
           </div>
         </>
       )}
-
-      <style jsx>{`
-        @keyframes fade-in {
-          from {
-            opacity: 0;
-          }
-          to {
-            opacity: 1;
-          }
-        }
-
-        @keyframes slide-in-right {
-          from {
-            transform: translateX(100%);
-          }
-          to {
-            transform: translateX(0);
-          }
-        }
-
-        .animate-fade-in {
-          animation: fade-in 0.2s ease-out;
-        }
-
-        .animate-slide-in-right {
-          animation: slide-in-right 0.3s ease-out;
-        }
-      `}</style>
     </>
   );
 }

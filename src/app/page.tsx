@@ -112,10 +112,10 @@ export default async function Home() {
                     inline-flex items-center gap-2
                     px-4 py-2
                     text-xs sm:text-sm font-bold uppercase tracking-wider
-                    bg-primary text-white
-                    rounded-full shadow-glow-primary
+                    bg-gradient-purple text-white
+                    rounded-full shadow-glow-purple
                     backdrop-blur-sm
-                    transform hover:scale-105
+                    transform hover:scale-105 hover:shadow-glow-purple-lg
                     transition-all duration-300 ease-bounce-soft
                   ">
                     <svg className="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
@@ -134,7 +134,7 @@ export default async function Home() {
                   leading-[1.1] tracking-tighter
                   mb-0
                   [text-shadow:0_4px_12px_rgba(0,0,0,0.9)]
-                  group-hover/hero:text-primary-light
+                  group-hover/hero:text-purple-300
                   transition-colors duration-300 ease-smooth
                 ">
                   {heroArticle.title}
@@ -154,32 +154,35 @@ export default async function Home() {
                 {heroArticle.description}
               </p>
 
-              {/* CTA Button with Premium Styling */}
+              {/* CTA Button with Premium Styling - Purple + Gold Gradient */}
               <Link
                 href={`/noticias/${heroArticle.slug}`}
                 className="
                   inline-flex items-center gap-2.5
                   px-6 sm:px-8 py-3 sm:py-4
-                  bg-primary hover:bg-primary-light
+                  bg-gradient-purple-gold hover:shadow-glow-purple-lg
                   text-white font-bold text-sm sm:text-base
                   rounded-full
-                  shadow-elevation-3 hover:shadow-elevation-4
+                  shadow-elevation-3 hover:shadow-glow-purple
                   transform hover:scale-105
                   transition-all duration-250 ease-bounce-soft
-                  focus:outline-none focus:ring-2 focus:ring-primary-light focus:ring-offset-2 focus:ring-offset-black
+                  focus:outline-none focus:ring-2 focus:ring-purple-400 focus:ring-offset-2 focus:ring-offset-black
+                  relative overflow-hidden group/cta
                 "
               >
-                Ler artigo completo
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <span className="relative z-10">Ler artigo completo</span>
+                <svg className="w-5 h-5 relative z-10 transform group-hover/cta:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                 </svg>
+                {/* Shimmer effect */}
+                <span className="absolute inset-0 bg-shimmer opacity-0 group-hover/cta:opacity-100 transition-opacity" />
               </Link>
             </div>
           </div>
         </div>
 
-        {/* Decorative Gradient Accent (Bottom) */}
-        <div className="absolute bottom-0 left-0 right-0 h-2 bg-gradient-to-r from-primary via-primary-light to-primary" />
+        {/* Decorative Gradient Accent (Bottom) - Purple + Gold */}
+        <div className="absolute bottom-0 left-0 right-0 h-2 bg-gradient-to-r from-purple-600 via-gold-500 to-purple-600 shadow-glow-purple" />
       </section>
 
       {/* Trending Section - Hot Articles from Last 48h */}
@@ -266,8 +269,8 @@ export default async function Home() {
               href="/noticias"
               className="
                 hidden sm:inline-flex items-center gap-2
-                text-sm lg:text-base font-bold text-primary
-                hover:text-primary-dark hover:gap-3
+                text-sm lg:text-base font-bold text-purple-500 dark:text-purple-400
+                hover:text-purple-600 dark:hover:text-purple-300 hover:gap-3
                 transition-all duration-250 ease-smooth
                 group
               "
@@ -298,8 +301,8 @@ export default async function Home() {
               href="/noticias"
               className="
                 inline-flex items-center gap-2
-                text-sm font-bold text-primary
-                hover:text-primary-dark hover:gap-3
+                text-sm font-bold text-purple-500 dark:text-purple-400
+                hover:text-purple-600 dark:hover:text-purple-300 hover:gap-3
                 transition-all duration-250 ease-smooth
               "
             >

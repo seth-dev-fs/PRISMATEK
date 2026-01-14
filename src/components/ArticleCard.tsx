@@ -19,27 +19,40 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
         href={`/noticias/${article.slug}`}
         className="
           flex flex-col h-full
-          bg-card rounded-2xl overflow-hidden
-          shadow-elevation-1 hover:shadow-elevation-3
-          transform hover:-translate-y-1
-          transition-all duration-300 ease-smooth
-          focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background
+          bg-dark-secondary/40 backdrop-blur-md
+          border border-dark-border
+          rounded-2xl overflow-hidden
+          shadow-dark-elevation-2
+          hover:shadow-dark-elevation-4 hover:shadow-glow-purple-sm
+          hover:border-purple-600/30
+          transform hover:-translate-y-2
+          transition-all duration-350 ease-apple
+          focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+          relative
         "
       >
+        {/* Gradient Glow Border on Hover */}
+        <div className="absolute inset-0 rounded-2xl bg-gradient-purple-gold opacity-0 group-hover/card:opacity-10 transition-opacity duration-350 pointer-events-none" />
+
         {/* Image Container - NATIVE IMG ONLY */}
-        <div className="relative w-full aspect-[16/9] overflow-hidden bg-muted">
+        <div className="relative w-full aspect-[16/9] overflow-hidden bg-dark-tertiary">
           {article.image ? (
             // eslint-disable-next-line @next/next/no-img-element
             <img
               src={article.image}
               alt={article.title}
-              className="absolute inset-0 w-full h-full object-cover"
+              className="
+                absolute inset-0 w-full h-full object-cover
+                brightness-90 group-hover/card:brightness-100
+                scale-100 group-hover/card:scale-105
+                transition-all duration-350 ease-apple
+              "
               loading="lazy"
             />
           ) : (
-            <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-primary/10 via-primary/5 to-transparent">
+            <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-purple-600/10 via-purple-500/5 to-transparent">
               <svg
-                className="w-16 h-16 text-primary/20 animate-float"
+                className="w-16 h-16 text-purple-500/20 animate-float"
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -50,18 +63,22 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
             </div>
           )}
 
-          {/* Category Badge with Premium Styling */}
+          {/* Image Overlay Gradient */}
+          <div className="absolute inset-0 bg-gradient-to-t from-dark-primary/60 via-transparent to-transparent opacity-0 group-hover/card:opacity-100 transition-opacity duration-350" />
+
+          {/* Category Badge - PURPLE GRADIENT */}
           {article.category && (
             <div className="absolute top-4 left-4 z-10">
               <span className="
                 inline-flex items-center gap-1.5
                 px-3 py-1.5
                 text-xs font-bold uppercase tracking-wide
-                bg-primary text-white
-                rounded-full shadow-elevation-2
-                backdrop-blur-sm
-                transform group-hover/card:scale-105
-                transition-transform duration-250 ease-bounce-soft
+                bg-gradient-purple text-white
+                rounded-full shadow-glow-purple-sm
+                backdrop-blur-md
+                border border-purple-500/20
+                transform group-hover/card:scale-110 group-hover/card:shadow-glow-purple
+                transition-all duration-250 ease-bounce-soft
               ">
                 {categoryDisplayName}
               </span>
@@ -76,12 +93,13 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
                 px-3 py-1.5
                 text-xs font-extrabold uppercase tracking-wide
                 rounded-full shadow-elevation-2
-                backdrop-blur-sm
-                transform group-hover/card:scale-105
+                backdrop-blur-md
+                border
+                transform group-hover/card:scale-110
                 transition-all duration-250 ease-bounce-soft
                 ${showNewBadge
-                  ? 'bg-gradient-to-r from-green-500 to-emerald-600 text-white animate-pulse-soft'
-                  : 'bg-gradient-to-r from-orange-500 to-amber-600 text-white'
+                  ? 'bg-gradient-to-r from-green-500 to-emerald-600 text-white border-green-400/30 animate-pulse-soft shadow-glow-purple-sm'
+                  : 'bg-gradient-to-r from-orange-500 to-amber-600 text-white border-orange-400/30 shadow-glow-gold-sm'
                 }
               `}>
                 {showNewBadge ? (
@@ -103,14 +121,15 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
             </div>
           )}
 
-          {/* Reading Time Badge (Top Right, below NEW/HOT badge if present) */}
+          {/* Reading Time Badge - GOLD ACCENT */}
           <div className={`absolute right-4 z-10 ${showNewBadge || showRecentBadge ? 'top-16' : 'top-4'}`}>
             <div className="
               flex items-center gap-1.5
               px-2.5 py-1
-              bg-background/90 backdrop-blur-md
+              bg-dark-secondary/90 backdrop-blur-md
+              border border-gold-600/20
               rounded-full shadow-soft
-              text-xs font-semibold text-foreground
+              text-xs font-semibold text-gold-400
               opacity-0 group-hover/card:opacity-100
               transform translate-y-2 group-hover/card:translate-y-0
               transition-all duration-300 ease-smooth
@@ -124,53 +143,62 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
         </div>
 
         {/* Content Section with Enhanced Spacing */}
-        <div className="flex flex-col flex-1 p-6 sm:p-7">
-          {/* Title with Premium Typography */}
+        <div className="flex flex-col flex-1 p-6 sm:p-7 relative z-10">
+          {/* Purple Accent Line (Left Border) */}
+          <div className="absolute left-0 top-6 bottom-6 w-1 bg-gradient-purple opacity-0 group-hover/card:opacity-100 transition-opacity duration-350" />
+
+          {/* Title with Premium Typography - PURPLE ON HOVER */}
           <h3 className="
-            text-xl sm:text-2xl font-extrabold text-foreground
+            text-xl sm:text-2xl font-extrabold
+            bg-gradient-to-r from-text-primary to-text-primary bg-clip-text
+            group-hover/card:from-purple-300 group-hover/card:to-gold-300
             leading-tight tracking-tight
             mb-3
             line-clamp-2
             min-h-[3.5rem]
-            group-hover/card:text-primary
-            transition-colors duration-250 ease-smooth
+            transition-all duration-350 ease-smooth
           ">
             {article.title}
           </h3>
 
           {/* Description with Better Readability */}
           <p className="
-            text-sm sm:text-base text-muted
+            text-sm sm:text-base text-text-secondary
+            group-hover/card:text-text-primary
             leading-relaxed-plus
             mb-5
             line-clamp-2
             min-h-[3rem]
             flex-1
+            transition-colors duration-250
           ">
             {article.description}
           </p>
 
           {/* Metadata Footer with Enhanced Design */}
-          <div className="flex items-center justify-between pt-5 border-t border-border/50">
+          <div className="flex items-center justify-between pt-5 border-t border-dark-border/50 group-hover/card:border-purple-600/30 transition-colors duration-350">
             {/* Date Display with TimeAgo */}
-            <div className="flex items-center gap-2 text-xs sm:text-sm text-muted font-medium">
+            <div className="flex items-center gap-2 text-xs sm:text-sm text-text-muted font-medium">
               <svg className="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
               </svg>
               <TimeAgo date={article.date} />
             </div>
 
-            {/* Read More CTA with Micro-interaction */}
+            {/* Read More CTA - PURPLE + GOLD GRADIENT */}
             <span className="
               flex items-center gap-1.5
-              text-sm font-bold text-primary
-              group-hover/card:text-primary-dark group-hover/card:gap-2.5
+              text-sm font-bold
+              text-purple-400
+              group-hover/card:gap-2.5
+              group-hover/card:text-gold-400
               transition-all duration-250 ease-smooth
+              relative
             ">
-              Ler mais
+              <span className="relative z-10">Ler mais</span>
               <svg
                 className="
-                  w-4 h-4
+                  w-4 h-4 relative z-10
                   transform group-hover/card:translate-x-1
                   transition-transform duration-250 ease-smooth
                 "

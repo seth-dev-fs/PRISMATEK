@@ -350,43 +350,16 @@ function hasLogoInImageUrl(imageUrl) {
 
     const urlLower = imageUrl.toLowerCase();
     const logoPatterns = [
-        // Generic watermark indicators
-        'logo', 'watermark', 'brand', 'badge', 'icon',
-        'header', 'banner', 'favicon', 'avatar',
-        '/wp-content/', '-logo', '_logo',
-        '/brand/', '/watermark/', '/overlay/',
-        'press-image', 'hero-image', 'masthead',
+        // Specific watermark/logo indicators in filename
+        '-logo.', '_logo.', '/logo.', '/logo-', '/logo_',
+        '-watermark.', '_watermark.', '/watermark.',
+        '-brand.', '_brand.', '/brand-',
+        'favicon', 'avatar',
+        '/badge/', '/icon/',
+        'press-image', 'masthead',
 
-        // English sources
-        'techcrunch', 'theverge', 'engadget',
-        'arstechnica', 'wired', 'cnet', 'zdnet',
-        'gizmodo', 'verge', 'mashable',
-        'gsmarena', 'phonearena', 'androidauthority',
-        'sammobile', 'notebookcheck',
-        '9to5mac', '9to5google', '9to5linux',
-        'itsfoss', 'omgubuntu', 'techradar',
-
-        // French sources (FR)
-        'frandroid', 'clubic', 'lesnumeriques',
-        'journaldugeek', '01net', 'numerama',
-
-        // German sources (DE)
-        'heise', 'golem', 't3n', 'computerbase',
-        'chip', 'pcwelt',
-
-        // Italian sources (IT)
-        'tomshw', 'hdblog', 'hwupgrade',
-        'androidworld', 'tecnologia',
-
-        // Spanish sources (ES)
-        'xataka', 'elconfidencial',
-
-        // UK sources
-        'trustedreviews', 'pocket-lint', 'stuff',
-        'expertreviews', 't3.com',
-
-        // Portuguese sources (to avoid)
-        'pplware', 'tek.sapo', '4gnews'
+        // Only block Portuguese competitor sites (to avoid copyright issues)
+        'pplware.sapo.pt', 'tek.sapo.pt', '4gnews.pt'
     ];
 
     for (const pattern of logoPatterns) {
@@ -951,8 +924,9 @@ async function main() {
         });
         log(`After promotional/content filtering: ${nonPromotionalArticles.length} articles passed (${filteredArticles.length - nonPromotionalArticles.length} rejected)`);
 
-        // Limit to 8 high-quality articles (better than 10 mediocre ones)
-        const articlesToGenerate = nonPromotionalArticles.slice(0, 8);
+        // Limit to 3 articles per run to stay within Gemini Free Tier (20 requests/day)
+        // 3 articles × 6 runs/day (every 4h) = 18 requests/day (within 20 limit)
+        const articlesToGenerate = nonPromotionalArticles.slice(0, 3);
 
         log(`Selected ${articlesToGenerate.length} unique articles for generation.`);
 
