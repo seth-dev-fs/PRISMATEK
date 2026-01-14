@@ -315,9 +315,9 @@ export default function Header() {
       {/* === MOBILE MENU === */}
       {isMenuOpen && (
         <>
-          {/* Backdrop with blur */}
+          {/* Backdrop - CLARO em light, ESCURO em dark */}
           <div
-            className="fixed inset-0 bg-black/60 backdrop-blur-sm z-modal-backdrop lg:hidden animate-fade-in"
+            className="fixed inset-0 bg-gray-200/60 dark:bg-black/60 backdrop-blur-sm z-modal-backdrop lg:hidden animate-fade-in"
             onClick={() => setIsMenuOpen(false)}
             aria-hidden="true"
           />
