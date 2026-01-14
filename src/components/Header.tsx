@@ -142,10 +142,10 @@ export default function Header() {
                   href="/"
                   className="
                     px-3 py-2 rounded-lg
-                    text-text-secondary hover:text-text-primary
+                    text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                     hover:bg-purple-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
                     relative group
                   "
                 >
@@ -159,10 +159,10 @@ export default function Header() {
                 <button
                   className="
                     px-3 py-2 rounded-lg flex items-center gap-1
-                    text-text-secondary group-hover:text-text-primary
+                    text-foreground group-hover:text-purple-600 dark:text-text-secondary dark:group-hover:text-purple-400
                     hover:bg-purple-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
                     relative
                   "
                   aria-label="Notícias"
@@ -223,10 +223,10 @@ export default function Header() {
                 <button
                   className="
                     px-3 py-2 rounded-lg flex items-center gap-1
-                    text-text-secondary group-hover:text-text-primary
+                    text-foreground group-hover:text-gold-600 dark:text-text-secondary dark:group-hover:text-gold-400
                     hover:bg-gold-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-gold-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                    focus:outline-none focus:ring-2 focus:ring-gold-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
                     relative
                   "
                   aria-label="Comparador"
@@ -293,10 +293,10 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(true)}
                 className="
                   lg:hidden p-2 rounded-lg
-                  text-text-secondary hover:text-text-primary
+                  text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                   hover:bg-purple-600/10
                   transition-all duration-200
-                  focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+                  focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
                   relative group
                 "
                 aria-label="Abrir menu de navegação"
@@ -326,10 +326,10 @@ export default function Header() {
           <div
             className="
               fixed inset-y-0 right-0 w-full max-w-sm
-              bg-dark-secondary/98 backdrop-blur-2xl
-              border-l border-dark-border
+              bg-white/98 dark:bg-dark-secondary/98 backdrop-blur-2xl
+              border-l border-border dark:border-dark-border
               z-modal lg:hidden
-              shadow-dark-elevation-5
+              shadow-elevation-5 dark:shadow-dark-elevation-5
               animate-slide-left
             "
             role="dialog"
@@ -337,7 +337,7 @@ export default function Header() {
             aria-label="Menu de navegação"
           >
             {/* Menu Header */}
-            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-dark-border bg-gradient-purple-gold/5">
+            <div className="flex justify-between items-center p-4 sm:p-6 border-b border-border dark:border-dark-border bg-gradient-purple-gold/5">
               <Link
                 href="/"
                 className="flex items-center gap-2"
@@ -367,7 +367,7 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
                 className="
                   p-2 rounded-lg
-                  text-text-secondary hover:text-text-primary
+                  text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                   hover:bg-purple-600/10
                   transition-all duration-200
                   focus:outline-none focus:ring-2 focus:ring-purple-600
