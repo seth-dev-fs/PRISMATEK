@@ -406,7 +406,7 @@ export default function Header() {
                         onClick={() => setIsMenuOpen(false)}
                         className="
                           block px-4 py-3 rounded-lg
-                          text-base font-semibold text-text-secondary hover:text-text-primary
+                          text-base font-semibold text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                           hover:bg-purple-600/10
                           transition-all duration-200
                           focus:outline-none focus:ring-2 focus:ring-purple-600
@@ -423,8 +423,8 @@ export default function Header() {
               </ul>
 
               {/* Mobile Menu Footer */}
-              <div className="mt-8 pt-8 border-t border-dark-border">
-                <p className="text-sm text-text-muted text-center">
+              <div className="mt-8 pt-8 border-t border-border dark:border-dark-border">
+                <p className="text-sm text-muted dark:text-text-muted text-center">
                   &copy; {new Date().getFullYear()} PRISMATEK
                 </p>
                 <p className="text-xs text-text-muted text-center mt-1">

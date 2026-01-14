@@ -150,35 +150,23 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
           {/* Title with Premium Typography - PURPLE ON HOVER */}
           <h3 className="
             text-xl sm:text-2xl font-extrabold
-            bg-gradient-to-r from-text-primary to-text-primary bg-clip-text
-            group-hover/card:from-purple-300 group-hover/card:to-gold-300
+            text-foreground dark:text-text-primary
+            group-hover/card:text-transparent
+            group-hover/card:bg-gradient-to-r group-hover/card:from-purple-600 group-hover/card:to-gold-600
+            dark:group-hover/card:from-purple-300 dark:group-hover/card:to-gold-300
+            group-hover/card:bg-clip-text
             leading-tight tracking-tight
-            mb-3
-            line-clamp-2
-            min-h-[3.5rem]
+            mb-auto
+            line-clamp-3
             transition-all duration-350 ease-smooth
           ">
             {article.title}
           </h3>
 
-          {/* Description with Better Readability */}
-          <p className="
-            text-sm sm:text-base text-text-secondary
-            group-hover/card:text-text-primary
-            leading-relaxed-plus
-            mb-5
-            line-clamp-2
-            min-h-[3rem]
-            flex-1
-            transition-colors duration-250
-          ">
-            {article.description}
-          </p>
-
           {/* Metadata Footer with Enhanced Design */}
           <div className="flex items-center justify-between pt-5 border-t border-border dark:border-dark-border/50 group-hover/card:border-purple-600/30 transition-colors duration-350">
             {/* Date Display with TimeAgo */}
-            <div className="flex items-center gap-2 text-xs sm:text-sm text-text-muted font-medium">
+            <div className="flex items-center gap-2 text-xs sm:text-sm text-muted dark:text-text-muted font-medium">
               <svg className="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
               </svg>
@@ -189,9 +177,9 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
             <span className="
               flex items-center gap-1.5
               text-sm font-bold
-              text-purple-400
+              text-purple-600 dark:text-purple-400
               group-hover/card:gap-2.5
-              group-hover/card:text-gold-400
+              group-hover/card:text-gold-600 dark:group-hover/card:text-gold-400
               transition-all duration-250 ease-smooth
               relative
             ">
