@@ -23,7 +23,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="relative bg-dark-secondary/60 backdrop-blur-xl border-t border-dark-border/50 mt-20 overflow-hidden">
+    <footer className="relative bg-white/60 dark:bg-dark-secondary/60 backdrop-blur-xl border-t border-border dark:border-dark-border/50 mt-20 overflow-hidden">
       {/* Premium Top Border - Purple + Gold Gradient */}
       <div className="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-purple-600 via-gold-500 to-purple-600 shadow-glow-purple" />
 
@@ -48,7 +48,7 @@ export default function Footer() {
                 href="https://twitter.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-dark-tertiary border border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary group"
+                className="p-2.5 rounded-full bg-gray-100 dark:bg-dark-tertiary border border-border dark:border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary group"
                 aria-label="Seguir no Twitter"
               >
                 <svg className="w-5 h-5 group-hover:scale-110 transition-transform duration-250" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -59,7 +59,7 @@ export default function Footer() {
                 href="https://facebook.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-dark-tertiary border border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary group"
+                className="p-2.5 rounded-full bg-gray-100 dark:bg-dark-tertiary border border-border dark:border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary group"
                 aria-label="Seguir no Facebook"
               >
                 <svg className="w-5 h-5 group-hover:scale-110 transition-transform duration-250" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -70,7 +70,7 @@ export default function Footer() {
                 href="https://youtube.com/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-dark-tertiary border border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary group"
+                className="p-2.5 rounded-full bg-gray-100 dark:bg-dark-tertiary border border-border dark:border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary group"
                 aria-label="Subscrever no YouTube"
               >
                 <svg className="w-5 h-5 group-hover:scale-110 transition-transform duration-250" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -81,7 +81,7 @@ export default function Footer() {
                 href="https://linkedin.com/company/prismatek"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-dark-tertiary border border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary group"
+                className="p-2.5 rounded-full bg-gray-100 dark:bg-dark-tertiary border border-border dark:border-dark-border hover:border-purple-600/50 text-text-muted hover:text-purple-400 hover:shadow-glow-purple-sm transform hover:scale-110 transition-all duration-250 ease-bounce-soft focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary group"
                 aria-label="Seguir no LinkedIn"
               >
                 <svg className="w-5 h-5 group-hover:scale-110 transition-transform duration-250" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -153,7 +153,7 @@ export default function Footer() {
         </div>
 
         {/* AI Transparency Section - Premium Design */}
-        <div className="mt-12 pt-8 border-t border-dark-border/50">
+        <div className="mt-12 pt-8 border-t border-border dark:border-dark-border/50">
           <div className="max-w-3xl mx-auto text-center">
             <div className="inline-flex items-center gap-2.5 px-5 py-2.5 bg-gradient-purple text-white rounded-full mb-5 shadow-glow-purple-sm border border-purple-500/20 transform hover:scale-105 hover:shadow-glow-purple transition-all duration-250 ease-bounce-soft">
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
@@ -175,7 +175,7 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="pt-8 mt-8 border-t border-dark-border/30">
+        <div className="pt-8 mt-8 border-t border-border dark:border-dark-border/30">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-text-muted">
             <p className="flex items-center gap-2">
               <span className="w-2 h-2 bg-gradient-purple rounded-full animate-pulse-soft" />

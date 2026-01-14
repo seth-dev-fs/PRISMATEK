@@ -19,15 +19,15 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
         href={`/noticias/${article.slug}`}
         className="
           flex flex-col h-full
-          bg-dark-secondary/40 backdrop-blur-md
-          border border-dark-border
+          bg-white dark:bg-dark-secondary/40 backdrop-blur-md
+          border border-border dark:border-dark-border
           rounded-2xl overflow-hidden
-          shadow-dark-elevation-2
-          hover:shadow-dark-elevation-4 hover:shadow-glow-purple-sm
+          shadow-elevation-2 dark:shadow-dark-elevation-2
+          hover:shadow-elevation-4 dark:hover:shadow-dark-elevation-4 hover:shadow-glow-purple-sm
           hover:border-purple-600/30
           transform hover:-translate-y-2
           transition-all duration-350 ease-apple
-          focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-dark-primary
+          focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
           relative
         "
       >
@@ -35,7 +35,7 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
         <div className="absolute inset-0 rounded-2xl bg-gradient-purple-gold opacity-0 group-hover/card:opacity-10 transition-opacity duration-350 pointer-events-none" />
 
         {/* Image Container - NATIVE IMG ONLY */}
-        <div className="relative w-full aspect-[16/9] overflow-hidden bg-dark-tertiary">
+        <div className="relative w-full aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-dark-tertiary">
           {article.image ? (
             // eslint-disable-next-line @next/next/no-img-element
             <img
@@ -126,10 +126,10 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
             <div className="
               flex items-center gap-1.5
               px-2.5 py-1
-              bg-dark-secondary/90 backdrop-blur-md
+              bg-white/90 dark:bg-dark-secondary/90 backdrop-blur-md
               border border-gold-600/20
               rounded-full shadow-soft
-              text-xs font-semibold text-gold-400
+              text-xs font-semibold text-gold-600 dark:text-gold-400
               opacity-0 group-hover/card:opacity-100
               transform translate-y-2 group-hover/card:translate-y-0
               transition-all duration-300 ease-smooth
@@ -176,7 +176,7 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
           </p>
 
           {/* Metadata Footer with Enhanced Design */}
-          <div className="flex items-center justify-between pt-5 border-t border-dark-border/50 group-hover/card:border-purple-600/30 transition-colors duration-350">
+          <div className="flex items-center justify-between pt-5 border-t border-border dark:border-dark-border/50 group-hover/card:border-purple-600/30 transition-colors duration-350">
             {/* Date Display with TimeAgo */}
             <div className="flex items-center gap-2 text-xs sm:text-sm text-text-muted font-medium">
               <svg className="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">

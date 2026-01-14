@@ -70,10 +70,10 @@ export default function Header() {
       <header
         className={`
           sticky top-0 z-fixed
-          bg-dark-primary/80 backdrop-blur-xl
+          bg-white/80 dark:bg-dark-primary/80 backdrop-blur-xl
           border-b transition-all duration-400 ease-apple
           ${isScrolled
-            ? 'border-dark-border shadow-dark-elevation-3 backdrop-blur-2xl'
+            ? 'border-border dark:border-dark-border shadow-elevation-3 dark:shadow-dark-elevation-3 backdrop-blur-2xl'
             : 'border-transparent backdrop-blur-xl'
           }
         `}
@@ -169,7 +169,7 @@ export default function Header() {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  <span className="relative z-10">📰 Notícias</span>
+                  <span className="relative z-10">Notícias</span>
                   <svg className="w-4 h-4 transform group-hover:rotate-180 transition-transform duration-250" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                   </svg>
@@ -188,10 +188,10 @@ export default function Header() {
                 ">
                   {/* Glass card with elevation */}
                   <div className="
-                    bg-dark-secondary/95 backdrop-blur-xl
-                    border border-dark-border
+                    bg-white/95 dark:bg-dark-secondary/95 backdrop-blur-xl
+                    border border-border dark:border-dark-border
                     rounded-xl
-                    shadow-dark-elevation-4 shadow-glow-purple-sm
+                    shadow-elevation-4 dark:shadow-dark-elevation-4 shadow-glow-purple-sm
                     overflow-hidden
                   ">
                     <ul className="py-2">
@@ -233,7 +233,7 @@ export default function Header() {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  <span className="relative z-10">🔍 Comparador</span>
+                  <span className="relative z-10">Comparador</span>
                   <svg className="w-4 h-4 transform group-hover:rotate-180 transition-transform duration-250" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
                   </svg>
@@ -252,10 +252,10 @@ export default function Header() {
                 ">
                   {/* Glass card with gold glow */}
                   <div className="
-                    bg-dark-secondary/95 backdrop-blur-xl
-                    border border-dark-border
+                    bg-white/95 dark:bg-dark-secondary/95 backdrop-blur-xl
+                    border border-border dark:border-dark-border
                     rounded-xl
-                    shadow-dark-elevation-4 shadow-glow-gold-sm
+                    shadow-elevation-4 dark:shadow-dark-elevation-4 shadow-glow-gold-sm
                     overflow-hidden
                   ">
                     <ul className="py-2">
