@@ -322,11 +322,11 @@ export default function Header() {
             aria-hidden="true"
           />
 
-          {/* Mobile Menu Panel - PREMIUM */}
+          {/* Mobile Menu Panel - BRANCO em light, ESCURO em dark */}
           <div
             className="
               fixed inset-y-0 right-0 w-full max-w-sm
-              bg-white/98 dark:bg-dark-secondary/98 backdrop-blur-2xl
+              bg-white dark:bg-dark-secondary/98 backdrop-blur-2xl
               border-l border-border dark:border-dark-border
               z-modal lg:hidden
               shadow-elevation-5 dark:shadow-dark-elevation-5
@@ -390,7 +390,7 @@ export default function Header() {
                       <li key={link.name} className="pt-6 pb-2">
                         <div className="flex items-center gap-2">
                           <div className="h-px flex-1 bg-gradient-gold" />
-                          <span className="text-xs font-bold text-gold-400 uppercase tracking-wider px-2">
+                          <span className="text-xs font-bold text-gold-600 dark:text-gold-400 uppercase tracking-wider px-2">
                             {link.name.replace(/---/g, '').trim()}
                           </span>
                           <div className="h-px flex-1 bg-gradient-gold" />
@@ -427,7 +427,7 @@ export default function Header() {
                 <p className="text-sm text-muted dark:text-text-muted text-center">
                   &copy; {new Date().getFullYear()} PRISMATEK
                 </p>
-                <p className="text-xs text-text-muted text-center mt-1">
+                <p className="text-xs text-muted dark:text-text-muted text-center mt-1">
                   Múltiplas Perspectivas sobre Tecnologia
                 </p>
               </div>
