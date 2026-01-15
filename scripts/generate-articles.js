@@ -21,11 +21,11 @@ if (!REVALIDATE_TOKEN) {
   console.error("CRITICAL: REVALIDATE_TOKEN environment variable is not set. Revalidation will not occur.");
 }
 
-// GEMINI 2.5 FLASH - Latest STABLE model with FREE tier
-// Free tier limits: 5 RPM, 250K TPM, 20 RPD (confirmed via API)
+// GEMINI 3 FLASH - Latest model with FREE tier
+// Free tier limits: 5 RPM, 250K TPM, 20 RPD
 // Perfect for 1 article every 2 hours (12 articles/day = 12 RPD < 20 limit)
 // Account: hello.prismatek@gmail.com
-const GEMINI_MODEL = "gemini-2.5-flash";
+const GEMINI_MODEL = "gemini-3-flash";
 
 // Unsplash configuration for fallback images
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
