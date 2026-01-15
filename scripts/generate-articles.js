@@ -699,7 +699,7 @@ async function saveArticleMarkdown(article) {
 
             try {
                 const revalidateArticleUrl = `${REVALIDATE_BASE_URL}/api/revalidate?secret=${REVALIDATE_TOKEN}&path=/noticias/${slug}`;
-                const response = await axios.get(revalidateArticleUrl);
+                const response = await axios.get(revalidateArticleUrl, { timeout: 10000 });
 
                 if (response.status === 200 && response.data.revalidated) {
                     log(`SUCCESS: Article page /noticias/${slug} revalidated successfully.`);
@@ -966,7 +966,7 @@ CHECKLIST:
 
             try {
                 const revalidateArticleUrl = `${REVALIDATE_BASE_URL}/api/revalidate?secret=${REVALIDATE_TOKEN}&path=/noticias/${slug}`;
-                const response = await axios.get(revalidateArticleUrl);
+                const response = await axios.get(revalidateArticleUrl, { timeout: 10000 });
 
                 if (response.status === 200 && response.data.revalidated) {
                     log(`SUCCESS: Article page /noticias/${slug} revalidated successfully.`);
@@ -1421,7 +1421,7 @@ async function main() {
             log("Attempting to trigger Next.js revalidation...");
             try {
                 const revalidateUrl = `${REVALIDATE_BASE_URL}/api/revalidate?secret=${REVALIDATE_TOKEN}`;
-                const response = await axios.get(revalidateUrl);
+                const response = await axios.get(revalidateUrl, { timeout: 10000 });
                 if (response.status === 200 && response.data.revalidated) {
                     log("SUCCESS: Next.js revalidation triggered successfully.");
                 } else {
