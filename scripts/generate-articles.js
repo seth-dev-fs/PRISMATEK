@@ -1438,6 +1438,9 @@ async function main() {
         log(`[FATAL] A critical, unhandled error occurred: ${error.message}`, "error");
         process.exit(1);
     }
+
+    // Force exit after successful completion to prevent event loop hang
+    process.exit(0);
 }
 
 main().catch(e => {
