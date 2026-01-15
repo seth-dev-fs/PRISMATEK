@@ -21,11 +21,11 @@ if (!REVALIDATE_TOKEN) {
   console.error("CRITICAL: REVALIDATE_TOKEN environment variable is not set. Revalidation will not occur.");
 }
 
-// GEMINI 3 FLASH - Latest model with FREE tier
-// Free tier limits: 5 RPM, 250K TPM, 20 RPD
-// Perfect for 1 article every 2 hours (12 articles/day = 12 RPD < 20 limit)
+// GEMINI 2.5 FLASH - Stable model with FREE tier
+// Free tier limits: 15 RPM, 1M TPM, 1500 RPD
+// Perfect for 1 article every 2 hours (12 articles/day << 1500 RPD limit)
 // Account: hello.prismatek@gmail.com
-const GEMINI_MODEL = "gemini-3-flash";
+const GEMINI_MODEL = "gemini-2.5-flash";
 
 // Unsplash configuration for fallback images
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -33,48 +33,29 @@ const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ARTICLES_DIR = path.join(__dirname, '../content/posts');
 const LOGS_DIR = path.join(__dirname, '../content/logs');
 const RSS_FEEDS = [
-    // === INTERNATIONAL SOURCES (EN) ===
-    'http://feeds.arstechnica.com/arstechnica/gadgets',
-    'https://www.theverge.com/rss/index.xml',
-    'https://techcrunch.com/feed/',
-    'https://www.engadget.com/rss.xml',
-    'https://www.phonearena.com/feed',
-    'https://www.androidauthority.com/feed/',
-    'https://9to5mac.com/feed/',
-    'https://www.sammobile.com/feed/',
-    'https://www.techradar.com/rss',
-    'https://9to5linux.com/feed/',
-    'https://itsfoss.com/feed/',
-    'https://www.omgubuntu.co.uk/feed',
-    'https://www.gsmarena.com/rss-news-reviews.php3',
-    'https://www.xataka.com/feedburner.xml',
-    'https://www.notebookcheck.net/News.152.100.html',
+    // === INTERNATIONAL SOURCES (EN) - 3 feeds ===
+    'https://www.theverge.com/rss/index.xml',          // Tech news leader
+    'https://techcrunch.com/feed/',                    // Startup/tech focus
+    'https://www.gsmarena.com/rss-news-reviews.php3',  // Mobile specialist
 
-    // === FRANCE (FR) ===
-    'https://www.frandroid.com/feed',
-    'https://www.clubic.com/feed/',
-    'https://www.lesnumeriques.com/rss.xml',
-    'https://www.journaldugeek.com/feed/',
-    'https://www.01net.com/rss/actualites/',
+    // === FRANCE (FR) - 2 feeds ===
+    'https://www.frandroid.com/feed',                  // Mobile & Android
+    'https://www.lesnumeriques.com/rss.xml',          // General tech
 
-    // === GERMANY (DE) ===
-    'https://www.heise.de/rss/heise-atom.xml',
-    'https://www.golem.de/rss.php?feed=ATOM1.0',
-    'https://t3n.de/feed/',
-    'https://www.computerbase.de/rss/news.xml',
+    // === GERMANY (DE) - 2 feeds ===
+    'https://www.heise.de/rss/heise-atom.xml',        // Tech authority
+    'https://www.golem.de/rss.php?feed=ATOM1.0',      // IT news
 
-    // === ITALY (IT) ===
-    'https://www.tomshw.it/feed/',
-    'https://www.hdblog.it/feed/',
-    'https://www.hwupgrade.it/rss/hwupgrade.xml',
-    'https://www.androidworld.it/feed/',
+    // === ITALY (IT) - 2 feeds ===
+    'https://www.tomshw.it/feed/',                     // Hardware focus
+    'https://www.hdblog.it/feed/',                     // Tech blog
 
-    // === UK (EN - European perspective) ===
-    'https://www.trustedreviews.com/feed',
-    'https://www.pocket-lint.com/feed/',
-    'https://www.t3.com/feeds/all',
-    'https://www.stuff.tv/feed',
-    'https://www.expertreviews.co.uk/feed',
+    // === SPAIN (ES) - 1 feed ===
+    'https://www.xataka.com/feedburner.xml',          // Spanish tech leader
+
+    // === UK (EN) - 2 feeds ===
+    'https://www.pocket-lint.com/feed/',               // Consumer tech
+    'https://www.expertreviews.co.uk/feed',           // Product reviews
 ];
 
 // --- NORMALIZED CATEGORIES (CRITICAL: Use slugs only) ---
