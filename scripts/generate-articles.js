@@ -21,9 +21,10 @@ if (!REVALIDATE_TOKEN) {
   console.error("CRITICAL: REVALIDATE_TOKEN environment variable is not set. Revalidation will not occur.");
 }
 
-// CORRECT MODEL: gemini-2.5-flash (confirmed available via API)
-// Verified via: curl "https://generativelanguage.googleapis.com/v1beta/models?key=..."
-const GEMINI_MODEL = "gemini-2.5-flash";
+// GEMINI 3 FLASH - Latest model with FREE tier
+// Free tier limits: 5 RPM, 250K TPM, 20 RPD
+// Perfect for 1 article every 2 hours (12 articles/day = 12 RPD < 20 limit)
+const GEMINI_MODEL = "gemini-3-flash";
 
 // Unsplash configuration for fallback images
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -924,9 +925,9 @@ async function main() {
         });
         log(`After promotional/content filtering: ${nonPromotionalArticles.length} articles passed (${filteredArticles.length - nonPromotionalArticles.length} rejected)`);
 
-        // Limit to 3 articles per run to stay within Gemini Free Tier (20 requests/day)
-        // 3 articles × 6 runs/day (every 4h) = 18 requests/day (within 20 limit)
-        const articlesToGenerate = nonPromotionalArticles.slice(0, 3);
+        // Limit to 1 article per run to stay within Gemini 3 Flash Free Tier (20 RPD)
+        // 1 article × 12 runs/day (every 2h) = 12 requests/day (well within 20 RPD limit)
+        const articlesToGenerate = nonPromotionalArticles.slice(0, 1);
 
         log(`Selected ${articlesToGenerate.length} unique articles for generation.`);
 
