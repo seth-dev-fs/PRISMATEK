@@ -117,6 +117,32 @@ const CATEGORY_MAP = {
     'headphones': 'audio'
 };
 
+// --- TRENDING TOPICS CONFIGURATION ---
+// Configuration for trending topics analysis
+const ARTICLES_PER_RUN = 1;           // Scalable to 4-5 in future (requires paid tier)
+const CLUSTERING_THRESHOLD = 0.4;     // More permissive than deduplication (0.5)
+const MIN_CLUSTER_SIZE = 2;           // Minimum articles to consider "trending"
+
+// Stopwords for keyword extraction (bilingual PT+EN)
+const STOPWORDS_PT = [
+  'o', 'a', 'os', 'as', 'um', 'uma', 'de', 'do', 'da', 'dos', 'das',
+  'em', 'no', 'na', 'nos', 'nas', 'para', 'por', 'com', 'sem', 'sob',
+  'sobre', 'entre', 'como', 'que', 'qual', 'quais', 'quando', 'onde',
+  'quem', 'cujo', 'cuja', 'e', 'ou', 'mas', 'se', 'não', 'sim', 'já',
+  'mais', 'menos', 'muito', 'pouco', 'todo', 'toda', 'este', 'esse',
+  'aquele', 'isto', 'isso', 'aquilo'
+];
+
+const STOPWORDS_EN = [
+  'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
+  'of', 'with', 'by', 'from', 'as', 'is', 'was', 'are', 'were', 'be',
+  'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will',
+  'would', 'could', 'should', 'may', 'might', 'can', 'this', 'that',
+  'these', 'those', 'it', 'its', 'new', 'how', 'what', 'when', 'where'
+];
+
+const STOPWORDS = new Set([...STOPWORDS_PT, ...STOPWORDS_EN]);
+
 /**
  * Detects the source language based on the URL
  * @param {string} url - The article URL
@@ -617,6 +643,103 @@ async function getImageUrl(rssItem, articleTitle = '') {
     };
 }
 
+/**
+ * Saves a generated article to markdown file
+ * @param {object} article - Generated article object
+ * @returns {Promise<object>} - Status object
+ */
+async function saveArticleMarkdown(article) {
+    const { title, description, content, category, image, source_url } = article;
+
+    try {
+        log(`💾 Saving article: "${title}"`);
+
+        // Prepare frontmatter
+        const frontmatter = {
+            title: title,
+            date: article.isoDate || new Date().toISOString(),
+            category: category,
+            tags: [], // Empty tags for trending articles
+            image: image,
+            image_source: 'external', // Trending articles use external images
+            description: description,
+            source_url: normalizeUrl(source_url),
+            draft: true, // Trending articles saved as drafts for review
+            needs_review: false,
+        };
+
+        // --- Slug Uniqueness ---
+        let slug = slugify(title);
+        let currentFilePath = path.join(ARTICLES_DIR, `${slug}.md`);
+        let counter = 1;
+
+        while (fs.existsSync(currentFilePath)) {
+            log(`[WARN] Duplicate slug found: ${slug}. Trying ${slug}-${counter}.`);
+            slug = `${slugify(title)}-${counter}`;
+            currentFilePath = path.join(ARTICLES_DIR, `${slug}.md`);
+            counter++;
+        }
+
+        // --- Frontmatter to YAML ---
+        let yamlFrontmatter = '---\n';
+        for (const key in frontmatter) {
+            const value = frontmatter[key];
+            if (Array.isArray(value)) {
+                yamlFrontmatter += `${key}:\n`;
+                value.forEach(item => {
+                    yamlFrontmatter += `  - ${item}\n`;
+                });
+            } else if (typeof value === 'boolean') {
+                yamlFrontmatter += `${key}: ${value ? 'true' : 'false'}\n`;
+            } else {
+                yamlFrontmatter += `${key}: ${JSON.stringify(value)}\n`;
+            }
+        }
+        yamlFrontmatter += '---\n';
+
+        // --- Traceability Comment ---
+        const generatedAt = new Date().toISOString();
+        let traceabilityComment = `\n<!-- generated_by: gemini, model: ${GEMINI_MODEL}, generated_at: ${generatedAt}`;
+
+        // Add trending metadata if present
+        if (article._trending) {
+            traceabilityComment += `, mode: trending, sources: ${article._trending.sources}, keywords: ${article._trending.keywords.join(', ')}, trending_score: ${article._trending.trendingScore.toFixed(2)}`;
+        }
+        traceabilityComment += ` -->\n\n`;
+
+        // Write file
+        fs.writeFileSync(currentFilePath, yamlFrontmatter + traceabilityComment + content, 'utf8');
+
+        log(`✅ Article saved -> ${currentFilePath}`);
+
+        // Trigger revalidation for the new article's page
+        if (REVALIDATE_TOKEN) {
+            log(`Attempting to revalidate individual article page: /noticias/${slug}`);
+
+            try {
+                const revalidateArticleUrl = `${REVALIDATE_BASE_URL}/api/revalidate?secret=${REVALIDATE_TOKEN}&path=/noticias/${slug}`;
+                const response = await axios.get(revalidateArticleUrl);
+
+                if (response.status === 200 && response.data.revalidated) {
+                    log(`SUCCESS: Article page /noticias/${slug} revalidated successfully.`);
+                } else {
+                    log(`[WARN] Article page /noticias/${slug} revalidation failed: Status ${response.status}, Data: ${JSON.stringify(response.data)}`);
+                }
+            } catch (revalidateError) {
+                log(`[ERROR] Failed to call revalidate API for /noticias/${slug}: ${revalidateError.message}`, "error");
+            }
+        } else {
+            log("[WARN] REVALIDATE_TOKEN not set. Skipping individual article page revalidation.");
+        }
+
+        return { status: 'saved', slug };
+
+    } catch (error) {
+        log(`❌ Failed to save article "${title}": ${error.message}`, 'ERROR');
+        return { status: 'failed' };
+    }
+}
+
 async function generateArticleFromItem(item) {
     const { title, link, contentSnippet, isoDate } = item;
 
@@ -884,6 +1007,347 @@ CHECKLIST:
     }
 }
 
+// --- TRENDING TOPICS ANALYSIS FUNCTIONS ---
+
+/**
+ * Extracts top keywords from a list of titles
+ * @param {string[]} titles - Array of article titles
+ * @param {number} topN - Number of top keywords to return
+ * @returns {string[]} - Array of top keywords
+ */
+function extractKeywords(titles, topN = 5) {
+    // Concatenate all titles
+    const allText = titles.join(' ');
+
+    // Normalize: lowercase, remove punctuation
+    const normalized = allText.toLowerCase().replace(/[^a-zà-ÿ0-9\s]/g, '');
+
+    // Tokenize
+    const words = normalized.split(/\s+/).filter(Boolean);
+
+    // Filter stopwords and count frequencies
+    const wordCounts = {};
+    for (const word of words) {
+        if (!STOPWORDS.has(word) && word.length > 2) {
+            wordCounts[word] = (wordCounts[word] || 0) + 1;
+        }
+    }
+
+    // Sort by frequency and return top N
+    const sorted = Object.entries(wordCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, topN)
+        .map(([word]) => word);
+
+    return sorted;
+}
+
+/**
+ * Detects the category of a cluster based on keywords
+ * @param {string[]} keywords - Array of keywords from the cluster
+ * @param {object[]} clusterArticles - Articles in the cluster (for fallback)
+ * @returns {string} - Detected category slug
+ */
+function detectClusterCategory(keywords, clusterArticles) {
+    const categoryScores = {};
+
+    // Initialize scores
+    for (const category of NORMALIZED_CATEGORIES) {
+        categoryScores[category] = 0;
+    }
+
+    // Score categories based on keyword matches in CATEGORY_MAP
+    for (const keyword of keywords) {
+        for (const [englishTerm, categorySlug] of Object.entries(CATEGORY_MAP)) {
+            if (keyword.includes(englishTerm.toLowerCase()) || englishTerm.toLowerCase().includes(keyword)) {
+                categoryScores[categorySlug] = (categoryScores[categorySlug] || 0) + 1;
+            }
+        }
+
+        // Direct match with category names
+        for (const category of NORMALIZED_CATEGORIES) {
+            if (keyword.includes(category) || category.includes(keyword)) {
+                categoryScores[category] = (categoryScores[category] || 0) + 2; // Higher weight for direct match
+            }
+        }
+    }
+
+    // Find category with highest score
+    let maxScore = 0;
+    let detectedCategory = null;
+
+    for (const [category, score] of Object.entries(categoryScores)) {
+        if (score > maxScore) {
+            maxScore = score;
+            detectedCategory = category;
+        }
+    }
+
+    // Fallback: use category from most recent article in cluster
+    if (!detectedCategory && clusterArticles.length > 0) {
+        const sortedByDate = [...clusterArticles].sort((a, b) =>
+            new Date(b.isoDate) - new Date(a.isoDate)
+        );
+        detectedCategory = sortedByDate[0].category || 'ai-futuro';
+    }
+
+    return detectedCategory || 'ai-futuro';
+}
+
+/**
+ * Calculates recency weight using exponential decay
+ * @param {string} isoDate - ISO date string
+ * @returns {number} - Recency weight (0-1)
+ */
+function calculateRecencyWeight(isoDate) {
+    const now = Date.now();
+    const articleDate = new Date(isoDate).getTime();
+    const hoursAgo = (now - articleDate) / (1000 * 60 * 60);
+
+    // Exponential decay: weight halves every 12 hours
+    const halfLife = 12;
+    return Math.exp(-0.693 * hoursAgo / halfLife);
+}
+
+/**
+ * Extracts feed name from feed URL
+ * @param {string} feedUrl - RSS feed URL
+ * @returns {string} - Feed name
+ */
+function extractFeedName(feedUrl) {
+    try {
+        const url = new URL(feedUrl);
+        const parts = url.hostname.split('.');
+        // Get the domain name (e.g., "arstechnica" from "feeds.arstechnica.com")
+        return parts.length >= 2 ? parts[parts.length - 2] : url.hostname;
+    } catch {
+        return 'unknown';
+    }
+}
+
+/**
+ * Clusters articles by topic similarity using Jaccard Index
+ * @param {object[]} articles - Array of article objects
+ * @param {number} threshold - Similarity threshold (0-1)
+ * @returns {object[]} - Array of clusters
+ */
+function clusterArticlesByTopic(articles, threshold = 0.4) {
+    const clusters = [];
+    const clustered = new Set();
+
+    for (let i = 0; i < articles.length; i++) {
+        if (clustered.has(i)) continue;
+
+        // Create new cluster with current article
+        const cluster = {
+            articles: [articles[i]],
+            size: 1
+        };
+        clustered.add(i);
+
+        // Find similar articles
+        for (let j = i + 1; j < articles.length; j++) {
+            if (clustered.has(j)) continue;
+
+            const similarity = getTitleSimilarity(articles[i].title, articles[j].title);
+            if (similarity >= threshold) {
+                cluster.articles.push(articles[j]);
+                cluster.size++;
+                clustered.add(j);
+            }
+        }
+
+        // Only add cluster if it meets minimum size
+        if (cluster.size >= MIN_CLUSTER_SIZE) {
+            clusters.push(cluster);
+        }
+    }
+
+    return clusters;
+}
+
+/**
+ * Enriches clusters with metadata (keywords, category, scores)
+ * @param {object[]} clusters - Array of cluster objects
+ * @returns {object[]} - Enriched clusters
+ */
+function enrichClustersWithMetadata(clusters) {
+    return clusters.map(cluster => {
+        // Extract keywords from all titles in cluster
+        const titles = cluster.articles.map(a => a.title);
+        const keywords = extractKeywords(titles);
+
+        // Detect category
+        const category = detectClusterCategory(keywords, cluster.articles);
+
+        // Calculate feed diversity
+        const uniqueFeeds = new Set(cluster.articles.map(a => extractFeedName(a.feedUrl)));
+        const feedDiversity = uniqueFeeds.size / cluster.articles.length;
+
+        // Calculate average recency weight
+        const avgRecency = cluster.articles
+            .map(a => calculateRecencyWeight(a.isoDate))
+            .reduce((sum, w) => sum + w, 0) / cluster.articles.length;
+
+        // Calculate trending score
+        const trendingScore = cluster.size * feedDiversity * avgRecency;
+
+        return {
+            ...cluster,
+            keywords,
+            category,
+            feedDiversity,
+            avgRecency,
+            trendingScore
+        };
+    });
+}
+
+/**
+ * Selects top trending topics from enriched clusters
+ * @param {object[]} enrichedClusters - Array of enriched cluster objects
+ * @param {number} topN - Number of top topics to select
+ * @returns {object[]} - Selected trending topics
+ */
+function selectTrendingTopics(enrichedClusters, topN = 1) {
+    // Filter clusters with valid categories
+    const validClusters = enrichedClusters.filter(c =>
+        NORMALIZED_CATEGORIES.includes(c.category)
+    );
+
+    // Sort by trending score descending
+    const sorted = validClusters.sort((a, b) => b.trendingScore - a.trendingScore);
+
+    // Return top N
+    return sorted.slice(0, topN);
+}
+
+/**
+ * Main orchestrator: Extracts trending topics from article pool
+ * @param {object[]} candidatePool - Array of candidate articles
+ * @param {number} topN - Number of trending topics to extract
+ * @returns {object[]} - Array of trending topic clusters
+ */
+function extractTrendingTopics(candidatePool, topN = 1) {
+    log('🔍 Analyzing trending topics...');
+
+    // 1. Clustering
+    const clusters = clusterArticlesByTopic(candidatePool, CLUSTERING_THRESHOLD);
+    log(`   Found ${clusters.length} clusters (min size: ${MIN_CLUSTER_SIZE})`);
+
+    // 2. Enrichment
+    const enriched = enrichClustersWithMetadata(clusters);
+
+    // 3. Selection
+    const trending = selectTrendingTopics(enriched, topN);
+
+    // 4. Detailed logging
+    log(`🔥 Trending Analysis: ${clusters.length} clusters, ${trending.length} selected`);
+    trending.forEach((t, i) => {
+        const feeds = [...new Set(t.articles.map(a => extractFeedName(a.feedUrl)))].join(', ');
+        log(`   ${i+1}. [${t.category}] ${t.keywords.join(', ')}`);
+        log(`      Score: ${t.trendingScore.toFixed(2)} | Sources: ${t.size} | Feeds: ${feeds}`);
+    });
+
+    return trending;
+}
+
+/**
+ * Generates an article from a trending topic cluster (multiple sources)
+ * @param {object} trendingCluster - Trending cluster object with articles
+ * @returns {object} - Generated article data
+ */
+async function generateArticleFromTrending(trendingCluster) {
+    const { articles, keywords, category } = trendingCluster;
+
+    log(`📝 Generating article from trending topic: ${keywords.join(', ')}`);
+    log(`   Synthesizing ${articles.length} sources from ${new Set(articles.map(a => extractFeedName(a.feedUrl))).size} feeds`);
+
+    // Prepare context from multiple sources
+    const sourcesContext = articles.map((article, i) => {
+        return `**Fonte ${i+1}: ${extractFeedName(article.feedUrl)}**
+- Título: ${article.title}
+- URL: ${article.link}
+- Descrição: ${article.description || 'N/A'}`;
+    }).join('\n\n');
+
+    // Enhanced Gemini prompt for multi-source synthesis
+    const prompt = `Você é um jornalista tecnológico português especializado em sintetizar múltiplas fontes.
+
+**TEMA TRENDING:** ${keywords.join(', ')}
+**CATEGORIA:** ${category}
+**NÚMERO DE FONTES:** ${articles.length}
+
+**FONTES ORIGINAIS:**
+${sourcesContext}
+
+**INSTRUÇÕES:**
+1. Analise TODAS as ${articles.length} fontes acima sobre o tema "${keywords.join(', ')}"
+2. Identifique os PONTOS COMUNS e DIVERGENTES entre as fontes
+3. Escreva um artigo em português (PT-PT) que sintetize as MÚLTIPLAS PERSPECTIVAS
+4. Título: Crie um título atrativo que reflita o tema trending (máximo 80 caracteres)
+5. Descrição: Resumo breve (120-160 caracteres) destacando a convergência de fontes
+6. Conteúdo: 400-500 palavras, estrutura:
+   - Introdução: Apresentar o tema e sua relevância
+   - Desenvolvimento: Sintetizar insights das múltiplas fontes (mencionar fontes como "Segundo a TechCrunch...", "A The Verge reporta...", etc.)
+   - Conclusão: Perspectiva consolidada e implicações futuras
+7. Tom: Informativo, neutro, profissional (estilo Apple/PT)
+8. Evite: Jargão excessivo, anglicismos desnecessários, sensacionalismo
+
+**FORMATO DE RESPOSTA (JSON):**
+{
+  "title": "Título em Português",
+  "description": "Descrição meta",
+  "content": "Conteúdo completo em markdown com ## títulos e **negrito**",
+  "primary_source": "${articles[0].link}"
+}`;
+
+    try {
+        // Call Gemini API
+        const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
+        const model = genAI.getGenerativeModel({ model: GEMINI_MODEL });
+
+        const result = await model.generateContent(prompt);
+        const responseText = result.response.text();
+
+        // Parse JSON response
+        const jsonMatch = responseText.match(/\{[\s\S]*\}/);
+        if (!jsonMatch) {
+            throw new Error('Failed to parse Gemini response as JSON');
+        }
+        const parsed = JSON.parse(jsonMatch[0]);
+
+        // Get image for article
+        const imageUrl = await getImageForArticle(articles[0], parsed.title);
+
+        // Return structured article with trending metadata
+        const generatedArticle = {
+            title: parsed.title,
+            description: parsed.description,
+            content: parsed.content,
+            category: category,
+            image: imageUrl,
+            source_url: parsed.primary_source,
+            feedUrl: articles[0].feedUrl, // For compatibility with existing flow
+            isoDate: new Date().toISOString(),
+            // Trending metadata (for logging/debugging)
+            _trending: {
+                keywords: keywords,
+                sources: articles.length,
+                feeds: [...new Set(articles.map(a => extractFeedName(a.feedUrl)))],
+                trendingScore: trendingCluster.trendingScore
+            }
+        };
+
+        log(`✅ Article generated successfully: "${parsed.title}"`);
+        return generatedArticle;
+
+    } catch (error) {
+        log(`❌ Failed to generate trending article: ${error.message}`, 'ERROR');
+        throw error;
+    }
+}
+
 async function main() {
     log("--- STARTING ARTICLE GENERATION RUN ---");
     log(`[INFO] Using Gemini model: ${GEMINI_MODEL}`);
@@ -926,14 +1390,47 @@ async function main() {
         });
         log(`After promotional/content filtering: ${nonPromotionalArticles.length} articles passed (${filteredArticles.length - nonPromotionalArticles.length} rejected)`);
 
-        // Limit to 1 article per run to stay within Gemini 3 Flash Free Tier (20 RPD)
-        // 1 article × 12 runs/day (every 2h) = 12 requests/day (well within 20 RPD limit)
-        const articlesToGenerate = nonPromotionalArticles.slice(0, 1);
+        // --- TRENDING MODE: Analyze and generate from trending topics ---
+        const trendingTopics = extractTrendingTopics(nonPromotionalArticles, ARTICLES_PER_RUN);
 
-        log(`Selected ${articlesToGenerate.length} unique articles for generation.`);
+        let articlesToGenerate = [];
 
+        if (trendingTopics.length > 0) {
+            // Trending mode: Generate articles from clusters
+            log(`✅ Trending mode activated: ${trendingTopics.length} trending topic(s) detected`);
+
+            for (const cluster of trendingTopics) {
+                try {
+                    const trendingArticle = await generateArticleFromTrending(cluster);
+                    articlesToGenerate.push(trendingArticle);
+                } catch (error) {
+                    log(`❌ Failed to generate from trending cluster: ${error.message}`, 'ERROR');
+                    // Fallback: use most recent article from cluster
+                    log(`   Falling back to legacy mode for this cluster`);
+                    const fallbackArticle = cluster.articles
+                        .sort((a, b) => new Date(b.isoDate) - new Date(a.isoDate))[0];
+                    articlesToGenerate.push(fallbackArticle);
+                }
+            }
+        } else {
+            // Legacy mode: Fallback if no trending detected
+            log('⚠️  No trending topics found, falling back to legacy mode');
+            articlesToGenerate = nonPromotionalArticles.slice(0, ARTICLES_PER_RUN);
+        }
+
+        log(`Selected ${articlesToGenerate.length} article(s) for generation.`);
+
+        // Generate and save articles
         for (const item of articlesToGenerate) {
-            await generateArticleFromItem(item);
+            if (item._trending) {
+                // Article already generated by generateArticleFromTrending()
+                log(`💾 Saving trending article: "${item.title}"`);
+                await saveArticleMarkdown(item);
+            } else {
+                // Legacy article: use existing generateArticleFromItem flow
+                log(`📰 Generating legacy article: "${item.title}"`);
+                await generateArticleFromItem(item);
+            }
         }
 
         log("--- ARTICLE GENERATION RUN COMPLETE ---");
