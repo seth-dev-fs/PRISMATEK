@@ -127,8 +127,8 @@ export default function TermosPage() {
               Para questões sobre estes Termos de Uso, contacte-nos:
             </p>
             <ul className="list-none space-y-2 text-foreground ml-4 mt-4">
-              <li>Email: <a href="mailto:legal@prismatek.com" className="text-primary hover:underline">legal@prismatek.com</a></li>
-              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.com/contacto</a></li>
+              <li>Email: <a href="mailto:contacto@prismatek.pt" className="text-primary hover:underline">contacto@prismatek.pt</a></li>
+              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.pt/contacto</a></li>
             </ul>
           </section>
         </div>

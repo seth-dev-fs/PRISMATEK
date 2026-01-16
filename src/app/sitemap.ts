@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { getArticlesSortedByDate, getAllCategories } from '@/lib/markdown';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://prismatek.com';
+  const baseUrl = 'https://prismatek.pt';
 
   // Get all published articles
   const articles = getArticlesSortedByDate();

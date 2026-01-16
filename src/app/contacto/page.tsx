@@ -94,8 +94,8 @@ export default function ContactoPage() {
               Email
             </h3>
             <p className="text-muted">
-              <a href="mailto:contato@prismatek.com" className="text-primary hover:underline">
-                contato@prismatek.com
+              <a href="mailto:contato@prismatek.pt" className="text-primary hover:underline">
+                contato@prismatek.pt
               </a>
             </p>
           </div>

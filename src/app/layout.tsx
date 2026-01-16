@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://prismatek.com'),
+  metadataBase: new URL('https://prismatek.pt'),
   title: {
     default: 'PRISMATEK - Portal de Tecnologia em Portugal',
     template: '%s | PRISMATEK',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'pt_PT',
-    url: 'https://prismatek.com',
+    url: 'https://prismatek.pt',
     siteName: 'PRISMATEK',
     title: 'PRISMATEK - Portal de Tecnologia em Portugal',
     description: 'O seu portal de tecnologia em Portugal. Notícias, análises e reviews sobre smartphones, wearables, gaming, IA e inovação.',

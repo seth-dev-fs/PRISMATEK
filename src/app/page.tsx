@@ -14,13 +14,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'pt_PT',
-    url: 'https://prismatek.com',
+    url: 'https://prismatek.pt',
     siteName: 'PRISMATEK',
     title: 'PRISMATEK - As Últimas Notícias de Tecnologia',
     description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
     images: [
       {
-        url: 'https://prismatek.com/og-image.jpg',
+        url: 'https://prismatek.pt/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'PRISMATEK',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     creator: '@prismatek',
     title: 'PRISMATEK - As Últimas Notícias de Tecnologia',
     description: 'Fique por dentro das últimas notícias de tecnologia, inovação e tendências digitais.',
-    images: ['https://prismatek.com/og-image.jpg'],
+    images: ['https://prismatek.pt/og-image.jpg'],
   },
 };
 

@@ -99,8 +99,8 @@ export default function PrivacidadePage() {
             </ul>
             <p className="text-foreground leading-relaxed mt-4">
               Para exercer qualquer destes direitos, contacte-nos em{' '}
-              <a href="mailto:privacidade@prismatek.com" className="text-primary hover:underline">
-                privacidade@prismatek.com
+              <a href="mailto:contacto@prismatek.pt" className="text-primary hover:underline">
+                contacto@prismatek.pt
               </a>
             </p>
           </section>
@@ -135,8 +135,8 @@ export default function PrivacidadePage() {
               Se tiver questões sobre esta Política de Privacidade, contacte-nos:
             </p>
             <ul className="list-none space-y-2 text-foreground ml-4 mt-4">
-              <li>Email: <a href="mailto:privacidade@prismatek.com" className="text-primary hover:underline">privacidade@prismatek.com</a></li>
-              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.com/contacto</a></li>
+              <li>Email: <a href="mailto:contacto@prismatek.pt" className="text-primary hover:underline">contacto@prismatek.pt</a></li>
+              <li>Formulário de contacto: <a href="/contacto" className="text-primary hover:underline">www.prismatek.pt/contacto</a></li>
             </ul>
           </section>
         </div>

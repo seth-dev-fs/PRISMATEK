@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  const canonicalUrl = `https://prismatek.com/noticias/${article.slug}`;
+  const canonicalUrl = `https://prismatek.pt/noticias/${article.slug}`;
 
   return {
     title: article.title,
@@ -89,25 +89,25 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.description,
-    image: article.image || 'https://prismatek.com/og-image.jpg',
+    image: article.image || 'https://prismatek.pt/og-image.jpg',
     datePublished: article.date,
     dateModified: article.date,
     author: {
       '@type': 'Organization',
       name: 'PRISMATEK',
-      url: 'https://prismatek.com',
+      url: 'https://prismatek.pt',
     },
     publisher: {
       '@type': 'Organization',
       name: 'PRISMATEK',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://prismatek.com/logo.png',
+        url: 'https://prismatek.pt/logo.png',
       },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://prismatek.com/noticias/${article.slug}`,
+      '@id': `https://prismatek.pt/noticias/${article.slug}`,
     },
     articleSection: getCategoryDisplayName(article.category),
     keywords: article.tags.join(', '),
@@ -313,7 +313,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
               {/* Share Buttons */}
               <ShareButtons
                 title={article.title}
-                url={`https://prismatek.com/noticias/${article.slug}`}
+                url={`https://prismatek.pt/noticias/${article.slug}`}
                 description={article.description}
               />
             </div>
