@@ -11,14 +11,14 @@ tags:
   - Tecnologia
   - Europa
   - IA
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1658817774203-341b9b9e67a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE5NDF8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "A Apple confirmou recentemente a integração do Google Gemini para potenciar a Siri, uma parceria que promete transformar a experiência dos utilizadores. Um novo relatório detalha agora as funcionalidades esperadas, com destaque para o processamento no dispositivo e a personalização da IA. Esta abordagem visa reforçar a privacidade dos dados, um ponto crucial para os utilizadores europeus."
 source_url: "https://www.gsmarena.com/report_outlines_new_features_coming_to_geminipowered_siri-news-71093.php"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Saad Jameel"
+photographer_url: "https://unsplash.com/@saad_jml"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T08:26:16.049Z -->

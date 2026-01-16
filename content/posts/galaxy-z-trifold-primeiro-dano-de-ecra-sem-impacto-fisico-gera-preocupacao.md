@@ -8,14 +8,14 @@ tags:
   - smartphones dobráveis
   - ecrã flexível
   - durabilidade
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1723054072995-af2b91c5cbb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE4NzV8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "O mais recente smartphone dobrável da Samsung, o Galaxy Z TriFold, enfrenta o seu primeiro relatório de dano no ecrã sem causa física aparente, pouco depois do seu lançamento na Coreia do Sul. Este incidente levanta questões sobre a durabilidade dos ecrãs flexíveis e a confiança dos consumidores europeus em tecnologia de ponta."
 source_url: "https://www.sammobile.com/news/first-galaxy-z-trifold-screen-damage-no-physical-impact"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Andrey Matveev"
+photographer_url: "https://unsplash.com/@zelebb"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T08:27:05.075Z -->

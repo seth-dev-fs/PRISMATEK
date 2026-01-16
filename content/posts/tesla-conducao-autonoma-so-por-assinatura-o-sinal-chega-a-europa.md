@@ -10,14 +10,14 @@ tags:
   - Veículos Elétricos
   - Tecnologia Automóvel
   - Assinatura
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1767949374145-b450829c5abb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE3OTN8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "Elon Musk anunciou uma mudança drástica na forma como a Tesla comercializa o seu software Full Self-Driving (FSD) nos Estados Unidos. A partir de 14 de fevereiro, a compra única de 8.000 dólares será substituída por um modelo de subscrição mensal de 99 dólares, enviando um sinal claro sobre o futuro da mobilidade autónoma e as estratégias de monetização de software para os proprietários europeus e, em particular, para Portugal."
 source_url: "https://www.lesnumeriques.com/voiture-electrique/coup-de-tonnerre-chez-tesla-la-conduite-autonome-ne%20pourra-bientot-plus-s-acheter-n249741.html"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Autotrader UK"
+photographer_url: "https://unsplash.com/@autotraderuk"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T08:26:33.904Z -->

@@ -11,14 +11,14 @@ tags:
   - Reality Labs
   - tecnologia
   - Portugal
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1758202292826-c40e172eed1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE5MDR8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "A Meta, de Mark Zuckerberg, está a rever a sua estratégia, afastando-se do ambicioso sonho do metaverso após avultados investimentos. Com uma nova vaga de demissões na Reality Labs, a empresa foca-se agora em soluções mais concretas, como óculos inteligentes com IA e aplicações móveis. Esta viragem estratégica visa responder de forma mais direta às necessidades e expectativas dos utilizadores em mercados como o português e europeu."
 source_url: "https://www.journaldugeek.com/2026/01/14/meta-enterre-un-peu-plus-son-reve-du-metavers"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Chew Chew"
+photographer_url: "https://unsplash.com/@chewonchew"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T08:25:37.669Z -->

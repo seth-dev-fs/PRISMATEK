@@ -11,14 +11,14 @@ tags:
   - smartphones
   - europa
   - privacidade
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1658817774203-341b9b9e67a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE5NDF8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "A Apple, num movimento surpreendente, estaria a recorrer ao modelo Gemini da Google para integrar novas capacidades de Inteligência Artificial no Siri. Embora a colaboração seja temporária e rodeada de mistério, rumores apontam para sete funcionalidades inovadoras que prometem revolucionar o assistente de voz. Este desenvolvimento levanta questões importantes sobre a privacidade e a concorrência no mercado europeu."
 source_url: "https://www.lesnumeriques.com/telephone-portable/nouveau-siri-apple-utiliserait-google-gemini-pour-offrir-ces-7-fonctionnalites-ia-mais-temporairement-n249740.html"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Saad Jameel"
+photographer_url: "https://unsplash.com/@saad_jml"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T08:27:20.367Z -->

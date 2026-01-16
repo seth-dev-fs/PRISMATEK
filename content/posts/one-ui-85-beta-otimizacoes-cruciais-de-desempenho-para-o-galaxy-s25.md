@@ -10,14 +10,14 @@ tags:
   - Desempenho
   - Android
   - Software
-image: "/images/placeholder.svg"
-image_source: "placeholder"
+image: "https://images.unsplash.com/photo-1719945421298-f03d3d80c3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MzM4Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NTE3Njh8&ixlib=rb-4.1.0&q=80&w=1080"
+image_source: "unsplash"
 description: "A Samsung continua a desenvolver a sua interface One UI 8.5, com a próxima beta a prometer melhorias significativas no desempenho dos futuros modelos Galaxy S25. Esta atualização poderá ser um passo fundamental para otimizar a experiência de utilização dos topos de gama da marca no mercado europeu. A antecipação é grande para o que a quarta versão beta irá revelar em termos de estabilidade e velocidade."
 source_url: "https://www.sammobile.com/news/one-ui-8-5-beta-4-bring-big-performance-upgrades"
 draft: false
 needs_review: false
-photographer_name: undefined
-photographer_url: undefined
+photographer_name: "Andrey Matveev"
+photographer_url: "https://unsplash.com/@zelebb"
 ---
 
 <!-- generated_by: gemini, model: gemini-2.5-flash, generated_at: 2026-01-14T04:43:54.252Z -->
