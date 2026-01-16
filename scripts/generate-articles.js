@@ -190,20 +190,20 @@ function hasMinimumContent(content) {
  */
 function getCategoryDefaultQuery(category) {
     const defaults = {
-        'smartphones': 'smartphone technology',
-        'ai-futuro': 'artificial intelligence',
-        'computadores': 'computer technology',
-        'gaming': 'gaming setup',
-        'audio': 'headphones audio',
-        'wearables': 'smartwatch wearable',
-        'mobilidade': 'electric vehicle',
-        'entretenimento-gaming': 'gaming entertainment',
-        'internet-apps': 'mobile apps',
-        'ciencia': 'science technology',
-        'home': 'smart home'
+        'smartphones': 'smartphone mobile phone device technology',
+        'ai-futuro': 'artificial intelligence technology future innovation',
+        'computadores': 'computer laptop technology hardware',
+        'gaming': 'gaming esports video game console',
+        'audio': 'headphones audio speaker sound technology',
+        'wearables': 'smartwatch wearable fitness tracker device',
+        'mobilidade': 'electric car vehicle automotive technology',
+        'entretenimento-gaming': 'gaming entertainment esports',
+        'internet-apps': 'mobile apps software technology',
+        'ciencia': 'science technology innovation research',
+        'home': 'smart home technology automation'
     };
 
-    return defaults[category] || 'technology';
+    return defaults[category] || 'technology innovation';
 }
 
 // --- HELPER FUNCTIONS ---
@@ -1298,8 +1298,12 @@ ${sourcesContext}
         }
         const parsed = JSON.parse(jsonMatch[0]);
 
-        // Get image for article
-        const imageUrl = await getImageForArticle(articles[0], parsed.title);
+        // Get image for article using trending keywords for better Unsplash results
+        const searchKeywords = [
+            ...keywords.slice(0, 3), // Top 3 keywords from clustering
+            category
+        ].join(' ');
+        const image = await getImageUrl(articles[0], searchKeywords);
 
         // Return structured article with trending metadata
         const generatedArticle = {
@@ -1307,7 +1311,7 @@ ${sourcesContext}
             description: parsed.description,
             content: parsed.content,
             category: category,
-            image: imageUrl,
+            image: image,
             source_url: parsed.primary_source,
             feedUrl: articles[0].feedUrl, // For compatibility with existing flow
             isoDate: new Date().toISOString(),

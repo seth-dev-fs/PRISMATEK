@@ -29,7 +29,7 @@ export default function QuestionCard({ question, onAnswer, onBack }: QuestionCar
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             onClick={() => onAnswer(option.value)}
-            className="bg-gray-100 dark:bg-gray-700 hover:bg-cyan-50 dark:hover:bg-cyan-900 border-2 border-gray-300 dark:border-gray-600 hover:border-cyan-400 dark:hover:border-cyan-600 rounded-xl p-6 text-left transition-all"
+            className="bg-gray-100 dark:bg-gray-700 hover:bg-purple-50 dark:hover:bg-purple-900/20 border-2 border-gray-300 dark:border-gray-600 hover:border-purple-500 dark:hover:border-purple-800 rounded-xl p-6 text-left transition-all"
           >
             <div className="font-bold text-lg mb-2 text-gray-900 dark:text-gray-100">
               {option.label}

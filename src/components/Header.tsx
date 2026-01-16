@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import DarkModeToggle from './DarkModeToggle';
+// DarkModeToggle removed - site is dark mode only
 import SearchBar from './SearchBar';
 
 export default function Header() {
@@ -283,10 +283,9 @@ export default function Header() {
               </li>
             </ul>
 
-            {/* === ACTIONS (Search, Dark Mode, Mobile Menu) === */}
+            {/* === ACTIONS (Search, Mobile Menu) === */}
             <div className="flex items-center gap-2">
               <SearchBar />
-              <DarkModeToggle />
 
               {/* Mobile Menu Button */}
               <button

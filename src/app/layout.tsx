@@ -85,10 +85,10 @@ export default function RootLayout({
   const gaId = process.env.NEXT_PUBLIC_GA_ID;
 
   return (
-    <html lang="pt" suppressHydrationWarning>
+    <html lang="pt" className="dark" suppressHydrationWarning>
       <body className={`${inter.variable} font-sans bg-background text-foreground flex flex-col min-h-screen`}>
         {gaId && <GoogleAnalytics gaId={gaId} />}
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark" enableSystem={false}>
           <Header />
           <main className="flex-grow">
             {children}
