@@ -1,4 +1,5 @@
-import { Sparkles, Target, Shield } from 'lucide-react';
+import { Sparkles, Target, Shield, Wand2 } from 'lucide-react';
+import Link from 'next/link';
 import CategoryCardV2 from '@/components/comparador/CategoryCardV2';
 import { categories } from '@/data/comparador/categories';
 
@@ -35,6 +36,20 @@ export default function ComparadorPage() {
               Top 3 produtos rigorosamente analisados em cada categoria.
               Baseado em dezenas de reviews de fontes premium internacionais.
             </p>
+
+            {/* CTA Button - Comparador Personalizado */}
+            <div className="pt-6">
+              <Link
+                href="/comparador/smartphones/resultado"
+                className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white text-lg font-semibold shadow-lg shadow-purple-600/30 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-purple-600/40"
+              >
+                <Wand2 className="w-6 h-6" />
+                Criar o Meu Comparador Personalizado
+              </Link>
+              <p className="text-sm text-muted-foreground mt-4">
+                IA Gemini ajuda-te a encontrar o produto perfeito em 2 minutos
+              </p>
+            </div>
           </div>
         </div>
       </section>

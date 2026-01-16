@@ -148,8 +148,8 @@ export default function ProductCardV2({ product, index }: ProductCardV2Props) {
               </span>
             </div>
 
-            {/* Affiliate Links */}
-            <div className="grid grid-cols-2 gap-2">
+            {/* Affiliate Links - TEMPORARILY DISABLED (broken links) */}
+            {/* <div className="grid grid-cols-2 gap-2">
               {product.affiliateLinks.slice(0, 2).map((link) => (
                 <a
                   key={link.store}
@@ -162,6 +162,13 @@ export default function ProductCardV2({ product, index }: ProductCardV2Props) {
                   <ExternalLink className="w-4 h-4" />
                 </a>
               ))}
+            </div> */}
+
+            {/* Coming Soon Message */}
+            <div className="px-4 py-3 rounded-xl bg-muted/30 border border-border/50 text-center">
+              <p className="text-sm font-medium text-muted-foreground">
+                Links de compra em breve
+              </p>
             </div>
 
             {/* Review Sources */}

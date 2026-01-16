@@ -36,7 +36,7 @@ export const smartphones2026: Product[] = [
       'Ecossistema Apple completo com integração perfeita entre dispositivos',
       'Suporte e atualizações garantidas por 7+ anos, melhor valor de revenda'
     ],
-    image: 'https://www.apple.com/newsroom/images/2024/09/apple-introduces-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-240909.jpg.og.jpg',
+    image: 'https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=800&q=80',
     imageAlt: 'iPhone 16 Pro em titânio natural',
     pressKitUrl: 'https://www.apple.com/newsroom/2024/09/apple-introduces-iphone-16-pro-and-iphone-16-pro-max/',
     rating: 94,
@@ -74,7 +74,7 @@ export const smartphones2026: Product[] = [
       'Tensor G4 otimizado para IA on-device e eficiência energética',
       'Ecrã Super Actua de 6.3" a 120Hz com 3.000 nits de brilho'
     ],
-    image: 'https://lh3.googleusercontent.com/KHEeQw5wq0eJdB3ow3pXJpz3J8QvHKJP_H0lSYPXRhQmHuBZCqgWKZ8Z3u0WKQqZQw8=w1200',
+    image: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&q=80',
     imageAlt: 'Google Pixel 9 Pro em Obsidian',
     pressKitUrl: 'https://blog.google/products/pixel/google-pixel-9-pro/',
     rating: 91,
@@ -112,7 +112,7 @@ export const smartphones2026: Product[] = [
       'S Pen integrada para produtividade e criatividade profissional',
       'Snapdragon 8 Gen 3 for Galaxy, a versão mais potente do processador'
     ],
-    image: 'https://images.samsung.com/is/image/samsung/p6pim/pt/2407/gallery/pt-galaxy-z-fold6-f956-sm-f956bzkdeub-thumb-542628093',
+    image: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80',
     imageAlt: 'Samsung Galaxy Z Fold 6 aberto',
     pressKitUrl: 'https://news.samsung.com/global/samsung-unveils-galaxy-z-fold6',
     rating: 89,
@@ -157,7 +157,7 @@ export const laptops2026: Product[] = [
       'Ecrã Liquid Retina de 15.3" com suporte para 1 bilião de cores e 500 nits',
       'macOS Sonoma com continuidade perfeita entre dispositivos Apple e ecossistema profissional'
     ],
-    image: 'https://www.apple.com/newsroom/images/2024/03/apple-unveils-macbook-air-15-and-13-inch-with-m3-chip/article/Apple-MacBook-Air-15-in-M3-hero-240304.jpg.og.jpg',
+    image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80',
     imageAlt: 'MacBook Air 15" M3 em Midnight',
     pressKitUrl: 'https://www.apple.com/newsroom/2024/03/apple-unveils-macbook-air-15-and-13-inch-with-m3-chip/',
     rating: 93,
@@ -194,7 +194,7 @@ export const laptops2026: Product[] = [
       'Windows 11 Pro com Copilot+ AI e compatibilidade universal de software',
       'Design CNC alumínio premium com teclado magnético destacável e trackpad invisível'
     ],
-    image: 'https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-14-9440/media-gallery/notebook-xps-14-9440-nt-gray-gallery-4.psd',
+    image: 'https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=80',
     imageAlt: 'Dell XPS 14 em Platinum',
     pressKitUrl: 'https://www.dell.com/en-us/shop/dell-laptops/xps-14-laptop/spd/xps-14-9440-laptop',
     rating: 90,
@@ -231,7 +231,7 @@ export const laptops2026: Product[] = [
       'Intel Core Ultra 9 com Arc Graphics para criadores e profissionais multitasking',
       'Certificação Evo garantindo performance, bateria e wake instantâneo'
     ],
-    image: 'https://dlcdnwebimgs.asus.com/gain/93E5F8E8-C2F3-4C8D-9E4C-9F7B9C8B3F7D/w1000/h732',
+    image: 'https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&q=80',
     imageAlt: 'ASUS Zenbook Duo com dois ecrãs OLED',
     pressKitUrl: 'https://www.asus.com/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/',
     rating: 87,
@@ -275,7 +275,7 @@ export const wearables2026: Product[] = [
       'watchOS 11 com widgets interativos, Siri on-device e integração perfeita com iPhone',
       'Resistência à água 50m, certificação IP6X para poeira e caixa em alumínio reciclado'
     ],
-    image: 'https://www.apple.com/newsroom/images/2024/09/apple-unveils-apple-watch-series-10/article/Apple-Watch-Series-10-hero-240909.jpg.og.jpg',
+    image: 'https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&q=80',
     imageAlt: 'Apple Watch Series 10 com bracelete Sport Loop',
     pressKitUrl: 'https://www.apple.com/newsroom/2024/09/apple-unveils-apple-watch-series-10/',
     rating: 92,
@@ -301,8 +301,8 @@ export const wearables2026: Product[] = [
     name: 'Garmin Forerunner 265',
     manufacturer: 'Garmin',
     category: 'wearables',
-    price: 449,
-    priceRange: '€419-489',
+    price: 349,
+    priceRange: '€329-369',
     rank: 2,
     badge: 'value',
     badgeLabel: 'Melhor Custo-Benefício',
@@ -312,7 +312,7 @@ export const wearables2026: Product[] = [
       'Training Readiness Score, HRV Status e Body Battery para otimizar recuperação',
       'Mapas offline, música (8GB), Garmin Pay e compatibilidade Android + iOS'
     ],
-    image: 'https://static.garmincdn.com/en/products/010-02810-00/g/cf-lg.jpg',
+    image: 'https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800&q=80',
     imageAlt: 'Garmin Forerunner 265 em Aqua',
     pressKitUrl: 'https://www.garmin.com/en-US/p/891632',
     rating: 90,
@@ -327,8 +327,8 @@ export const wearables2026: Product[] = [
       weight: '47g (silicone band)'
     },
     affiliateLinks: [
-      { store: 'Fnac', url: 'https://www.fnac.pt/Garmin-Forerunner-265', price: 449 },
-      { store: 'Worten', url: 'https://www.worten.pt/wearables/smartwatches', price: 459 }
+      { store: 'Fnac', url: 'https://www.fnac.pt/Garmin-Forerunner-265', price: 349 },
+      { store: 'Worten', url: 'https://www.worten.pt/wearables/smartwatches', price: 359 }
     ],
     lastUpdated: '2026-01-16',
     available: true
@@ -349,7 +349,7 @@ export const wearables2026: Product[] = [
       'Integração perfeita com Galaxy Watch e Samsung Health para análise holística de bem-estar',
       'Resistência à água 10ATM, 9 tamanhos disponíveis e carregamento sem fios em estojo portátil'
     ],
-    image: 'https://images.samsung.com/is/image/samsung/assets/pt/galaxy-ring/buy/product-image-gold.png',
+    image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80',
     imageAlt: 'Samsung Galaxy Ring em Gold',
     pressKitUrl: 'https://news.samsung.com/global/samsung-unveils-galaxy-ring',
     rating: 85,

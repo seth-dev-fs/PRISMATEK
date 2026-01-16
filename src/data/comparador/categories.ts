@@ -11,7 +11,7 @@ export const categories: Category[] = [
     name: 'Smartphones',
     icon: 'Smartphone', // Lucide React icon name
     description: 'Os melhores telemóveis de 2026, desde flagship até value for money',
-    heroImage: 'https://images.unsplash.com/photo-1592286927505-3207250a6b24?w=800&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80',
     productsCount: 3
   },
   {
@@ -19,7 +19,7 @@ export const categories: Category[] = [
     name: 'Portáteis',
     icon: 'Laptop', // Lucide React icon name
     description: 'Laptops premium para trabalho, criatividade e gaming',
-    heroImage: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800&q=80',
     productsCount: 3
   },
   {
@@ -27,7 +27,7 @@ export const categories: Category[] = [
     name: 'Wearables',
     icon: 'Watch', // Lucide React icon name
     description: 'Smartwatches e dispositivos vestíveis para fitness e produtividade',
-    heroImage: 'https://images.unsplash.com/photo-1544117519-31a4b719223d?w=800&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&q=80',
     productsCount: 3
   }
 ];
