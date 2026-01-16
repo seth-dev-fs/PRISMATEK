@@ -287,6 +287,37 @@ const nextConfig = {
       },
     ]
   },
+
+  // Redirects for old comparador URLs (VISÃO 100% migration)
+  async redirects() {
+    return [
+      {
+        source: '/comparador/telemoveis',
+        destination: '/comparador/smartphones',
+        permanent: true,
+      },
+      {
+        source: '/comparador/smartwatches',
+        destination: '/comparador/wearables',
+        permanent: true,
+      },
+      {
+        source: '/comparador/headphones',
+        destination: '/comparador',
+        permanent: true,
+      },
+      {
+        source: '/comparador/tv',
+        destination: '/comparador',
+        permanent: true,
+      },
+      {
+        source: '/comparador/tablets',
+        destination: '/comparador',
+        permanent: true,
+      },
+    ]
+  },
 };
 
 module.exports = nextConfig;

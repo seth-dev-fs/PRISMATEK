@@ -46,14 +46,11 @@ export default function Header() {
     { name: 'AI & Futuro', href: '/categoria/ai-futuro' },
   ];
 
-  // Comparador categories
+  // Comparador categories (VISÃO 100% - Top 3 System)
   const comparadorCategories = [
-    { name: 'Telemóveis', href: '/comparador/telemoveis' },
-    { name: 'Headphones', href: '/comparador/headphones' },
-    { name: 'TV', href: '/comparador/tv' },
-    { name: 'Tablets', href: '/comparador/tablets' },
-    { name: 'Smartwatches', href: '/comparador/smartwatches' },
+    { name: 'Smartphones', href: '/comparador/smartphones' },
     { name: 'Laptops', href: '/comparador/laptops' },
+    { name: 'Wearables', href: '/comparador/wearables' },
   ];
 
   // All links for mobile menu
