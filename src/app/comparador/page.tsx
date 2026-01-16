@@ -37,17 +37,17 @@ export default function ComparadorPage() {
               Baseado em dezenas de reviews de fontes premium internacionais.
             </p>
 
-            {/* CTA Button - Comparador Personalizado */}
+            {/* CTA Button - Encontre o Produto Perfeito */}
             <div className="pt-6">
               <Link
-                href="/comparador/smartphones/resultado"
+                href="#categorias"
                 className="inline-flex items-center gap-3 px-8 py-4 rounded-2xl bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white text-lg font-semibold shadow-lg shadow-purple-600/30 transition-all duration-300 hover:scale-105 hover:shadow-xl hover:shadow-purple-600/40"
               >
                 <Wand2 className="w-6 h-6" />
-                Criar o Meu Comparador Personalizado
+                Encontre o Produto Perfeito
               </Link>
               <p className="text-sm text-muted-foreground mt-4">
-                IA Gemini ajuda-te a encontrar o produto perfeito em 2 minutos
+                Top 3 produtos em cada categoria, rigorosamente analisados
               </p>
             </div>
           </div>
@@ -55,7 +55,7 @@ export default function ComparadorPage() {
       </section>
 
       {/* Categories Grid */}
-      <section className="container mx-auto px-4 py-16">
+      <section id="categorias" className="container mx-auto px-4 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
           {categories.map((category, index) => (
             <CategoryCardV2 key={category.id} category={category} index={index} />

@@ -8,6 +8,7 @@ import SearchBar from './SearchBar';
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
+  const [openMobileDropdown, setOpenMobileDropdown] = useState<'noticias' | 'comparador' | null>(null);
 
   // Track scroll position for enhanced sticky header
   useEffect(() => {
@@ -25,6 +26,7 @@ export default function Header() {
       document.body.style.overflow = 'hidden';
     } else {
       document.body.style.overflow = 'unset';
+      setOpenMobileDropdown(null); // Reset accordion state when menu closes
     }
 
     return () => {
@@ -58,14 +60,6 @@ export default function Header() {
     { name: 'TVs 65"', href: '/comparador/tvs-65' },
     { name: 'TVs 75"+', href: '/comparador/tvs-75-plus' },
     { name: 'Tablets', href: '/comparador/tablets' },
-  ];
-
-  // All links for mobile menu
-  const allLinks: Array<{ name: string; href: string; disabled?: boolean }> = [
-    { name: 'Home', href: '/' },
-    ...newsCategories.slice(1), // Skip "Todas as Notícias" in mobile
-    { name: '--- Comparador ---', href: '#', disabled: true },
-    ...comparadorCategories,
   ];
 
   return (
@@ -149,7 +143,7 @@ export default function Header() {
                     text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                     hover:bg-purple-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
+                    focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-dark-primary
                     relative group
                   "
                 >
@@ -160,13 +154,14 @@ export default function Header() {
 
               {/* === NOTÍCIAS DROPDOWN === */}
               <li className="relative group">
-                <button
+                <Link
+                  href="/"
                   className="
                     px-3 py-2 rounded-lg flex items-center gap-1
                     text-foreground group-hover:text-purple-600 dark:text-text-secondary dark:group-hover:text-purple-400
                     hover:bg-purple-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
+                    focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-dark-primary
                     relative
                   "
                   aria-label="Notícias"
@@ -180,7 +175,7 @@ export default function Header() {
 
                   {/* Hover gradient */}
                   <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-250" />
-                </button>
+                </Link>
 
                 {/* Dropdown Menu - PREMIUM */}
                 <div className="
@@ -224,16 +219,17 @@ export default function Header() {
 
               {/* === COMPARADOR DROPDOWN === */}
               <li className="relative group">
-                <button
+                <Link
+                  href="/comparador"
                   className="
                     px-3 py-2 rounded-lg flex items-center gap-1
                     text-foreground group-hover:text-gold-600 dark:text-text-secondary dark:group-hover:text-gold-400
                     hover:bg-gold-600/10
                     transition-all duration-250 ease-smooth
-                    focus:outline-none focus:ring-2 focus:ring-gold-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
+                    focus:outline-none focus-visible:ring-2 focus-visible:ring-gold-600 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-dark-primary
                     relative
                   "
-                  aria-label="Comparador"
+                  aria-label="Comparador de Produtos"
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
@@ -244,7 +240,7 @@ export default function Header() {
 
                   {/* Hover gradient - Gold */}
                   <span className="absolute inset-0 rounded-lg bg-gradient-gold opacity-0 group-hover:opacity-5 transition-opacity duration-250" />
-                </button>
+                </Link>
 
                 {/* Dropdown Menu - PREMIUM (Gold accent) */}
                 <div className="
@@ -299,7 +295,7 @@ export default function Header() {
                   text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                   hover:bg-purple-600/10
                   transition-all duration-200
-                  focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-dark-primary
+                  focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600 focus-visible:ring-offset-2 focus-visible:ring-offset-white dark:focus-visible:ring-offset-dark-primary
                   relative group
                 "
                 aria-label="Abrir menu de navegação"
@@ -373,7 +369,7 @@ export default function Header() {
                   text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
                   hover:bg-purple-600/10
                   transition-all duration-200
-                  focus:outline-none focus:ring-2 focus:ring-purple-600
+                  focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600
                 "
                 aria-label="Fechar menu"
               >
@@ -385,44 +381,152 @@ export default function Header() {
 
             {/* Menu Links */}
             <nav className="overflow-y-auto h-[calc(100vh-5rem)] p-4 sm:p-6">
-              <ul className="space-y-1">
-                {allLinks.map((link) => {
-                  // Handle separator
-                  if (link.disabled) {
-                    return (
-                      <li key={link.name} className="pt-6 pb-2">
-                        <div className="flex items-center gap-2">
-                          <div className="h-px flex-1 bg-gradient-gold" />
-                          <span className="text-xs font-bold text-gold-600 dark:text-gold-400 uppercase tracking-wider px-2">
-                            {link.name.replace(/---/g, '').trim()}
-                          </span>
-                          <div className="h-px flex-1 bg-gradient-gold" />
-                        </div>
-                      </li>
-                    );
-                  }
+              <ul className="space-y-2">
+                {/* HOME LINK */}
+                <li>
+                  <Link
+                    href="/"
+                    onClick={() => setIsMenuOpen(false)}
+                    className="
+                      block px-4 py-3 rounded-lg
+                      text-base font-semibold text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
+                      hover:bg-purple-600/10
+                      transition-all duration-200
+                      focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600
+                      relative group
+                    "
+                  >
+                    <span className="relative z-10">Home</span>
+                    <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
+                  </Link>
+                </li>
 
-                  return (
-                    <li key={link.name}>
-                      <Link
-                        href={link.href}
-                        onClick={() => setIsMenuOpen(false)}
-                        className="
-                          block px-4 py-3 rounded-lg
-                          text-base font-semibold text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
-                          hover:bg-purple-600/10
-                          transition-all duration-200
-                          focus:outline-none focus:ring-2 focus:ring-purple-600
-                          relative group
-                        "
-                      >
-                        <span className="relative z-10">{link.name}</span>
-                        {/* Subtle gradient on hover */}
-                        <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
-                      </Link>
-                    </li>
-                  );
-                })}
+                {/* NOTÍCIAS ACCORDION */}
+                <li>
+                  <button
+                    onClick={() => setOpenMobileDropdown(openMobileDropdown === 'noticias' ? null : 'noticias')}
+                    className="
+                      w-full flex items-center justify-between px-4 py-3 rounded-lg
+                      text-base font-semibold text-foreground hover:text-purple-600 dark:text-text-secondary dark:hover:text-purple-400
+                      hover:bg-purple-600/10
+                      transition-all duration-200
+                      focus:outline-none focus-visible:ring-2 focus-visible:ring-purple-600
+                      relative group
+                    "
+                  >
+                    <span className="relative z-10">Notícias</span>
+                    <svg
+                      className={`w-5 h-5 transform transition-transform duration-200 ${openMobileDropdown === 'noticias' ? 'rotate-180' : ''}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute inset-0 rounded-lg bg-gradient-purple opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
+                  </button>
+
+                  {/* Dropdown Content */}
+                  <div
+                    className={`
+                      overflow-hidden transition-all duration-300 ease-in-out
+                      ${openMobileDropdown === 'noticias' ? 'max-h-96 opacity-100 mt-1' : 'max-h-0 opacity-0'}
+                    `}
+                  >
+                    <ul className="space-y-1 pl-4">
+                      {newsCategories.map((category) => (
+                        <li key={category.name}>
+                          <Link
+                            href={category.href}
+                            onClick={() => setIsMenuOpen(false)}
+                            className="
+                              block px-4 py-2.5 rounded-lg
+                              text-sm text-text-secondary hover:text-text-primary
+                              hover:bg-purple-600/10
+                              transition-all duration-200
+                              relative group/item
+                            "
+                          >
+                            <span className="relative z-10">{category.name}</span>
+                            <span className="absolute left-0 top-0 h-full w-1 bg-gradient-purple scale-y-0 group-hover/item:scale-y-100 transition-transform duration-200 origin-top rounded-r" />
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </li>
+
+                {/* COMPARADOR ACCORDION */}
+                <li>
+                  <button
+                    onClick={() => setOpenMobileDropdown(openMobileDropdown === 'comparador' ? null : 'comparador')}
+                    className="
+                      w-full flex items-center justify-between px-4 py-3 rounded-lg
+                      text-base font-semibold text-foreground hover:text-gold-600 dark:text-text-secondary dark:hover:text-gold-400
+                      hover:bg-gold-600/10
+                      transition-all duration-200
+                      focus:outline-none focus-visible:ring-2 focus-visible:ring-gold-600
+                      relative group
+                    "
+                  >
+                    <span className="relative z-10">Comparador</span>
+                    <svg
+                      className={`w-5 h-5 transform transition-transform duration-200 ${openMobileDropdown === 'comparador' ? 'rotate-180' : ''}`}
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span className="absolute inset-0 rounded-lg bg-gradient-gold opacity-0 group-hover:opacity-5 transition-opacity duration-200" />
+                  </button>
+
+                  {/* Dropdown Content */}
+                  <div
+                    className={`
+                      overflow-hidden transition-all duration-300 ease-in-out
+                      ${openMobileDropdown === 'comparador' ? 'max-h-96 opacity-100 mt-1' : 'max-h-0 opacity-0'}
+                    `}
+                  >
+                    <ul className="space-y-1 pl-4">
+                      <li>
+                        <Link
+                          href="/comparador"
+                          onClick={() => setIsMenuOpen(false)}
+                          className="
+                            block px-4 py-2.5 rounded-lg
+                            text-sm font-medium text-gold-600 dark:text-gold-400
+                            hover:bg-gold-600/10
+                            transition-all duration-200
+                            relative group/item
+                          "
+                        >
+                          <span className="relative z-10">Ver Todas as Categorias</span>
+                          <span className="absolute left-0 top-0 h-full w-1 bg-gradient-gold scale-y-0 group-hover/item:scale-y-100 transition-transform duration-200 origin-top rounded-r" />
+                        </Link>
+                      </li>
+
+                      {comparadorCategories.map((category) => (
+                        <li key={category.name}>
+                          <Link
+                            href={category.href}
+                            onClick={() => setIsMenuOpen(false)}
+                            className="
+                              block px-4 py-2.5 rounded-lg
+                              text-sm text-text-secondary hover:text-text-primary
+                              hover:bg-gold-600/10
+                              transition-all duration-200
+                              relative group/item
+                            "
+                          >
+                            <span className="relative z-10">{category.name}</span>
+                            <span className="absolute left-0 top-0 h-full w-1 bg-gradient-gold scale-y-0 group-hover/item:scale-y-100 transition-transform duration-200 origin-top rounded-r" />
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </li>
               </ul>
 
               {/* Mobile Menu Footer */}

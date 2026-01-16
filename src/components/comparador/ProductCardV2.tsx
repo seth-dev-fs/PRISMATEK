@@ -70,13 +70,17 @@ export default function ProductCardV2({ product, index }: ProductCardV2Props) {
         </div>
 
         {/* Product Image */}
-        <div className={`relative ${product.rank === 1 ? 'h-80' : 'h-64'} bg-gradient-to-br from-muted/30 to-muted/10`}>
-          <Image
-            src={product.image}
-            alt={product.imageAlt}
-            fill
-            className="object-contain p-8 transition-transform duration-500 group-hover:scale-105"
-          />
+        <div className={`relative ${product.rank === 1 ? 'h-80' : 'h-64'} bg-white dark:bg-dark-secondary/50 overflow-hidden flex items-center justify-center`}>
+          <div className="relative w-full h-full p-4">
+            <Image
+              src={product.image}
+              alt={product.imageAlt}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              className="object-contain transition-transform duration-500 group-hover:scale-105 drop-shadow-2xl"
+              priority={product.rank === 1}
+            />
+          </div>
         </div>
 
         {/* Content */}
