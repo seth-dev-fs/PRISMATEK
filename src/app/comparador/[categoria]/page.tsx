@@ -10,6 +10,17 @@ import {
   laptops2026,
   wearables2026
 } from '@/data/comparador/products-2026';
+import {
+  inEarHeadphones2026,
+  overEarHeadphones2026
+} from '@/data/comparador/headphones-2026';
+import {
+  tvs42inch2026,
+  tvs55inch2026,
+  tvs65inch2026,
+  tvs75inchPlus2026
+} from '@/data/comparador/tvs-2026';
+import tablets2026 from '@/data/comparador/tablets-2026';
 import type { Product } from '@/types/comparador';
 
 interface CategoryPageProps {
@@ -23,7 +34,14 @@ function getProductsByCategory(categoryId: string): Product[] {
   const productMap: Record<string, Product[]> = {
     'smartphones': smartphones2026,
     'laptops': laptops2026,
-    'wearables': wearables2026
+    'wearables': wearables2026,
+    'headphones-in-ear': inEarHeadphones2026,
+    'headphones-over-ear': overEarHeadphones2026,
+    'tvs-42': tvs42inch2026,
+    'tvs-55': tvs55inch2026,
+    'tvs-65': tvs65inch2026,
+    'tvs-75-plus': tvs75inchPlus2026,
+    'tablets': tablets2026
   };
   return productMap[categoryId] || [];
 }

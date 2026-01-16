@@ -51,6 +51,13 @@ export default function Header() {
     { name: 'Smartphones', href: '/comparador/smartphones' },
     { name: 'Laptops', href: '/comparador/laptops' },
     { name: 'Wearables', href: '/comparador/wearables' },
+    { name: 'Headphones In-Ear', href: '/comparador/headphones-in-ear' },
+    { name: 'Headphones Over-Ear', href: '/comparador/headphones-over-ear' },
+    { name: 'TVs 42"', href: '/comparador/tvs-42' },
+    { name: 'TVs 55"', href: '/comparador/tvs-55' },
+    { name: 'TVs 65"', href: '/comparador/tvs-65' },
+    { name: 'TVs 75"+', href: '/comparador/tvs-75-plus' },
+    { name: 'Tablets', href: '/comparador/tablets' },
   ];
 
   // All links for mobile menu
